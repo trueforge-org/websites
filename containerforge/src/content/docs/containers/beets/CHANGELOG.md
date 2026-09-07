@@ -33,17 +33,17 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.0 • [Train: ]
 
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to c78b908 (#2477) • [`d9a1692`](https://github.com/trueforge-org/truecharts/commit/d9a16928e991f16f4be9b19359379e172e6cdd5d) • [@TrueCharts Bot] (2026-06-08)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to b87e7b8 (#2463) • [`fb8da62`](https://github.com/trueforge-org/truecharts/commit/fb8da62a83ecce42bed996582167265995863cf8) • [@TrueCharts Bot] (2026-06-08)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.4 → 3.14.5 (#2375) • [`65af60a`](https://github.com/trueforge-org/truecharts/commit/65af60a10dbd6733d8e52f8eba9564091bdfe5a2) • [@TrueCharts Bot] (2026-06-08)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to c78b908 (#2477) • [`d9a1692`](https://github.com/trueforge-org/truecharts/commit/d9a16928e991f16f4be9b19359379e172e6cdd5d) • [@TrueCharts Bot] (2026-06-08)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.4 docker digest digest to 622c7c1 (#2326) • [`e1f2bc1`](https://github.com/trueforge-org/truecharts/commit/e1f2bc1071f9dccdcb0f5a0c6a3b1e496c64ac20) • [@TrueCharts Bot] (2026-05-07)
 - feat(python-dep): update python (minor) (#2287) • [`4efcb6e`](https://github.com/trueforge-org/truecharts/commit/4efcb6ed8c0de6dacaa7ca3c02ec104816578aa8) • [@TrueCharts Bot] (2026-05-07)
 - feat(deps): update beetbox/beets v2.5.1 → v2.11.0 (#2268) • [`deb3234`](https://github.com/trueforge-org/truecharts/commit/deb32343b26193fa9d3484ca08fd3c6245205f59) • [@TrueCharts Bot] (2026-05-06)
 
 ## 2.5.1 • [Train: ]
 
-- fxes • [`657d301`](https://github.com/trueforge-org/truecharts/commit/657d301e7a7b73617b714163dfd31200e0fff59a) • [@Kjeld Schouten] (2026-05-06)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#2266) • [`8e09793`](https://github.com/trueforge-org/truecharts/commit/8e097933e8952e20738bb27c3e4dc1495692d069) • [@TrueCharts Bot] (2026-05-06)
+- fxes • [`657d301`](https://github.com/trueforge-org/truecharts/commit/657d301e7a7b73617b714163dfd31200e0fff59a) • [@Kjeld Schouten] (2026-05-06)
 
 ## 2.3.1 • [Train: ]
 
@@ -56,8 +56,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix: pin alpine and python versions across all apps [ci-skip] (#433) • [`9e95f5e`](https://github.com/trueforge-org/truecharts/commit/9e95f5edc549c49c5c1d64247f1d28dee327ad6e) • [@Devin Buhl] (2025-05-11)
 - fix: update wheels and env for python apps (#425) • [`1ae0723`](https://github.com/trueforge-org/truecharts/commit/1ae0723094990a7174c34bea5c70de4c652b2fae) • [@Devin Buhl] (2025-05-10)
-- chore(beets): update docker build (#417) • [`d1f6353`](https://github.com/trueforge-org/truecharts/commit/d1f63533f3a4bb98ab24961cea4cec14d7ff5593) • [@Devin Buhl] (2025-05-07)
 - feat(github-release): update release beetbox/beets (v2.2.0 → v2.3.0) (#416) • [`2af3c86`](https://github.com/trueforge-org/truecharts/commit/2af3c861507da90c8609a89ae61748cdd08b407f) • [@sticky-gecko[bot]] (2025-05-07)
+- chore(beets): update docker build (#417) • [`d1f6353`](https://github.com/trueforge-org/truecharts/commit/d1f63533f3a4bb98ab24961cea4cec14d7ff5593) • [@Devin Buhl] (2025-05-07)
 
 ## 2.2.0 • [Train: ]
 
