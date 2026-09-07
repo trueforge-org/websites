@@ -42,8 +42,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.5.1 • [Train: ]
 
-- fxes • [`657d301`](https://github.com/trueforge-org/truecharts/commit/657d301e7a7b73617b714163dfd31200e0fff59a) • [@Kjeld Schouten] (2026-05-06)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#2266) • [`8e09793`](https://github.com/trueforge-org/truecharts/commit/8e097933e8952e20738bb27c3e4dc1495692d069) • [@TrueCharts Bot] (2026-05-06)
+- fxes • [`657d301`](https://github.com/trueforge-org/truecharts/commit/657d301e7a7b73617b714163dfd31200e0fff59a) • [@Kjeld Schouten] (2026-05-06)
 
 ## 2.3.1 • [Train: ]
 
@@ -63,8 +63,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix(beets): use latest nodejs (#410) • [`38d1833`](https://github.com/trueforge-org/truecharts/commit/38d18339c6930320e9bd9f253af80bace7cd0201) • [@Devin Buhl] (2025-05-04)
 - feat: remove tz and umask envs [ci-skip] (#408) • [`099cb44`](https://github.com/trueforge-org/truecharts/commit/099cb4499fa9b2436b8df67bc2f56d6f4275773a) • [@Devin Buhl] (2025-05-04)
-- chore: more dockerfile style updates (#333) • [`b61bc45`](https://github.com/trueforge-org/truecharts/commit/b61bc45ee8aac4c6557a1fe47d0c542dd4340047) • [@Devin Buhl] (2025-04-10)
 - chore: dockerfile style updates [ci-skip] (#331) • [`37a676f`](https://github.com/trueforge-org/truecharts/commit/37a676f1d1c5aad699ec46d05c0df0b45a8eb1e2) • [@Devin Buhl] (2025-04-10)
+- chore: more dockerfile style updates (#333) • [`b61bc45`](https://github.com/trueforge-org/truecharts/commit/b61bc45ee8aac4c6557a1fe47d0c542dd4340047) • [@Devin Buhl] (2025-04-10)
 - ci: add SOURCE var in bake files [ci-skip] (#312) • [`6d81fdb`](https://github.com/trueforge-org/truecharts/commit/6d81fdb4307f25d5510c4e63a3e6f20b1e388510) • [@Devin Buhl] (2025-04-04)
 - feat: container housekeeping [ci-skip] (#302) • [`b834303`](https://github.com/trueforge-org/truecharts/commit/b834303df234fa3cc9ce7367f3be76e39e74c0b4) • [@Devin Buhl] (2025-04-03)
 - chore: add dockerignore for all apps [ci-skip] (#284) • [`d1336f5`](https://github.com/trueforge-org/truecharts/commit/d1336f52c2c27a2a6a9529c57c274e06e2a5e4ac) • [@Devin Buhl] (2025-03-30)
