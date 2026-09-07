@@ -17,8 +17,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.12.0 • [Train: stable]
 
-- feat(multus-cni): update image docker.io/alpine/crane 0.21.9 → 0.22.0 (#51956) • [`c48bda1`](https://github.com/trueforge-org/truecharts/commit/c48bda1eed96a5ff01c55983d0df9d74d8b1704c) • [@TrueCharts Bot] (2026-08-30)
 - feat(helm-deps): update chart common 29.16.0 → 29.17.0 (#51942) • [`9fdc9c2`](https://github.com/trueforge-org/truecharts/commit/9fdc9c2eb39cc3e011f6a1f154e387e0165d8379) • [@TrueCharts Bot] (2026-08-30)
+- feat(multus-cni): update image docker.io/alpine/crane 0.21.9 → 0.22.0 (#51956) • [`c48bda1`](https://github.com/trueforge-org/truecharts/commit/c48bda1eed96a5ff01c55983d0df9d74d8b1704c) • [@TrueCharts Bot] (2026-08-30)
 
 ## 2.11.0 • [Train: stable]
 
@@ -171,8 +171,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.0 • [Train: stable]
 
 - Commit daily changes • [`e61ac18`](https://github.com/trueforge-org/truecharts/commit/e61ac1832997e6dead504d7d004110b43c07254f) • [@TrueCharts-Bot] (2026-02-15)
-- feat(multus-cni): Move multus-cni to stable (#44892) • [`ecbcf37`](https://github.com/trueforge-org/truecharts/commit/ecbcf37387132522fde0009557a2b52d5a12fd48) • [@astro-stan] (2026-02-14)
 - port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
+- feat(multus-cni): Move multus-cni to stable (#44892) • [`ecbcf37`](https://github.com/trueforge-org/truecharts/commit/ecbcf37387132522fde0009557a2b52d5a12fd48) • [@astro-stan] (2026-02-14)
 
 ## 0.3.0 • [Train: incubator]
 
