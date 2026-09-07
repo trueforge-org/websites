@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.10.2 • [Train: stable]
+
+- fix(tandoor-recipes): update image ghcr.io/tandoorrecipes/recipes 2.6.14 → 2.6.15 (#52242) • [`76c873e`](https://github.com/trueforge-org/truecharts/commit/76c873eb96b7650edac137e313c82e70f9ee7e8b) • [@TrueCharts Bot] (2026-09-07)
+
 ## 21.10.1 • [Train: stable]
 
 - fix(tandoor-recipes): update image ghcr.io/tandoorrecipes/recipes 2.6.13 → 2.6.14 (#52222) • [`b81471f`](https://github.com/trueforge-org/truecharts/commit/b81471f908dcc62423b475c4d9be35a9494e0eda) • [@TrueCharts Bot] (2026-09-06)
@@ -154,8 +158,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.16.2 • [Train: stable]
 
-- fix(tandoor-recipes): update image ghcr.io/tandoorrecipes/recipes 2.5.1 → 2.5.3 (#44927) • [`c47a410`](https://github.com/trueforge-org/truecharts/commit/c47a41001ef6846005dff227e460f6820428e5ac) • [@TrueCharts Bot] (2026-02-14)
 - port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
+- fix(tandoor-recipes): update image ghcr.io/tandoorrecipes/recipes 2.5.1 → 2.5.3 (#44927) • [`c47a410`](https://github.com/trueforge-org/truecharts/commit/c47a41001ef6846005dff227e460f6820428e5ac) • [@TrueCharts Bot] (2026-02-14)
 
 ## 20.16.1 • [Train: stable]
 
@@ -374,8 +378,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.3.2 • [Train: stable]
 
-- chore(helm): update image docker.io/vabene1111/recipes 2.1.1 → 2.1.2 (#39326) • [`1c72d22`](https://github.com/trueforge-org/truecharts/commit/1c72d228f2e36856fd8844823dc9f877e150cf8e) • [@TrueCharts Bot] (2025-09-09)
 - chore(helm): update chart common 28.17.0 → 28.17.1 (#39324) • [`6600a55`](https://github.com/trueforge-org/truecharts/commit/6600a55c9674a87cfc424515b4fdf086f4610f81) • [@TrueCharts Bot] (2025-09-09)
+- chore(helm): update image docker.io/vabene1111/recipes 2.1.1 → 2.1.2 (#39326) • [`1c72d22`](https://github.com/trueforge-org/truecharts/commit/1c72d228f2e36856fd8844823dc9f877e150cf8e) • [@TrueCharts Bot] (2025-09-09)
 
 ## 20.3.1 • [Train: stable]
 
@@ -642,8 +646,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 17.0.6 • [Train: stable]
 
-- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image common to v23.0.8@9e7419b by renovate (#22277) • [`bbcc969`](https://github.com/trueforge-org/truecharts/commit/bbcc969f0ed40e5d7256d4f107db88a4c3ce5ab3) • [@TrueCharts Bot] (2024-05-20)
 
 ## 17.0.5 • [Train: stable]
