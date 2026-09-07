@@ -2,7 +2,7 @@
 title: paperless-ngx
 ---
 
-![Version: 15.8.4](https://img.shields.io/badge/Version-15.8.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.3](https://img.shields.io/badge/AppVersion-3.1.3-informational?style=flat-square)
+![Version: 15.8.5](https://img.shields.io/badge/Version-15.8.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.3](https://img.shields.io/badge/AppVersion-3.1.3-informational?style=flat-square)
 
 Paperless-ngx is an application by Daniel Quinn and contributors that indexes your scanned documents.
 
