@@ -34,8 +34,8 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: projectsend
-      MARIADB_PASSWORD: d91d0d955438c9f7e8986cedfaefa185WORD
-      MARIADB_ROOT_PASSWORD: 2725bc658ebd97705885c991e7f6dcbaWORD
+      MARIADB_PASSWORD: 1904f96ffab220519dfccc43d4f24cfdWORD
+      MARIADB_ROOT_PASSWORD: 8799ad388645ffccf42b122dec58b870WORD
       MARIADB_USER: projectsend
       TZ: Etc/UTC
     group_add:

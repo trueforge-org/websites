@@ -19,8 +19,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 24efb13 (#3274) • [`757da61`](https://github.com/trueforge-org/truecharts/commit/757da619634bab38971e7dde42bc716287d187b3) • [@TrueCharts Bot] (2026-08-21)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to bc18251 (#3242) • [`73445ca`](https://github.com/trueforge-org/truecharts/commit/73445cacc72d712713d267e25edae2b98c00d61c) • [@TrueCharts Bot] (2026-08-20)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b38871f (#3201) • [`e1ec714`](https://github.com/trueforge-org/truecharts/commit/e1ec714f9d4a03d0ffdb783c2dea679a3c1b048c) • [@TrueCharts Bot] (2026-08-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a1011d7 (#3210) • [`fd375c8`](https://github.com/trueforge-org/truecharts/commit/fd375c899a1e3858e3fd0139b1309a321ed7ddcd) • [@TrueCharts Bot] (2026-08-19)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b38871f (#3201) • [`e1ec714`](https://github.com/trueforge-org/truecharts/commit/e1ec714f9d4a03d0ffdb783c2dea679a3c1b048c) • [@TrueCharts Bot] (2026-08-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to e855efe (#3034) • [`d286596`](https://github.com/trueforge-org/truecharts/commit/d28659641d45e6e8f912c6b124fd43bd6adec5c6) • [@TrueCharts Bot] (2026-08-04)
 - fix(deps): update bookstackapp/bookstack v26.05.2 → v26.05.3 (#2975) • [`fc36460`](https://github.com/trueforge-org/truecharts/commit/fc36460f337890ad1e53a6d15544d5bbdd0dd985) • [@TrueCharts Bot] (2026-07-29)
 
@@ -49,8 +49,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 26.3.4 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 17312da (#2273) • [`07c023d`](https://github.com/trueforge-org/truecharts/commit/07c023df996444b5d1291559d1d7234f8302ea47) • [@TrueCharts Bot] (2026-05-07)
 - fix(php-apps): align package names with Ubuntu 26.04 base (#2292) • [`263cfad`](https://github.com/trueforge-org/truecharts/commit/263cfadc08d9514977753dbe3ec5892007ede78f) • [@Copilot] (2026-05-07)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 17312da (#2273) • [`07c023d`](https://github.com/trueforge-org/truecharts/commit/07c023df996444b5d1291559d1d7234f8302ea47) • [@TrueCharts Bot] (2026-05-07)
 - BREAKING CHANGE(ubuntu-dep): Update ghcr.io/trueforge-org/ubuntu Docker tag (#2271) • [`2030ba8`](https://github.com/trueforge-org/truecharts/commit/2030ba8657cd49390206c3638a4635de0b4a4bf9) • [@TrueCharts Bot] (2026-05-06)
 - BREAKING CHANGE(deps): Update BookStackApp/BookStack v25.11.1 → v26.03.4 (#2169) • [`a5823b7`](https://github.com/trueforge-org/truecharts/commit/a5823b79df4a28c6781febc205a3ecc325fabcfb) • [@TrueCharts Bot] (2026-05-06)
 
