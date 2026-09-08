@@ -580,11 +580,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 12.13.132 • [Train: stable]
 
-- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
-- Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
+- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
+- Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - chore(webtop): update image lscr.io/linuxserver/webtop digest to 9dc18b0 (#44344) • [`e607a39`](https://github.com/trueforge-org/truecharts/commit/e607a397cf83763bbb9fc28a541463855f485542) • [@TrueCharts Bot] (2026-01-30)
 
 ## 12.13.131 • [Train: stable]
@@ -605,8 +605,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 12.13.118 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 - chore(webtop): update image lscr.io/linuxserver/webtop digest to a95a5fc (#44181) • [`6d15294`](https://github.com/trueforge-org/truecharts/commit/6d15294b4eddd97ef60a8712d846d57f324e2afd) • [@TrueCharts Bot] (2026-01-27)
+- fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 
 ## 12.13.117 • [Train: stable]
 
@@ -829,8 +829,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 12.11.29 • [Train: stable]
 
-- chore(helm): update image lscr.io/linuxserver/webtop digest to be92e9f (#41401) • [`ab53985`](https://github.com/trueforge-org/truecharts/commit/ab53985a49674321079f4a7e0215f7fe912642d7) • [@TrueCharts Bot] (2025-11-04)
 - Commit daily changes • [`dfe2909`](https://github.com/trueforge-org/truecharts/commit/dfe2909e3628718e83ddfecffe2770551fea0c74) • [@TrueCharts-Bot] (2025-11-04)
+- chore(helm): update image lscr.io/linuxserver/webtop digest to be92e9f (#41401) • [`ab53985`](https://github.com/trueforge-org/truecharts/commit/ab53985a49674321079f4a7e0215f7fe912642d7) • [@TrueCharts Bot] (2025-11-04)
 
 ## 12.11.28 • [Train: stable]
 
@@ -1006,8 +1006,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 12.6.12 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 12.6.11 • [Train: stable]
 
@@ -2347,8 +2347,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.1.26 • [Train: stable]
 
-- chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
 - chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
+- chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
 
 ## 8.1.25 • [Train: stable]
 
@@ -2362,13 +2362,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
-- chore(deps): update webtop by renovate (#16649) • [`dd76283`](https://github.com/trueforge-org/truecharts/commit/dd762835e8af31fa23d32cf221b8d95428734e0a) • [@TrueCharts Bot] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
+- chore(deps): update webtop by renovate (#16649) • [`dd76283`](https://github.com/trueforge-org/truecharts/commit/dd762835e8af31fa23d32cf221b8d95428734e0a) • [@TrueCharts Bot] (2023-12-31)
 
 ## 8.1.0 • [Train: stable]
 
-- Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
 - chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
+- Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
 - chore(deps): update helm general minor by renovate (#16579) • [`9eddcd9`](https://github.com/trueforge-org/truecharts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59) • [@TrueCharts Bot] (2023-12-30)
 
 ## 8.0.1 • [Train: stable]
@@ -2435,8 +2435,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.0.0 • [Train: stable]
 
-- chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
 - Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
+- chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
 
 ## 6.0.233 • [Train: stable]
 
@@ -2472,18 +2472,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.193 • [Train: stable]
 
-- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-openbox@991cacb (#15748) • [`2f77415`](https://github.com/trueforge-org/truecharts/commit/2f77415be0f11792cd114c42603eed85124d5f92) • [@TrueCharts Bot] (2023-12-05)
-- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-mate@629abc2 (#15744) • [`4dda74e`](https://github.com/trueforge-org/truecharts/commit/4dda74e05055021348bed3daf0af1660caaa7571) • [@TrueCharts Bot] (2023-12-05)
-- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-xfce@82f5a21 (#15749) • [`5e09a6a`](https://github.com/trueforge-org/truecharts/commit/5e09a6a889d287a475b4a63b8421c7ee0b2f5756) • [@TrueCharts Bot] (2023-12-05)
-- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-i3@729f163 (#15751) • [`790f000`](https://github.com/trueforge-org/truecharts/commit/790f0007e3496d4d065b4a0c7c977264135cd5ea) • [@TrueCharts Bot] (2023-12-05)
-- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-kde@457bd50 (#15747) • [`98cc129`](https://github.com/trueforge-org/truecharts/commit/98cc1294bd6e52eb7d3c5cb02c8b953cadc5927f) • [@TrueCharts Bot] (2023-12-05)
-- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-icewm@976b97b (#15746) • [`1859463`](https://github.com/trueforge-org/truecharts/commit/1859463ca074907c90a3f943f590d5d853af27b6) • [@TrueCharts Bot] (2023-12-05)
-- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-kde@c6a19ef (#15753) • [`52c5386`](https://github.com/trueforge-org/truecharts/commit/52c53863c522cc8e02403bef56ef0ff5bedbff7f) • [@TrueCharts Bot] (2023-12-05)
 - chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-icewm@9c3936c (#15752) • [`a2705a4`](https://github.com/trueforge-org/truecharts/commit/a2705a48897c3b9c8024963af6509be56309419c) • [@TrueCharts Bot] (2023-12-05)
 - chore(deps): update container image lscr.io/linuxserver/webtop to alpine-i3@87a2025 (#15742) • [`cb6c14c`](https://github.com/trueforge-org/truecharts/commit/cb6c14c871aa920e5ac3b6b4df04b09f14f3ff80) • [@TrueCharts Bot] (2023-12-05)
-- chore(deps): update container image lscr.io/linuxserver/webtop to latest@6d360e4 (#15750) • [`eca39ed`](https://github.com/trueforge-org/truecharts/commit/eca39eddff0c781226acd4263093335f7cf2e7db) • [@TrueCharts Bot] (2023-12-05)
 - chore(deps): update container image lscr.io/linuxserver/webtop to alpine-openbox@d307ec7 (#15745) • [`f76b2c2`](https://github.com/trueforge-org/truecharts/commit/f76b2c29fb5c6dfff42054bab426f3ecb88681cf) • [@TrueCharts Bot] (2023-12-05)
 - chore(deps): update container image lscr.io/linuxserver/webtop to alpine-kde@1bbf524 (#15743) • [`fb68847`](https://github.com/trueforge-org/truecharts/commit/fb688471ec4daa89a78e3670d5db7e5c8e06c0a9) • [@TrueCharts Bot] (2023-12-05)
+- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-mate@629abc2 (#15744) • [`4dda74e`](https://github.com/trueforge-org/truecharts/commit/4dda74e05055021348bed3daf0af1660caaa7571) • [@TrueCharts Bot] (2023-12-05)
+- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-kde@c6a19ef (#15753) • [`52c5386`](https://github.com/trueforge-org/truecharts/commit/52c53863c522cc8e02403bef56ef0ff5bedbff7f) • [@TrueCharts Bot] (2023-12-05)
+- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-i3@729f163 (#15751) • [`790f000`](https://github.com/trueforge-org/truecharts/commit/790f0007e3496d4d065b4a0c7c977264135cd5ea) • [@TrueCharts Bot] (2023-12-05)
+- chore(deps): update container image lscr.io/linuxserver/webtop to latest@6d360e4 (#15750) • [`eca39ed`](https://github.com/trueforge-org/truecharts/commit/eca39eddff0c781226acd4263093335f7cf2e7db) • [@TrueCharts Bot] (2023-12-05)
+- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-icewm@976b97b (#15746) • [`1859463`](https://github.com/trueforge-org/truecharts/commit/1859463ca074907c90a3f943f590d5d853af27b6) • [@TrueCharts Bot] (2023-12-05)
+- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-openbox@991cacb (#15748) • [`2f77415`](https://github.com/trueforge-org/truecharts/commit/2f77415be0f11792cd114c42603eed85124d5f92) • [@TrueCharts Bot] (2023-12-05)
+- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-xfce@82f5a21 (#15749) • [`5e09a6a`](https://github.com/trueforge-org/truecharts/commit/5e09a6a889d287a475b4a63b8421c7ee0b2f5756) • [@TrueCharts Bot] (2023-12-05)
+- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-kde@457bd50 (#15747) • [`98cc129`](https://github.com/trueforge-org/truecharts/commit/98cc1294bd6e52eb7d3c5cb02c8b953cadc5927f) • [@TrueCharts Bot] (2023-12-05)
 
 ## 6.0.192 • [Train: stable]
 
@@ -2504,41 +2504,41 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.189 • [Train: stable]
 
-- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-openbox@667f76a (#15457) • [`07ea856`](https://github.com/trueforge-org/truecharts/commit/07ea85664ffd3b2e9c1ce08109bc40b7e875848a) • [@TrueCharts Bot] (2023-11-28)
-- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-icewm@ad98354 (#15451) • [`20327cf`](https://github.com/trueforge-org/truecharts/commit/20327cf69c3fbcb7de1cf1d2e0b68e4eddfba239) • [@TrueCharts Bot] (2023-11-28)
-- Commit daily changes • [`3fab41f`](https://github.com/trueforge-org/truecharts/commit/3fab41f7a192404c061a8db8398e3e45f59e5a19) • [@TrueCharts-Bot] (2023-11-28)
 - chore(deps): update container image lscr.io/linuxserver/webtop to alpine-mate@55ad5ce (#15453) • [`4737460`](https://github.com/trueforge-org/truecharts/commit/47374605b0f32555062a5624b01f97979c648bcd) • [@TrueCharts Bot] (2023-11-28)
 - chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-icewm@3456499 (#15460) • [`4cac78c`](https://github.com/trueforge-org/truecharts/commit/4cac78ce8a0558452b60d5d7ccf07db06a09432e) • [@TrueCharts Bot] (2023-11-28)
-- chore(deps): update container image lscr.io/linuxserver/webtop to latest@2675d3e (#15459) • [`6b1b938`](https://github.com/trueforge-org/truecharts/commit/6b1b93872bb345db1b06ef97d9abd6404f65a197) • [@TrueCharts Bot] (2023-11-28)
-- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-i3@035ad31 (#15455) • [`c724e93`](https://github.com/trueforge-org/truecharts/commit/c724e9375fe6aab2508358c10ca9d6cc43503c9f) • [@TrueCharts Bot] (2023-11-28)
-- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-i3@b430d47 (#15450) • [`eff7988`](https://github.com/trueforge-org/truecharts/commit/eff79887273a43edc7a98ac7b427b7dde2d7780a) • [@TrueCharts Bot] (2023-11-28)
-- Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
-- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-icewm@ce63d83 (#15456) • [`0daf9ce`](https://github.com/trueforge-org/truecharts/commit/0daf9ce8835d7990f882ab006af65d839382fc75) • [@TrueCharts Bot] (2023-11-28)
-- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-openbox@ce511f9 (#15454) • [`1bb9c3f`](https://github.com/trueforge-org/truecharts/commit/1bb9c3f5099c59f89d57d90b23d1d7e6b013f187) • [@TrueCharts Bot] (2023-11-28)
-- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-xfce@79e5fed (#15458) • [`4a6cc25`](https://github.com/trueforge-org/truecharts/commit/4a6cc2505980075105aa8d86479605e3f2531e75) • [@TrueCharts Bot] (2023-11-28)
 - Commit daily changes • [`d1c2213`](https://github.com/trueforge-org/truecharts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
 - chore(deps): update container image lscr.io/linuxserver/webtop to alpine-kde@3413c06 (#15452) • [`d298ecf`](https://github.com/trueforge-org/truecharts/commit/d298ecf1b87d76edfff2ef2e621d89d29fe9350b) • [@TrueCharts Bot] (2023-11-28)
+- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-i3@b430d47 (#15450) • [`eff7988`](https://github.com/trueforge-org/truecharts/commit/eff79887273a43edc7a98ac7b427b7dde2d7780a) • [@TrueCharts Bot] (2023-11-28)
+- Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
+- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-openbox@667f76a (#15457) • [`07ea856`](https://github.com/trueforge-org/truecharts/commit/07ea85664ffd3b2e9c1ce08109bc40b7e875848a) • [@TrueCharts Bot] (2023-11-28)
+- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-openbox@ce511f9 (#15454) • [`1bb9c3f`](https://github.com/trueforge-org/truecharts/commit/1bb9c3f5099c59f89d57d90b23d1d7e6b013f187) • [@TrueCharts Bot] (2023-11-28)
+- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-icewm@ad98354 (#15451) • [`20327cf`](https://github.com/trueforge-org/truecharts/commit/20327cf69c3fbcb7de1cf1d2e0b68e4eddfba239) • [@TrueCharts Bot] (2023-11-28)
+- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-xfce@79e5fed (#15458) • [`4a6cc25`](https://github.com/trueforge-org/truecharts/commit/4a6cc2505980075105aa8d86479605e3f2531e75) • [@TrueCharts Bot] (2023-11-28)
+- chore(deps): update container image lscr.io/linuxserver/webtop to latest@2675d3e (#15459) • [`6b1b938`](https://github.com/trueforge-org/truecharts/commit/6b1b93872bb345db1b06ef97d9abd6404f65a197) • [@TrueCharts Bot] (2023-11-28)
+- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-i3@035ad31 (#15455) • [`c724e93`](https://github.com/trueforge-org/truecharts/commit/c724e9375fe6aab2508358c10ca9d6cc43503c9f) • [@TrueCharts Bot] (2023-11-28)
+- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-icewm@ce63d83 (#15456) • [`0daf9ce`](https://github.com/trueforge-org/truecharts/commit/0daf9ce8835d7990f882ab006af65d839382fc75) • [@TrueCharts Bot] (2023-11-28)
+- Commit daily changes • [`3fab41f`](https://github.com/trueforge-org/truecharts/commit/3fab41f7a192404c061a8db8398e3e45f59e5a19) • [@TrueCharts-Bot] (2023-11-28)
 
 ## 6.0.188 • [Train: stable]
 
-- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-kde@7fc24a7 (#15212) • [`c20e2b3`](https://github.com/trueforge-org/truecharts/commit/c20e2b3cfa52fadad2e879fdb101546abb45ce6a) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to arch-mate@c1739db (#15340) • [`4be5048`](https://github.com/trueforge-org/truecharts/commit/4be50488ebd2e262820f13a31784004b53b93685) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to arch-openbox@f08016d (#15341) • [`6e87ce5`](https://github.com/trueforge-org/truecharts/commit/6e87ce59edf24d2279e82e299b6296aa1aa80389) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-xfce@ae83f95 (#15215) • [`7788695`](https://github.com/trueforge-org/truecharts/commit/778869590781af485400539d0584481a00fca5d0) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-mate@a85f259 (#15213) • [`a8d3b0a`](https://github.com/trueforge-org/truecharts/commit/a8d3b0a95aec1e8e01eb8fe17a16f4a1a603ebcb) • [@TrueCharts Bot] (2023-11-24)
 - chore(deps): update container image lscr.io/linuxserver/webtop to fedora-mate@27ebd98 (#15206) • [`bbb8ac1`](https://github.com/trueforge-org/truecharts/commit/bbb8ac1e4174264fd63a36dc445567350e7b268e) • [@TrueCharts Bot] (2023-11-24)
-- Commit daily changes • [`bbbde0c`](https://github.com/trueforge-org/truecharts/commit/bbbde0cf1bb3d7f05d3c13fc25449135a7b377fc) • [@TrueCharts-Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to arch-xfce@a55de64 (#15342) • [`fae132d`](https://github.com/trueforge-org/truecharts/commit/fae132d81f3111a52d03bddc07c9c2fbb5233a1b) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-icewm@add62c8 (#15211) • [`7760f35`](https://github.com/trueforge-org/truecharts/commit/7760f35a6f360d0299ebe1486e534e10ef96e326) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to arch-kde@9b3ea1d (#15339) • [`2f6ceae`](https://github.com/trueforge-org/truecharts/commit/2f6ceaee044cc6931c0d323bb427203c44621423) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-i3@8a4e7b3 (#15210) • [`34b30ba`](https://github.com/trueforge-org/truecharts/commit/34b30ba9341ad8a38ef814ba6b6358bd4f399c8b) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-openbox@47f53b2 (#15207) • [`372e6de`](https://github.com/trueforge-org/truecharts/commit/372e6def58694cbb3d4b1f967ab9f1f3774c0d6b) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-openbox@a3dd940 (#15200) • [`cbe9f67`](https://github.com/trueforge-org/truecharts/commit/cbe9f674177ba92cbe912fde3c346861050ae397) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to arch-icewm@e8f4088 (#15338) • [`e577916`](https://github.com/trueforge-org/truecharts/commit/e57791629219e0cf614a3d0b88d7f654bb05f510) • [@TrueCharts Bot] (2023-11-24)
 - chore(deps): update container image lscr.io/linuxserver/webtop to latest@8f486a4 (#15209) • [`28406df`](https://github.com/trueforge-org/truecharts/commit/28406dfd1b6292e7a7df1d96b2d4cdfb98600847) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-i3@8a4e7b3 (#15210) • [`34b30ba`](https://github.com/trueforge-org/truecharts/commit/34b30ba9341ad8a38ef814ba6b6358bd4f399c8b) • [@TrueCharts Bot] (2023-11-24)
 - chore(deps): update container image lscr.io/linuxserver/webtop to fedora-xfce@b36fd85 (#15208) • [`730e2c9`](https://github.com/trueforge-org/truecharts/commit/730e2c9d5dde44e4a491cf204149f6e61c03fa14) • [@TrueCharts Bot] (2023-11-24)
-- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-openbox@22af7ce (#15214) • [`a5ce734`](https://github.com/trueforge-org/truecharts/commit/a5ce73417ac1860caf5b5aabeacc91d37bb534f3) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-kde@7fc24a7 (#15212) • [`c20e2b3`](https://github.com/trueforge-org/truecharts/commit/c20e2b3cfa52fadad2e879fdb101546abb45ce6a) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-openbox@a3dd940 (#15200) • [`cbe9f67`](https://github.com/trueforge-org/truecharts/commit/cbe9f674177ba92cbe912fde3c346861050ae397) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to arch-mate@c1739db (#15340) • [`4be5048`](https://github.com/trueforge-org/truecharts/commit/4be50488ebd2e262820f13a31784004b53b93685) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-xfce@ae83f95 (#15215) • [`7788695`](https://github.com/trueforge-org/truecharts/commit/778869590781af485400539d0584481a00fca5d0) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to arch-xfce@a55de64 (#15342) • [`fae132d`](https://github.com/trueforge-org/truecharts/commit/fae132d81f3111a52d03bddc07c9c2fbb5233a1b) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to arch-kde@9b3ea1d (#15339) • [`2f6ceae`](https://github.com/trueforge-org/truecharts/commit/2f6ceaee044cc6931c0d323bb427203c44621423) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to fedora-openbox@47f53b2 (#15207) • [`372e6de`](https://github.com/trueforge-org/truecharts/commit/372e6def58694cbb3d4b1f967ab9f1f3774c0d6b) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to arch-openbox@f08016d (#15341) • [`6e87ce5`](https://github.com/trueforge-org/truecharts/commit/6e87ce59edf24d2279e82e299b6296aa1aa80389) • [@TrueCharts Bot] (2023-11-24)
 - chore(deps): update container image lscr.io/linuxserver/webtop to arch-i3@55baf92 (#15337) • [`b8cecc7`](https://github.com/trueforge-org/truecharts/commit/b8cecc737f1a57bde740fe4918fc4d54553e2163) • [@TrueCharts Bot] (2023-11-24)
+- Commit daily changes • [`bbbde0c`](https://github.com/trueforge-org/truecharts/commit/bbbde0cf1bb3d7f05d3c13fc25449135a7b377fc) • [@TrueCharts-Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to arch-icewm@e8f4088 (#15338) • [`e577916`](https://github.com/trueforge-org/truecharts/commit/e57791629219e0cf614a3d0b88d7f654bb05f510) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-icewm@add62c8 (#15211) • [`7760f35`](https://github.com/trueforge-org/truecharts/commit/7760f35a6f360d0299ebe1486e534e10ef96e326) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-openbox@22af7ce (#15214) • [`a5ce734`](https://github.com/trueforge-org/truecharts/commit/a5ce73417ac1860caf5b5aabeacc91d37bb534f3) • [@TrueCharts Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-mate@a85f259 (#15213) • [`a8d3b0a`](https://github.com/trueforge-org/truecharts/commit/a8d3b0a95aec1e8e01eb8fe17a16f4a1a603ebcb) • [@TrueCharts Bot] (2023-11-24)
 
 ## 6.0.187 • [Train: stable]
 
@@ -2555,21 +2555,21 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.185 • [Train: stable]
 
+- chore(deps): update container image lscr.io/linuxserver/webtop to arch-xfce@b7ea637 (#15182) • [`0416547`](https://github.com/trueforge-org/truecharts/commit/04165471fea6c9f65d963396b0db853753d53476) • [@TrueCharts Bot] (2023-11-21)
+- chore(deps): update container image lscr.io/linuxserver/webtop to arch-kde@71a2649 (#15179) • [`06cbd77`](https://github.com/trueforge-org/truecharts/commit/06cbd771e3c7bf95e6a7027e0aca1cc733591ef9) • [@TrueCharts Bot] (2023-11-21)
 - chore(deps): update container image lscr.io/linuxserver/webtop to arch-icewm@3b9644f (#15178) • [`19d4b72`](https://github.com/trueforge-org/truecharts/commit/19d4b724fc87c80fe0111e2af7782a7007422f3f) • [@TrueCharts Bot] (2023-11-21)
 - chore(deps): update container image lscr.io/linuxserver/webtop to arch-i3@82fe836 (#15177) • [`2f63036`](https://github.com/trueforge-org/truecharts/commit/2f63036b688e2e309675601307395ddf6e1d2d06) • [@TrueCharts Bot] (2023-11-21)
 - chore(deps): update container image lscr.io/linuxserver/webtop to arch-openbox@e76720c (#15181) • [`6016e9c`](https://github.com/trueforge-org/truecharts/commit/6016e9c39325104a12cf91ef631bb55f3f01e89b) • [@TrueCharts Bot] (2023-11-21)
 - chore(deps): update container image lscr.io/linuxserver/webtop to arch-mate@dc8f4da (#15180) • [`ddc341b`](https://github.com/trueforge-org/truecharts/commit/ddc341b227a7f15f57d1c7e81c2eec12ef826a7c) • [@TrueCharts Bot] (2023-11-21)
-- chore(deps): update container image lscr.io/linuxserver/webtop to arch-xfce@b7ea637 (#15182) • [`0416547`](https://github.com/trueforge-org/truecharts/commit/04165471fea6c9f65d963396b0db853753d53476) • [@TrueCharts Bot] (2023-11-21)
-- chore(deps): update container image lscr.io/linuxserver/webtop to arch-kde@71a2649 (#15179) • [`06cbd77`](https://github.com/trueforge-org/truecharts/commit/06cbd771e3c7bf95e6a7027e0aca1cc733591ef9) • [@TrueCharts Bot] (2023-11-21)
 
 ## 6.0.184 • [Train: stable]
 
-- fix(deps): update container image lscr.io/linuxserver/webtop to arch-mate (#14857) • [`56d5c3f`](https://github.com/trueforge-org/truecharts/commit/56d5c3f2cfb37b55ea60fb1b5f80f459f1d3addd) • [@TrueCharts Bot] (2023-11-18)
-- fix(deps): update container image lscr.io/linuxserver/webtop to arch-openbox (#14858) • [`594d0ec`](https://github.com/trueforge-org/truecharts/commit/594d0ec5e011be771c54cd2756a4f790b68e0e77) • [@TrueCharts Bot] (2023-11-18)
-- fix(deps): update container image lscr.io/linuxserver/webtop to arch-xfce (#14859) • [`af50dac`](https://github.com/trueforge-org/truecharts/commit/af50dac3f83fab2c622314ebc9f77c603766d0e4) • [@TrueCharts Bot] (2023-11-18)
 - fix(deps): update container image lscr.io/linuxserver/webtop to arch-kde (#14856) • [`e0bb80b`](https://github.com/trueforge-org/truecharts/commit/e0bb80b5968f634b6ebb7810ebd897e9f245f090) • [@TrueCharts Bot] (2023-11-18)
 - fix(deps): update container image lscr.io/linuxserver/webtop to arch-i3 (#14854) • [`e41c72e`](https://github.com/trueforge-org/truecharts/commit/e41c72e86b3d1163fe21ff298af4a1694e09056f) • [@TrueCharts Bot] (2023-11-18)
 - fix(deps): update container image lscr.io/linuxserver/webtop to arch-icewm (#14855) • [`2e97548`](https://github.com/trueforge-org/truecharts/commit/2e97548c530be502a5daba24dc5768434cbc293d) • [@TrueCharts Bot] (2023-11-18)
+- fix(deps): update container image lscr.io/linuxserver/webtop to arch-mate (#14857) • [`56d5c3f`](https://github.com/trueforge-org/truecharts/commit/56d5c3f2cfb37b55ea60fb1b5f80f459f1d3addd) • [@TrueCharts Bot] (2023-11-18)
+- fix(deps): update container image lscr.io/linuxserver/webtop to arch-openbox (#14858) • [`594d0ec`](https://github.com/trueforge-org/truecharts/commit/594d0ec5e011be771c54cd2756a4f790b68e0e77) • [@TrueCharts Bot] (2023-11-18)
+- fix(deps): update container image lscr.io/linuxserver/webtop to arch-xfce (#14859) • [`af50dac`](https://github.com/trueforge-org/truecharts/commit/af50dac3f83fab2c622314ebc9f77c603766d0e4) • [@TrueCharts Bot] (2023-11-18)
 
 ## 6.0.183 • [Train: stable]
 
@@ -3791,22 +3791,22 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.6 • [Train: stable]
 
-- Revert &#34;Commit daily changes&#34; • [`0dbc251`](https://github.com/trueforge-org/truecharts/commit/0dbc251a0676e1781aaffccc1e06f135a5bfba89) • [@Kjeld Schouten-Lebbing] (2023-02-03)
 - Commit daily changes • [`56a1c7c`](https://github.com/trueforge-org/truecharts/commit/56a1c7cc70fcb186ee4c6456ec18aa1b356cb9de) • [@TrueCharts-Bot] (2023-02-03)
 - Commit daily changes • [`848e517`](https://github.com/trueforge-org/truecharts/commit/848e5175c3efbf8fc3e273b0a03dad67053a4205) • [@TrueCharts-Bot] (2023-02-03)
-- Revert &#34;Commit daily changes&#34; • [`b92fcb2`](https://github.com/trueforge-org/truecharts/commit/b92fcb20b141c1d5f30a1c83604f6e887827804c) • [@Kjeld Schouten-Lebbing] (2023-02-03)
-- Commit daily changes • [`2a8f5c5`](https://github.com/trueforge-org/truecharts/commit/2a8f5c58e44ce967263ab487d2e68d4cb839e51c) • [@TrueCharts-Bot] (2023-02-03)
+- Commit daily changes • [`e2381cc`](https://github.com/trueforge-org/truecharts/commit/e2381cc157718e0f86de8c8ca9507a7983f59223) • [@TrueCharts-Bot] (2023-02-03)
+- Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/trueforge-org/truecharts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
+- Revert &#34;Commit daily changes&#34; • [`0dbc251`](https://github.com/trueforge-org/truecharts/commit/0dbc251a0676e1781aaffccc1e06f135a5bfba89) • [@Kjeld Schouten-Lebbing] (2023-02-03)
+- Commit daily changes • [`208c291`](https://github.com/trueforge-org/truecharts/commit/208c2919fec945cc14276a229222915ae0ec50b4) • [@TrueCharts-Bot] (2023-02-03)
 - chore(deps): update webtop • [`33fb347`](https://github.com/trueforge-org/truecharts/commit/33fb3474683e4685bf00a1277962b3236fd83f78) • [@TrueCharts-Admin] (2023-02-03)
 - Commit daily changes • [`35f77ed`](https://github.com/trueforge-org/truecharts/commit/35f77ed72d81a81a31e9d92d67f39a220022c450) • [@TrueCharts-Bot] (2023-02-03)
-- Commit daily changes • [`208c291`](https://github.com/trueforge-org/truecharts/commit/208c2919fec945cc14276a229222915ae0ec50b4) • [@TrueCharts-Bot] (2023-02-03)
-- Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/trueforge-org/truecharts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
-- Commit daily changes • [`e2381cc`](https://github.com/trueforge-org/truecharts/commit/e2381cc157718e0f86de8c8ca9507a7983f59223) • [@TrueCharts-Bot] (2023-02-03)
+- Revert &#34;Commit daily changes&#34; • [`b92fcb2`](https://github.com/trueforge-org/truecharts/commit/b92fcb20b141c1d5f30a1c83604f6e887827804c) • [@Kjeld Schouten-Lebbing] (2023-02-03)
+- Commit daily changes • [`2a8f5c5`](https://github.com/trueforge-org/truecharts/commit/2a8f5c58e44ce967263ab487d2e68d4cb839e51c) • [@TrueCharts-Bot] (2023-02-03)
 - Commit daily changes • [`ed743f6`](https://github.com/trueforge-org/truecharts/commit/ed743f6c5c2534c39143d6f822d19bb47913ecd2) • [@TrueCharts-Bot] (2023-02-01)
 - Commit daily changes • [`adda47b`](https://github.com/trueforge-org/truecharts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
-- Commit daily changes • [`0fb22dd`](https://github.com/trueforge-org/truecharts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`ed66075`](https://github.com/trueforge-org/truecharts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
-- Commit daily changes • [`3f63d20`](https://github.com/trueforge-org/truecharts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`dfff570`](https://github.com/trueforge-org/truecharts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
+- Commit daily changes • [`3f63d20`](https://github.com/trueforge-org/truecharts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
+- Commit daily changes • [`0fb22dd`](https://github.com/trueforge-org/truecharts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
 - Merge pull request #6690 from truecharts/renovate/webtop • [`b5e1e7d`](https://github.com/trueforge-org/truecharts/commit/b5e1e7db03b3392ead94c8717d0af16dc02a96b9) • [@TrueCharts Bot] (2023-01-24)
 - Commit bumped Chart Version • [`ab6a67b`](https://github.com/trueforge-org/truecharts/commit/ab6a67bc4214f13d665b2185fad878029e9aa290) • [@TrueCharts-Bot] (2023-01-24)
 
@@ -3831,19 +3831,19 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.0.2 • [Train: stable]
 
 - chore(deps): update webtop • [`8406c42`](https://github.com/trueforge-org/truecharts/commit/8406c42d80fe7aee20b692c48b4104e62c7f49da) • [@TrueCharts-Admin] (2023-01-15)
+- Commit bumped Chart Version • [`d6014ca`](https://github.com/trueforge-org/truecharts/commit/d6014cac3e6eeaa976b3014cc6921f03ad8f558d) • [@TrueCharts-Bot] (2023-01-14)
 - Commit bumped Chart Version • [`1839185`](https://github.com/trueforge-org/truecharts/commit/1839185d141b90efdf4ef5cb4784b5d9d01e1914) • [@TrueCharts-Bot] (2023-01-14)
 - Commit bumped Chart Version • [`28905c1`](https://github.com/trueforge-org/truecharts/commit/28905c14ebdb932e19a19e271ad81e42177a3688) • [@TrueCharts-Bot] (2023-01-14)
 - Merge pull request #6358 from truecharts/renovate/tccr.io-truecharts-webtop-arch-icewm-latest • [`6b7487f`](https://github.com/trueforge-org/truecharts/commit/6b7487fb300785e308945e33b6020c9bca784b9a) • [@TrueCharts Bot] (2023-01-14)
 - Merge pull request #6359 from truecharts/renovate/tccr.io-truecharts-webtop-arch-kde-latest • [`75062f2`](https://github.com/trueforge-org/truecharts/commit/75062f259729e2f83878ddca6ae9ed9af19351c7) • [@TrueCharts Bot] (2023-01-14)
 - Merge pull request #6357 from truecharts/renovate/tccr.io-truecharts-webtop-arch-i3-latest • [`7cd5f9e`](https://github.com/trueforge-org/truecharts/commit/7cd5f9edda9d34bf65ec443ac908c186f085be20) • [@TrueCharts Bot] (2023-01-14)
-- Commit bumped Chart Version • [`d6014ca`](https://github.com/trueforge-org/truecharts/commit/d6014cac3e6eeaa976b3014cc6921f03ad8f558d) • [@TrueCharts-Bot] (2023-01-14)
 
 ## 4.0.1 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/webtop-arch-icewm to latest • [`a6984ee`](https://github.com/trueforge-org/truecharts/commit/a6984ee68800c4770c6fd15a4881391f552ff15b) • [@TrueCharts-Admin] (2023-01-14)
 - chore(deps): update container image tccr.io/truecharts/webtop to latest (#6325) • [`13763e2`](https://github.com/trueforge-org/truecharts/commit/13763e2416ee0551d2eb9ff3528648f6558995fd) • [@TrueCharts Bot] (2023-01-14)
 - chore(deps): update container image tccr.io/truecharts/webtop-arch-i3 to latest • [`84cab23`](https://github.com/trueforge-org/truecharts/commit/84cab23661bc682c98127f1202c0ad3265136863) • [@TrueCharts-Admin] (2023-01-14)
 - chore(deps): update container image tccr.io/truecharts/webtop-arch-kde to latest • [`9ab62eb`](https://github.com/trueforge-org/truecharts/commit/9ab62ebd0455898df3ac9a72f9bdf879228e8f75) • [@TrueCharts-Admin] (2023-01-14)
+- chore(deps): update container image tccr.io/truecharts/webtop-arch-icewm to latest • [`a6984ee`](https://github.com/trueforge-org/truecharts/commit/a6984ee68800c4770c6fd15a4881391f552ff15b) • [@TrueCharts-Admin] (2023-01-14)
 
 ## 4.0.0 • [Train: stable]
 
@@ -3931,9 +3931,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.2 • [Train: incubator]
 
+- bump everything (#4376) • [`3b9ba2a`](https://github.com/trueforge-org/truecharts/commit/3b9ba2a1dfdc7e5561126091835d0f538999d13b) • [@Stavros Kois] (2022-11-11)
 - feat(apps): readd ingressList to all Apps that already have Ingress itself • [`668157c`](https://github.com/trueforge-org/truecharts/commit/668157c363529cc8f3dd57089533732d5baee31f) • [@Kjeld Schouten-Lebbing] (2022-11-11)
 - questions.yaml cleanup (#4377) • [`9559a83`](https://github.com/trueforge-org/truecharts/commit/9559a835155e0418fc79d976c134866df951b40c) • [@Stavros Kois] (2022-11-11)
-- bump everything (#4376) • [`3b9ba2a`](https://github.com/trueforge-org/truecharts/commit/3b9ba2a1dfdc7e5561126091835d0f538999d13b) • [@Stavros Kois] (2022-11-11)
 
 ## 1.0.1 • [Train: incubator]
 
@@ -3941,11 +3941,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: incubator]
 
-- fix(apps): remove removed includes • [`f4fb894`](https://github.com/trueforge-org/truecharts/commit/f4fb8943e1f46b3ba2f705aac6792ad3bc1337d2) • [@Kjeld Schouten-Lebbing] (2022-11-11)
 - fix(apps): remove references to targetPort • [`800312b`](https://github.com/trueforge-org/truecharts/commit/800312b29574d87c6591fa5590b8028da3e6d5b9) • [@Kjeld Schouten-Lebbing] (2022-11-11)
-- chore: Auto-update chart README [skip ci] • [`ba9389e`](https://github.com/trueforge-org/truecharts/commit/ba9389e4da8aa4bab028f912000dbd4e975f99fb) • [@truecharts-bot] (2022-11-10)
+- fix(apps): remove removed includes • [`f4fb894`](https://github.com/trueforge-org/truecharts/commit/f4fb8943e1f46b3ba2f705aac6792ad3bc1337d2) • [@Kjeld Schouten-Lebbing] (2022-11-11)
 - fix(apps): change container config label • [`16f46e1`](https://github.com/trueforge-org/truecharts/commit/16f46e1db86182b9402b9c4a132884a0b10378a1) • [@Kjeld Schouten-Lebbing] (2022-11-10)
 - chore(apps): Major Change to GUI • [`2ef737f`](https://github.com/trueforge-org/truecharts/commit/2ef737f7d3d8fbb7a1ffe46456963004f37d9f45) • [@Kjeld Schouten-Lebbing] (2022-11-10)
+- chore: Auto-update chart README [skip ci] • [`ba9389e`](https://github.com/trueforge-org/truecharts/commit/ba9389e4da8aa4bab028f912000dbd4e975f99fb) • [@truecharts-bot] (2022-11-10)
 
 ## 0.0.49 • [Train: incubator]
 
@@ -3954,10 +3954,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.48 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`3180582`](https://github.com/trueforge-org/truecharts/commit/31805828c6aed71e55a911fb3aef5b5c9916ad3b) • [@truecharts-bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`6053fd9`](https://github.com/trueforge-org/truecharts/commit/6053fd928080c895ac04de0d8509550c46a04ace) • [@truecharts-bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`9ba8308`](https://github.com/trueforge-org/truecharts/commit/9ba8308ab3a3d7ea99da57d1b0054292e4d08753) • [@truecharts-bot] (2022-11-08)
 - chore(deps): update helm general non-major (#4342) • [`ec3d563`](https://github.com/trueforge-org/truecharts/commit/ec3d56395c3202bfad45c19266686bf4c5315f01) • [@TrueCharts Bot] (2022-11-08)
+- chore: Auto-update chart README [skip ci] • [`3180582`](https://github.com/trueforge-org/truecharts/commit/31805828c6aed71e55a911fb3aef5b5c9916ad3b) • [@truecharts-bot] (2022-11-08)
 
 ## 0.0.47 • [Train: incubator]
 
@@ -3971,8 +3971,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.45 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#4317) • [`2275750`](https://github.com/trueforge-org/truecharts/commit/227575098c2c6bfa994215eb2f9d4eedbdde2192) • [@TrueCharts Bot] (2022-11-06)
 - chore: Auto-update chart README [skip ci] • [`e5bdcae`](https://github.com/trueforge-org/truecharts/commit/e5bdcaea0fe5ba99bbf73e66030894594ecd9754) • [@truecharts-bot] (2022-11-06)
+- chore(deps): update helm general non-major (#4317) • [`2275750`](https://github.com/trueforge-org/truecharts/commit/227575098c2c6bfa994215eb2f9d4eedbdde2192) • [@TrueCharts Bot] (2022-11-06)
 
 ## 0.0.44 • [Train: incubator]
 
@@ -3996,8 +3996,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.40 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`9928580`](https://github.com/trueforge-org/truecharts/commit/99285803ca51af65ad786c4430ccb021bf7111a8) • [@truecharts-bot] (2022-10-21)
 - chore(deps): update docker general non-major (#4139) • [`fe38c5e`](https://github.com/trueforge-org/truecharts/commit/fe38c5e074604feb3cb8831be96c69ff53c71f94) • [@TrueCharts Bot] (2022-10-21)
+- chore: Auto-update chart README [skip ci] • [`9928580`](https://github.com/trueforge-org/truecharts/commit/99285803ca51af65ad786c4430ccb021bf7111a8) • [@truecharts-bot] (2022-10-21)
 
 ## 0.0.39 • [Train: incubator]
 
@@ -4022,8 +4022,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.35 • [Train: incubator]
 
-- Merge branch &#39;renovate/helm-general-non-major&#39; • [`4983f98`](https://github.com/trueforge-org/truecharts/commit/4983f98ea8c3789c1373889db5b6727df9dc4339) • [@Kjeld Schouten-Lebbing] (2022-10-06)
 - chore: Auto-update chart README [skip ci] • [`4cb54af`](https://github.com/trueforge-org/truecharts/commit/4cb54af1ba8d56067960772c50bfa2e053216683) • [@truecharts-bot] (2022-10-06)
+- Merge branch &#39;renovate/helm-general-non-major&#39; • [`4983f98`](https://github.com/trueforge-org/truecharts/commit/4983f98ea8c3789c1373889db5b6727df9dc4339) • [@Kjeld Schouten-Lebbing] (2022-10-06)
 - chore(deps): update helm general non-major • [`5e88a86`](https://github.com/trueforge-org/truecharts/commit/5e88a86bff586d09fb8a6a913dc0c788e7d3bf95) • [@TrueCharts-Admin] (2022-10-05)
 
 ## 0.0.34 • [Train: incubator]
@@ -4045,20 +4045,20 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.31 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`6053186`](https://github.com/trueforge-org/truecharts/commit/60531868921f9735f782d7a5e5af0a1a3e6d1291) • [@truecharts-bot] (2022-09-25)
 - chore(deps): update helm general non-major (#3898) • [`cb5a369`](https://github.com/trueforge-org/truecharts/commit/cb5a369c9690db68402b06d06125a2e5bb1ce490) • [@TrueCharts Bot] (2022-09-25)
+- chore: Auto-update chart README [skip ci] • [`6053186`](https://github.com/trueforge-org/truecharts/commit/60531868921f9735f782d7a5e5af0a1a3e6d1291) • [@truecharts-bot] (2022-09-25)
 
 ## 0.0.30 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`922a198`](https://github.com/trueforge-org/truecharts/commit/922a198480d8fad5c247ef8ede6ee9b726285a98) • [@truecharts-bot] (2022-09-22)
 - chore: Auto-update chart README [skip ci] • [`dea0e08`](https://github.com/trueforge-org/truecharts/commit/dea0e08738b4722f1c8b4af51115d835d1dd24b8) • [@truecharts-bot] (2022-09-22)
-- chore: Auto-update chart README [skip ci] • [`f2be506`](https://github.com/trueforge-org/truecharts/commit/f2be506cef39683b2cdcae6850e015c7d1b5d018) • [@truecharts-bot] (2022-09-21)
+- chore: Auto-update chart README [skip ci] • [`922a198`](https://github.com/trueforge-org/truecharts/commit/922a198480d8fad5c247ef8ede6ee9b726285a98) • [@truecharts-bot] (2022-09-22)
 - chore: Auto-update chart README [skip ci] • [`27eaf3c`](https://github.com/trueforge-org/truecharts/commit/27eaf3cd8ebf915df61e1b78ae62f925d0d0d33d) • [@truecharts-bot] (2022-09-21)
+- chore: Auto-update chart README [skip ci] • [`f2be506`](https://github.com/trueforge-org/truecharts/commit/f2be506cef39683b2cdcae6850e015c7d1b5d018) • [@truecharts-bot] (2022-09-21)
 - chore: Auto-update chart README [skip ci] • [`f71bda7`](https://github.com/trueforge-org/truecharts/commit/f71bda701953f94e4e49e480471dcd61d0239b12) • [@truecharts-bot] (2022-09-20)
 - chore: Auto-update chart README [skip ci] • [`938dfbd`](https://github.com/trueforge-org/truecharts/commit/938dfbd29feaa716fa140abb8588b35664dfaf0f) • [@truecharts-bot] (2022-09-20)
 - chore: Auto-update chart README [skip ci] • [`12ff3ca`](https://github.com/trueforge-org/truecharts/commit/12ff3cab54c3d6512d0515fee70998e70495a789) • [@truecharts-bot] (2022-09-19)
-- chore: Auto-update chart README [skip ci] • [`2528ca8`](https://github.com/trueforge-org/truecharts/commit/2528ca86e9ced34b9abe332e63a613ce113528c7) • [@truecharts-bot] (2022-09-19)
 - chore(deps): update docker general non-major (#3790) • [`8229f1a`](https://github.com/trueforge-org/truecharts/commit/8229f1a5e5e94ace42b820b6b8dc384aa02d6005) • [@TrueCharts Bot] (2022-09-19)
+- chore: Auto-update chart README [skip ci] • [`2528ca8`](https://github.com/trueforge-org/truecharts/commit/2528ca86e9ced34b9abe332e63a613ce113528c7) • [@truecharts-bot] (2022-09-19)
 
 ## 0.0.29 • [Train: incubator]
 
@@ -4066,21 +4066,21 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore: Auto-update chart README [skip ci] • [`01fe431`](https://github.com/trueforge-org/truecharts/commit/01fe431239b9a649e55e5b38ddcc262d22b88cda) • [@truecharts-bot] (2022-09-18)
 - chore: Auto-update chart README [skip ci] • [`24bcac5`](https://github.com/trueforge-org/truecharts/commit/24bcac5826fd241c1240dbbc1493c3333c427faf) • [@truecharts-bot] (2022-09-18)
 - chore(Apps): refactor Services SCALE GUI • [`7be0dcb`](https://github.com/trueforge-org/truecharts/commit/7be0dcbe6d5d235f67c6b69a361d1ca2d1abb677) • [@Kjeld Schouten-Lebbing] (2022-09-17)
-- chore: Auto-update chart README [skip ci] • [`c99b62f`](https://github.com/trueforge-org/truecharts/commit/c99b62f699113e678af5efdfa633e298f9f55ae6) • [@truecharts-bot] (2022-09-16)
 - chore: Auto-update chart README [skip ci] • [`4a7979b`](https://github.com/trueforge-org/truecharts/commit/4a7979b1bd9f1a5263c7f991fe61d7c0a85a04b8) • [@truecharts-bot] (2022-09-16)
+- chore: Auto-update chart README [skip ci] • [`c99b62f`](https://github.com/trueforge-org/truecharts/commit/c99b62f699113e678af5efdfa633e298f9f55ae6) • [@truecharts-bot] (2022-09-16)
 - chore(deps): update helm general non-major (#3767) • [`48e5471`](https://github.com/trueforge-org/truecharts/commit/48e5471458985ee1f873de03ebeb17415eea5575) • [@TrueCharts Bot] (2022-09-15)
 - chore: Auto-update chart README [skip ci] • [`682efa1`](https://github.com/trueforge-org/truecharts/commit/682efa11c4aed3ea9e4b4fd7b409c43e40cb9407) • [@truecharts-bot] (2022-09-15)
 
 ## 0.0.28 • [Train: incubator]
 
 - chore(questions): split serviceSelector (#3751) • [`6c68a6c`](https://github.com/trueforge-org/truecharts/commit/6c68a6c013a9b07cfaaef8650ef6e0ec4ccf80b1) • [@Stavros Kois] (2022-09-15)
+- chore: Auto-update chart README [skip ci] • [`cf36c34`](https://github.com/trueforge-org/truecharts/commit/cf36c344afd33480c1f37325996fe0c2039dd44e) • [@truecharts-bot] (2022-09-12)
 - chore: Auto-update chart README [skip ci] • [`1f5fd55`](https://github.com/trueforge-org/truecharts/commit/1f5fd55364403c857ea7094f8c16ad416a67a5a2) • [@truecharts-bot] (2022-09-12)
 - chore: Auto-update chart README [skip ci] • [`9a821da`](https://github.com/trueforge-org/truecharts/commit/9a821da90ba5b47f62e6eec71124f3aa56181d41) • [@truecharts-bot] (2022-09-12)
-- chore: Auto-update chart README [skip ci] • [`cf36c34`](https://github.com/trueforge-org/truecharts/commit/cf36c344afd33480c1f37325996fe0c2039dd44e) • [@truecharts-bot] (2022-09-12)
+- chore: Auto-update chart README [skip ci] • [`a23c49a`](https://github.com/trueforge-org/truecharts/commit/a23c49adc9ca593586f8a4b6f23d202cbba351ce) • [@truecharts-bot] (2022-09-11)
 - chore: Auto-update chart README [skip ci] • [`44a77cd`](https://github.com/trueforge-org/truecharts/commit/44a77cd0ddf59c2a29e472b72ee068832e5aee8d) • [@truecharts-bot] (2022-09-11)
 - chore: Auto-update chart README [skip ci] • [`5ac2a97`](https://github.com/trueforge-org/truecharts/commit/5ac2a97847c332e170723527708a74d52153b457) • [@truecharts-bot] (2022-09-11)
 - chore(deps): update helm general non-major (#3711) • [`845ea2d`](https://github.com/trueforge-org/truecharts/commit/845ea2d896360075af8c1b78e2421931b22aa31b) • [@TrueCharts Bot] (2022-09-11)
-- chore: Auto-update chart README [skip ci] • [`a23c49a`](https://github.com/trueforge-org/truecharts/commit/a23c49adc9ca593586f8a4b6f23d202cbba351ce) • [@truecharts-bot] (2022-09-11)
 
 ## 0.0.27 • [Train: incubator]
 
@@ -4110,13 +4110,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.22 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`9fccd23`](https://github.com/trueforge-org/truecharts/commit/9fccd234dc6d9298da5e16023f4a81bd2d2df798) • [@truecharts-bot] (2022-08-27)
 - fix(incubator): some cleanup (#3586) • [`9056d3c`](https://github.com/trueforge-org/truecharts/commit/9056d3c8f7893e02a070b542cc7985274a05aad2) • [@Stavros Kois] (2022-08-27)
+- chore: Auto-update chart README [skip ci] • [`9fccd23`](https://github.com/trueforge-org/truecharts/commit/9fccd234dc6d9298da5e16023f4a81bd2d2df798) • [@truecharts-bot] (2022-08-27)
 
 ## 0.0.20 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`e204b0e`](https://github.com/trueforge-org/truecharts/commit/e204b0e08e14cd39958f767a0f788e8c12bd1847) • [@truecharts-bot] (2022-08-23)
 - chore(deps): update helm general non-major helm releases (#3545) • [`b51c98b`](https://github.com/trueforge-org/truecharts/commit/b51c98bb4a1163649f2ec46716e7e15a124cff43) • [@TrueCharts Bot] (2022-08-23)
+- chore: Auto-update chart README [skip ci] • [`e204b0e`](https://github.com/trueforge-org/truecharts/commit/e204b0e08e14cd39958f767a0f788e8c12bd1847) • [@truecharts-bot] (2022-08-23)
 
 ## 0.0.19 • [Train: incubator]
 
@@ -4130,15 +4130,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.17 • [Train: incubator]
 
-- chore(charts): add documentation checkbox/section to all SCALE Apps • [`c5b2f8f`](https://github.com/trueforge-org/truecharts/commit/c5b2f8f13fed522864da2b29417f5875eca79216) • [@Kjeld Schouten-Lebbing] (2022-08-12)
 - fix(templates): move extraArgs from .Values.controller to .Values (#3447) • [`16fbffb`](https://github.com/trueforge-org/truecharts/commit/16fbffb9619eabdcd61815fb4ba05befd3b3a445) • [@Stavros Kois] (2022-08-12)
+- chore(charts): add documentation checkbox/section to all SCALE Apps • [`c5b2f8f`](https://github.com/trueforge-org/truecharts/commit/c5b2f8f13fed522864da2b29417f5875eca79216) • [@Kjeld Schouten-Lebbing] (2022-08-12)
 - chore(deps): update docker general non-major (#3421) • [`ca2970f`](https://github.com/trueforge-org/truecharts/commit/ca2970fc0170553f661dea359eede66ff08488ed) • [@TrueCharts Bot] (2022-08-10)
 - chore: Auto-update chart README [skip ci] • [`81c25be`](https://github.com/trueforge-org/truecharts/commit/81c25be9bcbb203d972ae241d435e9c02fb31b99) • [@truecharts-bot] (2022-08-10)
 
 ## 0.0.16 • [Train: incubator]
 
-- chore(deps): update helm general non-major helm releases (#3376) • [`763af7a`](https://github.com/trueforge-org/truecharts/commit/763af7a7b93f1b94e173589f8cd9b03282720bd3) • [@TrueCharts Bot] (2022-08-08)
 - chore: Auto-update chart README [skip ci] • [`aa39c09`](https://github.com/trueforge-org/truecharts/commit/aa39c09e86340c2132beb50bf5a7195b6e84b1a3) • [@truecharts-bot] (2022-08-08)
+- chore(deps): update helm general non-major helm releases (#3376) • [`763af7a`](https://github.com/trueforge-org/truecharts/commit/763af7a7b93f1b94e173589f8cd9b03282720bd3) • [@TrueCharts Bot] (2022-08-08)
 
 ## 0.0.15 • [Train: incubator]
 
@@ -4171,7 +4171,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.10 • [Train: dev]
 
+- Unraid Bulk Checks (#3235) • [`d33f952`](https://github.com/trueforge-org/truecharts/commit/d33f952798a81ee01881233f8cf63f3d97584998) • [@Kjeld Schouten-Lebbing] (2022-07-22)
 - chore(incubator): Move Dev to incubator and some cleanup • [`2c06051`](https://github.com/trueforge-org/truecharts/commit/2c06051625cb75b04eea2d14bbf01696ff6047b7) • [@Kjeld Schouten-Lebbing] (2022-07-22)
 - chore: Auto-update chart README [skip ci] • [`80c3b3d`](https://github.com/trueforge-org/truecharts/commit/80c3b3d3268f704f5ed617b67b556326a6644fdb) • [@truecharts-bot] (2022-07-22)
 - chore: Auto-update chart README [skip ci] • [`b3518ae`](https://github.com/trueforge-org/truecharts/commit/b3518ae60ff95888dba5d68902a868b68f7ae32d) • [@truecharts-bot] (2022-07-22)
-- Unraid Bulk Checks (#3235) • [`d33f952`](https://github.com/trueforge-org/truecharts/commit/d33f952798a81ee01881233f8cf63f3d97584998) • [@Kjeld Schouten-Lebbing] (2022-07-22)
