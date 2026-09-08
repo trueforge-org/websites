@@ -2,7 +2,7 @@
 title: sabnzbd
 ---
 
-![Version: 5.1.2](https://img.shields.io/badge/Version-5.1.2-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 5.1.3](https://img.shields.io/badge/Version-5.1.3-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **sabnzbd**, including upstream s
 | Field | Value |
 | --- | --- |
 | App | sabnzbd |
-| Version | 5.1.2 |
+| Version | 5.1.3 |
 | License | AGPL--3.0--or--later |
 
 ## Source

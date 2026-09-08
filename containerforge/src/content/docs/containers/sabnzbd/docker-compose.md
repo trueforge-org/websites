@@ -39,7 +39,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/sabnzbd:5.1.2
+    image: ghcr.io/trueforge-org/sabnzbd:5.1.3
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
