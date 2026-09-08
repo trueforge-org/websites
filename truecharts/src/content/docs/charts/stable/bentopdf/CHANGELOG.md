@@ -3,13 +3,17 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/incubator/bentopdf)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/bentopdf)
 
 :::tip
 
 If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
 
 :::
+
+## 1.0.0 • [Train: stable]
+
+- feat(bentopdf): promote bentopdf to stable (#52253) • [`aef6def`](https://github.com/trueforge-org/truecharts/commit/aef6def4e0a77ea5e279311d51067e3d6325fff6) • [@Jaël Champagne Gareau] (2026-09-08)
 
 ## 0.1.0 • [Train: incubator]
 

@@ -2,7 +2,7 @@
 title: bentopdf
 ---
 
-![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.8](https://img.shields.io/badge/AppVersion-2.8.8-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.8](https://img.shields.io/badge/AppVersion-2.8.8-informational?style=flat-square)
 
 BentoPDF is a lightweight, browser-based PDF toolkit for editing, converting and signing PDFs, with all processing done locally in the browser.
 
@@ -10,7 +10,7 @@ BentoPDF is a lightweight, browser-based PDF toolkit for editing, converting and
 
 - https://ghcr.io/alam00000/bentopdf-simple
 - https://github.com/alam00000/bentopdf
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/bentopdf
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bentopdf
 
 ## Available Documentation
 
