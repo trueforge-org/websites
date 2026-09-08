@@ -19,8 +19,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 24efb13 (#3274) • [`757da61`](https://github.com/trueforge-org/truecharts/commit/757da619634bab38971e7dde42bc716287d187b3) • [@TrueCharts Bot] (2026-08-21)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to bc18251 (#3242) • [`73445ca`](https://github.com/trueforge-org/truecharts/commit/73445cacc72d712713d267e25edae2b98c00d61c) • [@TrueCharts Bot] (2026-08-20)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b38871f (#3201) • [`e1ec714`](https://github.com/trueforge-org/truecharts/commit/e1ec714f9d4a03d0ffdb783c2dea679a3c1b048c) • [@TrueCharts Bot] (2026-08-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a1011d7 (#3210) • [`fd375c8`](https://github.com/trueforge-org/truecharts/commit/fd375c899a1e3858e3fd0139b1309a321ed7ddcd) • [@TrueCharts Bot] (2026-08-19)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b38871f (#3201) • [`e1ec714`](https://github.com/trueforge-org/truecharts/commit/e1ec714f9d4a03d0ffdb783c2dea679a3c1b048c) • [@TrueCharts Bot] (2026-08-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to e855efe (#3034) • [`d286596`](https://github.com/trueforge-org/truecharts/commit/d28659641d45e6e8f912c6b124fd43bd6adec5c6) • [@TrueCharts Bot] (2026-08-04)
 - fix(deps): update bookstackapp/bookstack v26.05.2 → v26.05.3 (#2975) • [`fc36460`](https://github.com/trueforge-org/truecharts/commit/fc36460f337890ad1e53a6d15544d5bbdd0dd985) • [@TrueCharts Bot] (2026-07-29)
 
@@ -60,7 +60,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 25.11.1 • [Train: ]
 
-- some more settings • [`8c51ef4`](https://github.com/trueforge-org/truecharts/commit/8c51ef4479a9db12fa5b329f4cf40151366176d3) • [@Kjeld Schouten] (2026-05-02)
 - work on compose rendering placeholders • [`62433a7`](https://github.com/trueforge-org/truecharts/commit/62433a7054d425651f3d1f0c8d7dfbdb5c7b629a) • [@Kjeld Schouten] (2026-05-02)
+- some more settings • [`8c51ef4`](https://github.com/trueforge-org/truecharts/commit/8c51ef4479a9db12fa5b329f4cf40151366176d3) • [@Kjeld Schouten] (2026-05-02)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to fdcc4e2 (#2140) • [`f443ebf`](https://github.com/trueforge-org/truecharts/commit/f443ebf9463e49614be0c399d8b57160a68be9ab) • [@TrueCharts Bot] (2026-04-28)
 - Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
