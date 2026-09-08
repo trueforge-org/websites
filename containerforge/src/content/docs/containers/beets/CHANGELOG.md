@@ -51,8 +51,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.1 • [Train: ]
 
-- chore: use `UV_EXTRA_INDEX_URL` [ci-skip] (#498) • [`d0c506e`](https://github.com/trueforge-org/truecharts/commit/d0c506e7d936f50526bf6afad0f5652010214323) • [@Devin Buhl] (2025-05-31)
 - feat: upgrade python alpine base images to 3.22 (#497) • [`3764932`](https://github.com/trueforge-org/truecharts/commit/37649320e77bcbe2e53c2d53d358ccf77a29baf7) • [@Devin Buhl] (2025-05-31)
+- chore: use `UV_EXTRA_INDEX_URL` [ci-skip] (#498) • [`d0c506e`](https://github.com/trueforge-org/truecharts/commit/d0c506e7d936f50526bf6afad0f5652010214323) • [@Devin Buhl] (2025-05-31)
 - ci: add APP var to bakefiles (#469) • [`62cc8e2`](https://github.com/trueforge-org/truecharts/commit/62cc8e2aca9ec4db49345e6c58077024dd4b26f9) • [@Devin Buhl] (2025-05-23)
 - fix(github-release): update release beetbox/beets (v2.3.0 → v2.3.1) (#449) • [`41ee113`](https://github.com/trueforge-org/truecharts/commit/41ee113accf309c82661e29bd68d33e64b39c9c6) • [@sticky-gecko[bot]] (2025-05-14)
 
