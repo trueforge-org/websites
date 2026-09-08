@@ -19,8 +19,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat(node-dep): update node.js 24.19.0 → 24.20.0 (#3348) • [`a81c557`](https://github.com/trueforge-org/truecharts/commit/a81c557c62eb1e838d8214a4b99a790a971a2bf0) • [@TrueCharts Bot] (2026-08-27)
 - chore(node-dep): update node.js digest to 9bb5ae1 (#3281) • [`46b37b2`](https://github.com/trueforge-org/truecharts/commit/46b37b2b6f2858ae936fbbed46421a2c871e5397) • [@TrueCharts Bot] (2026-08-21)
-- feat(deps): update mastodon/mastodon v4.6.6 → v4.7.0 (#3250) • [`0a3151a`](https://github.com/trueforge-org/truecharts/commit/0a3151a722606311d3dc1342568749180a30679f) • [@TrueCharts Bot] (2026-08-20)
 - chore(node-dep): update node.js digest to e4a650b (#3204) • [`57a9a3c`](https://github.com/trueforge-org/truecharts/commit/57a9a3c17b9e2f0866f9a1b91b7790ba4d54fd70) • [@TrueCharts Bot] (2026-08-20)
+- feat(deps): update mastodon/mastodon v4.6.6 → v4.7.0 (#3250) • [`0a3151a`](https://github.com/trueforge-org/truecharts/commit/0a3151a722606311d3dc1342568749180a30679f) • [@TrueCharts Bot] (2026-08-20)
 
 ## 4.6.6 • [Train: ]
 
@@ -55,9 +55,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.5.11 • [Train: ]
 
-- fix(deps): update mastodon/mastodon v4.5.9 → v4.5.11 (#2405) • [`f484a8c`](https://github.com/trueforge-org/truecharts/commit/f484a8c2c7f90779c5da47a7a63c867d79c8a30c) • [@TrueCharts Bot] (2026-06-08)
 - feat(node-dep): update node.js 24.15.0 → 24.16.0 (#2459) • [`0643262`](https://github.com/trueforge-org/truecharts/commit/064326201954243ac725a5ca2b77aa38e9e1b133) • [@TrueCharts Bot] (2026-06-08)
 - chore(node-dep): update node.js digest to 054127d (#2472) • [`b1f65c2`](https://github.com/trueforge-org/truecharts/commit/b1f65c22b435d7bdaed598e565bb19b4f8d22d89) • [@TrueCharts Bot] (2026-06-08)
+- fix(deps): update mastodon/mastodon v4.5.9 → v4.5.11 (#2405) • [`f484a8c`](https://github.com/trueforge-org/truecharts/commit/f484a8c2c7f90779c5da47a7a63c867d79c8a30c) • [@TrueCharts Bot] (2026-06-08)
 
 ## 4.5.9 • [Train: ]
 
