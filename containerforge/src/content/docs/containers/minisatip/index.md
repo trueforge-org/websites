@@ -2,7 +2,7 @@
 title: minisatip
 ---
 
-![Version: 2.0.101](https://img.shields.io/badge/Version-2.0.101-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 2.0.102](https://img.shields.io/badge/Version-2.0.102-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **minisatip**, including upstream
 | Field | Value |
 | --- | --- |
 | App | minisatip |
-| Version | 2.0.101 |
+| Version | 2.0.102 |
 | License | AGPL--3.0--or--later |
 
 ## Source
