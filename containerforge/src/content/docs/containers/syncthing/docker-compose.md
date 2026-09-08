@@ -38,7 +38,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/syncthing:2.1.3
+    image: ghcr.io/trueforge-org/syncthing:2.1.5
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
