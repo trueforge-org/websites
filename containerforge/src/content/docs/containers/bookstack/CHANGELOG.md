@@ -40,8 +40,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 26.5.0 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to c21fcd8 (#2464) • [`20cfabc`](https://github.com/trueforge-org/truecharts/commit/20cfabc16f0cf777e74ef91b282ac0d187db8415) • [@TrueCharts Bot] (2026-06-08)
 - feat(deps): update bookstackapp/bookstack v26.03.5 → v26.05 (#2430) • [`747f5e2`](https://github.com/trueforge-org/truecharts/commit/747f5e2adf1676ef230cfca0b0f33762cc7b7dc5) • [@TrueCharts Bot] (2026-06-08)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to c21fcd8 (#2464) • [`20cfabc`](https://github.com/trueforge-org/truecharts/commit/20cfabc16f0cf777e74ef91b282ac0d187db8415) • [@TrueCharts Bot] (2026-06-08)
 
 ## 26.3.5 • [Train: ]
 
