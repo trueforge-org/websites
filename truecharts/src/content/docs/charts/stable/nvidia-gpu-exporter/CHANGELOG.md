@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.20.0 • [Train: stable]
+
+- feat(helm-deps): update chart common to v29.20.0 (#52304) • [`2d40329`](https://github.com/trueforge-org/truecharts/commit/2d4032929743e7e9562ca45e829d27ba8a5521bd) • [@TrueCharts Bot] (2026-09-09)
+
 ## 6.19.0 • [Train: stable]
 
 - feat(nvidia-gpu-exporter): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.14.0 → 1.15.1 (#52115) • [`03cdb22`](https://github.com/trueforge-org/truecharts/commit/03cdb2219b473f68625c937c62d3cbf2cada4e2c) • [@TrueCharts Bot] (2026-09-03)
@@ -65,8 +69,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.8.0 • [Train: stable]
 
-- feat(nvidia-gpu-exporter): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.6.0 → 1.7.0 (#49763) • [`6375441`](https://github.com/trueforge-org/truecharts/commit/63754417d6bc836b7f3e7465448c843c008bfe1d) • [@TrueCharts Bot] (2026-07-02)
 - feat(helm-deps): update chart common 29.6.0 → 29.7.1 (#49740) • [`b1a9061`](https://github.com/trueforge-org/truecharts/commit/b1a9061e5cb741b30acb18a0ac2356cecd4a7fa0) • [@TrueCharts Bot] (2026-07-02)
+- feat(nvidia-gpu-exporter): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.6.0 → 1.7.0 (#49763) • [`6375441`](https://github.com/trueforge-org/truecharts/commit/63754417d6bc836b7f3e7465448c843c008bfe1d) • [@TrueCharts Bot] (2026-07-02)
 
 ## 6.7.1 • [Train: stable]
 
@@ -297,8 +301,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.6.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 5.6.0 • [Train: stable]
 
@@ -585,9 +589,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.8.6 • [Train: stable]
 
+- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
-- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - chore: bump charts to ensure new icons are released • [`9828a1e`](https://github.com/trueforge-org/truecharts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5) • [@Kjeld Schouten] (2024-04-16)
 
 ## 2.8.5 • [Train: stable]

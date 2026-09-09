@@ -2,7 +2,7 @@
 title: qbitmanage
 ---
 
-![Version: 12.16.0](https://img.shields.io/badge/Version-12.16.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.13.0](https://img.shields.io/badge/AppVersion-4.13.0-informational?style=flat-square)
+![Version: 12.17.0](https://img.shields.io/badge/Version-12.17.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.13.0](https://img.shields.io/badge/AppVersion-4.13.0-informational?style=flat-square)
 
 This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove orphaned data, remove unregistered torrents and much much more.
 

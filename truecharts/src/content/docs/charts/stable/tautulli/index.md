@@ -2,7 +2,7 @@
 title: tautulli
 ---
 
-![Version: 22.11.0](https://img.shields.io/badge/Version-22.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.18.1](https://img.shields.io/badge/AppVersion-2.18.1-informational?style=flat-square)
+![Version: 22.12.0](https://img.shields.io/badge/Version-22.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.18.1](https://img.shields.io/badge/AppVersion-2.18.1-informational?style=flat-square)
 
 A Python based monitoring and tracking tool for Plex Media Server
 

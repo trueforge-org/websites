@@ -2,7 +2,7 @@
 title: unmanic
 ---
 
-![Version: 14.9.0](https://img.shields.io/badge/Version-14.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.4.1](https://img.shields.io/badge/AppVersion-0.4.1-informational?style=flat-square)
+![Version: 14.10.0](https://img.shields.io/badge/Version-14.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.4.1](https://img.shields.io/badge/AppVersion-0.4.1-informational?style=flat-square)
 
 Unmanic is a simple tool for optimising your file library.
 

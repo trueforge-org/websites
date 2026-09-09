@@ -2,7 +2,7 @@
 title: duplicati
 ---
 
-![Version: 17.10.0](https://img.shields.io/badge/Version-17.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.0](https://img.shields.io/badge/AppVersion-2.3.0-informational?style=flat-square)
+![Version: 17.11.0](https://img.shields.io/badge/Version-17.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.0](https://img.shields.io/badge/AppVersion-2.3.0-informational?style=flat-square)
 
 Store securely encrypted backups on cloud storage services!
 

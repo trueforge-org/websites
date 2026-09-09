@@ -2,7 +2,7 @@
 title: gamevault-backend
 ---
 
-![Version: 15.1.1](https://img.shields.io/badge/Version-15.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 17.0.1](https://img.shields.io/badge/AppVersion-17.0.1-informational?style=flat-square)
+![Version: 15.2.0](https://img.shields.io/badge/Version-15.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 17.0.1](https://img.shields.io/badge/AppVersion-17.0.1-informational?style=flat-square)
 
 the self-hosted gaming platform for alternatively obtained games.
 

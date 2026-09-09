@@ -2,7 +2,7 @@
 title: flame
 ---
 
-![Version: 9.10.0](https://img.shields.io/badge/Version-9.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.4.0](https://img.shields.io/badge/AppVersion-2.4.0-informational?style=flat-square)
+![Version: 9.11.0](https://img.shields.io/badge/Version-9.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.4.0](https://img.shields.io/badge/AppVersion-2.4.0-informational?style=flat-square)
 
 Flame is self-hosted start page for your server. Easily manage your apps and bookmarks with built-in editors.
 

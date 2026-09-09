@@ -2,7 +2,7 @@
 title: minetest
 ---
 
-![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.10.0](https://img.shields.io/badge/AppVersion-5.10.0-informational?style=flat-square)
+![Version: 12.10.0](https://img.shields.io/badge/Version-12.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.10.0](https://img.shields.io/badge/AppVersion-5.10.0-informational?style=flat-square)
 
 Minetest (server) is a near-infinite-world block sandbox game and a game engine.
 

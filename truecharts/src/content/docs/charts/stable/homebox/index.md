@@ -2,7 +2,7 @@
 title: homebox
 ---
 
-![Version: 11.7.0](https://img.shields.io/badge/Version-11.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.26.2](https://img.shields.io/badge/AppVersion-0.26.2-informational?style=flat-square)
+![Version: 11.8.0](https://img.shields.io/badge/Version-11.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.26.2](https://img.shields.io/badge/AppVersion-0.26.2-informational?style=flat-square)
 
 Inventory and organization system built for the Home User.
 

@@ -2,7 +2,7 @@
 title: arma3
 ---
 
-![Version: 10.9.0](https://img.shields.io/badge/Version-10.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: arma3](https://img.shields.io/badge/AppVersion-arma3-informational?style=flat-square)
+![Version: 10.10.0](https://img.shields.io/badge/Version-10.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: arma3](https://img.shields.io/badge/AppVersion-arma3-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install ArmA III and run it.
 

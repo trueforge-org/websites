@@ -2,7 +2,7 @@
 title: headphones
 ---
 
-![Version: 15.9.0](https://img.shields.io/badge/Version-15.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: a78f38c1](https://img.shields.io/badge/AppVersion-a78f38c1-informational?style=flat-square)
+![Version: 15.10.0](https://img.shields.io/badge/Version-15.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: a78f38c1](https://img.shields.io/badge/AppVersion-a78f38c1-informational?style=flat-square)
 
 An automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent and Blackhole.
 

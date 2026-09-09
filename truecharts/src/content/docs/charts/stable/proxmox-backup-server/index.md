@@ -2,7 +2,7 @@
 title: proxmox-backup-server
 ---
 
-![Version: 8.10.0](https://img.shields.io/badge/Version-8.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.0](https://img.shields.io/badge/AppVersion-4.2.0-informational?style=flat-square)
+![Version: 8.11.0](https://img.shields.io/badge/Version-8.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.0](https://img.shields.io/badge/AppVersion-4.2.0-informational?style=flat-square)
 
 Container for proxmox backup server
 

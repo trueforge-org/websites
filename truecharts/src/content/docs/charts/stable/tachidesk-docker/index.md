@@ -2,7 +2,7 @@
 title: tachidesk-docker
 ---
 
-![Version: 10.9.3](https://img.shields.io/badge/Version-10.9.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: preiew](https://img.shields.io/badge/AppVersion-preiew-informational?style=flat-square)
+![Version: 10.10.0](https://img.shields.io/badge/Version-10.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: preiew](https://img.shields.io/badge/AppVersion-preiew-informational?style=flat-square)
 
 The official Tachidesk Chart-Chart.
 

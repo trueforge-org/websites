@@ -2,7 +2,7 @@
 title: autoscan
 ---
 
-![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.0](https://img.shields.io/badge/AppVersion-1.4.0-informational?style=flat-square)
+![Version: 12.10.0](https://img.shields.io/badge/Version-12.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.0](https://img.shields.io/badge/AppVersion-1.4.0-informational?style=flat-square)
 
 Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system.
 

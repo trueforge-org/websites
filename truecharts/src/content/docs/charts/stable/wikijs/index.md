@@ -2,7 +2,7 @@
 title: wikijs
 ---
 
-![Version: 19.9.0](https://img.shields.io/badge/Version-19.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.5.314](https://img.shields.io/badge/AppVersion-2.5.314-informational?style=flat-square)
+![Version: 19.10.0](https://img.shields.io/badge/Version-19.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.5.314](https://img.shields.io/badge/AppVersion-2.5.314-informational?style=flat-square)
 
 Make documentation a joy to write using Wiki.js's beautiful and intuitive interface!
 

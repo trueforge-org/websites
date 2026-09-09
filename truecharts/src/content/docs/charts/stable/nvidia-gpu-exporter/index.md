@@ -2,7 +2,7 @@
 title: nvidia-gpu-exporter
 ---
 
-![Version: 6.19.0](https://img.shields.io/badge/Version-6.19.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.15.1](https://img.shields.io/badge/AppVersion-1.15.1-informational?style=flat-square)
+![Version: 6.20.0](https://img.shields.io/badge/Version-6.20.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.15.1](https://img.shields.io/badge/AppVersion-1.15.1-informational?style=flat-square)
 
 Prometheus exporter for Nvidia GPU's using nvidia-smi binary to gather metrics.
 

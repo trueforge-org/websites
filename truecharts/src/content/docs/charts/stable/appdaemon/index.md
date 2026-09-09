@@ -2,7 +2,7 @@
 title: appdaemon
 ---
 
-![Version: 20.9.0](https://img.shields.io/badge/Version-20.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.5.13](https://img.shields.io/badge/AppVersion-4.5.13-informational?style=flat-square)
+![Version: 20.10.0](https://img.shields.io/badge/Version-20.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.5.13](https://img.shields.io/badge/AppVersion-4.5.13-informational?style=flat-square)
 
 AppDaemon is a loosely coupled, multi-threaded, sandboxed python execution environment for writing automation apps.
 

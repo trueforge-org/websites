@@ -2,7 +2,7 @@
 title: cloudreve
 ---
 
-![Version: 13.20.2](https://img.shields.io/badge/Version-13.20.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.18.0](https://img.shields.io/badge/AppVersion-4.18.0-informational?style=flat-square)
+![Version: 13.21.0](https://img.shields.io/badge/Version-13.21.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.18.0](https://img.shields.io/badge/AppVersion-4.18.0-informational?style=flat-square)
 
 Self-hosted file management and sharing system, supports multiple storage providers
 
