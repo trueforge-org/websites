@@ -34,7 +34,7 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: postgresql
-      POSTGRES_PASSWORD: 07e15745ab5b6374e96c7121c1d4c8a6WORD
+      POSTGRES_PASSWORD: f48c4e7b23faf36783aef82c60db6a49WORD
       POSTGRES_USER: postgresql
       TZ: Etc/UTC
     group_add:
