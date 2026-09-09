@@ -29,8 +29,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to e566b6c (#2578) • [`699b1a8`](https://github.com/trueforge-org/truecharts/commit/699b1a887a97f5ea3d60396382655b32f1489928) • [@TrueCharts Bot] (2026-06-26)
 - fix(repo): remove hidden unicode (#2575) • [`61ac3db`](https://github.com/trueforge-org/truecharts/commit/61ac3db5226adcb2786dd6c3b27d6c3cfb35487c) • [@Alfred Göppel] (2026-06-26)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 5cb91be (#2540) • [`1066942`](https://github.com/trueforge-org/truecharts/commit/1066942d16d1205097ba555d52015cc17884d60f) • [@TrueCharts Bot] (2026-06-22)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to c21fcd8 (#2464) • [`20cfabc`](https://github.com/trueforge-org/truecharts/commit/20cfabc16f0cf777e74ef91b282ac0d187db8415) • [@TrueCharts Bot] (2026-06-08)
 - feat(deps): update linuxserver/webgrabplus docker tag 5.5.3 → 5.6.0 (#2445) • [`3b045a8`](https://github.com/trueforge-org/truecharts/commit/3b045a8b724b50551bfac907c67f354b0930fd13) • [@TrueCharts Bot] (2026-06-08)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to c21fcd8 (#2464) • [`20cfabc`](https://github.com/trueforge-org/truecharts/commit/20cfabc16f0cf777e74ef91b282ac0d187db8415) • [@TrueCharts Bot] (2026-06-08)
 
 ## 5.5.3 • [Train: ]
 
