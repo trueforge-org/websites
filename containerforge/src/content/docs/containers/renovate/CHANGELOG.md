@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 44.72.0 • [Train: ]
+
+- feat(deps): update renovate/renovate docker tag 44.71.3 → 44.72.0 (#3495) • [`c9f6e96`](https://github.com/trueforge-org/truecharts/commit/c9f6e963569268d06e84a6e0582732b8f6fe95f5) • [@TrueCharts Bot] (2026-09-09)
+
 ## 44.71.3 • [Train: ]
 
 - fix(deps): update renovate/renovate docker tag 44.71.1 → 44.71.3 (#3493) • [`c81cf7a`](https://github.com/trueforge-org/truecharts/commit/c81cf7a33d103ad11bbf1525ca682920a4052ec3) • [@TrueCharts Bot] (2026-09-09)
@@ -1393,8 +1397,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.25.10 • [Train: ]
 
-- fix(deps): update renovate/renovate docker tag 43.25.8 → 43.25.10 (#1413) • [`1459bf3`](https://github.com/trueforge-org/truecharts/commit/1459bf3ab4cf1b2c7ba3d3f8b372d0033eb38237) • [@TrueCharts Bot] (2026-02-19)
 - Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
+- fix(deps): update renovate/renovate docker tag 43.25.8 → 43.25.10 (#1413) • [`1459bf3`](https://github.com/trueforge-org/truecharts/commit/1459bf3ab4cf1b2c7ba3d3f8b372d0033eb38237) • [@TrueCharts Bot] (2026-02-19)
 
 ## 43.25.8 • [Train: ]
 
@@ -1472,10 +1476,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.15.1 • [Train: ]
 
-- fix(deps): update renovate/renovate docker tag 43.15.0 → 43.15.1 (#1176) • [`2b8b26c`](https://github.com/trueforge-org/truecharts/commit/2b8b26cce956131125c3cc7926d1c4ddc2a003e4) • [@TrueCharts Bot] (2026-02-15)
 - setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
 - test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
+- fix(deps): update renovate/renovate docker tag 43.15.0 → 43.15.1 (#1176) • [`2b8b26c`](https://github.com/trueforge-org/truecharts/commit/2b8b26cce956131125c3cc7926d1c4ddc2a003e4) • [@TrueCharts Bot] (2026-02-15)
 
 ## 43.15.0 • [Train: ]
 
@@ -2133,9 +2137,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Migrate to new Testing backend (#47) • [`4eb3d6f`](https://github.com/trueforge-org/truecharts/commit/4eb3d6ff2cfac84140972f9fdfd726f444b9d270) • [@Kjeld Schouten] (2025-10-03)
 - add empty test files where needed • [`8625972`](https://github.com/trueforge-org/truecharts/commit/862597210eded9c4ec153a08f54cf22060aa58b6) • [@Kjeld Schouten] (2025-10-01)
 - some more work on migrating existing containers • [`1f5b4bb`](https://github.com/trueforge-org/truecharts/commit/1f5b4bb49a6ca79c94490c7b1a59f7410709764b) • [@Kjeld Schouten] (2025-09-29)
-- fix targetarch for renovate • [`cccec29`](https://github.com/trueforge-org/truecharts/commit/cccec2917d3dce9306e0f584edf38aefe43a6a68) • [@Kjeld Schouten] (2025-09-29)
-- hmm • [`e1edfe7`](https://github.com/trueforge-org/truecharts/commit/e1edfe73b16b4cd3705c25828393851b656e44ae) • [@Kjeld Schouten] (2025-09-29)
 - renovate/clustertool targetarch • [`3742238`](https://github.com/trueforge-org/truecharts/commit/3742238e96cfd7cf307c23335581e172170ed7e9) • [@Kjeld Schouten] (2025-09-29)
 - fix more build issues • [`5386b66`](https://github.com/trueforge-org/truecharts/commit/5386b66814a4296f6282b463678213b7948967a0) • [@Kjeld Schouten] (2025-09-29)
 - and cleanup some more • [`bbe4f1b`](https://github.com/trueforge-org/truecharts/commit/bbe4f1b23054b5eb74b5a7719395bd46127024b5) • [@Kjeld Schouten] (2025-09-29)
 - more fixes • [`d36deb3`](https://github.com/trueforge-org/truecharts/commit/d36deb361bd1c8b6fca5a23e8f16b48666767e80) • [@Kjeld Schouten] (2025-09-29)
+- fix targetarch for renovate • [`cccec29`](https://github.com/trueforge-org/truecharts/commit/cccec2917d3dce9306e0f584edf38aefe43a6a68) • [@Kjeld Schouten] (2025-09-29)
+- hmm • [`e1edfe7`](https://github.com/trueforge-org/truecharts/commit/e1edfe73b16b4cd3705c25828393851b656e44ae) • [@Kjeld Schouten] (2025-09-29)
