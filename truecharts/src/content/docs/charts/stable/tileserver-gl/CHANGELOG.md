@@ -3,13 +3,17 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/incubator/tileserver-gl)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/tileserver-gl)
 
 :::tip
 
 If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
 
 :::
+
+## 1.0.0 • [Train: stable]
+
+- feat(tileserver-gl): promote to stable (#52335) • [`40e29ad`](https://github.com/trueforge-org/truecharts/commit/40e29ad5218f335eef270d958ac2dc9ea1810a23) • [@Jaël Champagne Gareau] (2026-09-09)
 
 ## 0.2.0 • [Train: incubator]
 
