@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.10.2 • [Train: stable]
+
+- chore(minecraft-gate): update image ghcr.io/minekube/gate digest to d4f8801 (#52321) • [`b1db3eb`](https://github.com/trueforge-org/truecharts/commit/b1db3eb3bb7044ed3574d1be5ced3fc659ff8aac) • [@TrueCharts Bot] (2026-09-09)
+
 ## 3.10.1 • [Train: stable]
 
 - chore(minecraft-gate): update image ghcr.io/minekube/gate digest to b473e89 (#52307) • [`d262922`](https://github.com/trueforge-org/truecharts/commit/d262922089a47235bdc548771165b5ea159465dd) • [@TrueCharts Bot] (2026-09-09)
@@ -460,8 +464,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 2.12.1 • [Train: stable]
 
@@ -539,8 +543,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.7.2 • [Train: stable]
 
-- chore(helm): update image ghcr.io/minekube/gate digest to 8963697 (#40353) • [`eee69f9`](https://github.com/trueforge-org/truecharts/commit/eee69f99597afb3b5011c5d0db747824db0e2506) • [@TrueCharts Bot] (2025-10-04)
 - Commit daily changes • [`044fb16`](https://github.com/trueforge-org/truecharts/commit/044fb16f843c28067054900ff9c84fbe0c7e2f44) • [@TrueCharts-Bot] (2025-10-04)
+- chore(helm): update image ghcr.io/minekube/gate digest to 8963697 (#40353) • [`eee69f9`](https://github.com/trueforge-org/truecharts/commit/eee69f99597afb3b5011c5d0db747824db0e2506) • [@TrueCharts Bot] (2025-10-04)
 
 ## 2.7.1 • [Train: stable]
 
