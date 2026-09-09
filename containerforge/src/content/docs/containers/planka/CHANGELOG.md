@@ -17,8 +17,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - feat(node-dep): update node.js 24.19.0 → 24.20.0 (#3348) • [`a81c557`](https://github.com/trueforge-org/truecharts/commit/a81c557c62eb1e838d8214a4b99a790a971a2bf0) • [@TrueCharts Bot] (2026-08-27)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to 8c49415 (#3286) • [`119feb9`](https://github.com/trueforge-org/truecharts/commit/119feb99765d486ae93e7de41a95abc13d594443) • [@TrueCharts Bot] (2026-08-26)
 - chore(node-dep): update node.js digest to 9bb5ae1 (#3281) • [`46b37b2`](https://github.com/trueforge-org/truecharts/commit/46b37b2b6f2858ae936fbbed46421a2c871e5397) • [@TrueCharts Bot] (2026-08-21)
-- chore(node-dep): update node.js digest to e4a650b (#3204) • [`57a9a3c`](https://github.com/trueforge-org/truecharts/commit/57a9a3c17b9e2f0866f9a1b91b7790ba4d54fd70) • [@TrueCharts Bot] (2026-08-20)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to aeb8262 (#3262) • [`e98dfbb`](https://github.com/trueforge-org/truecharts/commit/e98dfbbccb77808848ac6ed105ebbebb691145ec) • [@TrueCharts Bot] (2026-08-20)
+- chore(node-dep): update node.js digest to e4a650b (#3204) • [`57a9a3c`](https://github.com/trueforge-org/truecharts/commit/57a9a3c17b9e2f0866f9a1b91b7790ba4d54fd70) • [@TrueCharts Bot] (2026-08-20)
 - fix(deps): update plankanban/planka v2.2.0 → v2.2.1 (#3114) • [`6057b39`](https://github.com/trueforge-org/truecharts/commit/6057b3909ed08afe834c88a3ff572df3ea09163c) • [@TrueCharts Bot] (2026-08-10)
 
 ## 2.2.0 • [Train: ]
@@ -31,14 +31,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 - feat(node-dep): update node.js 24.18.1 → 24.19.0 (#3028) • [`e319ced`](https://github.com/trueforge-org/truecharts/commit/e319cedc96e78a3297a1c9f341f5ce48fa0ee9c1) • [@TrueCharts Bot] (2026-08-04)
 - chore(node-dep): update node.js digest to 225eb6f (#3038) • [`a05a73e`](https://github.com/trueforge-org/truecharts/commit/a05a73e80bb9ce80efd351bbf676e7538f4abeb4) • [@TrueCharts Bot] (2026-08-04)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to 00c230d (#3029) • [`ef99cbb`](https://github.com/trueforge-org/truecharts/commit/ef99cbb7b6978e5dcd7604ab757eec31a9252e95) • [@TrueCharts Bot] (2026-08-04)
-- fix(node-dep): update node.js 24.18.0 → 24.18.1 (#2991) • [`e9b12c2`](https://github.com/trueforge-org/truecharts/commit/e9b12c2a67ca31047322cab44cdbbaa6a7777613) • [@TrueCharts Bot] (2026-07-31)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to 9e4679f (#2994) • [`693e3ac`](https://github.com/trueforge-org/truecharts/commit/693e3acc13bc82fb99c0ab488b0b04ab06147faa) • [@TrueCharts Bot] (2026-07-31)
+- fix(node-dep): update node.js 24.18.0 → 24.18.1 (#2991) • [`e9b12c2`](https://github.com/trueforge-org/truecharts/commit/e9b12c2a67ca31047322cab44cdbbaa6a7777613) • [@TrueCharts Bot] (2026-07-31)
 - chore(node-dep): update node.js digest to 62add29 (#2804) • [`3b3b5ff`](https://github.com/trueforge-org/truecharts/commit/3b3b5ffe522a0db79cd09b9acf5039370e3bee3a) • [@TrueCharts Bot] (2026-07-21)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to d584bd4 (#2886) • [`8a9bcef`](https://github.com/trueforge-org/truecharts/commit/8a9bcef5046aeaced7764de3b0d75ea98c161406) • [@TrueCharts Bot] (2026-07-21)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to fc75c62 (#2815) • [`32fc59b`](https://github.com/trueforge-org/truecharts/commit/32fc59bdaa1f597bba44410dd69c684c09656ad9) • [@TrueCharts Bot] (2026-07-17)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to 572faa3 (#2783) • [`553cf82`](https://github.com/trueforge-org/truecharts/commit/553cf82f2a4f2c1f64c8c0e89706388bdb2835a1) • [@TrueCharts Bot] (2026-07-14)
-- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to 6b5fd22 (#2696) • [`ee3b751`](https://github.com/trueforge-org/truecharts/commit/ee3b7511a4d010ffa92ccd3bf31a27e52e6e8586) • [@TrueCharts Bot] (2026-07-06)
 - chore(node-dep): update node.js digest to 6ec4fab (#2657) • [`890ca0a`](https://github.com/trueforge-org/truecharts/commit/890ca0a8f1a9ee6461236d754964aa5479132e97) • [@TrueCharts Bot] (2026-07-06)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to 6b5fd22 (#2696) • [`ee3b751`](https://github.com/trueforge-org/truecharts/commit/ee3b7511a4d010ffa92ccd3bf31a27e52e6e8586) • [@TrueCharts Bot] (2026-07-06)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to 41fabda (#2663) • [`3baedce`](https://github.com/trueforge-org/truecharts/commit/3baedce0b551b2f526c1056c7e1f30f8452066f4) • [@TrueCharts Bot] (2026-07-02)
 - feat(node-dep): update node.js 24.16.0 → 24.18.0 (#2582) • [`9e671d4`](https://github.com/trueforge-org/truecharts/commit/9e671d4e86ff5cec179b08970d58b6f9700e7f31) • [@TrueCharts Bot] (2026-06-27)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to 4c5a5c1 (#2592) • [`2bc30b9`](https://github.com/trueforge-org/truecharts/commit/2bc30b932d107d902aee34064322b74bbd8407f1) • [@TrueCharts Bot] (2026-06-27)
@@ -55,10 +55,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.26.3 • [Train: ]
 
+- feat(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.13 → 3.14.4 (#2289) • [`78bc726`](https://github.com/trueforge-org/truecharts/commit/78bc7261879d62075fe9e3ec5c94db6d4bd80355) • [@TrueCharts Bot] (2026-05-07)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to f9fa725 (#2302) • [`a193ae2`](https://github.com/trueforge-org/truecharts/commit/a193ae26bed966dde3dc3e2b6e69b95386f47fb0) • [@TrueCharts Bot] (2026-05-07)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to 7682636 (#2309) • [`bde844e`](https://github.com/trueforge-org/truecharts/commit/bde844e9997c1559b0e48a09ca34a3261dea5d1a) • [@TrueCharts Bot] (2026-05-07)
 - chore(node-dep): update node.js digest to 5d40182 (#2261) • [`be16ac1`](https://github.com/trueforge-org/truecharts/commit/be16ac142131cd5a0e1323cc8cfa3aed64c491b4) • [@TrueCharts Bot] (2026-05-07)
 - BREAKING CHANGE(node-dep): Update Node.js 22.22.1 → 24.15.0 (#2288) • [`00be412`](https://github.com/trueforge-org/truecharts/commit/00be4123ffd3499f578a4a2a383a86bc36707ec6) • [@TrueCharts Bot] (2026-05-07)
-- feat(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.13 → 3.14.4 (#2289) • [`78bc726`](https://github.com/trueforge-org/truecharts/commit/78bc7261879d62075fe9e3ec5c94db6d4bd80355) • [@TrueCharts Bot] (2026-05-07)
-- fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.12 → 3.13.13 (#2267) • [`17a4ca8`](https://github.com/trueforge-org/truecharts/commit/17a4ca8833c42862d12abc30f00cbd74c154c63b) • [@TrueCharts Bot] (2026-05-06)
 - fix(node-dep): update node.js 22.22.0 → 22.22.1 (#2265) • [`558e75f`](https://github.com/trueforge-org/truecharts/commit/558e75f627306fad8174d799624671a9e5f29983) • [@TrueCharts Bot] (2026-05-06)
+- fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.12 → 3.13.13 (#2267) • [`17a4ca8`](https://github.com/trueforge-org/truecharts/commit/17a4ca8833c42862d12abc30f00cbd74c154c63b) • [@TrueCharts Bot] (2026-05-06)
