@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.2.3 • [Train: ]
 
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 1888fc2 (#3500) • [`087a179`](https://github.com/trueforge-org/truecharts/commit/087a179cbee793d5b05d9468ce31aa55ded4f2d4) • [@TrueCharts Bot] (2026-09-09)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 24efb13 (#3274) • [`757da61`](https://github.com/trueforge-org/truecharts/commit/757da619634bab38971e7dde42bc716287d187b3) • [@TrueCharts Bot] (2026-08-21)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to bc18251 (#3242) • [`73445ca`](https://github.com/trueforge-org/truecharts/commit/73445cacc72d712713d267e25edae2b98c00d61c) • [@TrueCharts Bot] (2026-08-20)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a1011d7 (#3210) • [`fd375c8`](https://github.com/trueforge-org/truecharts/commit/fd375c899a1e3858e3fd0139b1309a321ed7ddcd) • [@TrueCharts Bot] (2026-08-19)
