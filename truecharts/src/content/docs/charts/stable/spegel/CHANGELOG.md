@@ -221,9 +221,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.15.0 • [Train: stable]
 
+- chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
-- chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 
 ## 4.14.0 • [Train: stable]
 
@@ -487,8 +487,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.4 • [Train: incubator]
 
-- Update values.yaml • [`83f874f`](https://github.com/trueforge-org/truecharts/commit/83f874f8e60dc44c9f67827aac74665c9f519b43) • [@Kjeld Schouten] (2024-10-24)
 - fix(spegel): always enabled storage • [`037d068`](https://github.com/trueforge-org/truecharts/commit/037d06877a8faa41f53108432aac83c568d7f1ce) • [@Kjeld Schouten] (2024-10-24)
+- Update values.yaml • [`83f874f`](https://github.com/trueforge-org/truecharts/commit/83f874f8e60dc44c9f67827aac74665c9f519b43) • [@Kjeld Schouten] (2024-10-24)
 - fix(spegel): ensure its a daemonset • [`646e088`](https://github.com/trueforge-org/truecharts/commit/646e0882d71fcd8aa3bf476a80476542d021db51) • [@Kjeld Schouten] (2024-10-23)
 
 ## 2.0.3 • [Train: incubator]
