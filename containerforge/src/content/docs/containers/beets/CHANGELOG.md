@@ -60,8 +60,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix: pin alpine and python versions across all apps [ci-skip] (#433) • [`9e95f5e`](https://github.com/trueforge-org/truecharts/commit/9e95f5edc549c49c5c1d64247f1d28dee327ad6e) • [@Devin Buhl] (2025-05-11)
 - fix: update wheels and env for python apps (#425) • [`1ae0723`](https://github.com/trueforge-org/truecharts/commit/1ae0723094990a7174c34bea5c70de4c652b2fae) • [@Devin Buhl] (2025-05-10)
-- chore(beets): update docker build (#417) • [`d1f6353`](https://github.com/trueforge-org/truecharts/commit/d1f63533f3a4bb98ab24961cea4cec14d7ff5593) • [@Devin Buhl] (2025-05-07)
 - feat(github-release): update release beetbox/beets (v2.2.0 → v2.3.0) (#416) • [`2af3c86`](https://github.com/trueforge-org/truecharts/commit/2af3c861507da90c8609a89ae61748cdd08b407f) • [@sticky-gecko[bot]] (2025-05-07)
+- chore(beets): update docker build (#417) • [`d1f6353`](https://github.com/trueforge-org/truecharts/commit/d1f63533f3a4bb98ab24961cea4cec14d7ff5593) • [@Devin Buhl] (2025-05-07)
 
 ## 2.2.0 • [Train: ]
 
