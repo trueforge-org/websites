@@ -101,8 +101,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
 - move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
-- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
+- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
 - fix(deps): update homeassistant 2026.4.2 → 2026.4.3 (#1841) • [`28e1f9e`](https://github.com/trueforge-org/truecharts/commit/28e1f9e568f9da9cd5a1306e4bf761e968e04b0d) • [@TrueCharts Bot] (2026-04-18)
 
@@ -120,33 +120,33 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 00bb627 (#1736) • [`c4cc46b`](https://github.com/trueforge-org/truecharts/commit/c4cc46b36ec9442cf0d62de4ea808a7764818fc9) • [@TrueCharts Bot] (2026-04-07)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to cc5a5a3 (#1702) • [`4b64d16`](https://github.com/trueforge-org/truecharts/commit/4b64d16e8887aeb1cea5bbeda5ae75085c6c3ed3) • [@TrueCharts Bot] (2026-03-30)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to b2e5413 (#1692) • [`340e7db`](https://github.com/trueforge-org/truecharts/commit/340e7db7596f53f135db6f0555f92016958f989a) • [@TrueCharts Bot] (2026-03-29)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 1ffd2f7 (#1488) • [`e6e72fe`](https://github.com/trueforge-org/truecharts/commit/e6e72fe134d0d1765ab902da92d97ca93e91783d) • [@TrueCharts Bot] (2026-02-21)
 - chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 1ffd2f7 (#1488) • [`e6e72fe`](https://github.com/trueforge-org/truecharts/commit/e6e72fe134d0d1765ab902da92d97ca93e91783d) • [@TrueCharts Bot] (2026-02-21)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 8ba5cf9 (#1509) • [`a582912`](https://github.com/trueforge-org/truecharts/commit/a58291290b2a0820618bf40649bdd551b32c8d60) • [@TrueCharts Bot] (2026-02-21)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 32f90bc (#1493) • [`23a097e`](https://github.com/trueforge-org/truecharts/commit/23a097e6fdca0f83ccc8cd5abf34cb43479ba3a6) • [@TrueCharts Bot] (2026-02-21)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to ec0d5db (#1516) • [`41122ab`](https://github.com/trueforge-org/truecharts/commit/41122ab0323066115e663341213c1fd47a314b50) • [@TrueCharts Bot] (2026-02-21)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to cafd0ad (#1503) • [`f0ec708`](https://github.com/trueforge-org/truecharts/commit/f0ec70837db9aebcf5d3b1d23265846f79121975) • [@TrueCharts Bot] (2026-02-21)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to ec0d5db (#1516) • [`41122ab`](https://github.com/trueforge-org/truecharts/commit/41122ab0323066115e663341213c1fd47a314b50) • [@TrueCharts Bot] (2026-02-21)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 32f90bc (#1493) • [`23a097e`](https://github.com/trueforge-org/truecharts/commit/23a097e6fdca0f83ccc8cd5abf34cb43479ba3a6) • [@TrueCharts Bot] (2026-02-21)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to e879aa6 (#1473) • [`9c62d60`](https://github.com/trueforge-org/truecharts/commit/9c62d60c8e64f60309e1fd6948dcfc7740cfa522) • [@TrueCharts Bot] (2026-02-20)
 - feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to d5ee442 (#1411) • [`bdbd669`](https://github.com/trueforge-org/truecharts/commit/bdbd669e00c460ff0d7e8c794dde3aa0567061e5) • [@TrueCharts Bot] (2026-02-19)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 3fa1246 (#1440) • [`d136c5c`](https://github.com/trueforge-org/truecharts/commit/d136c5cfca5162947fb01080b71ec132b84ae47a) • [@TrueCharts Bot] (2026-02-19)
 - Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 3fa1246 (#1440) • [`d136c5c`](https://github.com/trueforge-org/truecharts/commit/d136c5cfca5162947fb01080b71ec132b84ae47a) • [@TrueCharts Bot] (2026-02-19)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 8b4bc44 (#1428) • [`6b51cc9`](https://github.com/trueforge-org/truecharts/commit/6b51cc9b5ae25e5a57e4f17c43c14c10e73de687) • [@TrueCharts Bot] (2026-02-19)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 911cc57 (#1361) • [`62a6538`](https://github.com/trueforge-org/truecharts/commit/62a6538fcb9ce1e0d8df5749afd41d710dede24a) • [@TrueCharts Bot] (2026-02-18)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to cac0b51 (#1389) • [`8dd5fe9`](https://github.com/trueforge-org/truecharts/commit/8dd5fe93009898636991f7e8f4497d6e1ce1a8ec) • [@TrueCharts Bot] (2026-02-18)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to d5ee442 (#1411) • [`bdbd669`](https://github.com/trueforge-org/truecharts/commit/bdbd669e00c460ff0d7e8c794dde3aa0567061e5) • [@TrueCharts Bot] (2026-02-19)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to a6e9da2 (#1375) • [`0136ff6`](https://github.com/trueforge-org/truecharts/commit/0136ff6ee09ffa4a0d5c98f10e0bf7a279a5a416) • [@TrueCharts Bot] (2026-02-18)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to cac0b51 (#1389) • [`8dd5fe9`](https://github.com/trueforge-org/truecharts/commit/8dd5fe93009898636991f7e8f4497d6e1ce1a8ec) • [@TrueCharts Bot] (2026-02-18)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 911cc57 (#1361) • [`62a6538`](https://github.com/trueforge-org/truecharts/commit/62a6538fcb9ce1e0d8df5749afd41d710dede24a) • [@TrueCharts Bot] (2026-02-18)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 0c2ff68 (#1338) • [`febcc92`](https://github.com/trueforge-org/truecharts/commit/febcc92807f6b867bf608b93ae03140e3404c07f) • [@TrueCharts Bot] (2026-02-17)
 - fix apps:aps • [`74aee74`](https://github.com/trueforge-org/truecharts/commit/74aee7426b6f7ceb33768e9d0415e9f1dbd6b9e0) • [@Kjeld Schouten] (2026-02-17)
+- feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to d9b5d12 (#1298) • [`0bfdb42`](https://github.com/trueforge-org/truecharts/commit/0bfdb42077442ed6927495f41fd45413962d2b7e) • [@TrueCharts Bot] (2026-02-16)
 - feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 2eeeff0 (#1233) • [`5f431f8`](https://github.com/trueforge-org/truecharts/commit/5f431f8a6641c5871bbe94fd9dc9f4aa65aed63d) • [@TrueCharts Bot] (2026-02-16)
-- feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 3ba383a (#1268) • [`dd6d0e2`](https://github.com/trueforge-org/truecharts/commit/dd6d0e2f2c3cecae1e1f87cab8db22255dc3865d) • [@TrueCharts Bot] (2026-02-16)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 0075081 (#1250) • [`f1a47cd`](https://github.com/trueforge-org/truecharts/commit/f1a47cd5f5d9b7abdb1d292018eca8f888d0bd04) • [@TrueCharts Bot] (2026-02-16)
-- test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 3ba383a (#1268) • [`dd6d0e2`](https://github.com/trueforge-org/truecharts/commit/dd6d0e2f2c3cecae1e1f87cab8db22255dc3865d) • [@TrueCharts Bot] (2026-02-16)
 - Fix container startup regressions in Python apps and harden container tests for rootless /config mounts (#1180) • [`aa531a1`](https://github.com/trueforge-org/truecharts/commit/aa531a1e1a9a785568f17bc64371cd8c95bcd5aa) • [@Copilot] (2026-02-15)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.7 → 3.13.12 (#1148) • [`c47dada`](https://github.com/trueforge-org/truecharts/commit/c47dadaa6f84ccd7bb7892a173b8e1dfb7fd41d5) • [@TrueCharts Bot] (2026-02-15)
 - test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
+- test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
 - setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
 - fix(deps): update homeassistant 2026.2.1 → 2026.2.2 (#1107) • [`8fc1a04`](https://github.com/trueforge-org/truecharts/commit/8fc1a041c90dabf31cf7ecf32c4191d4211afccd) • [@TrueCharts Bot] (2026-02-13)
 
@@ -198,9 +198,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2025.11.3 • [Train: ]
 
 - more venv fixes • [`19bca36`](https://github.com/trueforge-org/truecharts/commit/19bca3647b37207c3a2ffc9f6ac4b18d4aa5b0e9) • [@Kjeld Schouten] (2025-11-27)
-- release(update): update image ghcr.io/trueforge-org/python (7f3a002 → be294e0) (#505) • [`bd5440e`](https://github.com/trueforge-org/truecharts/commit/bd5440e50b644e067ae5c4332c4b1a4de92123e0) • [@TrueCharts Bot] (2025-11-22)
 - fix(ci): allow more http codes in tests (#473) • [`202cf8a`](https://github.com/trueforge-org/truecharts/commit/202cf8a5130fad3076c29ae78aa824ceb84babff) • [@Kjeld Schouten] (2025-11-22)
 - release(update): update image ghcr.io/trueforge-org/python (6119b5e → 7f3a002) (#492) • [`67bc1c2`](https://github.com/trueforge-org/truecharts/commit/67bc1c259f30c268a40b11022bcab3ac1db8071b) • [@TrueCharts Bot] (2025-11-22)
+- release(update): update image ghcr.io/trueforge-org/python (7f3a002 → be294e0) (#505) • [`bd5440e`](https://github.com/trueforge-org/truecharts/commit/bd5440e50b644e067ae5c4332c4b1a4de92123e0) • [@TrueCharts Bot] (2025-11-22)
 - release(home-assistant): update homeassistant (2025.11.2 → 2025.11.3) (#459) • [`9169ba8`](https://github.com/trueforge-org/truecharts/commit/9169ba880a699ef92c9122663d098a8936d756b0) • [@TrueCharts Bot] (2025-11-21)
 
 ## 2025.11.2 • [Train: ]
@@ -219,10 +219,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - release(home-assistant): update ghcr.io/trueforge-org/python ( 3.13.7 → ) (#194) • [`3cbcc88`](https://github.com/trueforge-org/truecharts/commit/3cbcc88028fe7bc38ad81889b121a9507681dc72) • [@TrueCharts Bot] (2025-11-10)
 - ensure chown is set to 568 • [`ad180e7`](https://github.com/trueforge-org/truecharts/commit/ad180e796fe163581d600b141c5213eec6716754) • [@Kjeld Schouten] (2025-11-08)
-- release(home-assistant): update homeassistant ( 2025.10.4 → 2025.11.0 ) (#169) • [`5ec4d74`](https://github.com/trueforge-org/truecharts/commit/5ec4d7446d2d3dfa1656ec4b16dd1dc4a1a5421d) • [@TrueCharts Bot] (2025-11-07)
 - release(home-assistant): update ghcr.io/trueforge-org/python ( 3.13.7 → ) (#182) • [`769710f`](https://github.com/trueforge-org/truecharts/commit/769710f693110c43d48e43f8acd24cf6a97c7b97) • [@TrueCharts Bot] (2025-11-07)
 - remove dockerfile 1 syntax annottation • [`76e212f`](https://github.com/trueforge-org/truecharts/commit/76e212fe36cb398f7f86e321ffdc553e21bcef70) • [@Kjeld Schouten] (2025-11-07)
 - more agressively utilise apps user • [`9162777`](https://github.com/trueforge-org/truecharts/commit/91627771eb14c59a3ffafd597d3cf02792b1af4b) • [@Kjeld Schouten] (2025-11-07)
+- release(home-assistant): update homeassistant ( 2025.10.4 → 2025.11.0 ) (#169) • [`5ec4d74`](https://github.com/trueforge-org/truecharts/commit/5ec4d7446d2d3dfa1656ec4b16dd1dc4a1a5421d) • [@TrueCharts Bot] (2025-11-07)
 
 ## 2025.10.4 • [Train: ]
 
@@ -256,32 +256,32 @@ If you need more than 2 scrolls to find your current version, please consider up
 - move to tiny • [`4c093f7`](https://github.com/trueforge-org/truecharts/commit/4c093f76f1cc7af3dfcb022a3a80fff570c11fae) • [@Kjeld Schouten] (2025-10-03)
 - play around with copy • [`1a9b2cc`](https://github.com/trueforge-org/truecharts/commit/1a9b2cc3547a75732bdd5766ddbc72199704da4d) • [@Kjeld Schouten] (2025-10-03)
 - oops • [`7f04669`](https://github.com/trueforge-org/truecharts/commit/7f04669dd9d44a5d99d563e5edddfceac05d36b8) • [@Kjeld Schouten] (2025-10-03)
-- Port all containers to ubuntu (#43) • [`ba0dc35`](https://github.com/trueforge-org/truecharts/commit/ba0dc35d83681670546bc82fc51755a89c9a408b) • [@Kjeld Schouten] (2025-10-02)
-- libpq-dev • [`36fb36a`](https://github.com/trueforge-org/truecharts/commit/36fb36a5497e6e3c232329c3c80bc9137779d9bb) • [@Kjeld Schouten] (2025-10-02)
 - requirements-all • [`f1c9e37`](https://github.com/trueforge-org/truecharts/commit/f1c9e37486309e60b5092419ccf5ca4a8cf83a08) • [@Kjeld Schouten] (2025-10-02)
-- done us HA BASE • [`df61758`](https://github.com/trueforge-org/truecharts/commit/df61758a52910c2ea63ebf9b14a22c6b5264c013) • [@Kjeld Schouten] (2025-10-02)
-- force myscql client to be installed from binary • [`7018df5`](https://github.com/trueforge-org/truecharts/commit/7018df50abe1b1a656aea147ee2f3cbbc69e7886) • [@Kjeld Schouten] (2025-10-02)
 - package fixes • [`86fb20a`](https://github.com/trueforge-org/truecharts/commit/86fb20a2c77bb625f76550748fdda732a7a1278e) • [@Kjeld Schouten] (2025-10-02)
-- build more bare-bones HASS • [`ee2805a`](https://github.com/trueforge-org/truecharts/commit/ee2805aa233c5235f4349fa78237a75b7f1caada) • [@Kjeld Schouten] (2025-10-02)
-- only binary remove • [`50ba835`](https://github.com/trueforge-org/truecharts/commit/50ba835d19d60b92b3b7e1f3c9101cb67e785400) • [@Kjeld Schouten] (2025-10-02)
+- Port all containers to ubuntu (#43) • [`ba0dc35`](https://github.com/trueforge-org/truecharts/commit/ba0dc35d83681670546bc82fc51755a89c9a408b) • [@Kjeld Schouten] (2025-10-02)
 - psycpgs binary HA remove • [`2a74035`](https://github.com/trueforge-org/truecharts/commit/2a74035c92798fed3ed2e43462fca6305be8f739) • [@Kjeld Schouten] (2025-10-02)
-- some cleanup on homeassistant • [`17d1747`](https://github.com/trueforge-org/truecharts/commit/17d1747a23f17499506a624b949b220314642a42) • [@Kjeld Schouten] (2025-10-02)
+- only binary remove • [`50ba835`](https://github.com/trueforge-org/truecharts/commit/50ba835d19d60b92b3b7e1f3c9101cb67e785400) • [@Kjeld Schouten] (2025-10-02)
+- libpq-dev • [`36fb36a`](https://github.com/trueforge-org/truecharts/commit/36fb36a5497e6e3c232329c3c80bc9137779d9bb) • [@Kjeld Schouten] (2025-10-02)
+- force myscql client to be installed from binary • [`7018df5`](https://github.com/trueforge-org/truecharts/commit/7018df50abe1b1a656aea147ee2f3cbbc69e7886) • [@Kjeld Schouten] (2025-10-02)
 - some extra reqs for building python reqs • [`5e1d487`](https://github.com/trueforge-org/truecharts/commit/5e1d4875c32cd4361be2815f96ff71e2e9abe68a) • [@Kjeld Schouten] (2025-10-02)
-- SHELL on ha • [`11be32c`](https://github.com/trueforge-org/truecharts/commit/11be32c4fe9ed8b88b0b076cdb6dba7633bdb2f0) • [@Kjeld Schouten] (2025-10-02)
 - libtiff6 • [`da21dec`](https://github.com/trueforge-org/truecharts/commit/da21dec79225db9f1ca83e7160b6944f80bd2f70) • [@Kjeld Schouten] (2025-10-02)
+- SHELL on ha • [`11be32c`](https://github.com/trueforge-org/truecharts/commit/11be32c4fe9ed8b88b0b076cdb6dba7633bdb2f0) • [@Kjeld Schouten] (2025-10-02)
+- some cleanup on homeassistant • [`17d1747`](https://github.com/trueforge-org/truecharts/commit/17d1747a23f17499506a624b949b220314642a42) • [@Kjeld Schouten] (2025-10-02)
 - pkg-config • [`66e3e1c`](https://github.com/trueforge-org/truecharts/commit/66e3e1c8dbba5ad8defbccb1fcaa825b0eeb733b) • [@Kjeld Schouten] (2025-10-02)
-- psycopg2-binary • [`3946344`](https://github.com/trueforge-org/truecharts/commit/394634464a6ccc0ed5530f4e6b8a8f421283b171) • [@Kjeld Schouten] (2025-10-01)
-- hmm • [`594ab97`](https://github.com/trueforge-org/truecharts/commit/594ab97e4a552422eca143eb04c035634a5118e7) • [@Kjeld Schouten] (2025-10-01)
-- update python on everything • [`5a6d962`](https://github.com/trueforge-org/truecharts/commit/5a6d96229eee31bd7e1d252b5b5ee5b109ee5d2a) • [@Kjeld Schouten] (2025-10-01)
+- done us HA BASE • [`df61758`](https://github.com/trueforge-org/truecharts/commit/df61758a52910c2ea63ebf9b14a22c6b5264c013) • [@Kjeld Schouten] (2025-10-02)
+- build more bare-bones HASS • [`ee2805a`](https://github.com/trueforge-org/truecharts/commit/ee2805aa233c5235f4349fa78237a75b7f1caada) • [@Kjeld Schouten] (2025-10-02)
 - remove some envs • [`e6df2dd`](https://github.com/trueforge-org/truecharts/commit/e6df2dd22f0e018e46f4555245a1538c92c2281f) • [@Kjeld Schouten] (2025-10-01)
 - hmmm • [`06ec2ff`](https://github.com/trueforge-org/truecharts/commit/06ec2ff77b0ed198f23e4889d68da759c96bbfcf) • [@Kjeld Schouten] (2025-10-01)
-- unsafe best match • [`7517f95`](https://github.com/trueforge-org/truecharts/commit/7517f958a7541c096be49b86ac78fdf67efef29c) • [@Kjeld Schouten] (2025-09-30)
-- use our own python-alpine container • [`145ad58`](https://github.com/trueforge-org/truecharts/commit/145ad58a9685657c10252416ffee2f2db6051788) • [@Kjeld Schouten] (2025-09-30)
+- hmm • [`594ab97`](https://github.com/trueforge-org/truecharts/commit/594ab97e4a552422eca143eb04c035634a5118e7) • [@Kjeld Schouten] (2025-10-01)
+- psycopg2-binary • [`3946344`](https://github.com/trueforge-org/truecharts/commit/394634464a6ccc0ed5530f4e6b8a8f421283b171) • [@Kjeld Schouten] (2025-10-01)
+- update python on everything • [`5a6d962`](https://github.com/trueforge-org/truecharts/commit/5a6d96229eee31bd7e1d252b5b5ee5b109ee5d2a) • [@Kjeld Schouten] (2025-10-01)
 - uv has no prefer binary flag • [`612fd18`](https://github.com/trueforge-org/truecharts/commit/612fd18d053d6097836bc0343bd8ba62972e15c9) • [@Kjeld Schouten] (2025-09-30)
+- dealing with more pip settings • [`b876e55`](https://github.com/trueforge-org/truecharts/commit/b876e55ec2ff566adfc13fed0177720f17c603a2) • [@Kjeld Schouten] (2025-09-30)
 - more wheels • [`fe2b09c`](https://github.com/trueforge-org/truecharts/commit/fe2b09c9eb722ca291ad5944b4e0cc6cbe082d0c) • [@Kjeld Schouten] (2025-09-30)
 - test homeass build • [`6b980b2`](https://github.com/trueforge-org/truecharts/commit/6b980b2ea32a23a540a83a0e8ff3051b80a02d53) • [@Kjeld Schouten] (2025-09-30)
+- unsafe best match • [`7517f95`](https://github.com/trueforge-org/truecharts/commit/7517f958a7541c096be49b86ac78fdf67efef29c) • [@Kjeld Schouten] (2025-09-30)
 - include official wheel repo • [`026e22c`](https://github.com/trueforge-org/truecharts/commit/026e22c301ba149730dc30b7765eac7e8a8abc8d) • [@Kjeld Schouten] (2025-09-30)
-- dealing with more pip settings • [`b876e55`](https://github.com/trueforge-org/truecharts/commit/b876e55ec2ff566adfc13fed0177720f17c603a2) • [@Kjeld Schouten] (2025-09-30)
+- use our own python-alpine container • [`145ad58`](https://github.com/trueforge-org/truecharts/commit/145ad58a9685657c10252416ffee2f2db6051788) • [@Kjeld Schouten] (2025-09-30)
 - Some more work on alpine and docker labels • [`a3532dc`](https://github.com/trueforge-org/truecharts/commit/a3532dcdc8a72895ab27fe2eb6ac3cad10eac116) • [@Kjeld Schouten] (2025-09-29)
 - Change default license and add note about licenses • [`44bc503`](https://github.com/trueforge-org/truecharts/commit/44bc503ecbbd86e59878cd4bd06251f8f64ae5df) • [@Kjeld Schouten] (2025-09-28)
 - release(home-assistant): update homeassistant ( 2025.9.3 → 2025.9.4 ) (#829) • [`6c8a592`](https://github.com/trueforge-org/truecharts/commit/6c8a592d69ab646a26c5da5326be76afe63daf3e) • [@sticky-gecko[bot]] (2025-09-19)
@@ -378,8 +378,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2025.4.4 • [Train: ]
 
 - feat: remove tz and umask envs [ci-skip] (#408) • [`099cb44`](https://github.com/trueforge-org/truecharts/commit/099cb4499fa9b2436b8df67bc2f56d6f4275773a) • [@Devin Buhl] (2025-05-04)
-- chore(home-assistant): use pypi as datasource [ci-skip] (#383) • [`075947b`](https://github.com/trueforge-org/truecharts/commit/075947b2c5cadbc561629bba3e5eb934e37f6ca0) • [@Devin Buhl] (2025-04-25)
 - fix(github-release): update release home-assistant/core (2025.4.3 → 2025.4.4) (#381) • [`f1a997c`](https://github.com/trueforge-org/truecharts/commit/f1a997ca7824fd9330635a0fe80b464dce8e970a) • [@sticky-gecko[bot]] (2025-04-25)
+- chore(home-assistant): use pypi as datasource [ci-skip] (#383) • [`075947b`](https://github.com/trueforge-org/truecharts/commit/075947b2c5cadbc561629bba3e5eb934e37f6ca0) • [@Devin Buhl] (2025-04-25)
 
 ## 2025.4.3 • [Train: ]
 
@@ -387,9 +387,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2025.4.2 • [Train: ]
 
-- feat(home-assistant): sync up alpine packages from upstream (#351) • [`b6a0139`](https://github.com/trueforge-org/truecharts/commit/b6a0139879e41353b3fc6796d340fb76ebd2df3d) • [@Devin Buhl] (2025-04-15)
 - fix(home-assistant): Python on MUSL cannot library path (#354) • [`c69a731`](https://github.com/trueforge-org/truecharts/commit/c69a7310a25a31f2261964faf892187a073d4536) • [@Devin Buhl] (2025-04-15)
 - fix(home-assistant): use home-assistant python base (#355) • [`d145fd0`](https://github.com/trueforge-org/truecharts/commit/d145fd0a44ace91e4f3f5de822c1e78f7d8138c4) • [@Devin Buhl] (2025-04-15)
+- feat(home-assistant): sync up alpine packages from upstream (#351) • [`b6a0139`](https://github.com/trueforge-org/truecharts/commit/b6a0139879e41353b3fc6796d340fb76ebd2df3d) • [@Devin Buhl] (2025-04-15)
 - fix(github-release): update release home-assistant/core (2025.4.1 → 2025.4.2) (#337) • [`f09ee9d`](https://github.com/trueforge-org/truecharts/commit/f09ee9d08fe062f0f593ffa7fe570b3e723bf35a) • [@sticky-gecko[bot]] (2025-04-12)
 - fix(home-assistant): Add mailcap to install /etc/mime.types for proper tts proxy support (#338) • [`f5d82de`](https://github.com/trueforge-org/truecharts/commit/f5d82de4fec38ff7db1851f45917b7568577104b) • [@hagak] (2025-04-12)
 
@@ -402,8 +402,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2025.4.0 • [Train: ]
 
 - feat: container housekeeping [ci-skip] (#302) • [`b834303`](https://github.com/trueforge-org/truecharts/commit/b834303df234fa3cc9ce7367f3be76e39e74c0b4) • [@Devin Buhl] (2025-04-03)
-- fix(hass): set PYTHONUSERBASE (#299) • [`3dd85f9`](https://github.com/trueforge-org/truecharts/commit/3dd85f957ab9c9ed9d6a0a608cb58594dadb38b9) • [@Devin Buhl] (2025-04-02)
 - feat(github-release): update release home-assistant/core (2025.3.4 → 2025.4.0) (#298) • [`bb9d1eb`](https://github.com/trueforge-org/truecharts/commit/bb9d1ebc5bf075eea2f2bcf7922483fec4b38bcc) • [@sticky-gecko[bot]] (2025-04-02)
+- fix(hass): set PYTHONUSERBASE (#299) • [`3dd85f9`](https://github.com/trueforge-org/truecharts/commit/3dd85f957ab9c9ed9d6a0a608cb58594dadb38b9) • [@Devin Buhl] (2025-04-02)
 
 ## 2025.3.4 • [Train: ]
 

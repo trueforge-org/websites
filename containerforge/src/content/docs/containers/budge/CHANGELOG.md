@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.9 • [Train: ]
 
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to a8809d2 (#3509) • [`921e209`](https://github.com/trueforge-org/truecharts/commit/921e2097445ad8212368d46d39affd36147d2980) • [@TrueCharts Bot] (2026-09-10)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to 9425749 (#3352) • [`32dbf07`](https://github.com/trueforge-org/truecharts/commit/32dbf0718ca054081541ca00257eb5de8d42f8b5) • [@TrueCharts Bot] (2026-08-28)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to 8c49415 (#3286) • [`119feb9`](https://github.com/trueforge-org/truecharts/commit/119feb99765d486ae93e7de41a95abc13d594443) • [@TrueCharts Bot] (2026-08-26)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to aeb8262 (#3262) • [`e98dfbb`](https://github.com/trueforge-org/truecharts/commit/e98dfbbccb77808848ac6ed105ebbebb691145ec) • [@TrueCharts Bot] (2026-08-20)
@@ -31,11 +32,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.5 docker digest digest to bd70ab5 (#2469) • [`6fee23e`](https://github.com/trueforge-org/truecharts/commit/6fee23ee6e1f7311416651cf64210c600e2426d2) • [@TrueCharts Bot] (2026-06-09)
 - [WIP] fix(ci): resolve release failure for budge (#2317) • [`ddad54a`](https://github.com/trueforge-org/truecharts/commit/ddad54aab2b9def666a32821f1ef8de3a8cc8458) • [@Copilot] (2026-06-08)
 - fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.14.4 → 3.14.5 (#2378) • [`9dc7204`](https://github.com/trueforge-org/truecharts/commit/9dc72047dc92275818e4242385ffb8a72bca80a7) • [@TrueCharts Bot] (2026-05-18)
-- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to dc445cf (#2329) • [`8f965cd`](https://github.com/trueforge-org/truecharts/commit/8f965cdb278e85539ef8092bf7427d7de902b62b) • [@TrueCharts Bot] (2026-05-07)
-- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to f9fa725 (#2302) • [`a193ae2`](https://github.com/trueforge-org/truecharts/commit/a193ae26bed966dde3dc3e2b6e69b95386f47fb0) • [@TrueCharts Bot] (2026-05-07)
-- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to 7682636 (#2309) • [`bde844e`](https://github.com/trueforge-org/truecharts/commit/bde844e9997c1559b0e48a09ca34a3261dea5d1a) • [@TrueCharts Bot] (2026-05-07)
 - fix(budge): pin npm to v10 so optional peer deps install during frontend build (#2295) • [`06b178d`](https://github.com/trueforge-org/truecharts/commit/06b178d84f6f4b31c0dd770e02639d9de149cdac) • [@Copilot] (2026-05-07)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to f9fa725 (#2302) • [`a193ae2`](https://github.com/trueforge-org/truecharts/commit/a193ae26bed966dde3dc3e2b6e69b95386f47fb0) • [@TrueCharts Bot] (2026-05-07)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to dc445cf (#2329) • [`8f965cd`](https://github.com/trueforge-org/truecharts/commit/8f965cdb278e85539ef8092bf7427d7de902b62b) • [@TrueCharts Bot] (2026-05-07)
 - feat(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.13 → 3.14.4 (#2289) • [`78bc726`](https://github.com/trueforge-org/truecharts/commit/78bc7261879d62075fe9e3ec5c94db6d4bd80355) • [@TrueCharts Bot] (2026-05-07)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to 7682636 (#2309) • [`bde844e`](https://github.com/trueforge-org/truecharts/commit/bde844e9997c1559b0e48a09ca34a3261dea5d1a) • [@TrueCharts Bot] (2026-05-07)
 - move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
