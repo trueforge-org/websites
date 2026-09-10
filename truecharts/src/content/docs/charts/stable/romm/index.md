@@ -2,7 +2,7 @@
 title: romm
 ---
 
-![Version: 19.8.0](https://img.shields.io/badge/Version-19.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.2.0](https://img.shields.io/badge/AppVersion-5.2.0-informational?style=flat-square)
+![Version: 19.9.0](https://img.shields.io/badge/Version-19.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.2.0](https://img.shields.io/badge/AppVersion-5.2.0-informational?style=flat-square)
 
 game library manager focused in retro gaming
 
