@@ -74,8 +74,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.8.4 • [Train: stable]
 
 - Commit daily changes • [`6c96fb9`](https://github.com/trueforge-org/truecharts/commit/6c96fb9c0f61466a11175a024f980a4176189922) • [@TrueCharts-Bot] (2026-03-18)
-- fix(agregarr): update image ghcr.io/agregarr/agregarr v2.4.1 → v2.4.2 (#46131) • [`3dcb006`](https://github.com/trueforge-org/truecharts/commit/3dcb0068449c995d96a69ba95567291205e78267) • [@TrueCharts Bot] (2026-03-17)
 - fix(charts): fix chart.yaml annotations for all charts (#46134) • [`ec19970`](https://github.com/trueforge-org/truecharts/commit/ec199707c168c3a76dc75df987ef09f6f4b53a88) • [@Alfred Göppel] (2026-03-17)
+- fix(agregarr): update image ghcr.io/agregarr/agregarr v2.4.1 → v2.4.2 (#46131) • [`3dcb006`](https://github.com/trueforge-org/truecharts/commit/3dcb0068449c995d96a69ba95567291205e78267) • [@TrueCharts Bot] (2026-03-17)
 
 ## 2.8.3 • [Train: stable]
 
@@ -281,8 +281,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.3.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 1.3.0 • [Train: stable]
 

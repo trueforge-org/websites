@@ -2,7 +2,7 @@
 title: wallos
 ---
 
-![Version: 11.8.0](https://img.shields.io/badge/Version-11.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.6.0](https://img.shields.io/badge/AppVersion-5.6.0-informational?style=flat-square)
+![Version: 11.9.0](https://img.shields.io/badge/Version-11.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.7.1](https://img.shields.io/badge/AppVersion-5.7.1-informational?style=flat-square)
 
 Wallos - Self Hosted Subscription tracker
 

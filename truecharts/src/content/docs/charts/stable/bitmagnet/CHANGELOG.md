@@ -114,8 +114,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.17 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 4.13.16 • [Train: stable]
 
@@ -562,8 +562,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.9.4 • [Train: stable]
 
-- chore(docs): Fix broken links for Starlight (#20737) • [`f8affcc`](https://github.com/trueforge-org/truecharts/commit/f8affccb717a62183d56eace9a6897ec7a0bebba) • [@StevenMcElligott] (2024-04-14)
 - chore(docs): make links relative • [`5ba71e6`](https://github.com/trueforge-org/truecharts/commit/5ba71e6ec30b5defcdb5340f0776cc6362db5511) • [@Stavros Kois] (2024-04-14)
+- chore(docs): Fix broken links for Starlight (#20737) • [`f8affcc`](https://github.com/trueforge-org/truecharts/commit/f8affccb717a62183d56eace9a6897ec7a0bebba) • [@StevenMcElligott] (2024-04-14)
 - chore(deps): update container image common to v20.3.6@27edfed by renovate (#20599) • [`6c807c1`](https://github.com/trueforge-org/truecharts/commit/6c807c1f9707d9fd751d71cbfed29469368880e2) • [@TrueCharts Bot] (2024-04-11)
 
 ## 1.9.3 • [Train: stable]
@@ -679,8 +679,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.1.4 • [Train: stable]
 
 - chore: pre-commit cleanup • [`d66746c`](https://github.com/trueforge-org/truecharts/commit/d66746cae553d4bbb1ca4b2e013e1be0410dd3a3) • [@Kjeld Schouten] (2024-02-27)
-- docs(bitmagnet) add Scale App Installation docs (#18563) • [`27f32e8`](https://github.com/trueforge-org/truecharts/commit/27f32e8c94712718778fd9443ce6e8ce8a939f30) • [@Xstar97TheNoob] (2024-02-26)
 - chore(deps): update container image common to v18.0.3@3f3170c by renovate (#18664) • [`eb6ece6`](https://github.com/trueforge-org/truecharts/commit/eb6ece6923050f017bf8fa56d3bbce1ca6644d2e) • [@TrueCharts Bot] (2024-02-26)
+- docs(bitmagnet) add Scale App Installation docs (#18563) • [`27f32e8`](https://github.com/trueforge-org/truecharts/commit/27f32e8c94712718778fd9443ce6e8ce8a939f30) • [@Xstar97TheNoob] (2024-02-26)
 
 ## 1.1.3 • [Train: stable]
 
