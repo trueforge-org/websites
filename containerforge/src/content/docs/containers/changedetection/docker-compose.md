@@ -39,7 +39,7 @@ services:
       USE_X_SETTINGS_FILE: ""
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/changedetection:0.60.3
+    image: ghcr.io/trueforge-org/changedetection:0.60.4
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
