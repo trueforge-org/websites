@@ -20,8 +20,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat(node-dep): update node.js 24.19.0 → 24.20.0 (#3348) • [`a81c557`](https://github.com/trueforge-org/truecharts/commit/a81c557c62eb1e838d8214a4b99a790a971a2bf0) • [@TrueCharts Bot] (2026-08-27)
 - chore(node-dep): update node.js digest to 9bb5ae1 (#3281) • [`46b37b2`](https://github.com/trueforge-org/truecharts/commit/46b37b2b6f2858ae936fbbed46421a2c871e5397) • [@TrueCharts Bot] (2026-08-21)
-- chore(node-dep): update node.js digest to e4a650b (#3204) • [`57a9a3c`](https://github.com/trueforge-org/truecharts/commit/57a9a3c17b9e2f0866f9a1b91b7790ba4d54fd70) • [@TrueCharts Bot] (2026-08-20)
 - feat(deps): update mastodon/mastodon v4.6.6 → v4.7.0 (#3250) • [`0a3151a`](https://github.com/trueforge-org/truecharts/commit/0a3151a722606311d3dc1342568749180a30679f) • [@TrueCharts Bot] (2026-08-20)
+- chore(node-dep): update node.js digest to e4a650b (#3204) • [`57a9a3c`](https://github.com/trueforge-org/truecharts/commit/57a9a3c17b9e2f0866f9a1b91b7790ba4d54fd70) • [@TrueCharts Bot] (2026-08-20)
 
 ## 4.6.6 • [Train: ]
 
@@ -47,8 +47,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.6.2 • [Train: ]
 
 - feat(node-dep): update node.js 24.16.0 → 24.18.0 (#2582) • [`9e671d4`](https://github.com/trueforge-org/truecharts/commit/9e671d4e86ff5cec179b08970d58b6f9700e7f31) • [@TrueCharts Bot] (2026-06-27)
-- feat(deps): update mastodon/mastodon v4.5.11 → v4.6.2 (#2523) • [`5398566`](https://github.com/trueforge-org/truecharts/commit/53985669f57889b454d34dddd99bf3bf703c56ac) • [@TrueCharts Bot] (2026-06-26)
 - chore(node-dep): update node.js digest to bb2868b (#2541) • [`32f4fb0`](https://github.com/trueforge-org/truecharts/commit/32f4fb025350a18f828f418bb95a01be1504fad6) • [@TrueCharts Bot] (2026-06-26)
+- feat(deps): update mastodon/mastodon v4.5.11 → v4.6.2 (#2523) • [`5398566`](https://github.com/trueforge-org/truecharts/commit/53985669f57889b454d34dddd99bf3bf703c56ac) • [@TrueCharts Bot] (2026-06-26)
 
 ## 4.5.13 • [Train: ]
 
@@ -69,6 +69,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.5.1 • [Train: ]
 
-- Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
 - fix(node-dep): update node.js 22.22.0 → 22.22.1 (#2149) • [`a30e9dd`](https://github.com/trueforge-org/truecharts/commit/a30e9dd10645deae0ecf21fe30a5e566a79f2127) • [@TrueCharts Bot] (2026-04-27)
 - chore(node-dep): pin node.js digest to 57a4a36 (#2139) • [`6119199`](https://github.com/trueforge-org/truecharts/commit/6119199ff879a826ea91f89456a2424121a876e8) • [@TrueCharts Bot] (2026-04-27)
+- Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
