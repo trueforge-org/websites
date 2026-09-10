@@ -66,7 +66,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: planka
-#       POSTGRES_PASSWORD: bab828bad0f01309681bb3d7ffc43a30WORD
+#       POSTGRES_PASSWORD: ab49ff7c81420425d5ce4c10479960aaWORD
 #       POSTGRES_USER: planka
 #       TZ: Etc/UTC
 #     group_add:
