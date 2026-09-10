@@ -418,13 +418,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.2.0 • [Train: system]
 
-- Update groupsnapshot.storage.k8s.io_volumegroupsnapshots.yaml • [`703ccdc`](https://github.com/trueforge-org/truecharts/commit/703ccdc80b464ac42b2b9726dcf5c2c6fabca9f4) • [@Kjeld Schouten] (2024-10-08)
 - Update values.yaml • [`89beaa6`](https://github.com/trueforge-org/truecharts/commit/89beaa6a99de2a46c27db96c241bb419438c27fe) • [@Kjeld Schouten] (2024-10-08)
 - Update groupsnapshot.storage.k8s.io_volumegroupsnapshotclasses.yaml • [`aecd96a`](https://github.com/trueforge-org/truecharts/commit/aecd96a694d91405fc1b66872cbe2d39e9fa5936) • [@Kjeld Schouten] (2024-10-08)
 - Update snapshot.storage.k8s.io_volumesnapshotcontents.yaml • [`c41cc59`](https://github.com/trueforge-org/truecharts/commit/c41cc5922d40ea59705822e50dca7827e7abbd48) • [@Kjeld Schouten] (2024-10-08)
 - Update groupsnapshot.storage.k8s.io_volumegroupsnapshotcontents.yaml • [`e9cf625`](https://github.com/trueforge-org/truecharts/commit/e9cf62510609071dd04ebb140c4231e8a85b5da0) • [@Kjeld Schouten] (2024-10-08)
 - Update snapshot.storage.k8s.io_volumesnapshotclasses.yaml • [`07118ea`](https://github.com/trueforge-org/truecharts/commit/07118ea714d289665ba417f8b53a094483ec05a0) • [@Kjeld Schouten] (2024-10-08)
 - Update snapshot.storage.k8s.io_volumesnapshots.yaml • [`5784d46`](https://github.com/trueforge-org/truecharts/commit/5784d463cd95bba7c6306ed178ec09cd6149bea6) • [@Kjeld Schouten] (2024-10-08)
+- Update groupsnapshot.storage.k8s.io_volumegroupsnapshots.yaml • [`703ccdc`](https://github.com/trueforge-org/truecharts/commit/703ccdc80b464ac42b2b9726dcf5c2c6fabca9f4) • [@Kjeld Schouten] (2024-10-08)
 - chore(deps): update ignored by renovate (major) (#26918) • [`6e62659`](https://github.com/trueforge-org/truecharts/commit/6e62659dba986bd6823c533423e053b090120c05) • [@TrueCharts Bot] (2024-10-02)
 
 ## 3.1.1 • [Train: system]
