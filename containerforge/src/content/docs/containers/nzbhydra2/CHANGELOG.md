@@ -48,19 +48,19 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.8.0 • [Train: ]
 
-- feat(deps): update theotherp/nzbhydra2 v8.7.1 → v8.8.0 (#2108) • [`e00ca26`](https://github.com/trueforge-org/truecharts/commit/e00ca26e50302f7f3bd58ca1815b564c396c878e) • [@TrueCharts Bot] (2026-04-26)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 6901aa9 (#2114) • [`b815c2b`](https://github.com/trueforge-org/truecharts/commit/b815c2b02ff5b04aa19605897f85486a4a20ed65) • [@TrueCharts Bot] (2026-04-26)
+- feat(deps): update theotherp/nzbhydra2 v8.7.1 → v8.8.0 (#2108) • [`e00ca26`](https://github.com/trueforge-org/truecharts/commit/e00ca26e50302f7f3bd58ca1815b564c396c878e) • [@TrueCharts Bot] (2026-04-26)
 
 ## 8.7.1 • [Train: ]
 
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 70f9c39 (#2079) • [`ce0a962`](https://github.com/trueforge-org/truecharts/commit/ce0a962c6d98f448547b1920cfb4475bf724ce40) • [@TrueCharts Bot] (2026-04-24)
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 70f9c39 (#2079) • [`ce0a962`](https://github.com/trueforge-org/truecharts/commit/ce0a962c6d98f448547b1920cfb4475bf724ce40) • [@TrueCharts Bot] (2026-04-24)
 - move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to f2bb504 (#2039) • [`bb968c2`](https://github.com/trueforge-org/truecharts/commit/bb968c2efd4b9345a716aa015e12d31767d0159f) • [@TrueCharts Bot] (2026-04-23)
-- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
-- improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to ee2eb5e (#2058) • [`33c4cd5`](https://github.com/trueforge-org/truecharts/commit/33c4cd5d0c8f7579537a941af179f47a884aa70f) • [@TrueCharts Bot] (2026-04-23)
+- improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
+- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 181aee2 (#2063) • [`9d4aa36`](https://github.com/trueforge-org/truecharts/commit/9d4aa3601f9a7cbce2711432834145dd6ed78967) • [@TrueCharts Bot] (2026-04-23)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to f2bb504 (#2039) • [`bb968c2`](https://github.com/trueforge-org/truecharts/commit/bb968c2efd4b9345a716aa015e12d31767d0159f) • [@TrueCharts Bot] (2026-04-23)
 - fix(deps): update theotherp/nzbhydra2 v8.7.0 → v8.7.1 (#1940) • [`d03960b`](https://github.com/trueforge-org/truecharts/commit/d03960bcaffca405efed150b1faffbef8c178b2c) • [@TrueCharts Bot] (2026-04-19)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 673092a (#1952) • [`928faed`](https://github.com/trueforge-org/truecharts/commit/928faed3a9016c79c25cfdd783eb1fa6a8a0a2f2) • [@TrueCharts Bot] (2026-04-19)
 
@@ -94,29 +94,29 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 8.5.1 • [Train: ]
 
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 6b406a8 (#1513) • [`ff9f864`](https://github.com/trueforge-org/truecharts/commit/ff9f864f81d00c2c609119b4999a73a36ec630fe) • [@TrueCharts Bot] (2026-02-22)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to f2d30b2 (#1485) • [`a05fec2`](https://github.com/trueforge-org/truecharts/commit/a05fec2f47e0eb575679acfe76b08afa2ba961c9) • [@TrueCharts Bot] (2026-02-21)
-- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 109e83b (#1500) • [`412204d`](https://github.com/trueforge-org/truecharts/commit/412204dcf77cb91c25c38314dbd0f61d20945624) • [@TrueCharts Bot] (2026-02-21)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to c9f000c (#1470) • [`e135c31`](https://github.com/trueforge-org/truecharts/commit/e135c3188b4278e54a47a91d6d3670be8203302c) • [@TrueCharts Bot] (2026-02-21)
+- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to f2d30b2 (#1485) • [`a05fec2`](https://github.com/trueforge-org/truecharts/commit/a05fec2f47e0eb575679acfe76b08afa2ba961c9) • [@TrueCharts Bot] (2026-02-21)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 109e83b (#1500) • [`412204d`](https://github.com/trueforge-org/truecharts/commit/412204dcf77cb91c25c38314dbd0f61d20945624) • [@TrueCharts Bot] (2026-02-21)
 - feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
 - Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 1250c7c (#1424) • [`8f375b4`](https://github.com/trueforge-org/truecharts/commit/8f375b4278aaa7c814062d73a5488248698a1f77) • [@TrueCharts Bot] (2026-02-19)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 3a1e87c (#1436) • [`ddbb8a2`](https://github.com/trueforge-org/truecharts/commit/ddbb8a2aff21847a59a627f4c7aca4963e628cfa) • [@TrueCharts Bot] (2026-02-19)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 1250c7c (#1424) • [`8f375b4`](https://github.com/trueforge-org/truecharts/commit/8f375b4278aaa7c814062d73a5488248698a1f77) • [@TrueCharts Bot] (2026-02-19)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to e84c516 (#1357) • [`29fdda9`](https://github.com/trueforge-org/truecharts/commit/29fdda9b955d8bc72ad391f0d0af6e524c831aaf) • [@TrueCharts Bot] (2026-02-18)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 106180d (#1371) • [`01efa5f`](https://github.com/trueforge-org/truecharts/commit/01efa5f9f7a90fb83d2ff65b9a86a345a162290a) • [@TrueCharts Bot] (2026-02-18)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to e073487 (#1385) • [`4bc0577`](https://github.com/trueforge-org/truecharts/commit/4bc05779cc69c6c19d814f2eeaf3a04a773b6134) • [@TrueCharts Bot] (2026-02-18)
-- fix apps:aps • [`74aee74`](https://github.com/trueforge-org/truecharts/commit/74aee7426b6f7ceb33768e9d0415e9f1dbd6b9e0) • [@Kjeld Schouten] (2026-02-17)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 106180d (#1371) • [`01efa5f`](https://github.com/trueforge-org/truecharts/commit/01efa5f9f7a90fb83d2ff65b9a86a345a162290a) • [@TrueCharts Bot] (2026-02-18)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to d3955a7 (#1335) • [`366899f`](https://github.com/trueforge-org/truecharts/commit/366899f9245a98ee7843b1661af6d21d5c5244f5) • [@TrueCharts Bot] (2026-02-17)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to fcf6460 (#1295) • [`87d1f02`](https://github.com/trueforge-org/truecharts/commit/87d1f0280783af66bab325686ab15ed35cbde735) • [@TrueCharts Bot] (2026-02-16)
+- fix apps:aps • [`74aee74`](https://github.com/trueforge-org/truecharts/commit/74aee7426b6f7ceb33768e9d0415e9f1dbd6b9e0) • [@Kjeld Schouten] (2026-02-17)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 338f274 (#1198) • [`aca9530`](https://github.com/trueforge-org/truecharts/commit/aca9530b448d7f5a42ee874f856da674e4155452) • [@TrueCharts Bot] (2026-02-16)
 - feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
 - feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 338f274 (#1198) • [`aca9530`](https://github.com/trueforge-org/truecharts/commit/aca9530b448d7f5a42ee874f856da674e4155452) • [@TrueCharts Bot] (2026-02-16)
-- test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to fcf6460 (#1295) • [`87d1f02`](https://github.com/trueforge-org/truecharts/commit/87d1f0280783af66bab325686ab15ed35cbde735) • [@TrueCharts Bot] (2026-02-16)
 - test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 651a2ae (#1155) • [`4c08b43`](https://github.com/trueforge-org/truecharts/commit/4c08b439b61964bc1d1ea7358cf8b4aad118987c) • [@TrueCharts Bot] (2026-02-14)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 2d6342f (#1162) • [`b687553`](https://github.com/trueforge-org/truecharts/commit/b687553130efc29010b923d7bae3d66a47096933) • [@TrueCharts Bot] (2026-02-14)
+- test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
 - fix(deps): update theotherp/nzbhydra2 v8.5.0 → v8.5.1 (#1160) • [`b740138`](https://github.com/trueforge-org/truecharts/commit/b7401383d66d0b710b5cb07a9287f26a1aac228c) • [@TrueCharts Bot] (2026-02-14)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 2d6342f (#1162) • [`b687553`](https://github.com/trueforge-org/truecharts/commit/b687553130efc29010b923d7bae3d66a47096933) • [@TrueCharts Bot] (2026-02-14)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 651a2ae (#1155) • [`4c08b43`](https://github.com/trueforge-org/truecharts/commit/4c08b439b61964bc1d1ea7358cf8b4aad118987c) • [@TrueCharts Bot] (2026-02-14)
 
 ## 8.5.0 • [Train: ]
 
@@ -136,9 +136,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to dd6f9cb (#953) • [`29cf532`](https://github.com/trueforge-org/truecharts/commit/29cf532db9b32347d04c95951c166f345e6c5222) • [@TrueCharts Bot] (2026-01-25)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to aa5efbf (#894) • [`d447519`](https://github.com/trueforge-org/truecharts/commit/d447519449da5479f920fcdd3145f04117cf9099) • [@TrueCharts Bot] (2026-01-21)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to b247b22 (#857) • [`14c955b`](https://github.com/trueforge-org/truecharts/commit/14c955b7ae05bcac0efd76c0fdd10e8b25bfdc1b) • [@TrueCharts Bot] (2026-01-19)
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 446408b (#827) • [`efbd6aa`](https://github.com/trueforge-org/truecharts/commit/efbd6aa3a9fc10b8aebb29f37f98f922cc8ee5ec) • [@TrueCharts Bot] (2026-01-16)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to cbdc423 (#824) • [`8c26437`](https://github.com/trueforge-org/truecharts/commit/8c26437e352bdbc4c877bda40ffa16a2553610eb) • [@TrueCharts Bot] (2026-01-16)
 - feat(deps): update theotherp/nzbhydra2 v8.1.2 → v8.3.0 (#792) • [`ca137b2`](https://github.com/trueforge-org/truecharts/commit/ca137b2c2a6ae19cf4ce0a4a1c54c39c8e893c25) • [@TrueCharts Bot] (2026-01-16)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17.0.16 docker digest digest to 446408b (#827) • [`efbd6aa`](https://github.com/trueforge-org/truecharts/commit/efbd6aa3a9fc10b8aebb29f37f98f922cc8ee5ec) • [@TrueCharts Bot] (2026-01-16)
 
 ## 8.1.2 • [Train: ]
 
@@ -170,9 +170,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 - release(nzbhydra2): update ghcr.io/trueforge-org/java17 ( 17.0.16 → ) (#251) • [`4d8a880`](https://github.com/trueforge-org/truecharts/commit/4d8a8808a9672f8607988fd5820666f7dcfd9d09) • [@TrueCharts Bot] (2025-11-10)
 - release(nzbhydra2): update ghcr.io/trueforge-org/java17 ( 17.0.16 → ) (#186) • [`e32bee6`](https://github.com/trueforge-org/truecharts/commit/e32bee664545320d63b5bb3dbc976dd354411fe5) • [@TrueCharts Bot] (2025-11-10)
 - ensure chown is set to 568 • [`ad180e7`](https://github.com/trueforge-org/truecharts/commit/ad180e796fe163581d600b141c5213eec6716754) • [@Kjeld Schouten] (2025-11-08)
+- release(nzbhydra2): update ghcr.io/trueforge-org/java17 ( 17.0.16 → ) (#144) • [`a1a29e8`](https://github.com/trueforge-org/truecharts/commit/a1a29e827a162432752e0f8e7932c3e02e335464) • [@TrueCharts Bot] (2025-11-07)
 - more agressively utilise apps user • [`9162777`](https://github.com/trueforge-org/truecharts/commit/91627771eb14c59a3ffafd597d3cf02792b1af4b) • [@Kjeld Schouten] (2025-11-07)
 - remove dockerfile 1 syntax annottation • [`76e212f`](https://github.com/trueforge-org/truecharts/commit/76e212fe36cb398f7f86e321ffdc553e21bcef70) • [@Kjeld Schouten] (2025-11-07)
-- release(nzbhydra2): update ghcr.io/trueforge-org/java17 ( 17.0.16 → ) (#144) • [`a1a29e8`](https://github.com/trueforge-org/truecharts/commit/a1a29e827a162432752e0f8e7932c3e02e335464) • [@TrueCharts Bot] (2025-11-07)
 - digest-pin all the containers • [`9e19651`](https://github.com/trueforge-org/truecharts/commit/9e19651d2da558fa27ed29ecab645ca14a733955) • [@Kjeld Schouten] (2025-11-04)
 - trigger rebuilds and republic • [`97d8992`](https://github.com/trueforge-org/truecharts/commit/97d899261bfb7bd91b0b08ef9a3737d6b9d54cf0) • [@Kjeld Schouten] (2025-11-04)
 - upload everything to quay • [`2b6f79d`](https://github.com/trueforge-org/truecharts/commit/2b6f79d056c0fe62762f5e1101dd8453437ccb1d) • [@Kjeld Schouten] (2025-11-04)
