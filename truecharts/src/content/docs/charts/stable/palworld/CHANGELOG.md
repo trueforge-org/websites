@@ -250,8 +250,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.6.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 6.6.0 • [Train: stable]
 
@@ -442,8 +442,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.3 • [Train: stable]
 
-- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 
 ## 4.0.2 • [Train: stable]
 
@@ -725,15 +725,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.2 • [Train: stable]
 
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`74dcc8c`](https://github.com/trueforge-org/truecharts/commit/74dcc8cfc99a39f74e7976566f414e744f345596) • [@Kjeld Schouten] (2024-02-13)
 - Commit daily changes • [`294fe34`](https://github.com/trueforge-org/truecharts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`74dcc8c`](https://github.com/trueforge-org/truecharts/commit/74dcc8cfc99a39f74e7976566f414e744f345596) • [@Kjeld Schouten] (2024-02-13)
 - chore(deps): update container image outdead/rcon to latest@f4ab6d4 by renovate (#18101) • [`0a3fb9c`](https://github.com/trueforge-org/truecharts/commit/0a3fb9c37f91edf2758dacd8cc72c81f879c8907) • [@TrueCharts Bot] (2024-02-12)
 
 ## 1.0.1 • [Train: stable]
 
 - Commit daily changes • [`a59c8b1`](https://github.com/trueforge-org/truecharts/commit/a59c8b181ddc13ec0e32f16526f043bce8861c97) • [@TrueCharts-Bot] (2024-02-12)
-- docs(palworld): fix a typo in questions (#18012) • [`571d6ab`](https://github.com/trueforge-org/truecharts/commit/571d6abc656c013a88ba503945ca62e5dd01b5e1) • [@felixfon] (2024-02-11)
 - Commit daily changes • [`c50930a`](https://github.com/trueforge-org/truecharts/commit/c50930afcf30d9f68259760e1d7d42082391c310) • [@TrueCharts-Bot] (2024-02-11)
+- docs(palworld): fix a typo in questions (#18012) • [`571d6ab`](https://github.com/trueforge-org/truecharts/commit/571d6abc656c013a88ba503945ca62e5dd01b5e1) • [@felixfon] (2024-02-11)
 
 ## 1.0.0 • [Train: stable]
 
