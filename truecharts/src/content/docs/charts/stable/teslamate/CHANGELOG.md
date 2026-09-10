@@ -104,8 +104,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 6.0.0 • [Train: stable]
 
 - Commit daily changes • [`35a0665`](https://github.com/trueforge-org/truecharts/commit/35a06650d9c1994a41deca85df1f5cbfe20f9025) • [@TrueCharts-Bot] (2026-03-06)
-- BREAKING CHANGE(teslamate): Update image docker.io/teslamate/teslamate 2.2.0 → 3.0.0 (#45685) • [`6827775`](https://github.com/trueforge-org/truecharts/commit/68277757565737da6105eca30b12a73691b869d8) • [@TrueCharts Bot] (2026-03-01)
 - feat(helm-deps): update chart common 28.32.5 → 28.33.0 (#45682) • [`c685ddd`](https://github.com/trueforge-org/truecharts/commit/c685ddd8cff3bac0e8a2cbfd471dc3f7ed8d69d8) • [@TrueCharts Bot] (2026-03-01)
+- BREAKING CHANGE(teslamate): Update image docker.io/teslamate/teslamate 2.2.0 → 3.0.0 (#45685) • [`6827775`](https://github.com/trueforge-org/truecharts/commit/68277757565737da6105eca30b12a73691b869d8) • [@TrueCharts Bot] (2026-03-01)
 
 ## 5.18.1 • [Train: stable]
 
@@ -512,8 +512,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.7 • [Train: incubator]
 
-- fic(teslamate) bugfix teslamate port (#22465) • [`bf8999b`](https://github.com/trueforge-org/truecharts/commit/bf8999b3fd4fee965768345aa713c8dfedaff5b9) • [@Jamie] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- fic(teslamate) bugfix teslamate port (#22465) • [`bf8999b`](https://github.com/trueforge-org/truecharts/commit/bf8999b3fd4fee965768345aa713c8dfedaff5b9) • [@Jamie] (2024-05-26)
 
 ## 1.0.6 • [Train: incubator]
 
