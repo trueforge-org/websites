@@ -41,9 +41,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.4.1 • [Train: ]
 
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to c78b908 (#2477) • [`d9a1692`](https://github.com/trueforge-org/truecharts/commit/d9a16928e991f16f4be9b19359379e172e6cdd5d) • [@TrueCharts Bot] (2026-06-08)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to b87e7b8 (#2463) • [`fb8da62`](https://github.com/trueforge-org/truecharts/commit/fb8da62a83ecce42bed996582167265995863cf8) • [@TrueCharts Bot] (2026-06-08)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.4 → 3.14.5 (#2375) • [`65af60a`](https://github.com/trueforge-org/truecharts/commit/65af60a10dbd6733d8e52f8eba9564091bdfe5a2) • [@TrueCharts Bot] (2026-06-08)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to c78b908 (#2477) • [`d9a1692`](https://github.com/trueforge-org/truecharts/commit/d9a16928e991f16f4be9b19359379e172e6cdd5d) • [@TrueCharts Bot] (2026-06-08)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.4 docker digest digest to 622c7c1 (#2326) • [`e1f2bc1`](https://github.com/trueforge-org/truecharts/commit/e1f2bc1071f9dccdcb0f5a0c6a3b1e496c64ac20) • [@TrueCharts Bot] (2026-05-07)
 - feat(python-dep): update python (minor) (#2287) • [`4efcb6e`](https://github.com/trueforge-org/truecharts/commit/4efcb6ed8c0de6dacaa7ca3c02ec104816578aa8) • [@TrueCharts Bot] (2026-05-07)
 - fix(deps): update caronc/apprise-api v1.4.0 → v1.4.1 (#2209) • [`9e8dcd5`](https://github.com/trueforge-org/truecharts/commit/9e8dcd5e2cdb982cff62cca775376948adc0265b) • [@TrueCharts Bot] (2026-05-02)
@@ -68,25 +68,25 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.3.1 • [Train: ]
 
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to ec0d5db (#1516) • [`41122ab`](https://github.com/trueforge-org/truecharts/commit/41122ab0323066115e663341213c1fd47a314b50) • [@TrueCharts Bot] (2026-02-21)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 32f90bc (#1493) • [`23a097e`](https://github.com/trueforge-org/truecharts/commit/23a097e6fdca0f83ccc8cd5abf34cb43479ba3a6) • [@TrueCharts Bot] (2026-02-21)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to cafd0ad (#1503) • [`f0ec708`](https://github.com/trueforge-org/truecharts/commit/f0ec70837db9aebcf5d3b1d23265846f79121975) • [@TrueCharts Bot] (2026-02-21)
+- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 8ba5cf9 (#1509) • [`a582912`](https://github.com/trueforge-org/truecharts/commit/a58291290b2a0820618bf40649bdd551b32c8d60) • [@TrueCharts Bot] (2026-02-21)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 1ffd2f7 (#1488) • [`e6e72fe`](https://github.com/trueforge-org/truecharts/commit/e6e72fe134d0d1765ab902da92d97ca93e91783d) • [@TrueCharts Bot] (2026-02-21)
-- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 32f90bc (#1493) • [`23a097e`](https://github.com/trueforge-org/truecharts/commit/23a097e6fdca0f83ccc8cd5abf34cb43479ba3a6) • [@TrueCharts Bot] (2026-02-21)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to ec0d5db (#1516) • [`41122ab`](https://github.com/trueforge-org/truecharts/commit/41122ab0323066115e663341213c1fd47a314b50) • [@TrueCharts Bot] (2026-02-21)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to cafd0ad (#1503) • [`f0ec708`](https://github.com/trueforge-org/truecharts/commit/f0ec70837db9aebcf5d3b1d23265846f79121975) • [@TrueCharts Bot] (2026-02-21)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to e879aa6 (#1473) • [`9c62d60`](https://github.com/trueforge-org/truecharts/commit/9c62d60c8e64f60309e1fd6948dcfc7740cfa522) • [@TrueCharts Bot] (2026-02-20)
 - feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 8b4bc44 (#1428) • [`6b51cc9`](https://github.com/trueforge-org/truecharts/commit/6b51cc9b5ae25e5a57e4f17c43c14c10e73de687) • [@TrueCharts Bot] (2026-02-19)
 - Add shared YAML-driven healthcheck, wire one app per check type, enforce CI healthcheck tests, and support runtimeCommands (#1406) • [`308f2b0`](https://github.com/trueforge-org/truecharts/commit/308f2b0bdc04c67fedc3c60e5a4383ca77c4569e) • [@Copilot] (2026-02-19)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 3fa1246 (#1440) • [`d136c5c`](https://github.com/trueforge-org/truecharts/commit/d136c5cfca5162947fb01080b71ec132b84ae47a) • [@TrueCharts Bot] (2026-02-19)
 - Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 8b4bc44 (#1428) • [`6b51cc9`](https://github.com/trueforge-org/truecharts/commit/6b51cc9b5ae25e5a57e4f17c43c14c10e73de687) • [@TrueCharts Bot] (2026-02-19)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to d5ee442 (#1411) • [`bdbd669`](https://github.com/trueforge-org/truecharts/commit/bdbd669e00c460ff0d7e8c794dde3aa0567061e5) • [@TrueCharts Bot] (2026-02-19)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to cac0b51 (#1389) • [`8dd5fe9`](https://github.com/trueforge-org/truecharts/commit/8dd5fe93009898636991f7e8f4497d6e1ce1a8ec) • [@TrueCharts Bot] (2026-02-18)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to a6e9da2 (#1375) • [`0136ff6`](https://github.com/trueforge-org/truecharts/commit/0136ff6ee09ffa4a0d5c98f10e0bf7a279a5a416) • [@TrueCharts Bot] (2026-02-18)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 911cc57 (#1361) • [`62a6538`](https://github.com/trueforge-org/truecharts/commit/62a6538fcb9ce1e0d8df5749afd41d710dede24a) • [@TrueCharts Bot] (2026-02-18)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 0c2ff68 (#1338) • [`febcc92`](https://github.com/trueforge-org/truecharts/commit/febcc92807f6b867bf608b93ae03140e3404c07f) • [@TrueCharts Bot] (2026-02-17)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 3ba383a (#1268) • [`dd6d0e2`](https://github.com/trueforge-org/truecharts/commit/dd6d0e2f2c3cecae1e1f87cab8db22255dc3865d) • [@TrueCharts Bot] (2026-02-16)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to d9b5d12 (#1298) • [`0bfdb42`](https://github.com/trueforge-org/truecharts/commit/0bfdb42077442ed6927495f41fd45413962d2b7e) • [@TrueCharts Bot] (2026-02-16)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 3ba383a (#1268) • [`dd6d0e2`](https://github.com/trueforge-org/truecharts/commit/dd6d0e2f2c3cecae1e1f87cab8db22255dc3865d) • [@TrueCharts Bot] (2026-02-16)
 - feat(deps): update caronc/apprise-api 1.2.2 → v1.3.1 (#1132) • [`f4660b5`](https://github.com/trueforge-org/truecharts/commit/f4660b5caa425ed206cf362a8f8986f8424e9b26) • [@TrueCharts Bot] (2026-02-16)
 
 ## 1.2.6 • [Train: ]
@@ -96,13 +96,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.2.2 • [Train: ]
 
 - feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
+- feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 0075081 (#1250) • [`f1a47cd`](https://github.com/trueforge-org/truecharts/commit/f1a47cd5f5d9b7abdb1d292018eca8f888d0bd04) • [@TrueCharts Bot] (2026-02-16)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 2eeeff0 (#1233) • [`5f431f8`](https://github.com/trueforge-org/truecharts/commit/5f431f8a6641c5871bbe94fd9dc9f4aa65aed63d) • [@TrueCharts Bot] (2026-02-16)
-- feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
-- test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
-- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.7 → 3.13.12 (#1148) • [`c47dada`](https://github.com/trueforge-org/truecharts/commit/c47dadaa6f84ccd7bb7892a173b8e1dfb7fd41d5) • [@TrueCharts Bot] (2026-02-15)
 - test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.7 → 3.13.12 (#1148) • [`c47dada`](https://github.com/trueforge-org/truecharts/commit/c47dadaa6f84ccd7bb7892a173b8e1dfb7fd41d5) • [@TrueCharts Bot] (2026-02-15)
+- test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - Standardize Renovate annotations for app bakefile version variables (#1117) • [`15f06b4`](https://github.com/trueforge-org/truecharts/commit/15f06b4b9240a8c914fc4e9edd833b9babf6d996) • [@Copilot] (2026-02-14)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.7 docker digest digest to 708f480 (#1088) • [`9e5f62f`](https://github.com/trueforge-org/truecharts/commit/9e5f62f2cdef3e2b1be749d30a32a0075058c82d) • [@TrueCharts Bot] (2026-02-12)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.7 docker digest digest to 28879e6 (#957) • [`2738501`](https://github.com/trueforge-org/truecharts/commit/2738501b95b437f3c99222b5f19f70af4b7580d6) • [@TrueCharts Bot] (2026-01-26)
@@ -111,7 +111,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.7 docker digest digest to cbb27d8 (#832) • [`da9504c`](https://github.com/trueforge-org/truecharts/commit/da9504ce84ae9380b67c024790f01caf30985de1) • [@TrueCharts Bot] (2026-01-17)
 - release(update): update image ghcr.io/trueforge-org/python (be294e0 → 6a1f701) (#522) • [`f5cb4a0`](https://github.com/trueforge-org/truecharts/commit/f5cb4a03336f123ea72000467f569fd035ce0045) • [@TrueCharts Bot] (2025-12-13)
 - chore: update python • [`28db140`](https://github.com/trueforge-org/truecharts/commit/28db1402ff88d47316908713d18fbe6776fe452c) • [@Kjeld Schouten] (2025-12-13)
-- release(update): update image ghcr.io/trueforge-org/python (6119b5e → 7f3a002) (#492) • [`67bc1c2`](https://github.com/trueforge-org/truecharts/commit/67bc1c259f30c268a40b11022bcab3ac1db8071b) • [@TrueCharts Bot] (2025-11-22)
 - release(update): update image ghcr.io/trueforge-org/python (7f3a002 → be294e0) (#505) • [`bd5440e`](https://github.com/trueforge-org/truecharts/commit/bd5440e50b644e067ae5c4332c4b1a4de92123e0) • [@TrueCharts Bot] (2025-11-22)
+- release(update): update image ghcr.io/trueforge-org/python (6119b5e → 7f3a002) (#492) • [`67bc1c2`](https://github.com/trueforge-org/truecharts/commit/67bc1c259f30c268a40b11022bcab3ac1db8071b) • [@TrueCharts Bot] (2025-11-22)
 - release(update): update image ghcr.io/trueforge-org/python (436649e → 6119b5e) (#444) • [`c830617`](https://github.com/trueforge-org/truecharts/commit/c830617e754b7d9aa876774efc3b2bc3625393f3) • [@TrueCharts Bot] (2025-11-20)
 - release: add more containers (#409) • [`4dff795`](https://github.com/trueforge-org/truecharts/commit/4dff795d70fc1b59f3cc4b0101c5a2fe3a26b8c1) • [@Kjeld Schouten] (2025-11-19)
