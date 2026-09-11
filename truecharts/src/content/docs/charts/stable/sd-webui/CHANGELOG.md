@@ -185,8 +185,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 4.12.0 • [Train: stable]
 
@@ -215,9 +215,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.9.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 4.8.0 • [Train: stable]
 
@@ -1066,13 +1066,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.6 • [Train: incubator]
 
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
-- Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
 - chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@6e0740a by renovate (#22679) • [`31f31a8`](https://github.com/trueforge-org/truecharts/commit/31f31a8db8e4dfad0091698e4d034c7ed07edd53) • [@TrueCharts Bot] (2024-05-31)
+- Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
 
 ## 1.0.5 • [Train: incubator]
 
-- chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
 - chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@ceefbb9 by renovate (#22647) • [`84e5724`](https://github.com/trueforge-org/truecharts/commit/84e57246f716c3a24f764472c88d4bbd90e96f52) • [@TrueCharts Bot] (2024-05-30)
+- chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
 
 ## 1.0.4 • [Train: incubator]
 
