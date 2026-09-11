@@ -195,8 +195,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.0 • [Train: stable]
 
-- chore!: move non-common containers from tccr to containerforge (#41408) • [`bbff07c`](https://github.com/trueforge-org/truecharts/commit/bbff07c7978f171e134de3a3ca32dd1c056edd3e) • [@Kjeld Schouten] (2025-11-06)
 - Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
+- chore!: move non-common containers from tccr to containerforge (#41408) • [`bbff07c`](https://github.com/trueforge-org/truecharts/commit/bbff07c7978f171e134de3a3ca32dd1c056edd3e) • [@Kjeld Schouten] (2025-11-06)
 
 ## 3.11.3 • [Train: stable]
 
@@ -427,8 +427,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.0 • [Train: system]
 
-- Update values.yaml • [`50ad6c8`](https://github.com/trueforge-org/truecharts/commit/50ad6c898b29933b3c1d7e2a2be7eed1685c0f75) • [@Kjeld Schouten] (2024-10-02)
 - chore(deps): update ignored by renovate (major) (#26918) • [`6e62659`](https://github.com/trueforge-org/truecharts/commit/6e62659dba986bd6823c533423e053b090120c05) • [@TrueCharts Bot] (2024-10-02)
+- Update values.yaml • [`50ad6c8`](https://github.com/trueforge-org/truecharts/commit/50ad6c898b29933b3c1d7e2a2be7eed1685c0f75) • [@Kjeld Schouten] (2024-10-02)
 
 ## 0.0.4 • [Train: system]
 
@@ -446,8 +446,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: system]
 
-- Update Chart.yaml • [`0db47c3`](https://github.com/trueforge-org/truecharts/commit/0db47c3658e6d1229dea3686ea73b6a21aff7c4b) • [@Kjeld Schouten] (2024-07-23)
 - Update values.yaml • [`10184e6`](https://github.com/trueforge-org/truecharts/commit/10184e6daba999b984afd69ff3c6056ae55d4151) • [@Kjeld Schouten] (2024-07-23)
+- Update Chart.yaml • [`0db47c3`](https://github.com/trueforge-org/truecharts/commit/0db47c3658e6d1229dea3686ea73b6a21aff7c4b) • [@Kjeld Schouten] (2024-07-23)
 
 ## 0.0.1 • [Train: system]
 
