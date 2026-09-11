@@ -31,8 +31,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.22.0 • [Train: ]
 
-- chore(node-dep): update node.js digest to 9bb5ae1 (#3281) • [`46b37b2`](https://github.com/trueforge-org/truecharts/commit/46b37b2b6f2858ae936fbbed46421a2c871e5397) • [@TrueCharts Bot] (2026-08-21)
 - feat(deps): update irosthebeggar/mstream v6.21.2 → v6.22.0 (#3265) • [`8d2de2d`](https://github.com/trueforge-org/truecharts/commit/8d2de2d02279e2f5679b8b3ec9b38d6a58190612) • [@TrueCharts Bot] (2026-08-21)
+- chore(node-dep): update node.js digest to 9bb5ae1 (#3281) • [`46b37b2`](https://github.com/trueforge-org/truecharts/commit/46b37b2b6f2858ae936fbbed46421a2c871e5397) • [@TrueCharts Bot] (2026-08-21)
 
 ## 6.21.2 • [Train: ]
 
