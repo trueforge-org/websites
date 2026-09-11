@@ -99,8 +99,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 6.0.5 • [Train: stable]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
+- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 6.0.4 • [Train: stable]
@@ -437,9 +437,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.9.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 5.8.3 • [Train: stable]
 
@@ -852,8 +852,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.9 • [Train: stable]
 
-- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.45.23@b117527 by renovate (#22400) • [`33577f2`](https://github.com/trueforge-org/truecharts/commit/33577f25702daebd95b1599546a25cb3eae352ff) • [@TrueCharts Bot] (2024-05-25)
 
 ## 3.0.8 • [Train: stable]
@@ -866,8 +866,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.6 • [Train: stable]
 
-- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
+- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.45.22@3669b2c by renovate (#21569) • [`9608221`](https://github.com/trueforge-org/truecharts/commit/9608221bb067837261e5e7aef490ea8809f72b16) • [@TrueCharts Bot] (2024-05-05)
 
 ## 3.0.5 • [Train: stable]
@@ -954,8 +954,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.8.5 • [Train: stable]
 
-- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 - chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
+- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 
 ## 2.8.4 • [Train: stable]
 

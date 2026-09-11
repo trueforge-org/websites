@@ -105,8 +105,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 18.7.0 • [Train: stable]
 
-- feat(local-ai): update image docker.io/localai/localai v4.3.6 → v4.4.0 (#49004) • [`ec3681d`](https://github.com/trueforge-org/truecharts/commit/ec3681d6fc07eed03d558931c41178ac549b3d99) • [@TrueCharts Bot] (2026-06-11)
 - feat(helm-deps): update chart common 29.3.4 → 29.5.3 (#48994) • [`9394df1`](https://github.com/trueforge-org/truecharts/commit/9394df19895096df1861134e8b85fa99ce9e43df) • [@TrueCharts Bot] (2026-06-11)
+- feat(local-ai): update image docker.io/localai/localai v4.3.6 → v4.4.0 (#49004) • [`ec3681d`](https://github.com/trueforge-org/truecharts/commit/ec3681d6fc07eed03d558931c41178ac549b3d99) • [@TrueCharts Bot] (2026-06-11)
 
 ## 18.6.4 • [Train: stable]
 
@@ -800,8 +800,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.18.0 • [Train: stable]
 
-- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image docker.io/localai/localai to v2.16.0 by renovate (#22420) • [`dc571cf`](https://github.com/trueforge-org/truecharts/commit/dc571cf23fc7e0a40a5de15006a9aaeec03502bf) • [@TrueCharts Bot] (2024-05-25)
 
 ## 10.12.2 • [Train: stable]
@@ -1290,8 +1290,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.0.0 • [Train: stable]
 
-- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 - chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
+- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 
 ## 6.6.1 • [Train: stable]
 
