@@ -2,7 +2,7 @@
 title: theme-park
 ---
 
-![Version: 1.22.1](https://img.shields.io/badge/Version-1.22.1-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 1.22.2](https://img.shields.io/badge/Version-1.22.2-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **theme-park**, including upstrea
 | Field | Value |
 | --- | --- |
 | App | theme-park |
-| Version | 1.22.1 |
+| Version | 1.22.2 |
 | License | AGPL--3.0--or--later |
 
 ## Source
