@@ -65,8 +65,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.0 • [Train: ]
 
-- feat: remove tz and umask envs [ci-skip] (#408) • [`099cb44`](https://github.com/trueforge-org/truecharts/commit/099cb4499fa9b2436b8df67bc2f56d6f4275773a) • [@Devin Buhl] (2025-05-04)
 - fix(beets): use latest nodejs (#410) • [`38d1833`](https://github.com/trueforge-org/truecharts/commit/38d18339c6930320e9bd9f253af80bace7cd0201) • [@Devin Buhl] (2025-05-04)
+- feat: remove tz and umask envs [ci-skip] (#408) • [`099cb44`](https://github.com/trueforge-org/truecharts/commit/099cb4499fa9b2436b8df67bc2f56d6f4275773a) • [@Devin Buhl] (2025-05-04)
 - chore: dockerfile style updates [ci-skip] (#331) • [`37a676f`](https://github.com/trueforge-org/truecharts/commit/37a676f1d1c5aad699ec46d05c0df0b45a8eb1e2) • [@Devin Buhl] (2025-04-10)
 - chore: more dockerfile style updates (#333) • [`b61bc45`](https://github.com/trueforge-org/truecharts/commit/b61bc45ee8aac4c6557a1fe47d0c542dd4340047) • [@Devin Buhl] (2025-04-10)
 - ci: add SOURCE var in bake files [ci-skip] (#312) • [`6d81fdb`](https://github.com/trueforge-org/truecharts/commit/6d81fdb4307f25d5510c4e63a3e6f20b1e388510) • [@Devin Buhl] (2025-04-04)
