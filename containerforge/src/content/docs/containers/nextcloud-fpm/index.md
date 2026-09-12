@@ -2,7 +2,7 @@
 title: nextcloud-fpm
 ---
 
-![Version: 34.0.3-fpm](https://img.shields.io/badge/Version-34.0.3-fpm-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 34.0.4-fpm](https://img.shields.io/badge/Version-34.0.4-fpm-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **nextcloud-fpm**, including upst
 | Field | Value |
 | --- | --- |
 | App | nextcloud-fpm |
-| Version | 34.0.3-fpm |
+| Version | 34.0.4-fpm |
 | License | AGPL--3.0--or--later |
 
 ## Source
