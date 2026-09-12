@@ -40,13 +40,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 - move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 5fa3c2c (#2076) • [`8582ebc`](https://github.com/trueforge-org/truecharts/commit/8582ebcc6a0322009da1c100ab08b2d52614ac5c) • [@TrueCharts Bot] (2026-04-24)
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 01cc09f (#2061) • [`b684474`](https://github.com/trueforge-org/truecharts/commit/b684474fb24d4ea62f4444d9b2e64451d7518894) • [@TrueCharts Bot] (2026-04-23)
-- improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to bec52e9 (#1929) • [`5d334f4`](https://github.com/trueforge-org/truecharts/commit/5d334f478dcb81a0f8560e9c158c650cd1a6d8f0) • [@TrueCharts Bot] (2026-04-19)
+- improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 01cc09f (#2061) • [`b684474`](https://github.com/trueforge-org/truecharts/commit/b684474fb24d4ea62f4444d9b2e64451d7518894) • [@TrueCharts Bot] (2026-04-23)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
-- feat(deps): update librespeed/speedtest v6.0.2 → v6.1.0 (#1883) • [`ee52ae5`](https://github.com/trueforge-org/truecharts/commit/ee52ae582e0c05d6534b825aa6abb87b756eed2e) • [@TrueCharts Bot] (2026-04-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8b0b1f0 (#1905) • [`20a527b`](https://github.com/trueforge-org/truecharts/commit/20a527bd40e7ba2654b000ee00636a54cd8e42e9) • [@TrueCharts Bot] (2026-04-19)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to bec52e9 (#1929) • [`5d334f4`](https://github.com/trueforge-org/truecharts/commit/5d334f478dcb81a0f8560e9c158c650cd1a6d8f0) • [@TrueCharts Bot] (2026-04-19)
+- feat(deps): update librespeed/speedtest v6.0.2 → v6.1.0 (#1883) • [`ee52ae5`](https://github.com/trueforge-org/truecharts/commit/ee52ae582e0c05d6534b825aa6abb87b756eed2e) • [@TrueCharts Bot] (2026-04-19)
 
 ## 6.0.2 • [Train: ]
 
