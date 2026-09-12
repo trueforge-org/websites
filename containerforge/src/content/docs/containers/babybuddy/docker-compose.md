@@ -33,11 +33,11 @@ services:
           cpus: 4
           memory: 4G
     environment:
-      DATABASE_URL: postgres://babybuddy:b63a53fc1ff581b3163edfd4bce75303WORD@postgresql:5432/babybuddy
+      DATABASE_URL: postgres://babybuddy:38f4a8a91e970c7dee0af4273b42d78fWORD@postgresql:5432/babybuddy
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/babybuddy:2.10.0
+    image: ghcr.io/trueforge-org/babybuddy:2.10.1
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -62,7 +62,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: babybuddy
-#       POSTGRES_PASSWORD: b63a53fc1ff581b3163edfd4bce75303WORD
+#       POSTGRES_PASSWORD: 38f4a8a91e970c7dee0af4273b42d78fWORD
 #       POSTGRES_USER: babybuddy
 #       TZ: Etc/UTC
 #     group_add:
