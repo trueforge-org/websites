@@ -41,8 +41,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 26.5.0 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to c21fcd8 (#2464) • [`20cfabc`](https://github.com/trueforge-org/truecharts/commit/20cfabc16f0cf777e74ef91b282ac0d187db8415) • [@TrueCharts Bot] (2026-06-08)
 - feat(deps): update bookstackapp/bookstack v26.03.5 → v26.05 (#2430) • [`747f5e2`](https://github.com/trueforge-org/truecharts/commit/747f5e2adf1676ef230cfca0b0f33762cc7b7dc5) • [@TrueCharts Bot] (2026-06-08)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to c21fcd8 (#2464) • [`20cfabc`](https://github.com/trueforge-org/truecharts/commit/20cfabc16f0cf777e74ef91b282ac0d187db8415) • [@TrueCharts Bot] (2026-06-08)
 
 ## 26.3.5 • [Train: ]
 
@@ -50,10 +50,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 26.3.4 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 17312da (#2273) • [`07c023d`](https://github.com/trueforge-org/truecharts/commit/07c023df996444b5d1291559d1d7234f8302ea47) • [@TrueCharts Bot] (2026-05-07)
 - fix(php-apps): align package names with Ubuntu 26.04 base (#2292) • [`263cfad`](https://github.com/trueforge-org/truecharts/commit/263cfadc08d9514977753dbe3ec5892007ede78f) • [@Copilot] (2026-05-07)
-- BREAKING CHANGE(deps): Update BookStackApp/BookStack v25.11.1 → v26.03.4 (#2169) • [`a5823b7`](https://github.com/trueforge-org/truecharts/commit/a5823b79df4a28c6781febc205a3ecc325fabcfb) • [@TrueCharts Bot] (2026-05-06)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 17312da (#2273) • [`07c023d`](https://github.com/trueforge-org/truecharts/commit/07c023df996444b5d1291559d1d7234f8302ea47) • [@TrueCharts Bot] (2026-05-07)
 - BREAKING CHANGE(ubuntu-dep): Update ghcr.io/trueforge-org/ubuntu Docker tag (#2271) • [`2030ba8`](https://github.com/trueforge-org/truecharts/commit/2030ba8657cd49390206c3638a4635de0b4a4bf9) • [@TrueCharts Bot] (2026-05-06)
+- BREAKING CHANGE(deps): Update BookStackApp/BookStack v25.11.1 → v26.03.4 (#2169) • [`a5823b7`](https://github.com/trueforge-org/truecharts/commit/a5823b79df4a28c6781febc205a3ecc325fabcfb) • [@TrueCharts Bot] (2026-05-06)
 
 ## 25.12.9 • [Train: ]
 

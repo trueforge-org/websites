@@ -51,8 +51,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
-- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#1833) • [`04634f7`](https://github.com/trueforge-org/truecharts/commit/04634f7182dd54f832c43cd9506fde5364b5ec1f) • [@TrueCharts Bot] (2026-04-18)
 - fix(containers): fix spaces to asciii -&gt; renovate errors (#1849) • [`899bc8c`](https://github.com/trueforge-org/truecharts/commit/899bc8c975e664b60ed52e85b1f84a3b07144e87) • [@Alfred Göppel] (2026-04-18)
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#1833) • [`04634f7`](https://github.com/trueforge-org/truecharts/commit/04634f7182dd54f832c43cd9506fde5364b5ec1f) • [@TrueCharts Bot] (2026-04-18)
 - fix(deps): update selkies-project/sealskin 0.1.17 → 0.1.37 (#1548) • [`cb9d57c`](https://github.com/trueforge-org/truecharts/commit/cb9d57c56618167692cfb70a41468d803f5a78b3) • [@TrueCharts Bot] (2026-04-17)
 
 ## 0.1.17 • [Train: ]
