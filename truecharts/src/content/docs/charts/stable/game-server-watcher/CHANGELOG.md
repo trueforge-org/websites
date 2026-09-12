@@ -567,8 +567,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.5.7 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/a-sync/game-server-watcher to v3.0.9@7026880 by renovate (#20905) • [`b9dfae9`](https://github.com/trueforge-org/truecharts/commit/b9dfae9daa2ce926668b6574bf2873bbe688ecaf) • [@TrueCharts Bot] (2024-04-18)
 - Commit daily changes • [`dd036eb`](https://github.com/trueforge-org/truecharts/commit/dd036eb75382bb8ae09c8ce995a99cb045d85d54) • [@TrueCharts-Bot] (2024-04-18)
+- chore(deps): update container image ghcr.io/a-sync/game-server-watcher to v3.0.9@7026880 by renovate (#20905) • [`b9dfae9`](https://github.com/trueforge-org/truecharts/commit/b9dfae9daa2ce926668b6574bf2873bbe688ecaf) • [@TrueCharts Bot] (2024-04-18)
 
 ## 1.5.6 • [Train: stable]
 
@@ -621,8 +621,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.4.2 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/a-sync/game-server-watcher to v3.0.5@61d4e0e by renovate (#19674) • [`5efd034`](https://github.com/trueforge-org/truecharts/commit/5efd034227d878344ba6febc12a1e4be479c8902) • [@TrueCharts Bot] (2024-03-23)
 - chore(deps): update container image common to v20.2.3@06e462e by renovate (#19673) • [`042c249`](https://github.com/trueforge-org/truecharts/commit/042c249a9c3c7f8c7f921cf9ad7185e5293f9c73) • [@TrueCharts Bot] (2024-03-23)
+- chore(deps): update container image ghcr.io/a-sync/game-server-watcher to v3.0.5@61d4e0e by renovate (#19674) • [`5efd034`](https://github.com/trueforge-org/truecharts/commit/5efd034227d878344ba6febc12a1e4be479c8902) • [@TrueCharts Bot] (2024-03-23)
 
 ## 1.4.1 • [Train: stable]
 
