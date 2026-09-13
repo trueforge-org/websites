@@ -243,8 +243,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.6.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 9.6.0 • [Train: stable]
 
@@ -319,9 +319,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.0.6 • [Train: stable]
 
+- chore(helm): update image docker.io/fancybits/channels-dvr digest to 284fed6 (#37143) • [`5db484e`](https://github.com/trueforge-org/truecharts/commit/5db484e8511de2201b383164b2fc836e3fb1b975) • [@TrueCharts Bot] (2025-07-07)
 - chore(helm): update image docker.io/fancybits/channels-dvr digest to f3672e8 (#37144) • [`d07eac6`](https://github.com/trueforge-org/truecharts/commit/d07eac6a62a5fee37eea20a2ae454f6b9b77dc3f) • [@TrueCharts Bot] (2025-07-07)
 - chore(helm): update chart common 28.12.6 → 28.12.7 (#37188) • [`0f93b7d`](https://github.com/trueforge-org/truecharts/commit/0f93b7dddf18d6ec567159463c0edea43413d372) • [@TrueCharts Bot] (2025-07-07)
-- chore(helm): update image docker.io/fancybits/channels-dvr digest to 284fed6 (#37143) • [`5db484e`](https://github.com/trueforge-org/truecharts/commit/5db484e8511de2201b383164b2fc836e3fb1b975) • [@TrueCharts Bot] (2025-07-07)
 
 ## 9.0.5 • [Train: stable]
 
@@ -356,8 +356,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.5.1 • [Train: stable]
 
-- chore(helm): update image docker.io/fancybits/channels-dvr digest to ea000df (#31226) • [`137fb8d`](https://github.com/trueforge-org/truecharts/commit/137fb8d3a66edb358d9cb1da158cee97d4e713b6) • [@TrueCharts Bot] (2025-01-27)
 - chore(helm): update image docker.io/fancybits/channels-dvr digest to 52a8ed8 (#31225) • [`9beb287`](https://github.com/trueforge-org/truecharts/commit/9beb287cbe2a831e87fdecef4d9b39786fecf068) • [@TrueCharts Bot] (2025-01-27)
+- chore(helm): update image docker.io/fancybits/channels-dvr digest to ea000df (#31226) • [`137fb8d`](https://github.com/trueforge-org/truecharts/commit/137fb8d3a66edb358d9cb1da158cee97d4e713b6) • [@TrueCharts Bot] (2025-01-27)
 
 ## 8.5.0 • [Train: stable]
 
@@ -529,9 +529,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.8.6 • [Train: stable]
 
-- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
+- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - chore: bump charts to ensure new icons are released • [`9828a1e`](https://github.com/trueforge-org/truecharts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5) • [@Kjeld Schouten] (2024-04-16)
 
 ## 6.8.5 • [Train: stable]
@@ -694,8 +694,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.1.7 • [Train: stable]
 
 - Commit daily changes • [`e60601a`](https://github.com/trueforge-org/truecharts/commit/e60601af8b66c2cc869e314098cf0bc43dfb55c8) • [@TrueCharts-Bot] (2024-01-09)
-- chore(deps): update container image fancybits/channels-dvr to tve@e59b99d by renovate (#16930) • [`07143a6`](https://github.com/trueforge-org/truecharts/commit/07143a6b11d681c78d2df63ed3ca96bb6d32870e) • [@TrueCharts Bot] (2024-01-08)
 - chore(deps): update container image fancybits/channels-dvr to latest@b6a26f2 by renovate (#16929) • [`641e320`](https://github.com/trueforge-org/truecharts/commit/641e32000500e41215cf9a55b4a3f81d6a4c92c1) • [@TrueCharts Bot] (2024-01-08)
+- chore(deps): update container image fancybits/channels-dvr to tve@e59b99d by renovate (#16930) • [`07143a6`](https://github.com/trueforge-org/truecharts/commit/07143a6b11d681c78d2df63ed3ca96bb6d32870e) • [@TrueCharts Bot] (2024-01-08)
 
 ## 5.1.6 • [Train: stable]
 
@@ -728,9 +728,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
+- Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
 - chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
-- Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
 - chore(deps): update helm general minor by renovate (#16579) • [`9eddcd9`](https://github.com/trueforge-org/truecharts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59) • [@TrueCharts Bot] (2023-12-30)
 
 ## 5.0.1 • [Train: stable]
@@ -793,8 +793,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.0 • [Train: stable]
 
-- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 - chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
+- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 
 ## 3.0.16 • [Train: stable]
 
@@ -945,8 +945,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.11 • [Train: incubator]
 
 - Commit daily changes • [`94c00b8`](https://github.com/trueforge-org/truecharts/commit/94c00b8c6fb66a5bb068f18fb26cd62297f35359) • [@TrueCharts-Bot] (2023-03-24)
-- update security context questions • [`893b55d`](https://github.com/trueforge-org/truecharts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - adapt workload and container questions for all apps • [`3c47107`](https://github.com/trueforge-org/truecharts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
+- update security context questions • [`893b55d`](https://github.com/trueforge-org/truecharts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - Commit daily changes • [`f106c6a`](https://github.com/trueforge-org/truecharts/commit/f106c6af5e0a30a972aac1c02dc40ba954253a17) • [@TrueCharts-Bot] (2023-02-13)
 - Commit daily changes • [`d1ab0c9`](https://github.com/trueforge-org/truecharts/commit/d1ab0c97ae147a4b63645044e03a4198b7a17b87) • [@TrueCharts-Bot] (2023-02-11)
 - fix(all): ensure new helm deps repo is used in latest releases as well. • [`2c1eebf`](https://github.com/trueforge-org/truecharts/commit/2c1eebf59facff4d54ca7e66854427084c5a3a1d) • [@Kjeld Schouten-Lebbing] (2023-02-10)
@@ -960,10 +960,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`adda47b`](https://github.com/trueforge-org/truecharts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
 - Commit daily changes • [`ed743f6`](https://github.com/trueforge-org/truecharts/commit/ed743f6c5c2534c39143d6f822d19bb47913ecd2) • [@TrueCharts-Bot] (2023-02-01)
+- Commit daily changes • [`3f63d20`](https://github.com/trueforge-org/truecharts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`dfff570`](https://github.com/trueforge-org/truecharts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`ed66075`](https://github.com/trueforge-org/truecharts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`0fb22dd`](https://github.com/trueforge-org/truecharts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
-- Commit daily changes • [`3f63d20`](https://github.com/trueforge-org/truecharts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
 - Commit bumped Chart Version • [`5ab5061`](https://github.com/trueforge-org/truecharts/commit/5ab5061299438af3e2924a47e72cd56fa8561b74) • [@TrueCharts-Bot] (2023-01-17)
 - Merge pull request #6433 from truecharts/renovate/tccr.io-truecharts-channels-dvr-tve-latest • [`309eb04`](https://github.com/trueforge-org/truecharts/commit/309eb0482ee76fda93c7d75baa2ce14809cb6506) • [@TrueCharts Bot] (2023-01-17)
 
