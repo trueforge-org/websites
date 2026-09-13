@@ -37,7 +37,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/adguardhome-sync:0.9.2
+    image: ghcr.io/trueforge-org/adguardhome-sync:0.9.3
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
