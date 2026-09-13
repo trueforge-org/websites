@@ -60,8 +60,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.6.0 • [Train: ]
 
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.4 docker digest digest to 622c7c1 (#2326) • [`e1f2bc1`](https://github.com/trueforge-org/truecharts/commit/e1f2bc1071f9dccdcb0f5a0c6a3b1e496c64ac20) • [@TrueCharts Bot] (2026-05-07)
 - feat(python-dep): update python (minor) (#2287) • [`4efcb6e`](https://github.com/trueforge-org/truecharts/commit/4efcb6ed8c0de6dacaa7ca3c02ec104816578aa8) • [@TrueCharts Bot] (2026-05-07)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.4 docker digest digest to 622c7c1 (#2326) • [`e1f2bc1`](https://github.com/trueforge-org/truecharts/commit/e1f2bc1071f9dccdcb0f5a0c6a3b1e496c64ac20) • [@TrueCharts Bot] (2026-05-07)
 - feat(deps): update netbox-community/netbox v4.5.10 → v4.6.0 (#2236) • [`07c214f`](https://github.com/trueforge-org/truecharts/commit/07c214f4c54867a4970bb74381eee0777f56808c) • [@TrueCharts Bot] (2026-05-05)
 
 ## 4.5.10 • [Train: ]
@@ -109,8 +109,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.5.3 • [Train: ]
 
-- feat(deps): update netbox-community/netbox v4.4.10 → v4.5.3 (#1560) • [`013835f`](https://github.com/trueforge-org/truecharts/commit/013835fb1f65e5d38007df5d1c0d6b97a07b37bc) • [@TrueCharts Bot] (2026-02-24)
 - chore(python-dep): pin ghcr.io/trueforge-org/python docker tag digest to ec0d5db (#1532) • [`77a7822`](https://github.com/trueforge-org/truecharts/commit/77a78223e507d59c47a0d941f76739926629ed05) • [@TrueCharts Bot] (2026-02-24)
+- feat(deps): update netbox-community/netbox v4.4.10 → v4.5.3 (#1560) • [`013835f`](https://github.com/trueforge-org/truecharts/commit/013835fb1f65e5d38007df5d1c0d6b97a07b37bc) • [@TrueCharts Bot] (2026-02-24)
 
 ## 4.4.10 • [Train: ]
 
