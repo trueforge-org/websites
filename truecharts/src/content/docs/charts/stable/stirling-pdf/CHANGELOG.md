@@ -256,8 +256,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.13.12 • [Train: stable]
 
-- Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
 - fix(stirling-pdf): update image ghcr.io/stirling-tools/s-pdf 2.4.2 → 2.4.3 (#44408) • [`5a3215f`](https://github.com/trueforge-org/truecharts/commit/5a3215fc814c16295a8c143b9387b64786d8872d) • [@TrueCharts Bot] (2026-02-01)
+- Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
 
 ## 8.13.9 • [Train: stable]
 
