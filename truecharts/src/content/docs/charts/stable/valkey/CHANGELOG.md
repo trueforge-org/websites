@@ -234,8 +234,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: incubator]
 
-- chore(valkey): pin image docker.io/bitnamisecure/valkey digest to 14dc12c (#44989) • [`f74af0f`](https://github.com/trueforge-org/truecharts/commit/f74af0f85c4bceaf11b7df0078ad12e15c6b3f4a) • [@TrueCharts Bot] (2026-02-15)
 - Bump version from 0.0.1 to 0.0.2 • [`96b77fa`](https://github.com/trueforge-org/truecharts/commit/96b77fa49ea4353bb67175707c3151d75e1e5d0e) • [@Kjeld Schouten] (2026-02-15)
+- chore(valkey): pin image docker.io/bitnamisecure/valkey digest to 14dc12c (#44989) • [`f74af0f`](https://github.com/trueforge-org/truecharts/commit/f74af0f85c4bceaf11b7df0078ad12e15c6b3f4a) • [@TrueCharts Bot] (2026-02-15)
 
 ## 0.0.1 • [Train: incubator]
 
