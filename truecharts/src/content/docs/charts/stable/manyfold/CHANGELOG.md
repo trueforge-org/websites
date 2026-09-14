@@ -37,8 +37,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.26.0 • [Train: stable]
 
-- feat(helm-deps): update chart common 29.16.0 → 29.17.0 (#51942) • [`9fdc9c2`](https://github.com/trueforge-org/truecharts/commit/9fdc9c2eb39cc3e011f6a1f154e387e0165d8379) • [@TrueCharts Bot] (2026-08-30)
 - feat(helm-deps): update chart valkey 2.7.5 → 2.8.0 (#51953) • [`58bec84`](https://github.com/trueforge-org/truecharts/commit/58bec844d155a1ad735cbf89c42b63f7c41350b7) • [@TrueCharts Bot] (2026-08-30)
+- feat(helm-deps): update chart common 29.16.0 → 29.17.0 (#51942) • [`9fdc9c2`](https://github.com/trueforge-org/truecharts/commit/9fdc9c2eb39cc3e011f6a1f154e387e0165d8379) • [@TrueCharts Bot] (2026-08-30)
 
 ## 7.25.0 • [Train: stable]
 
@@ -525,8 +525,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.39.4 • [Train: stable]
 
-- fix(helm-deps): update chart redis 17.15.5 → 17.15.6 (#43130) • [`2f8a5bc`](https://github.com/trueforge-org/truecharts/commit/2f8a5bc12e2dadd0964954718a0d7e2249d16c4a) • [@TrueCharts Bot] (2025-12-24)
 - fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
+- fix(helm-deps): update chart redis 17.15.5 → 17.15.6 (#43130) • [`2f8a5bc`](https://github.com/trueforge-org/truecharts/commit/2f8a5bc12e2dadd0964954718a0d7e2249d16c4a) • [@TrueCharts Bot] (2025-12-24)
 
 ## 4.39.3 • [Train: stable]
 
@@ -1356,8 +1356,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.1.2 • [Train: incubator]
 
 - Commit daily changes • [`5f7c608`](https://github.com/trueforge-org/truecharts/commit/5f7c608042c44783d9a0864853f6e411d5c5d1b9) • [@TrueCharts-Bot] (2024-09-03)
-- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25822) • [`fbc7fb3`](https://github.com/trueforge-org/truecharts/commit/fbc7fb3b892a40759462311f94fe8913352a0020) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image ghcr.io/manyfold3d/manyfold to v0.76.1@d376fd4 by renovate (#25824) • [`586c885`](https://github.com/trueforge-org/truecharts/commit/586c885412040320e6c70f4bc77724c160647e42) • [@TrueCharts Bot] (2024-09-02)
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25822) • [`fbc7fb3`](https://github.com/trueforge-org/truecharts/commit/fbc7fb3b892a40759462311f94fe8913352a0020) • [@TrueCharts Bot] (2024-09-02)
 
 ## 0.1.1 • [Train: incubator]
 
