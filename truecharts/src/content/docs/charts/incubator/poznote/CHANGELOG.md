@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.3.0 • [Train: incubator]
+
+- feat(poznote): update image ghcr.io/timothepoznanski/poznote 6.86.0 → 6.87.0 (#52587) • [`68eef2f`](https://github.com/trueforge-org/truecharts/commit/68eef2f26c49b42a1da0d43fcf06e2b745922609) • [@TrueCharts Bot] (2026-09-15)
+
 ## 0.2.0 • [Train: incubator]
 
 - Commit daily changes • [`be515c8`](https://github.com/trueforge-org/truecharts/commit/be515c80b2d5bfe6b9214038a46018c2acb00b7c) • [@TrueCharts-Bot] (2026-09-15)
