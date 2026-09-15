@@ -105,8 +105,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 18.7.0 • [Train: stable]
 
-- feat(local-ai): update image docker.io/localai/localai v4.3.6 → v4.4.0 (#49004) • [`ec3681d`](https://github.com/trueforge-org/truecharts/commit/ec3681d6fc07eed03d558931c41178ac549b3d99) • [@TrueCharts Bot] (2026-06-11)
 - feat(helm-deps): update chart common 29.3.4 → 29.5.3 (#48994) • [`9394df1`](https://github.com/trueforge-org/truecharts/commit/9394df19895096df1861134e8b85fa99ce9e43df) • [@TrueCharts Bot] (2026-06-11)
+- feat(local-ai): update image docker.io/localai/localai v4.3.6 → v4.4.0 (#49004) • [`ec3681d`](https://github.com/trueforge-org/truecharts/commit/ec3681d6fc07eed03d558931c41178ac549b3d99) • [@TrueCharts Bot] (2026-06-11)
 
 ## 18.6.4 • [Train: stable]
 
@@ -368,9 +368,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.29.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 16.28.0 • [Train: stable]
 
@@ -767,8 +767,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.0.2 • [Train: stable]
 
-- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 - chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 
 ## 11.0.1 • [Train: stable]
 
@@ -800,8 +800,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.18.0 • [Train: stable]
 
-- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image docker.io/localai/localai to v2.16.0 by renovate (#22420) • [`dc571cf`](https://github.com/trueforge-org/truecharts/commit/dc571cf23fc7e0a40a5de15006a9aaeec03502bf) • [@TrueCharts Bot] (2024-05-25)
 
 ## 10.12.2 • [Train: stable]
@@ -1217,8 +1217,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
-- chore(deps): update container image quay.io/go-skynet/local-ai by renovate (#16686) • [`c89b103`](https://github.com/trueforge-org/truecharts/commit/c89b103cb0603e2802d26e504f5fcd3e3493c913) • [@TrueCharts Bot] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
+- chore(deps): update container image quay.io/go-skynet/local-ai by renovate (#16686) • [`c89b103`](https://github.com/trueforge-org/truecharts/commit/c89b103cb0603e2802d26e504f5fcd3e3493c913) • [@TrueCharts Bot] (2023-12-31)
 
 ## 8.1.0 • [Train: stable]
 
@@ -1422,8 +1422,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.4 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/local-ai-cublas-cuda11 to v1.30.0 (#13023) • [`fef6bfd`](https://github.com/trueforge-org/truecharts/commit/fef6bfd354ba2a6ddb5667a1f7baba0b122eb3fa) • [@TrueCharts Bot] (2023-09-28)
 - chore(deps): update container image tccr.io/truecharts/local-ai to v1.30.0 (#13022) • [`4faf08b`](https://github.com/trueforge-org/truecharts/commit/4faf08ba4ea8b1194e35aa0fbef050c0ebf8acf9) • [@TrueCharts Bot] (2023-09-28)
+- chore(deps): update container image tccr.io/truecharts/local-ai-cublas-cuda11 to v1.30.0 (#13023) • [`fef6bfd`](https://github.com/trueforge-org/truecharts/commit/fef6bfd354ba2a6ddb5667a1f7baba0b122eb3fa) • [@TrueCharts Bot] (2023-09-28)
 
 ## 0.0.3 • [Train: stable]
 
