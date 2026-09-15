@@ -2,7 +2,7 @@
 title: unifi-network-application
 ---
 
-![Version: 10.6.101](https://img.shields.io/badge/Version-10.6.101-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 10.6.106](https://img.shields.io/badge/Version-10.6.106-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **unifi-network-application**, in
 | Field | Value |
 | --- | --- |
 | App | unifi-network-application |
-| Version | 10.6.101 |
+| Version | 10.6.106 |
 | License | AGPL--3.0--or--later |
 
 ## Source
