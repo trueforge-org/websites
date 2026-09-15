@@ -186,8 +186,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.17.8 • [Train: stable]
 
-- fix(slink): update image docker.io/anirdev/slink v1.9.4 → v1.9.5 (#44901) • [`00ef95f`](https://github.com/trueforge-org/truecharts/commit/00ef95f544c12e9bfef1d598c39babe24aca1dfe) • [@TrueCharts Bot] (2026-02-14)
 - port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
+- fix(slink): update image docker.io/anirdev/slink v1.9.4 → v1.9.5 (#44901) • [`00ef95f`](https://github.com/trueforge-org/truecharts/commit/00ef95f544c12e9bfef1d598c39babe24aca1dfe) • [@TrueCharts Bot] (2026-02-14)
 
 ## 5.17.7 • [Train: stable]
 
