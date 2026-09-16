@@ -162,8 +162,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.16.2 • [Train: stable]
 
-- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 - fix(tandoor-recipes): update image ghcr.io/tandoorrecipes/recipes 2.5.1 → 2.5.3 (#44927) • [`c47a410`](https://github.com/trueforge-org/truecharts/commit/c47a41001ef6846005dff227e460f6820428e5ac) • [@TrueCharts Bot] (2026-02-14)
+- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 
 ## 20.16.1 • [Train: stable]
 
@@ -336,8 +336,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.6.4 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 20.6.3 • [Train: stable]
 
@@ -382,8 +382,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.3.2 • [Train: stable]
 
-- chore(helm): update chart common 28.17.0 → 28.17.1 (#39324) • [`6600a55`](https://github.com/trueforge-org/truecharts/commit/6600a55c9674a87cfc424515b4fdf086f4610f81) • [@TrueCharts Bot] (2025-09-09)
 - chore(helm): update image docker.io/vabene1111/recipes 2.1.1 → 2.1.2 (#39326) • [`1c72d22`](https://github.com/trueforge-org/truecharts/commit/1c72d228f2e36856fd8844823dc9f877e150cf8e) • [@TrueCharts Bot] (2025-09-09)
+- chore(helm): update chart common 28.17.0 → 28.17.1 (#39324) • [`6600a55`](https://github.com/trueforge-org/truecharts/commit/6600a55c9674a87cfc424515b4fdf086f4610f81) • [@TrueCharts Bot] (2025-09-09)
 
 ## 20.3.1 • [Train: stable]
 
@@ -724,8 +724,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.8.6 • [Train: stable]
 
-- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 - Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
+- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 
 ## 16.8.5 • [Train: stable]
 
