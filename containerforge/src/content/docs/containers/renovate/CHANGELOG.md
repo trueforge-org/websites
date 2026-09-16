@@ -2255,7 +2255,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 - some more work on migrating existing containers • [`1f5b4bb`](https://github.com/trueforge-org/truecharts/commit/1f5b4bb49a6ca79c94490c7b1a59f7410709764b) • [@Kjeld Schouten] (2025-09-29)
 - renovate/clustertool targetarch • [`3742238`](https://github.com/trueforge-org/truecharts/commit/3742238e96cfd7cf307c23335581e172170ed7e9) • [@Kjeld Schouten] (2025-09-29)
 - fix more build issues • [`5386b66`](https://github.com/trueforge-org/truecharts/commit/5386b66814a4296f6282b463678213b7948967a0) • [@Kjeld Schouten] (2025-09-29)
-- hmm • [`e1edfe7`](https://github.com/trueforge-org/truecharts/commit/e1edfe73b16b4cd3705c25828393851b656e44ae) • [@Kjeld Schouten] (2025-09-29)
 - and cleanup some more • [`bbe4f1b`](https://github.com/trueforge-org/truecharts/commit/bbe4f1b23054b5eb74b5a7719395bd46127024b5) • [@Kjeld Schouten] (2025-09-29)
 - fix targetarch for renovate • [`cccec29`](https://github.com/trueforge-org/truecharts/commit/cccec2917d3dce9306e0f584edf38aefe43a6a68) • [@Kjeld Schouten] (2025-09-29)
 - more fixes • [`d36deb3`](https://github.com/trueforge-org/truecharts/commit/d36deb361bd1c8b6fca5a23e8f16b48666767e80) • [@Kjeld Schouten] (2025-09-29)
+- hmm • [`e1edfe7`](https://github.com/trueforge-org/truecharts/commit/e1edfe73b16b4cd3705c25828393851b656e44ae) • [@Kjeld Schouten] (2025-09-29)
