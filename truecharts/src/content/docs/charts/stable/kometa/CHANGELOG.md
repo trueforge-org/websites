@@ -105,8 +105,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.1 • [Train: stable]
 
-- chore(kometa): update image oci.trueforge.org/containerforge/kometa digest to 737ba21 (#47398) • [`9d8b8cf`](https://github.com/trueforge-org/truecharts/commit/9d8b8cf631f322c653b9d8462d0a6bc04170f6c1) • [@TrueCharts Bot] (2026-04-22)
 - fix(helm-deps): update chart common 29.1.0 → 29.1.6 (#47400) • [`7be5b72`](https://github.com/trueforge-org/truecharts/commit/7be5b7277c185b5b8d86cc35f75192bc58969026) • [@TrueCharts Bot] (2026-04-22)
+- chore(kometa): update image oci.trueforge.org/containerforge/kometa digest to 737ba21 (#47398) • [`9d8b8cf`](https://github.com/trueforge-org/truecharts/commit/9d8b8cf631f322c653b9d8462d0a6bc04170f6c1) • [@TrueCharts Bot] (2026-04-22)
 
 ## 6.0.0 • [Train: stable]
 
@@ -542,8 +542,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.4 • [Train: stable]
 
-- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image common to v23.0.8@9e7419b by renovate (#22277) • [`bbcc969`](https://github.com/trueforge-org/truecharts/commit/bbcc969f0ed40e5d7256d4f107db88a4c3ce5ab3) • [@TrueCharts Bot] (2024-05-20)
 
 ## 2.0.3 • [Train: stable]
