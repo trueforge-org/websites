@@ -273,8 +273,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.23.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 4.22.0 • [Train: stable]
 
@@ -342,8 +342,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.14.0 • [Train: stable]
 
-- chore(helm): update image docker.io/victoriametrics/victoria-metrics v1.126.0 → v1.127.0 (#40365) • [`d3ade91`](https://github.com/trueforge-org/truecharts/commit/d3ade91344a626aec31bd2341c9487b82043aaa1) • [@TrueCharts Bot] (2025-10-04)
 - Commit daily changes • [`044fb16`](https://github.com/trueforge-org/truecharts/commit/044fb16f843c28067054900ff9c84fbe0c7e2f44) • [@TrueCharts-Bot] (2025-10-04)
+- chore(helm): update image docker.io/victoriametrics/victoria-metrics v1.126.0 → v1.127.0 (#40365) • [`d3ade91`](https://github.com/trueforge-org/truecharts/commit/d3ade91344a626aec31bd2341c9487b82043aaa1) • [@TrueCharts Bot] (2025-10-04)
 
 ## 4.13.1 • [Train: stable]
 
