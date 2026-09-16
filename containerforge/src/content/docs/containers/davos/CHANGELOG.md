@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.2 • [Train: ]
 
+- chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to 2933207 (#3607) • [`0a906a9`](https://github.com/trueforge-org/truecharts/commit/0a906a9bbf390bb8e1839be7db38a4f140aa624c) • [@TrueCharts Bot] (2026-09-16)
 - chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to a0fda27 (#3597) • [`7a33136`](https://github.com/trueforge-org/truecharts/commit/7a331366bb155a66214941653a9e0f97d373bd8a) • [@TrueCharts Bot] (2026-09-16)
 - chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to a847124 (#3502) • [`c9a8ed3`](https://github.com/trueforge-org/truecharts/commit/c9a8ed3a62de7173aece4d5c50146ed7c6508817) • [@TrueCharts Bot] (2026-09-10)
 - chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to f3920e0 (#3276) • [`33848aa`](https://github.com/trueforge-org/truecharts/commit/33848aae59f8f09a975db38ef338910204e7dc70) • [@TrueCharts Bot] (2026-08-21)
