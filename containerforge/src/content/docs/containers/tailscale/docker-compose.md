@@ -42,7 +42,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/tailscale:v1.102.3
+    image: ghcr.io/trueforge-org/tailscale:v1.102.4
     restart: unless-stopped
     shm_size: 256M
     volumes:
