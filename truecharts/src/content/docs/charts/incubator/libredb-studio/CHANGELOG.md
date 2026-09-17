@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.2.0 • [Train: incubator]
+
+- feat(libredb-studio): update image ghcr.io/libredb/libredb-studio 0.15.0 → 0.16.0 (#52670) • [`89d3e15`](https://github.com/trueforge-org/truecharts/commit/89d3e159f4660846f4f1db3108a6d3c7ed37b9f5) • [@TrueCharts Bot] (2026-09-17)
+
 ## 0.1.0 • [Train: incubator]
 
 - Commit daily changes • [`5323d87`](https://github.com/trueforge-org/truecharts/commit/5323d87f277dcf42231ef7709f379ebb7c0a403c) • [@TrueCharts-Bot] (2026-09-16)
