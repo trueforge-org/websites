@@ -2,7 +2,7 @@
 title: renovate
 ---
 
-![Version: 7.21.3](https://img.shields.io/badge/Version-7.21.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 44.93.8](https://img.shields.io/badge/AppVersion-44.93.8-informational?style=flat-square)
+![Version: 7.22.0](https://img.shields.io/badge/Version-7.22.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 44.94.2](https://img.shields.io/badge/AppVersion-44.94.2-informational?style=flat-square)
 
 renovate self-hosted
 
