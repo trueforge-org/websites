@@ -2,7 +2,7 @@
 title: poznote
 ---
 
-![Version: 0.3.0](https://img.shields.io/badge/Version-0.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.87.0](https://img.shields.io/badge/AppVersion-6.87.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.87.0](https://img.shields.io/badge/AppVersion-6.87.0-informational?style=flat-square)
 
 Poznote is a self-hosted note-taking and knowledge base application with a web editor, attachments, snapshots, backups and optional OIDC authentication.
 
@@ -10,7 +10,7 @@ Poznote is a self-hosted note-taking and knowledge base application with a web e
 
 - https://ghcr.io/timothepoznanski/poznote
 - https://github.com/timothepoznanski/poznote
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/poznote
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/poznote
 
 ## Available Documentation
 
