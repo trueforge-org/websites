@@ -2,7 +2,7 @@
 title: cops
 ---
 
-![Version: 4.5.2](https://img.shields.io/badge/Version-4.5.2-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 4.5.4](https://img.shields.io/badge/Version-4.5.4-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **cops**, including upstream sour
 | Field | Value |
 | --- | --- |
 | App | cops |
-| Version | 4.5.2 |
+| Version | 4.5.4 |
 | License | AGPL--3.0--or--later |
 
 ## Source

@@ -38,7 +38,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/cops:4.5.2
+    image: ghcr.io/trueforge-org/cops:4.5.4
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
