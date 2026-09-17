@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.28.1 • [Train: ]
 
-- feat(deps): update irosthebeggar/mstream v6.27.0 → v6.28.1 (#3581) • [`4d84771`](https://github.com/trueforge-org/truecharts/commit/4d84771e1cdc342b71d13c6b55add36993a26a0d) • [@TrueCharts Bot] (2026-09-17)
 - chore(node-dep): update node.js digest to 8a3b149 (#3638) • [`942f718`](https://github.com/trueforge-org/truecharts/commit/942f71841b85482e296e67bd3d1416b6f9c01c4c) • [@TrueCharts Bot] (2026-09-17)
+- feat(deps): update irosthebeggar/mstream v6.27.0 → v6.28.1 (#3581) • [`4d84771`](https://github.com/trueforge-org/truecharts/commit/4d84771e1cdc342b71d13c6b55add36993a26a0d) • [@TrueCharts Bot] (2026-09-17)
 
 ## 6.27.0 • [Train: ]
 
@@ -46,8 +46,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.21.2 • [Train: ]
 
-- fix(deps): update irosthebeggar/mstream v6.21.0 → v6.21.2 (#3239) • [`2e7fb5d`](https://github.com/trueforge-org/truecharts/commit/2e7fb5d0712daa97a516b2da47819322870f53df) • [@TrueCharts Bot] (2026-08-20)
 - chore(node-dep): update node.js digest to e4a650b (#3204) • [`57a9a3c`](https://github.com/trueforge-org/truecharts/commit/57a9a3c17b9e2f0866f9a1b91b7790ba4d54fd70) • [@TrueCharts Bot] (2026-08-20)
+- fix(deps): update irosthebeggar/mstream v6.21.0 → v6.21.2 (#3239) • [`2e7fb5d`](https://github.com/trueforge-org/truecharts/commit/2e7fb5d0712daa97a516b2da47819322870f53df) • [@TrueCharts Bot] (2026-08-20)
 
 ## 6.21.0 • [Train: ]
 
@@ -157,8 +157,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.5.7 • [Train: ]
 
-- chore(node-dep): update node.js digest to 4bca93d (#2116) • [`2217a7f`](https://github.com/trueforge-org/truecharts/commit/2217a7f3f1620851bbda98aaa7385abaa1c44137) • [@TrueCharts Bot] (2026-04-26)
 - fix(deps): update irosthebeggar/mstream v6.5.4 → v6.5.7 (#2106) • [`15c9e49`](https://github.com/trueforge-org/truecharts/commit/15c9e49ea1aa0d62bbe658e3e500cbfa578be4b9) • [@TrueCharts Bot] (2026-04-26)
+- chore(node-dep): update node.js digest to 4bca93d (#2116) • [`2217a7f`](https://github.com/trueforge-org/truecharts/commit/2217a7f3f1620851bbda98aaa7385abaa1c44137) • [@TrueCharts Bot] (2026-04-26)
 
 ## 6.5.4 • [Train: ]
 
