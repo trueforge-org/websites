@@ -467,8 +467,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.6 • [Train: stable]
 
-- chore(helm): update image docker.io/itzg/mc-router 1.32.1 → 1.32.3 (#37195) • [`a600945`](https://github.com/trueforge-org/truecharts/commit/a60094565be91b6d06f4ea337e77ff646f16b265) • [@TrueCharts Bot] (2025-07-07)
 - chore(helm): update chart common 28.12.6 → 28.12.7 (#37188) • [`0f93b7d`](https://github.com/trueforge-org/truecharts/commit/0f93b7dddf18d6ec567159463c0edea43413d372) • [@TrueCharts Bot] (2025-07-07)
+- chore(helm): update image docker.io/itzg/mc-router 1.32.1 → 1.32.3 (#37195) • [`a600945`](https://github.com/trueforge-org/truecharts/commit/a60094565be91b6d06f4ea337e77ff646f16b265) • [@TrueCharts Bot] (2025-07-07)
 
 ## 2.0.5 • [Train: stable]
 
