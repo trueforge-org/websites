@@ -179,8 +179,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.0 • [Train: stable]
 
 - Commit daily changes • [`e61ac18`](https://github.com/trueforge-org/truecharts/commit/e61ac1832997e6dead504d7d004110b43c07254f) • [@TrueCharts-Bot] (2026-02-15)
-- feat(multus-cni): Move multus-cni to stable (#44892) • [`ecbcf37`](https://github.com/trueforge-org/truecharts/commit/ecbcf37387132522fde0009557a2b52d5a12fd48) • [@astro-stan] (2026-02-14)
 - port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
+- feat(multus-cni): Move multus-cni to stable (#44892) • [`ecbcf37`](https://github.com/trueforge-org/truecharts/commit/ecbcf37387132522fde0009557a2b52d5a12fd48) • [@astro-stan] (2026-02-14)
 
 ## 0.3.0 • [Train: incubator]
 

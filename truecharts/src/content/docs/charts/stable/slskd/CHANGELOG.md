@@ -62,8 +62,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.1.0 • [Train: stable]
 
 - Commit daily changes • [`e0feb4a`](https://github.com/trueforge-org/truecharts/commit/e0feb4afdbb578243e43f5199c08c0a16b77c881) • [@TrueCharts-Bot] (2026-04-20)
-- feat(slskd): update image ghcr.io/slskd/slskd 0.24.5 → 0.25.0 (#47225) • [`4da7418`](https://github.com/trueforge-org/truecharts/commit/4da74181a867af4e1d011a6f7a3b48e82d4a9704) • [@TrueCharts Bot] (2026-04-19)
 - feat(helm-deps): update chart common 29.0.15 → 29.1.0 (#47224) • [`ffc1341`](https://github.com/trueforge-org/truecharts/commit/ffc13416f5f8132a48149dee2ac914723c97cf1f) • [@TrueCharts Bot] (2026-04-19)
+- feat(slskd): update image ghcr.io/slskd/slskd 0.24.5 → 0.25.0 (#47225) • [`4da7418`](https://github.com/trueforge-org/truecharts/commit/4da74181a867af4e1d011a6f7a3b48e82d4a9704) • [@TrueCharts Bot] (2026-04-19)
 
 ## 5.0.2 • [Train: stable]
 
