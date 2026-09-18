@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.19.0 • [Train: ]
 
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to cb2a57a (#3667) • [`bde3c44`](https://github.com/trueforge-org/truecharts/commit/bde3c440957eae1acc79918a1c3c70cdeee7271f) • [@TrueCharts Bot] (2026-09-18)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to d4e8b00 (#3640) • [`c1572b7`](https://github.com/trueforge-org/truecharts/commit/c1572b76fc2deb2da320395cee7ae3e7b014dbf1) • [@TrueCharts Bot] (2026-09-17)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to bcb7450 (#3617) • [`bde3a32`](https://github.com/trueforge-org/truecharts/commit/bde3a32569ab27a4e83c36ac7b906d087bce2e54) • [@TrueCharts Bot] (2026-09-16)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to a8809d2 (#3509) • [`921e209`](https://github.com/trueforge-org/truecharts/commit/921e2097445ad8212368d46d39affd36147d2980) • [@TrueCharts Bot] (2026-09-10)
@@ -30,8 +31,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to edb2d3f (#2600) • [`968fa88`](https://github.com/trueforge-org/truecharts/commit/968fa88d48c2d13d9075fbec8f72f0d04b56f1a9) • [@TrueCharts Bot] (2026-06-27)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to 4c5a5c1 (#2592) • [`2bc30b9`](https://github.com/trueforge-org/truecharts/commit/2bc30b932d107d902aee34064322b74bbd8407f1) • [@TrueCharts Bot] (2026-06-27)
 - feat(deps): update kasmtech/kasm-install-wizard 1.18.1 → 1.19.0 (#2559) • [`5918314`](https://github.com/trueforge-org/truecharts/commit/59183144d7094906de3bfd71c01f299c51cc024b) • [@TrueCharts Bot] (2026-06-26)
-- fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.14.5 → 3.14.6 (#2503) • [`101e222`](https://github.com/trueforge-org/truecharts/commit/101e222b8be8373025ffc981c256c4d86b42df4f) • [@TrueCharts Bot] (2026-06-26)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to d527a7c (#2577) • [`15626f6`](https://github.com/trueforge-org/truecharts/commit/15626f6b7deb4ad1c0a6b31586a5b87a4176ecaa) • [@TrueCharts Bot] (2026-06-26)
+- fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.14.5 → 3.14.6 (#2503) • [`101e222`](https://github.com/trueforge-org/truecharts/commit/101e222b8be8373025ffc981c256c4d86b42df4f) • [@TrueCharts Bot] (2026-06-26)
 
 ## 1.18.1 • [Train: ]
 
