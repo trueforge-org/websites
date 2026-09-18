@@ -23,9 +23,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.2601 • [Train: ]
 
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to fe30ffe (#3604) • [`41b2890`](https://github.com/trueforge-org/truecharts/commit/41b289018269ac973e47a9fcfe4996c0cf565dad) • [@TrueCharts Bot] (2026-09-16)
 - fix(deps): update jackett/jackett v0.24.2595 → v0.24.2601 (#3594) • [`8fc8cc4`](https://github.com/trueforge-org/truecharts/commit/8fc8cc41c935294692b825ee4f0f0baa14812d13) • [@TrueCharts Bot] (2026-09-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 82ba374 (#3595) • [`ee78af7`](https://github.com/trueforge-org/truecharts/commit/ee78af7b887ce3b9e28df5af33c1cad2163bd437) • [@TrueCharts Bot] (2026-09-16)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to fe30ffe (#3604) • [`41b2890`](https://github.com/trueforge-org/truecharts/commit/41b289018269ac973e47a9fcfe4996c0cf565dad) • [@TrueCharts Bot] (2026-09-16)
 
 ## 0.24.2595 • [Train: ]
 
@@ -53,8 +53,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.2551 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 1888fc2 (#3500) • [`087a179`](https://github.com/trueforge-org/truecharts/commit/087a179cbee793d5b05d9468ce31aa55ded4f2d4) • [@TrueCharts Bot] (2026-09-09)
 - fix(deps): update jackett/jackett v0.24.2544 → v0.24.2551 (#3488) • [`90259fb`](https://github.com/trueforge-org/truecharts/commit/90259fbff1dce29f64589993eabc328941a6f0e4) • [@TrueCharts Bot] (2026-09-09)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 1888fc2 (#3500) • [`087a179`](https://github.com/trueforge-org/truecharts/commit/087a179cbee793d5b05d9468ce31aa55ded4f2d4) • [@TrueCharts Bot] (2026-09-09)
 
 ## 0.24.2544 • [Train: ]
 
@@ -144,8 +144,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.2416 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a1011d7 (#3210) • [`fd375c8`](https://github.com/trueforge-org/truecharts/commit/fd375c899a1e3858e3fd0139b1309a321ed7ddcd) • [@TrueCharts Bot] (2026-08-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b38871f (#3201) • [`e1ec714`](https://github.com/trueforge-org/truecharts/commit/e1ec714f9d4a03d0ffdb783c2dea679a3c1b048c) • [@TrueCharts Bot] (2026-08-19)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a1011d7 (#3210) • [`fd375c8`](https://github.com/trueforge-org/truecharts/commit/fd375c899a1e3858e3fd0139b1309a321ed7ddcd) • [@TrueCharts Bot] (2026-08-19)
 - fix(deps): update jackett/jackett v0.24.2414 → v0.24.2416 (#3192) • [`c146e0a`](https://github.com/trueforge-org/truecharts/commit/c146e0af5b4658a1c2425984a1337b8848fe14f1) • [@TrueCharts Bot] (2026-08-18)
 
 ## 0.24.2414 • [Train: ]
@@ -330,8 +330,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.2158 • [Train: ]
 
-- fix(deps): update jackett/jackett v0.24.2151 → v0.24.2158 (#2653) • [`6e16c1c`](https://github.com/trueforge-org/truecharts/commit/6e16c1cc60e0d798e09c8ff11c200e58bf32d7ed) • [@TrueCharts Bot] (2026-07-02)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a79e218 (#2654) • [`14128ad`](https://github.com/trueforge-org/truecharts/commit/14128adf023faac3f2783f4cbe6c5800bb2969c7) • [@TrueCharts Bot] (2026-07-02)
+- fix(deps): update jackett/jackett v0.24.2151 → v0.24.2158 (#2653) • [`6e16c1c`](https://github.com/trueforge-org/truecharts/commit/6e16c1cc60e0d798e09c8ff11c200e58bf32d7ed) • [@TrueCharts Bot] (2026-07-02)
 
 ## 0.24.2151 • [Train: ]
 
@@ -398,9 +398,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.1822 • [Train: ]
 
-- chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to 17312da (#2279) • [`cef52a5`](https://github.com/trueforge-org/truecharts/commit/cef52a527b26763e550add85793e53a87a39a944) • [@TrueCharts Bot] (2026-05-07)
 - fix(deps): update jackett/jackett v0.24.1816 → v0.24.1822 (#2277) • [`6e93779`](https://github.com/trueforge-org/truecharts/commit/6e93779411cb81f2fdc49c9c598fe7e803358c5a) • [@TrueCharts Bot] (2026-05-07)
 - bump ubuntu everywhere • [`c836718`](https://github.com/trueforge-org/truecharts/commit/c8367182e4be747867b020bea73ced96dcc385b8) • [@Kjeld Schouten] (2026-05-07)
+- chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to 17312da (#2279) • [`cef52a5`](https://github.com/trueforge-org/truecharts/commit/cef52a527b26763e550add85793e53a87a39a944) • [@TrueCharts Bot] (2026-05-07)
 
 ## 0.24.1816 • [Train: ]
 
@@ -436,8 +436,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.1779 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to fdcc4e2 (#2111) • [`6eb80b4`](https://github.com/trueforge-org/truecharts/commit/6eb80b42574f0d6774223afb175a29aeaa917ab9) • [@TrueCharts Bot] (2026-04-26)
 - fix(deps): update jackett/jackett v0.24.1764 → v0.24.1779 (#2107) • [`38cc6ad`](https://github.com/trueforge-org/truecharts/commit/38cc6ad163d64e375e2661bc7090d18c946b6b5a) • [@TrueCharts Bot] (2026-04-26)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to fdcc4e2 (#2111) • [`6eb80b4`](https://github.com/trueforge-org/truecharts/commit/6eb80b42574f0d6774223afb175a29aeaa917ab9) • [@TrueCharts Bot] (2026-04-26)
 
 ## 0.24.1764 • [Train: ]
 
@@ -445,9 +445,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.1736 • [Train: ]
 
+- move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
 - fix(deps): update jackett/jackett v0.24.1731 → v0.24.1736 (#2087) • [`1fd137f`](https://github.com/trueforge-org/truecharts/commit/1fd137fdb8d5f1e051b7532058d22db5b455a105) • [@TrueCharts Bot] (2026-04-24)
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
-- move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
 
 ## 0.24.1731 • [Train: ]
 
@@ -487,18 +487,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.24.1167 • [Train: ]
 
 - Harden healthcheck.sh and fix container-test.yaml for apps failing in the PR queue (#1815) • [`126c003`](https://github.com/trueforge-org/truecharts/commit/126c00389e48d823d4ff1f7cff4c6dd6227164f9) • [@Copilot] (2026-04-17)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to b91efc2 (#1786) • [`a199fd0`](https://github.com/trueforge-org/truecharts/commit/a199fd0d56a7d1e90dec4d0f324dc58c94922c4e) • [@TrueCharts Bot] (2026-04-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to c5a3b56 (#1796) • [`e262b17`](https://github.com/trueforge-org/truecharts/commit/e262b170c46f318a17077a5cc2f6288fba0cb4e4) • [@TrueCharts Bot] (2026-04-16)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to b91efc2 (#1786) • [`a199fd0`](https://github.com/trueforge-org/truecharts/commit/a199fd0d56a7d1e90dec4d0f324dc58c94922c4e) • [@TrueCharts Bot] (2026-04-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to cc82810 (#1730) • [`fba0e4c`](https://github.com/trueforge-org/truecharts/commit/fba0e4cb9838b3e432a4dc6854905fb7c09c36b0) • [@TrueCharts Bot] (2026-04-07)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8f6de6a (#1685) • [`321716c`](https://github.com/trueforge-org/truecharts/commit/321716c160d4572147dcda1c8ae42f23a25ee2a5) • [@TrueCharts Bot] (2026-03-29)
 - Change HTTP status code from 400 to 200 • [`e30e61d`](https://github.com/trueforge-org/truecharts/commit/e30e61d7d17024cf665186f22050079f331daad8) • [@Kjeld Schouten] (2026-03-29)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 1685c0f (#1696) • [`64d05ad`](https://github.com/trueforge-org/truecharts/commit/64d05ad1bb1da5beb109e92fc7aece41925f51ed) • [@TrueCharts Bot] (2026-03-29)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to e550737 (#1480) • [`d8ea9e3`](https://github.com/trueforge-org/truecharts/commit/d8ea9e3403e31b7602a787361a314c7d0cee81c8) • [@TrueCharts Bot] (2026-02-21)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 63879ad (#1481) • [`b49359f`](https://github.com/trueforge-org/truecharts/commit/b49359f2585ed49985b911ab9e60950a0be221ea) • [@TrueCharts Bot] (2026-02-21)
-- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
 - chore: test tests 2 (#1507) • [`9f06e63`](https://github.com/trueforge-org/truecharts/commit/9f06e63b0e0c037db8b68b48bc3c10bf8599aae3) • [@Kjeld Schouten] (2026-02-21)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 654a659 (#1496) • [`fbfbee6`](https://github.com/trueforge-org/truecharts/commit/fbfbee6dae22b93890f78a384abcc16c1ddb5138) • [@TrueCharts Bot] (2026-02-21)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 1c87476 (#1511) • [`0556001`](https://github.com/trueforge-org/truecharts/commit/0556001d37198a73ecdf76d3e7e61153479a1635) • [@TrueCharts Bot] (2026-02-21)
+- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to e550737 (#1480) • [`d8ea9e3`](https://github.com/trueforge-org/truecharts/commit/d8ea9e3403e31b7602a787361a314c7d0cee81c8) • [@TrueCharts Bot] (2026-02-21)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 654a659 (#1496) • [`fbfbee6`](https://github.com/trueforge-org/truecharts/commit/fbfbee6dae22b93890f78a384abcc16c1ddb5138) • [@TrueCharts Bot] (2026-02-21)
 - feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
 - fix(deps): update jackett/jackett v0.24.1157 → v0.24.1167 (#1456) • [`9bdc407`](https://github.com/trueforge-org/truecharts/commit/9bdc40781b24fa6f283de2a76319244e5b76ba6b) • [@TrueCharts Bot] (2026-02-20)
 
@@ -523,20 +523,20 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.1127 • [Train: ]
 
-- fix(deps): update jackett/jackett v0.24.1124 → v0.24.1127 (#1214) • [`c95a5f7`](https://github.com/trueforge-org/truecharts/commit/c95a5f7993bfa83445c519f43e412e32ae96a35b) • [@TrueCharts Bot] (2026-02-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 9a693d4 (#1212) • [`2d0d19e`](https://github.com/trueforge-org/truecharts/commit/2d0d19e64e0529573d339654efe15a834c20e9f4) • [@TrueCharts Bot] (2026-02-16)
 - feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
 - feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
 - fix(ci): correct ubuntu:24.4.0 digest to 5348eb7 (#1272) • [`94a3bb3`](https://github.com/trueforge-org/truecharts/commit/94a3bb35723fda2de6261bf3aee87bde79b4cec5) • [@Copilot] (2026-02-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 5d05227 (#1251) • [`94b1945`](https://github.com/trueforge-org/truecharts/commit/94b1945d051c20186c519345781fac62acc476d0) • [@TrueCharts Bot] (2026-02-16)
+- fix(deps): update jackett/jackett v0.24.1124 → v0.24.1127 (#1214) • [`c95a5f7`](https://github.com/trueforge-org/truecharts/commit/c95a5f7993bfa83445c519f43e412e32ae96a35b) • [@TrueCharts Bot] (2026-02-16)
 
 ## 0.24.1124 • [Train: ]
 
+- fix(deps): update jackett/jackett v0.24.1113 → v0.24.1124 (#1171) • [`d3a91e8`](https://github.com/trueforge-org/truecharts/commit/d3a91e8a1acfee03e06ba71c994f19a1ae7aeb2b) • [@TrueCharts Bot] (2026-02-15)
+- test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
 - setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
 - test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - Fix container startup regressions in Python apps and harden container tests for rootless /config mounts (#1180) • [`aa531a1`](https://github.com/trueforge-org/truecharts/commit/aa531a1e1a9a785568f17bc64371cd8c95bcd5aa) • [@Copilot] (2026-02-15)
-- fix(deps): update jackett/jackett v0.24.1113 → v0.24.1124 (#1171) • [`d3a91e8`](https://github.com/trueforge-org/truecharts/commit/d3a91e8a1acfee03e06ba71c994f19a1ae7aeb2b) • [@TrueCharts Bot] (2026-02-15)
-- test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
 
 ## 0.24.1113 • [Train: ]
 
@@ -630,8 +630,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.932 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 4311290 (#948) • [`c625c6f`](https://github.com/trueforge-org/truecharts/commit/c625c6fd32dd5a3753202edff4d1b355568ccd25) • [@TrueCharts Bot] (2026-01-25)
 - fix(deps): update jackett/jackett v0.24.912 → v0.24.932 (#940) • [`c08d440`](https://github.com/trueforge-org/truecharts/commit/c08d4408b4a4be7c7c519cd6be11cd4b4a3dfc28) • [@TrueCharts Bot] (2026-01-25)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 4311290 (#948) • [`c625c6f`](https://github.com/trueforge-org/truecharts/commit/c625c6fd32dd5a3753202edff4d1b355568ccd25) • [@TrueCharts Bot] (2026-01-25)
 
 ## 0.24.912 • [Train: ]
 
@@ -665,9 +665,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.863 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to b1fa023 (#826) • [`0292973`](https://github.com/trueforge-org/truecharts/commit/0292973d19b75475f39cca65667b9e6108fb9a2c) • [@TrueCharts Bot] (2026-01-16)
 - fix(deps): update jackett/jackett v0.24.445 → v0.24.863 (#758) • [`7b8c681`](https://github.com/trueforge-org/truecharts/commit/7b8c681a4c838b22bde367a43f8d423636f0e232) • [@TrueCharts Bot] (2026-01-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 481e4b0 (#822) • [`c2ce662`](https://github.com/trueforge-org/truecharts/commit/c2ce662b1378b834a39359fed66c1a3f69864dc2) • [@TrueCharts Bot] (2026-01-16)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to b1fa023 (#826) • [`0292973`](https://github.com/trueforge-org/truecharts/commit/0292973d19b75475f39cca65667b9e6108fb9a2c) • [@TrueCharts Bot] (2026-01-16)
 
 ## 0.24.445 • [Train: ]
 
@@ -713,8 +713,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.399 • [Train: ]
 
-- release(jackett): update release jackett/jackett (v0.24.394 → v0.24.399) (#585) • [`6436b57`](https://github.com/trueforge-org/truecharts/commit/6436b57668c8c4f18a9528fe2107551b8fa0b6a3) • [@TrueCharts Bot] (2025-12-03)
 - release(update): update image ghcr.io/trueforge-org/ubuntu (435d3cf → f8e39d9) (#595) • [`f8a4824`](https://github.com/trueforge-org/truecharts/commit/f8a4824123dfd996ec18b8c3b43dad40ae11f59f) • [@TrueCharts Bot] (2025-12-03)
+- release(jackett): update release jackett/jackett (v0.24.394 → v0.24.399) (#585) • [`6436b57`](https://github.com/trueforge-org/truecharts/commit/6436b57668c8c4f18a9528fe2107551b8fa0b6a3) • [@TrueCharts Bot] (2025-12-03)
 
 ## 0.24.394 • [Train: ]
 
@@ -824,52 +824,52 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.24.255 • [Train: ]
 
 - update ubuntu images • [`127ffbf`](https://github.com/trueforge-org/truecharts/commit/127ffbfbc616777e37c0fe906f95506755a0d762) • [@Kjeld Schouten] (2025-11-08)
+- release(jackett): update jackett/jackett ( v0.24.244 → v0.24.255 ) (#165) • [`fdd90e2`](https://github.com/trueforge-org/truecharts/commit/fdd90e229c23071ae111244fe458941660571b5a) • [@TrueCharts Bot] (2025-11-07)
 - remove dockerfile 1 syntax annottation • [`76e212f`](https://github.com/trueforge-org/truecharts/commit/76e212fe36cb398f7f86e321ffdc553e21bcef70) • [@Kjeld Schouten] (2025-11-07)
 - more agressively utilise apps user • [`9162777`](https://github.com/trueforge-org/truecharts/commit/91627771eb14c59a3ffafd597d3cf02792b1af4b) • [@Kjeld Schouten] (2025-11-07)
-- release(jackett): update jackett/jackett ( v0.24.244 → v0.24.255 ) (#165) • [`fdd90e2`](https://github.com/trueforge-org/truecharts/commit/fdd90e229c23071ae111244fe458941660571b5a) • [@TrueCharts Bot] (2025-11-07)
 
 ## 0.24.244 • [Train: ]
 
 - fix ubunut digests • [`442e223`](https://github.com/trueforge-org/truecharts/commit/442e2233662bd8eb2db2bb02cd5c5d0cfc359f48) • [@Kjeld Schouten] (2025-11-07)
-- oops • [`393e940`](https://github.com/trueforge-org/truecharts/commit/393e940df9db45a2986e64b091d01d746adbf223) • [@Kjeld Schouten] (2025-11-04)
-- digest pin ubuntu • [`48231b6`](https://github.com/trueforge-org/truecharts/commit/48231b6dd0358c8407a86ff67b76f70e2f5bef6c) • [@Kjeld Schouten] (2025-11-04)
-- back to gh sign verify • [`8d8c03a`](https://github.com/trueforge-org/truecharts/commit/8d8c03ab0d30c08b97354ac19b4e42383a6c8544) • [@Kjeld Schouten] (2025-11-04)
-- fix some issues with signing/attestation • [`f547b61`](https://github.com/trueforge-org/truecharts/commit/f547b6199d4f2d92d2d8e0887cd1d89b9ae92c18) • [@Kjeld Schouten] (2025-11-04)
-- tweaks • [`788b35f`](https://github.com/trueforge-org/truecharts/commit/788b35f971c33d2857b45a5f3068b2c56f98aa00) • [@Kjeld Schouten] (2025-11-04)
-- test again • [`b7f16e1`](https://github.com/trueforge-org/truecharts/commit/b7f16e1beff978afd4e562bf2a526fdae8d1643b) • [@Kjeld Schouten] (2025-11-04)
-- bundle formet • [`9bf3b0f`](https://github.com/trueforge-org/truecharts/commit/9bf3b0fcadc9d4d2aa3ed21a0b3c1df8c654f82f) • [@Kjeld Schouten] (2025-11-04)
+- trigger rebuilds and republic • [`97d8992`](https://github.com/trueforge-org/truecharts/commit/97d899261bfb7bd91b0b08ef9a3737d6b9d54cf0) • [@Kjeld Schouten] (2025-11-04)
 - triggertest • [`7f86379`](https://github.com/trueforge-org/truecharts/commit/7f86379fc27ff16f6a9718ddf49873ccbb0a1eb2) • [@Kjeld Schouten] (2025-11-04)
-- more work on signing/attestation • [`a8534c4`](https://github.com/trueforge-org/truecharts/commit/a8534c49f61139959003dc1e4efbe4c401fbd9d0) • [@Kjeld Schouten] (2025-11-04)
-- oops • [`6cfe14a`](https://github.com/trueforge-org/truecharts/commit/6cfe14a1c5dbd6bd0b3a538d820ee53355a058f7) • [@Kjeld Schouten] (2025-11-04)
+- test again • [`b7f16e1`](https://github.com/trueforge-org/truecharts/commit/b7f16e1beff978afd4e562bf2a526fdae8d1643b) • [@Kjeld Schouten] (2025-11-04)
+- tweaks • [`788b35f`](https://github.com/trueforge-org/truecharts/commit/788b35f971c33d2857b45a5f3068b2c56f98aa00) • [@Kjeld Schouten] (2025-11-04)
+- digest pin ubuntu • [`48231b6`](https://github.com/trueforge-org/truecharts/commit/48231b6dd0358c8407a86ff67b76f70e2f5bef6c) • [@Kjeld Schouten] (2025-11-04)
+- again • [`feca821`](https://github.com/trueforge-org/truecharts/commit/feca821bfb20b14c8c4640057d14d47e59f6e966) • [@Kjeld Schouten] (2025-11-04)
 - try signing for tfoci • [`0312925`](https://github.com/trueforge-org/truecharts/commit/0312925be1c606d2f2a063362fa9e821605d58a4) • [@Kjeld Schouten] (2025-11-04)
+- oops • [`6cfe14a`](https://github.com/trueforge-org/truecharts/commit/6cfe14a1c5dbd6bd0b3a538d820ee53355a058f7) • [@Kjeld Schouten] (2025-11-04)
+- more work on signing/attestation • [`a8534c4`](https://github.com/trueforge-org/truecharts/commit/a8534c49f61139959003dc1e4efbe4c401fbd9d0) • [@Kjeld Schouten] (2025-11-04)
+- back to gh sign verify • [`8d8c03a`](https://github.com/trueforge-org/truecharts/commit/8d8c03ab0d30c08b97354ac19b4e42383a6c8544) • [@Kjeld Schouten] (2025-11-04)
+- oops • [`393e940`](https://github.com/trueforge-org/truecharts/commit/393e940df9db45a2986e64b091d01d746adbf223) • [@Kjeld Schouten] (2025-11-04)
+- fix some issues with signing/attestation • [`f547b61`](https://github.com/trueforge-org/truecharts/commit/f547b6199d4f2d92d2d8e0887cd1d89b9ae92c18) • [@Kjeld Schouten] (2025-11-04)
+- bundle formet • [`9bf3b0f`](https://github.com/trueforge-org/truecharts/commit/9bf3b0fcadc9d4d2aa3ed21a0b3c1df8c654f82f) • [@Kjeld Schouten] (2025-11-04)
 - Test not running on github-hosted runners • [`278f365`](https://github.com/trueforge-org/truecharts/commit/278f365f2473574ecb969c46a3a8336a73faf312) • [@Kjeld Schouten] (2025-11-04)
 - upload everything to quay • [`2b6f79d`](https://github.com/trueforge-org/truecharts/commit/2b6f79d056c0fe62762f5e1101dd8453437ccb1d) • [@Kjeld Schouten] (2025-11-04)
-- again • [`feca821`](https://github.com/trueforge-org/truecharts/commit/feca821bfb20b14c8c4640057d14d47e59f6e966) • [@Kjeld Schouten] (2025-11-04)
-- trigger rebuilds and republic • [`97d8992`](https://github.com/trueforge-org/truecharts/commit/97d899261bfb7bd91b0b08ef9a3737d6b9d54cf0) • [@Kjeld Schouten] (2025-11-04)
-- TRIGGER2 • [`4e68b25`](https://github.com/trueforge-org/truecharts/commit/4e68b25301837844ffabd8ef76300be78399ba7d) • [@Kjeld Schouten] (2025-11-03)
-- seperate build and push, ensure sticky-tags • [`0e5a970`](https://github.com/trueforge-org/truecharts/commit/0e5a9707377f38bad87154f2b62fff9d39a3d4a2) • [@Kjeld Schouten] (2025-11-03)
-- link quay to ghcr • [`c37af31`](https://github.com/trueforge-org/truecharts/commit/c37af3181863cb2d933edbc86ed4da6d598d9c54) • [@Kjeld Schouten] (2025-11-03)
-- fix signing validation • [`196ab24`](https://github.com/trueforge-org/truecharts/commit/196ab241523427d68656c1f33d6086d7380d443a) • [@Kjeld Schouten] (2025-11-03)
-- hmm only use platform on push • [`fd9144b`](https://github.com/trueforge-org/truecharts/commit/fd9144ba479c030d411c5b5ed2b6ed89ab5e8511) • [@Kjeld Schouten] (2025-11-03)
+- trigger • [`656f6f7`](https://github.com/trueforge-org/truecharts/commit/656f6f754fb255eb420670f01cd4f28153765137) • [@Kjeld Schouten] (2025-11-03)
 - fix mistake • [`0828cfe`](https://github.com/trueforge-org/truecharts/commit/0828cfee233617f505b6c81dfcdfa10af72dab11) • [@Kjeld Schouten] (2025-11-03)
-- whoops • [`2c53284`](https://github.com/trueforge-org/truecharts/commit/2c532843695732dc2359e7e19f03e28707960969) • [@Kjeld Schouten] (2025-11-03)
-- no yes&gt; • [`41e7fe1`](https://github.com/trueforge-org/truecharts/commit/41e7fe16ab2d0bbedc45182c4f8a29573897fabe) • [@Kjeld Schouten] (2025-11-03)
-- trigger • [`cf066b5`](https://github.com/trueforge-org/truecharts/commit/cf066b502e0aa2ec8f83f8dd3a93d54b3d3dec48) • [@Kjeld Schouten] (2025-11-03)
-- jsut pull • [`4b7e795`](https://github.com/trueforge-org/truecharts/commit/4b7e7951adaba97ae5098f238c6ba29cd75b4012) • [@Kjeld Schouten] (2025-11-03)
-- Improve registry support and sign images/digests. (#76) • [`3f82e8b`](https://github.com/trueforge-org/truecharts/commit/3f82e8b2e3fe753b56c64720f133e3c216367499) • [@Kjeld Schouten] (2025-11-03)
+- sign and attest • [`4784d1e`](https://github.com/trueforge-org/truecharts/commit/4784d1e0151eeac7a2aa98fa46dc08831262b062) • [@Kjeld Schouten] (2025-11-03)
 - trig • [`dce56f3`](https://github.com/trueforge-org/truecharts/commit/dce56f3d2d894b47ba9886633f5fdd57c88d9717) • [@Kjeld Schouten] (2025-11-03)
 - trigger • [`e5e0f29`](https://github.com/trueforge-org/truecharts/commit/e5e0f29c004cb5c8ce56bec70ef79a7297b000dc) • [@Kjeld Schouten] (2025-11-03)
-- oops • [`2675ccb`](https://github.com/trueforge-org/truecharts/commit/2675ccbe312c2aea41ff5409b81b96c35278336d) • [@Kjeld Schouten] (2025-11-03)
-- try • [`2f2f68f`](https://github.com/trueforge-org/truecharts/commit/2f2f68f22af90702e3df7942c9f1c071d7c41652) • [@Kjeld Schouten] (2025-11-03)
-- hmm • [`62d4a65`](https://github.com/trueforge-org/truecharts/commit/62d4a65bc5939937d5b55df7517373badd08c3d6) • [@Kjeld Schouten] (2025-11-03)
+- no yes&gt; • [`41e7fe1`](https://github.com/trueforge-org/truecharts/commit/41e7fe16ab2d0bbedc45182c4f8a29573897fabe) • [@Kjeld Schouten] (2025-11-03)
+- Improve registry support and sign images/digests. (#76) • [`3f82e8b`](https://github.com/trueforge-org/truecharts/commit/3f82e8b2e3fe753b56c64720f133e3c216367499) • [@Kjeld Schouten] (2025-11-03)
+- seperate build and push, ensure sticky-tags • [`0e5a970`](https://github.com/trueforge-org/truecharts/commit/0e5a9707377f38bad87154f2b62fff9d39a3d4a2) • [@Kjeld Schouten] (2025-11-03)
+- link quay to ghcr • [`c37af31`](https://github.com/trueforge-org/truecharts/commit/c37af3181863cb2d933edbc86ed4da6d598d9c54) • [@Kjeld Schouten] (2025-11-03)
 - trigger • [`8b7d73e`](https://github.com/trueforge-org/truecharts/commit/8b7d73e658d5650c802757a2541e169528e48ab9) • [@Kjeld Schouten] (2025-11-03)
 - try simplify • [`abf780c`](https://github.com/trueforge-org/truecharts/commit/abf780c93520451596673527146760cb937024dd) • [@Kjeld Schouten] (2025-11-03)
-- sign and attest • [`4784d1e`](https://github.com/trueforge-org/truecharts/commit/4784d1e0151eeac7a2aa98fa46dc08831262b062) • [@Kjeld Schouten] (2025-11-03)
-- trigger • [`656f6f7`](https://github.com/trueforge-org/truecharts/commit/656f6f754fb255eb420670f01cd4f28153765137) • [@Kjeld Schouten] (2025-11-03)
-- try fix parsing error • [`77fb42f`](https://github.com/trueforge-org/truecharts/commit/77fb42fcd43880ca938b97aea0b9772eb7536221) • [@Kjeld Schouten] (2025-11-03)
-- Update Jackett/Jackett ( v0.24.243 → v0.24.244 ) (#141) • [`478a51b`](https://github.com/trueforge-org/truecharts/commit/478a51bd6c459998d934252eac0fb110b01cbf5b) • [@TrueCharts Bot] (2025-11-03)
 - trigger • [`3600787`](https://github.com/trueforge-org/truecharts/commit/360078779cac0b9041f030133f975ba413af669a) • [@Kjeld Schouten] (2025-11-03)
+- fix signing validation • [`196ab24`](https://github.com/trueforge-org/truecharts/commit/196ab241523427d68656c1f33d6086d7380d443a) • [@Kjeld Schouten] (2025-11-03)
+- TRIGGER2 • [`4e68b25`](https://github.com/trueforge-org/truecharts/commit/4e68b25301837844ffabd8ef76300be78399ba7d) • [@Kjeld Schouten] (2025-11-03)
+- try fix parsing error • [`77fb42f`](https://github.com/trueforge-org/truecharts/commit/77fb42fcd43880ca938b97aea0b9772eb7536221) • [@Kjeld Schouten] (2025-11-03)
+- trigger • [`cf066b5`](https://github.com/trueforge-org/truecharts/commit/cf066b502e0aa2ec8f83f8dd3a93d54b3d3dec48) • [@Kjeld Schouten] (2025-11-03)
+- oops • [`2675ccb`](https://github.com/trueforge-org/truecharts/commit/2675ccbe312c2aea41ff5409b81b96c35278336d) • [@Kjeld Schouten] (2025-11-03)
+- whoops • [`2c53284`](https://github.com/trueforge-org/truecharts/commit/2c532843695732dc2359e7e19f03e28707960969) • [@Kjeld Schouten] (2025-11-03)
+- jsut pull • [`4b7e795`](https://github.com/trueforge-org/truecharts/commit/4b7e7951adaba97ae5098f238c6ba29cd75b4012) • [@Kjeld Schouten] (2025-11-03)
+- Update Jackett/Jackett ( v0.24.243 → v0.24.244 ) (#141) • [`478a51b`](https://github.com/trueforge-org/truecharts/commit/478a51bd6c459998d934252eac0fb110b01cbf5b) • [@TrueCharts Bot] (2025-11-03)
+- try • [`2f2f68f`](https://github.com/trueforge-org/truecharts/commit/2f2f68f22af90702e3df7942c9f1c071d7c41652) • [@Kjeld Schouten] (2025-11-03)
+- hmm only use platform on push • [`fd9144b`](https://github.com/trueforge-org/truecharts/commit/fd9144ba479c030d411c5b5ed2b6ed89ab5e8511) • [@Kjeld Schouten] (2025-11-03)
 - hmm2 • [`be88cfc`](https://github.com/trueforge-org/truecharts/commit/be88cfc1e9858870a5f9b268fa4cc5e9a5a127ae) • [@Kjeld Schouten] (2025-11-03)
+- hmm • [`62d4a65`](https://github.com/trueforge-org/truecharts/commit/62d4a65bc5939937d5b55df7517373badd08c3d6) • [@Kjeld Schouten] (2025-11-03)
 
 ## 0.24.243 • [Train: ]
 
@@ -997,15 +997,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.24.7 • [Train: ]
 
+- play around with copy • [`1a9b2cc`](https://github.com/trueforge-org/truecharts/commit/1a9b2cc3547a75732bdd5766ddbc72199704da4d) • [@Kjeld Schouten] (2025-10-03)
 - Migrate to new Testing backend (#47) • [`4eb3d6f`](https://github.com/trueforge-org/truecharts/commit/4eb3d6ff2cfac84140972f9fdfd726f444b9d270) • [@Kjeld Schouten] (2025-10-03)
+- More tests (#48) • [`fa56996`](https://github.com/trueforge-org/truecharts/commit/fa569962f22ea864ec71870bcef047610f19da59) • [@Kjeld Schouten] (2025-10-03)
 - add some verbosity for testing • [`875498d`](https://github.com/trueforge-org/truecharts/commit/875498d46b5f36cfd1545429af0d12badcfb0535) • [@Kjeld Schouten] (2025-10-03)
 - cleanup jackett a bit • [`e264dc1`](https://github.com/trueforge-org/truecharts/commit/e264dc120da92fc90cc2e6f1bd0077a9a34acf5a) • [@Kjeld Schouten] (2025-10-03)
-- More tests (#48) • [`fa56996`](https://github.com/trueforge-org/truecharts/commit/fa569962f22ea864ec71870bcef047610f19da59) • [@Kjeld Schouten] (2025-10-03)
-- play around with copy • [`1a9b2cc`](https://github.com/trueforge-org/truecharts/commit/1a9b2cc3547a75732bdd5766ddbc72199704da4d) • [@Kjeld Schouten] (2025-10-03)
-- Port all containers to ubuntu (#43) • [`ba0dc35`](https://github.com/trueforge-org/truecharts/commit/ba0dc35d83681670546bc82fc51755a89c9a408b) • [@Kjeld Schouten] (2025-10-02)
 - try remove musl references • [`f7144d1`](https://github.com/trueforge-org/truecharts/commit/f7144d1caef9e8f4baa00086d4f9a2893b85d18a) • [@Kjeld Schouten] (2025-10-02)
-- Merge pull request #33 from trueforge-org/renovate/jackett-jackett-jackett-0.x • [`a8d5fe2`](https://github.com/trueforge-org/truecharts/commit/a8d5fe2d93e14e37340ea13e12e0f667bf598b72) • [@Kjeld Schouten] (2025-09-30)
+- Port all containers to ubuntu (#43) • [`ba0dc35`](https://github.com/trueforge-org/truecharts/commit/ba0dc35d83681670546bc82fc51755a89c9a408b) • [@Kjeld Schouten] (2025-10-02)
 - release(jackett): update jackett/jackett ( v0.23.87 → v0.24.7 ) • [`4c71744`](https://github.com/trueforge-org/truecharts/commit/4c71744708e82df4d9a26084017c2aa4fe5321c7) • [@truecharts-admin] (2025-09-30)
+- Merge pull request #33 from trueforge-org/renovate/jackett-jackett-jackett-0.x • [`a8d5fe2`](https://github.com/trueforge-org/truecharts/commit/a8d5fe2d93e14e37340ea13e12e0f667bf598b72) • [@Kjeld Schouten] (2025-09-30)
 
 ## 0.23.87 • [Train: ]
 
@@ -1589,8 +1589,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.22.1893 • [Train: ]
 
-- fix(github-release): update release jackett/jackett (v0.22.1891 → v0.22.1893) (#444) • [`a141be0`](https://github.com/trueforge-org/truecharts/commit/a141be0809494ee58e4edb729ee627f52999f2db) • [@sticky-gecko[bot]] (2025-05-13)
 - ci: add shellcheck config [ci-skip] (#445) • [`8d7e18f`](https://github.com/trueforge-org/truecharts/commit/8d7e18f5045bbce407e025bd60a7981edf61065c) • [@Devin Buhl] (2025-05-13)
+- fix(github-release): update release jackett/jackett (v0.22.1891 → v0.22.1893) (#444) • [`a141be0`](https://github.com/trueforge-org/truecharts/commit/a141be0809494ee58e4edb729ee627f52999f2db) • [@sticky-gecko[bot]] (2025-05-13)
 
 ## 0.22.1891 • [Train: ]
 
@@ -1765,8 +1765,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.22.1712 • [Train: ]
 
-- fix(github-release): update release jackett/jackett (v0.22.1709 → v0.22.1712) (#285) • [`1d4f97a`](https://github.com/trueforge-org/truecharts/commit/1d4f97a5381a5701e889a4f48baeec18aa6f9975) • [@sticky-gecko[bot]] (2025-03-31)
 - chore: update COPY for all apps [ci-skip] (#286) • [`27b352f`](https://github.com/trueforge-org/truecharts/commit/27b352fcecebf2d37b50e7db21293c2d80d8df49) • [@Devin Buhl] (2025-03-31)
+- fix(github-release): update release jackett/jackett (v0.22.1709 → v0.22.1712) (#285) • [`1d4f97a`](https://github.com/trueforge-org/truecharts/commit/1d4f97a5381a5701e889a4f48baeec18aa6f9975) • [@sticky-gecko[bot]] (2025-03-31)
 
 ## 0.22.1709 • [Train: ]
 
