@@ -15,8 +15,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 2f8d64c (#3657) • [`4155fde`](https://github.com/trueforge-org/truecharts/commit/4155fde8b8afaf2953d0ee354e6c0693c6edb674) • [@TrueCharts Bot] (2026-09-18)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b9eec94 (#3629) • [`39d6348`](https://github.com/trueforge-org/truecharts/commit/39d63480f83ad3cf5f75580667c1bfbfe8917b4e) • [@TrueCharts Bot] (2026-09-17)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to fe30ffe (#3604) • [`41b2890`](https://github.com/trueforge-org/truecharts/commit/41b289018269ac973e47a9fcfe4996c0cf565dad) • [@TrueCharts Bot] (2026-09-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 82ba374 (#3595) • [`ee78af7`](https://github.com/trueforge-org/truecharts/commit/ee78af7b887ce3b9e28df5af33c1cad2163bd437) • [@TrueCharts Bot] (2026-09-16)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to fe30ffe (#3604) • [`41b2890`](https://github.com/trueforge-org/truecharts/commit/41b289018269ac973e47a9fcfe4996c0cf565dad) • [@TrueCharts Bot] (2026-09-16)
 - fix(deps): update bookstackapp/bookstack v26.05.4 → v26.05.5 (#3571) • [`e2b118e`](https://github.com/trueforge-org/truecharts/commit/e2b118ed453491146b537c34d851a887a593fd11) • [@TrueCharts Bot] (2026-09-14)
 
 ## 26.5.4 • [Train: ]
@@ -28,8 +28,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 24efb13 (#3274) • [`757da61`](https://github.com/trueforge-org/truecharts/commit/757da619634bab38971e7dde42bc716287d187b3) • [@TrueCharts Bot] (2026-08-21)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to bc18251 (#3242) • [`73445ca`](https://github.com/trueforge-org/truecharts/commit/73445cacc72d712713d267e25edae2b98c00d61c) • [@TrueCharts Bot] (2026-08-20)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a1011d7 (#3210) • [`fd375c8`](https://github.com/trueforge-org/truecharts/commit/fd375c899a1e3858e3fd0139b1309a321ed7ddcd) • [@TrueCharts Bot] (2026-08-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b38871f (#3201) • [`e1ec714`](https://github.com/trueforge-org/truecharts/commit/e1ec714f9d4a03d0ffdb783c2dea679a3c1b048c) • [@TrueCharts Bot] (2026-08-19)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a1011d7 (#3210) • [`fd375c8`](https://github.com/trueforge-org/truecharts/commit/fd375c899a1e3858e3fd0139b1309a321ed7ddcd) • [@TrueCharts Bot] (2026-08-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to e855efe (#3034) • [`d286596`](https://github.com/trueforge-org/truecharts/commit/d28659641d45e6e8f912c6b124fd43bd6adec5c6) • [@TrueCharts Bot] (2026-08-04)
 - fix(deps): update bookstackapp/bookstack v26.05.2 → v26.05.3 (#2975) • [`fc36460`](https://github.com/trueforge-org/truecharts/commit/fc36460f337890ad1e53a6d15544d5bbdd0dd985) • [@TrueCharts Bot] (2026-07-29)
 
