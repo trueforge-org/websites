@@ -34,7 +34,7 @@ services:
           memory: 4G
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/mongosh:2.11.1
+    image: ghcr.io/trueforge-org/mongosh:2.12.0
     restart: unless-stopped
     shm_size: 256M
     volumes:
