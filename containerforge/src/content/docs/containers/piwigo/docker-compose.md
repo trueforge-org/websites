@@ -70,8 +70,8 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       MARIADB_DATABASE: piwigo
-#       MARIADB_PASSWORD: e75905d163046f557eb0a7d87dd59d96WORD
-#       MARIADB_ROOT_PASSWORD: 9ed49545e72575a45efb05d883060649WORD
+#       MARIADB_PASSWORD: c02453856b37724afb882f30f409f95eWORD
+#       MARIADB_ROOT_PASSWORD: 7754565f0932001d2aba84f4ff218fc8WORD
 #       MARIADB_USER: piwigo
 #       TZ: Etc/UTC
 #     group_add:
