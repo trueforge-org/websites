@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.19.0 • [Train: ]
 
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to 834bcc5 (#3692) • [`f10af5c`](https://github.com/trueforge-org/truecharts/commit/f10af5cc70a781697124c2850eb52d182e29975b) • [@TrueCharts Bot] (2026-09-19)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to cb2a57a (#3667) • [`bde3c44`](https://github.com/trueforge-org/truecharts/commit/bde3c440957eae1acc79918a1c3c70cdeee7271f) • [@TrueCharts Bot] (2026-09-18)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to d4e8b00 (#3640) • [`c1572b7`](https://github.com/trueforge-org/truecharts/commit/c1572b76fc2deb2da320395cee7ae3e7b014dbf1) • [@TrueCharts Bot] (2026-09-17)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to bcb7450 (#3617) • [`bde3a32`](https://github.com/trueforge-org/truecharts/commit/bde3a32569ab27a4e83c36ac7b906d087bce2e54) • [@TrueCharts Bot] (2026-09-16)
@@ -46,7 +47,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.18.0 • [Train: ]
 
-- feat(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.13 → 3.14.4 (#2289) • [`78bc726`](https://github.com/trueforge-org/truecharts/commit/78bc7261879d62075fe9e3ec5c94db6d4bd80355) • [@TrueCharts Bot] (2026-05-07)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to f9fa725 (#2302) • [`a193ae2`](https://github.com/trueforge-org/truecharts/commit/a193ae26bed966dde3dc3e2b6e69b95386f47fb0) • [@TrueCharts Bot] (2026-05-07)
+- feat(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.13 → 3.14.4 (#2289) • [`78bc726`](https://github.com/trueforge-org/truecharts/commit/78bc7261879d62075fe9e3ec5c94db6d4bd80355) • [@TrueCharts Bot] (2026-05-07)
 - fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.12 → 3.13.13 (#2151) • [`85bfbba`](https://github.com/trueforge-org/truecharts/commit/85bfbbae1f13938fbbfbd1b36ead29eac2962409) • [@TrueCharts Bot] (2026-04-28)
 - Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)

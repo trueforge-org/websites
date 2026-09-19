@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.5 • [Train: ]
 
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to 834bcc5 (#3692) • [`f10af5c`](https://github.com/trueforge-org/truecharts/commit/f10af5cc70a781697124c2850eb52d182e29975b) • [@TrueCharts Bot] (2026-09-19)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to cb2a57a (#3667) • [`bde3c44`](https://github.com/trueforge-org/truecharts/commit/bde3c440957eae1acc79918a1c3c70cdeee7271f) • [@TrueCharts Bot] (2026-09-18)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to d4e8b00 (#3640) • [`c1572b7`](https://github.com/trueforge-org/truecharts/commit/c1572b76fc2deb2da320395cee7ae3e7b014dbf1) • [@TrueCharts Bot] (2026-09-17)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to bcb7450 (#3617) • [`bde3a32`](https://github.com/trueforge-org/truecharts/commit/bde3a32569ab27a4e83c36ac7b906d087bce2e54) • [@TrueCharts Bot] (2026-09-16)
@@ -35,11 +36,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 - [WIP] Fix CI release failure for diskover, kasm, kasmvnc (#2323) • [`69980db`](https://github.com/trueforge-org/truecharts/commit/69980db5f72f56ecf07895cf3be464abce002eb8) • [@Copilot] (2026-06-09)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.5 docker digest digest to bd70ab5 (#2469) • [`6fee23e`](https://github.com/trueforge-org/truecharts/commit/6fee23ee6e1f7311416651cf64210c600e2426d2) • [@TrueCharts Bot] (2026-06-09)
 - fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.14.4 → 3.14.5 (#2378) • [`9dc7204`](https://github.com/trueforge-org/truecharts/commit/9dc72047dc92275818e4242385ffb8a72bca80a7) • [@TrueCharts Bot] (2026-05-18)
-- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to f9fa725 (#2302) • [`a193ae2`](https://github.com/trueforge-org/truecharts/commit/a193ae26bed966dde3dc3e2b6e69b95386f47fb0) • [@TrueCharts Bot] (2026-05-07)
-- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to dc445cf (#2329) • [`8f965cd`](https://github.com/trueforge-org/truecharts/commit/8f965cdb278e85539ef8092bf7427d7de902b62b) • [@TrueCharts Bot] (2026-05-07)
-- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to 7682636 (#2309) • [`bde844e`](https://github.com/trueforge-org/truecharts/commit/bde844e9997c1559b0e48a09ca34a3261dea5d1a) • [@TrueCharts Bot] (2026-05-07)
 - feat(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.13 → 3.14.4 (#2289) • [`78bc726`](https://github.com/trueforge-org/truecharts/commit/78bc7261879d62075fe9e3ec5c94db6d4bd80355) • [@TrueCharts Bot] (2026-05-07)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to f9fa725 (#2302) • [`a193ae2`](https://github.com/trueforge-org/truecharts/commit/a193ae26bed966dde3dc3e2b6e69b95386f47fb0) • [@TrueCharts Bot] (2026-05-07)
 - fix(ci): release autofix for diskover and kasm on Ubuntu 26.04 base (#2319) • [`cd2327b`](https://github.com/trueforge-org/truecharts/commit/cd2327b124400da565789b3c8e10d88ceedadf67) • [@Copilot] (2026-05-07)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to 7682636 (#2309) • [`bde844e`](https://github.com/trueforge-org/truecharts/commit/bde844e9997c1559b0e48a09ca34a3261dea5d1a) • [@TrueCharts Bot] (2026-05-07)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to dc445cf (#2329) • [`8f965cd`](https://github.com/trueforge-org/truecharts/commit/8f965cdb278e85539ef8092bf7427d7de902b62b) • [@TrueCharts Bot] (2026-05-07)
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
 - move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
