@@ -3,13 +3,17 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/incubator/birdnet-go)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/birdnet-go)
 
 :::tip
 
 If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
 
 :::
+
+## 1.0.0 • [Train: stable]
+
+- feat(birdnet-go): move birdnet-go app from incubating to stable (#52711) • [`c1f859c`](https://github.com/trueforge-org/truecharts/commit/c1f859c1c179e76edb0ff9f9f7716f7f711ce85b) • [@Patrick] (2026-09-19)
 
 ## 0.0.1 • [Train: incubator]
 
