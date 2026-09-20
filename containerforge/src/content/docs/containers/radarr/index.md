@@ -2,7 +2,7 @@
 title: radarr
 ---
 
-![Version: 6.4.3.10645](https://img.shields.io/badge/Version-6.4.3.10645-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 6.4.4.10685](https://img.shields.io/badge/Version-6.4.4.10685-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **radarr**, including upstream so
 | Field | Value |
 | --- | --- |
 | App | radarr |
-| Version | 6.4.3.10645 |
+| Version | 6.4.4.10685 |
 | License | AGPL--3.0--or--later |
 
 ## Source
