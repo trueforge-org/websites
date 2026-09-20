@@ -36,7 +36,7 @@ services:
       DB_DATABASE: lidarr
       DB_HOST: postgresql
       DB_LOGSDB: lidarr-log
-      DB_PASSWORD: 0636654ff9c5b3d5d11bd9c9350f0563WORD
+      DB_PASSWORD: fa631066e5da05619d8fdf624ff04037WORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: lidarr
@@ -44,7 +44,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/lidarr:3.1.6.5078
+    image: ghcr.io/trueforge-org/lidarr:3.1.5.5066
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: lidarr
-#       POSTGRES_PASSWORD: 0636654ff9c5b3d5d11bd9c9350f0563WORD
+#       POSTGRES_PASSWORD: fa631066e5da05619d8fdf624ff04037WORD
 #       POSTGRES_USER: lidarr
 #       TZ: Etc/UTC
 #     group_add:
