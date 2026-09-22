@@ -2,7 +2,7 @@
 title: nzbhydra2
 ---
 
-![Version: v9.0.3](https://img.shields.io/badge/Version-v9.0.3-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: v9.0.4](https://img.shields.io/badge/Version-v9.0.4-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **nzbhydra2**, including upstream
 | Field | Value |
 | --- | --- |
 | App | nzbhydra2 |
-| Version | v9.0.3 |
+| Version | v9.0.4 |
 | License | AGPL--3.0--or--later |
 
 ## Source
