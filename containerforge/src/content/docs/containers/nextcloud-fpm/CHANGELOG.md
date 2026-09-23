@@ -69,10 +69,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
 - feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
 - Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
-- feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
 - feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
-- setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
+- feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
 - test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
+- setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
 - test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - update test yaml files • [`c449680`](https://github.com/trueforge-org/truecharts/commit/c4496802f6497d5444cc9a164d6d96b0a3955df7) • [@Kjeld Schouten] (2026-02-15)
 - fix(deps): update public.ecr.aws/docker/library/nextcloud docker tag 32.0.5-fpm → 32.0.6-fpm (#1109) • [`d4dc9f3`](https://github.com/trueforge-org/truecharts/commit/d4dc9f398f592255fe2798c4b4d8009278392c0c) • [@TrueCharts Bot] (2026-02-13)
@@ -87,8 +87,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 32.0.3 • [Train: ]
 
-- fix(nextcloud): Update VERSION variable regex for Nextcloud image (#728) • [`f5b3447`](https://github.com/trueforge-org/truecharts/commit/f5b344730763c5b25d5044df34c41b82249070a6) • [@Alfred Göppel] (2025-12-13)
 - Update regex for Nextcloud versioning (#731) • [`b31458d`](https://github.com/trueforge-org/truecharts/commit/b31458dff7194f597c53d8915960ba01cd8e286d) • [@Alfred Göppel] (2025-12-13)
+- fix(nextcloud): Update VERSION variable regex for Nextcloud image (#728) • [`f5b3447`](https://github.com/trueforge-org/truecharts/commit/f5b344730763c5b25d5044df34c41b82249070a6) • [@Alfred Göppel] (2025-12-13)
 - release(nextcloud-fpm): update image public.ecr.aws/docker/library/nextcloud (32.0.1-fpm@sha256:1b7786935321e01a689affccb48a5845ed800184aa50c1b0c50d4aa75693e27f → 32.0.3) (#693) • [`387e8d3`](https://github.com/trueforge-org/truecharts/commit/387e8d31b399bfcf10e448ef5fbc05c4e4c471ad) • [@TrueCharts Bot] (2025-12-12)
 
 ## 32.0.1 • [Train: ]
@@ -108,8 +108,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - More tests (#48) • [`fa56996`](https://github.com/trueforge-org/truecharts/commit/fa569962f22ea864ec71870bcef047610f19da59) • [@Kjeld Schouten] (2025-10-03)
 - Migrate to new Testing backend (#47) • [`4eb3d6f`](https://github.com/trueforge-org/truecharts/commit/4eb3d6ff2cfac84140972f9fdfd726f444b9d270) • [@Kjeld Schouten] (2025-10-03)
-- add empty test files where needed • [`8625972`](https://github.com/trueforge-org/truecharts/commit/862597210eded9c4ec153a08f54cf22060aa58b6) • [@Kjeld Schouten] (2025-10-01)
 - nextcloud readme update • [`63a0e7d`](https://github.com/trueforge-org/truecharts/commit/63a0e7de2cec28eb2d6926b41e5322c486151680) • [@Kjeld Schouten] (2025-10-01)
+- add empty test files where needed • [`8625972`](https://github.com/trueforge-org/truecharts/commit/862597210eded9c4ec153a08f54cf22060aa58b6) • [@Kjeld Schouten] (2025-10-01)
 - fix arm build for nextcloud-fpm • [`935a73f`](https://github.com/trueforge-org/truecharts/commit/935a73f889cfe0625886e90ab9dbe58178ee8e64) • [@Kjeld Schouten] (2025-09-30)
 - whoops fix • [`9d1ce6a`](https://github.com/trueforge-org/truecharts/commit/9d1ce6ad69086229943b8f916e281c04a09aac9d) • [@Kjeld Schouten] (2025-09-30)
 - rerun nextcloud fpm • [`a2f57c8`](https://github.com/trueforge-org/truecharts/commit/a2f57c8a45188daf00aaae8f9fe09e4c00a36372) • [@Kjeld Schouten] (2025-09-30)
