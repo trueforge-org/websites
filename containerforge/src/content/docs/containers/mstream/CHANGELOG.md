@@ -19,8 +19,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(node-dep): update node.js digest to bf1dd21 (#3688) • [`87d8515`](https://github.com/trueforge-org/truecharts/commit/87d8515dde1a5404129a6bb5a66f91c99ff5d85f) • [@TrueCharts Bot] (2026-09-19)
 - chore(node-dep): update node.js digest to 7681774 (#3663) • [`3581321`](https://github.com/trueforge-org/truecharts/commit/358132142099a83e02ccffda0fbc7b8ed71b2e53) • [@TrueCharts Bot] (2026-09-18)
-- feat(deps): update irosthebeggar/mstream v6.27.0 → v6.28.1 (#3581) • [`4d84771`](https://github.com/trueforge-org/truecharts/commit/4d84771e1cdc342b71d13c6b55add36993a26a0d) • [@TrueCharts Bot] (2026-09-17)
 - chore(node-dep): update node.js digest to 8a3b149 (#3638) • [`942f718`](https://github.com/trueforge-org/truecharts/commit/942f71841b85482e296e67bd3d1416b6f9c01c4c) • [@TrueCharts Bot] (2026-09-17)
+- feat(deps): update irosthebeggar/mstream v6.27.0 → v6.28.1 (#3581) • [`4d84771`](https://github.com/trueforge-org/truecharts/commit/4d84771e1cdc342b71d13c6b55add36993a26a0d) • [@TrueCharts Bot] (2026-09-17)
 
 ## 6.27.0 • [Train: ]
 
@@ -219,9 +219,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.2.0 • [Train: ]
 
+- fix(node-dep): update node.js 22.22.0 → 22.22.1 (#1630) • [`9252537`](https://github.com/trueforge-org/truecharts/commit/9252537b16bdec72554be130c0312ab48f92ab7d) • [@TrueCharts Bot] (2026-04-18)
 - BREAKING CHANGE(node-dep): Update Node.js 22.22.1 → 24.15.0 (#1679) • [`653f1b6`](https://github.com/trueforge-org/truecharts/commit/653f1b6a72f16b2fc7942e38b4f3ffa38b08e4aa) • [@TrueCharts Bot] (2026-04-18)
 - fix(containers): fix spaces to asciii -&gt; renovate errors (#1849) • [`899bc8c`](https://github.com/trueforge-org/truecharts/commit/899bc8c975e664b60ed52e85b1f84a3b07144e87) • [@Alfred Göppel] (2026-04-18)
-- fix(node-dep): update node.js 22.22.0 → 22.22.1 (#1630) • [`9252537`](https://github.com/trueforge-org/truecharts/commit/9252537b16bdec72554be130c0312ab48f92ab7d) • [@TrueCharts Bot] (2026-04-18)
 - BREAKING CHANGE(deps): Update IrosTheBeggar/mStream v5.16.0 → v6.2.0 (#1760) • [`691f0ae`](https://github.com/trueforge-org/truecharts/commit/691f0aea73d9df658af7e5731bf9240d0c1cfec0) • [@TrueCharts Bot] (2026-04-13)
 
 ## 5.16.0 • [Train: ]
