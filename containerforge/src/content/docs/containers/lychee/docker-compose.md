@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/lychee:7.8.5
+    image: ghcr.io/trueforge-org/lychee:7.9.0
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
