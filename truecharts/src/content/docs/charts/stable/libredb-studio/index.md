@@ -2,7 +2,7 @@
 title: libredb-studio
 ---
 
-![Version: 0.2.1](https://img.shields.io/badge/Version-0.2.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.2](https://img.shields.io/badge/AppVersion-0.16.2-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.2](https://img.shields.io/badge/AppVersion-0.16.2-informational?style=flat-square)
 
 LibreDB Studio is a self-hosted database client for SQL and NoSQL engines that runs in a browser tab.
 
@@ -11,7 +11,7 @@ LibreDB Studio is a self-hosted database client for SQL and NoSQL engines that r
 - https://ghcr.io/libredb/libredb-studio
 - https://github.com/libredb/libredb-studio
 - https://github.com/libredb/libredb-studio/pkgs/container/libredb-studio
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/libredb-studio
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/libredb-studio
 
 ## Available Documentation
 
