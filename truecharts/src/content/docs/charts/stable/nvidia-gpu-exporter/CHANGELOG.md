@@ -69,8 +69,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.8.0 • [Train: stable]
 
-- feat(nvidia-gpu-exporter): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.6.0 → 1.7.0 (#49763) • [`6375441`](https://github.com/trueforge-org/truecharts/commit/63754417d6bc836b7f3e7465448c843c008bfe1d) • [@TrueCharts Bot] (2026-07-02)
 - feat(helm-deps): update chart common 29.6.0 → 29.7.1 (#49740) • [`b1a9061`](https://github.com/trueforge-org/truecharts/commit/b1a9061e5cb741b30acb18a0ac2356cecd4a7fa0) • [@TrueCharts Bot] (2026-07-02)
+- feat(nvidia-gpu-exporter): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.6.0 → 1.7.0 (#49763) • [`6375441`](https://github.com/trueforge-org/truecharts/commit/63754417d6bc836b7f3e7465448c843c008bfe1d) • [@TrueCharts Bot] (2026-07-02)
 
 ## 6.7.1 • [Train: stable]
 
@@ -238,8 +238,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.14.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 5.13.0 • [Train: stable]
 
