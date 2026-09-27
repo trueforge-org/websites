@@ -2,7 +2,7 @@
 title: yq
 ---
 
-![Version: 4.3.0](https://img.shields.io/badge/Version-4.3.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 4.4.0](https://img.shields.io/badge/Version-4.4.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **yq**, including upstream source
 | Field | Value |
 | --- | --- |
 | App | yq |
-| Version | 4.3.0 |
+| Version | 4.4.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
