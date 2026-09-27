@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.1.0 • [Train: stable]
+
+- feat(libredb-studio): update image ghcr.io/libredb/libredb-studio 0.16.2 to 0.17.0 (#52726) • [`9d42753`](https://github.com/trueforge-org/truecharts/commit/9d427533d2d7018e2f699522f085d69aade39c2a) • [@Yusuf Gündoğdu] (2026-09-27)
+
 ## 1.0.0 • [Train: stable]
 
 - Commit daily changes • [`182d834`](https://github.com/trueforge-org/truecharts/commit/182d834f67df087a49ab149c4b0ea337900c1247) • [@TrueCharts-Bot] (2026-09-27)
@@ -26,5 +30,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.0 • [Train: incubator]
 
-- feat(libredb-studio): add new chart (#52403) • [`8b60074`](https://github.com/trueforge-org/truecharts/commit/8b60074f66505b6894028def3742d7ba3fdadff8) • [@Yusuf Gündoğdu] (2026-09-16)
 - Commit daily changes • [`5323d87`](https://github.com/trueforge-org/truecharts/commit/5323d87f277dcf42231ef7709f379ebb7c0a403c) • [@TrueCharts-Bot] (2026-09-16)
+- feat(libredb-studio): add new chart (#52403) • [`8b60074`](https://github.com/trueforge-org/truecharts/commit/8b60074f66505b6894028def3742d7ba3fdadff8) • [@Yusuf Gündoğdu] (2026-09-16)
