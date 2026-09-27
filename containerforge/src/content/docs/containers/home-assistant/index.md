@@ -2,7 +2,7 @@
 title: home-assistant
 ---
 
-![Version: 2026.9.3](https://img.shields.io/badge/Version-2026.9.3-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 2026.9.4](https://img.shields.io/badge/Version-2026.9.4-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **home-assistant**, including ups
 | Field | Value |
 | --- | --- |
 | App | home-assistant |
-| Version | 2026.9.3 |
+| Version | 2026.9.4 |
 | License | AGPL--3.0--or--later |
 
 ## Source
