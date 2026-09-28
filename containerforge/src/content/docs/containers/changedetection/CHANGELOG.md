@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.60.8 • [Train: ]
+
+- fix(deps): update dgtlmoon/changedetection.io 0.60.7 → 0.60.8 (#3802) • [`c6120cf`](https://github.com/trueforge-org/truecharts/commit/c6120cf94248e09e711d360560d2b0605669c1a1) • [@TrueCharts Bot] (2026-09-28)
+
 ## 0.60.7 • [Train: ]
 
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to 834bcc5 (#3692) • [`f10af5c`](https://github.com/trueforge-org/truecharts/commit/f10af5cc70a781697124c2850eb52d182e29975b) • [@TrueCharts Bot] (2026-09-19)
