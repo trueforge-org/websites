@@ -2,7 +2,7 @@
 title: qbittorrent
 ---
 
-![Version: 5.2.3](https://img.shields.io/badge/Version-5.2.3-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 5.2.4](https://img.shields.io/badge/Version-5.2.4-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **qbittorrent**, including upstre
 | Field | Value |
 | --- | --- |
 | App | qbittorrent |
-| Version | 5.2.3 |
+| Version | 5.2.4 |
 | License | AGPL--3.0--or--later |
 
 ## Source

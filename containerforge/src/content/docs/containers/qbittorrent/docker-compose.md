@@ -38,7 +38,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/qbittorrent:5.2.3
+    image: ghcr.io/trueforge-org/qbittorrent:5.2.4
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
