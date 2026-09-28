@@ -36,7 +36,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/tautulli:2.18.1
+    image: ghcr.io/trueforge-org/tautulli:2.18.2
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
