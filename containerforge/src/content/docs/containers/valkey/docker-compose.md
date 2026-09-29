@@ -34,7 +34,7 @@ services:
           memory: 4G
     environment:
       TZ: Etc/UTC
-      VALKEY_PASSWORD: 02f0af9a1222724927f56192c13d112dWORD
+      VALKEY_PASSWORD: 404618c732972373824f96c84f13dc28WORD
     group_add:
       - "568"
     image: ghcr.io/trueforge-org/valkey:9.0.3
