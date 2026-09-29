@@ -1564,8 +1564,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.139.7 • [Train: ]
 
-- fix(deps): update renovate/renovate docker tag 43.139.6 → 43.139.7 (#2029) • [`06eb724`](https://github.com/trueforge-org/truecharts/commit/06eb724525692878416179a0b9e78f907e18e559) • [@TrueCharts Bot] (2026-04-23)
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
+- fix(deps): update renovate/renovate docker tag 43.139.6 → 43.139.7 (#2029) • [`06eb724`](https://github.com/trueforge-org/truecharts/commit/06eb724525692878416179a0b9e78f907e18e559) • [@TrueCharts Bot] (2026-04-23)
 
 ## 43.139.6 • [Train: ]
 
