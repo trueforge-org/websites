@@ -209,8 +209,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 6.0.6 • [Train: stable]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
+- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 6.0.5 • [Train: stable]
@@ -311,8 +311,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.13.34 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 5.13.33 • [Train: stable]
 
@@ -330,8 +330,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.13.30 • [Train: stable]
 
-- chore(lyrion-music-server): update image docker.io/lmscommunity/lyrionmusicserver digest to d63d2ff (#44594) • [`c5b92b5`](https://github.com/trueforge-org/truecharts/commit/c5b92b5e8527cba8cb4a3fc4a86ec3ed5b262cec) • [@TrueCharts Bot] (2026-02-06)
 - Commit daily changes • [`41c694d`](https://github.com/trueforge-org/truecharts/commit/41c694d0cf1a681da347a16bf8dbc7a055e64491) • [@TrueCharts-Bot] (2026-02-06)
+- chore(lyrion-music-server): update image docker.io/lmscommunity/lyrionmusicserver digest to d63d2ff (#44594) • [`c5b92b5`](https://github.com/trueforge-org/truecharts/commit/c5b92b5e8527cba8cb4a3fc4a86ec3ed5b262cec) • [@TrueCharts Bot] (2026-02-06)
 
 ## 5.13.29 • [Train: stable]
 
@@ -577,8 +577,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.6.3 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 5.6.2 • [Train: stable]
 
@@ -1147,8 +1147,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.8 • [Train: incubator]
 
-- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/trueforge-org/truecharts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
 - chore(deps): update container image lmscommunity/lyrionmusicserver to 9.0.0@6d25fe9 by renovate (#26151) • [`e357343`](https://github.com/trueforge-org/truecharts/commit/e3573432d55f31a87fc646ac623e2b1f4d03f15c) • [@TrueCharts Bot] (2024-09-09)
+- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/trueforge-org/truecharts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
 
 ## 3.1.7 • [Train: incubator]
 
@@ -1185,8 +1185,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.2 • [Train: incubator]
 
-- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 
 ## 3.0.1 • [Train: incubator]
 
