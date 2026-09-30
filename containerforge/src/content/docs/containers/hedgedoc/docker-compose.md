@@ -42,7 +42,7 @@ services:
       CMD_URL_ADDPORT: "false"
       DB_HOST: postgresql
       DB_NAME: hedgedoc
-      DB_PASS: 0f6b4032e36c9456fb843ef5a72bb565WORD
+      DB_PASS: b199d8cbab1706d88abb802e381bc18cWORD
       DB_PORT: "5432"
       DB_USER: hedgedoc
       TZ: Etc/UTC
@@ -74,7 +74,7 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: hedgedoc
-      POSTGRES_PASSWORD: 0f6b4032e36c9456fb843ef5a72bb565WORD
+      POSTGRES_PASSWORD: b199d8cbab1706d88abb802e381bc18cWORD
       POSTGRES_USER: hedgedoc
       TZ: Etc/UTC
     group_add:

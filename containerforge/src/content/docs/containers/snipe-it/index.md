@@ -2,7 +2,7 @@
 title: snipe-it
 ---
 
-![Version: 8.7.2](https://img.shields.io/badge/Version-8.7.2-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **snipe-it**, including upstream 
 | Field | Value |
 | --- | --- |
 | App | snipe-it |
-| Version | 8.7.2 |
+| Version | 8.8.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
