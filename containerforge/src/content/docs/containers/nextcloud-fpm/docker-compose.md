@@ -35,11 +35,11 @@ services:
     environment:
       NX_POSTGRES_HOST: postgresql
       NX_POSTGRES_NAME: nextcloud-fpm
-      NX_POSTGRES_PASSWORD: e2e2dd07a26b5fa830c3ea1483acfeedWORD
+      NX_POSTGRES_PASSWORD: 2cd781dfc89460db48b9010469d86268WORD
       NX_POSTGRES_PORT: "5432"
       NX_POSTGRES_USER: nextcloud-fpm
       NX_REDIS_HOST: valkey
-      NX_REDIS_PASS: 3ac17ec81a7a4dd82db84213ebc7798cWORD
+      NX_REDIS_PASS: 33249da6a2b28aeff71dc4d571f79752WORD
       NX_REDIS_PORT: "6379"
       TZ: Etc/UTC
     group_add:
@@ -64,7 +64,7 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: nextcloud-fpm
-      POSTGRES_PASSWORD: e2e2dd07a26b5fa830c3ea1483acfeedWORD
+      POSTGRES_PASSWORD: 2cd781dfc89460db48b9010469d86268WORD
       POSTGRES_USER: nextcloud-fpm
       TZ: Etc/UTC
     group_add:
@@ -95,7 +95,7 @@ services:
           memory: 4G
     environment:
       TZ: Etc/UTC
-      VALKEY_PASSWORD: 3ac17ec81a7a4dd82db84213ebc7798cWORD
+      VALKEY_PASSWORD: 33249da6a2b28aeff71dc4d571f79752WORD
     group_add:
       - "568"
     image: ghcr.io/trueforge-org/valkey:9.0.3
