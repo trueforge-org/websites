@@ -37,7 +37,7 @@ services:
       DB_DATABASE: readarr
       DB_HOST: postgresql
       DB_LOGSDB: readarr-log
-      DB_PASSWORD: 4bed14dbe91fe10e9462414ab35a16b2WORD
+      DB_PASSWORD: 735ef5876a1627f0925751c5c404d925WORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: readarr
@@ -70,7 +70,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: readarr
-#       POSTGRES_PASSWORD: 4bed14dbe91fe10e9462414ab35a16b2WORD
+#       POSTGRES_PASSWORD: 735ef5876a1627f0925751c5c404d925WORD
 #       POSTGRES_USER: readarr
 #       TZ: Etc/UTC
 #     group_add:
