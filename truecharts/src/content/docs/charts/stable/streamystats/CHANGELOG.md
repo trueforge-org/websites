@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.4.0 • [Train: stable]
+
+- fix(streamystats): update image tags (#52737) • [`67b33c8`](https://github.com/trueforge-org/truecharts/commit/67b33c87107aed189ccc746fb174ac1b799310d9) • [@Boemeltrein] (2026-10-01)
+
 ## 1.3.0 • [Train: stable]
 
 - feat(helm-deps): update chart common to v29.20.0 (#52304) • [`2d40329`](https://github.com/trueforge-org/truecharts/commit/2d4032929743e7e9562ca45e829d27ba8a5521bd) • [@TrueCharts Bot] (2026-09-09)
