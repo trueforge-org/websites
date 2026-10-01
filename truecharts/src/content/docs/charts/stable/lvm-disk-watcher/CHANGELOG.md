@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.10.1 • [Train: stable]
+
+- fix(lvm-disk-watcher): update image tag (#52738) • [`9dafb5e`](https://github.com/trueforge-org/truecharts/commit/9dafb5ea168578989090484bf724f4915514ed8c) • [@Boemeltrein] (2026-10-01)
+
 ## 5.10.0 • [Train: stable]
 
 - feat(helm-deps): update chart common to v29.20.0 (#52304) • [`2d40329`](https://github.com/trueforge-org/truecharts/commit/2d4032929743e7e9562ca45e829d27ba8a5521bd) • [@TrueCharts Bot] (2026-09-09)
@@ -120,12 +124,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.2.15 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f79951b`](https://github.com/trueforge-org/truecharts/commit/f79951ba8701a9d79c372be2eca1d9a482a5fe81) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
+- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 
 ## 4.2.14 • [Train: stable]
@@ -221,9 +225,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.9.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 3.8.0 • [Train: system]
 
@@ -406,8 +410,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.1.1 • [Train: system]
 
-- Update values.yaml • [`f82c1a5`](https://github.com/trueforge-org/truecharts/commit/f82c1a57041f0c391fed997b8cf08dc3170e63c8) • [@Kjeld Schouten] (2024-10-08)
 - Commit daily changes • [`927a448`](https://github.com/trueforge-org/truecharts/commit/927a44809bc9187cfd9f7bf9a684bfbe338fb7ee) • [@TrueCharts-Bot] (2024-10-08)
+- Update values.yaml • [`f82c1a5`](https://github.com/trueforge-org/truecharts/commit/f82c1a57041f0c391fed997b8cf08dc3170e63c8) • [@Kjeld Schouten] (2024-10-08)
 - Update Chart.yaml • [`0c75709`](https://github.com/trueforge-org/truecharts/commit/0c75709b3b5ab924c843691426597f1d6a156fac) • [@Kjeld Schouten] (2024-10-07)
 
 ## 1.1.0 • [Train: system]
@@ -446,8 +450,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: system]
 
-- Update Chart.yaml • [`0db47c3`](https://github.com/trueforge-org/truecharts/commit/0db47c3658e6d1229dea3686ea73b6a21aff7c4b) • [@Kjeld Schouten] (2024-07-23)
 - Update values.yaml • [`10184e6`](https://github.com/trueforge-org/truecharts/commit/10184e6daba999b984afd69ff3c6056ae55d4151) • [@Kjeld Schouten] (2024-07-23)
+- Update Chart.yaml • [`0db47c3`](https://github.com/trueforge-org/truecharts/commit/0db47c3658e6d1229dea3686ea73b6a21aff7c4b) • [@Kjeld Schouten] (2024-07-23)
 
 ## 0.0.1 • [Train: system]
 

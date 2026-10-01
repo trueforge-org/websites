@@ -197,8 +197,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.3.1 • [Train: incubator]
 
-- chore(valkey): update image docker.io/bitnamisecure/valkey digest to 97260e0 (#45507) • [`7b65016`](https://github.com/trueforge-org/truecharts/commit/7b65016090b7437cf3632b70c2719fc1e60dfeb0) • [@TrueCharts Bot] (2026-02-24)
 - fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
+- chore(valkey): update image docker.io/bitnamisecure/valkey digest to 97260e0 (#45507) • [`7b65016`](https://github.com/trueforge-org/truecharts/commit/7b65016090b7437cf3632b70c2719fc1e60dfeb0) • [@TrueCharts Bot] (2026-02-24)
 
 ## 0.3.0 • [Train: incubator]
 
@@ -239,6 +239,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.1 • [Train: incubator]
 
-- Update image tag to &#39;latest&#39; in values.yaml • [`12c20a3`](https://github.com/trueforge-org/truecharts/commit/12c20a348b29275c03b1ce8d6e12a940f85a61a7) • [@Kjeld Schouten] (2026-02-15)
 - Update Chart version from 17.15.22 to 0.0.1 • [`dcdaa22`](https://github.com/trueforge-org/truecharts/commit/dcdaa22408d1065135ccc635396f6308b99f02b7) • [@Kjeld Schouten] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- Update image tag to &#39;latest&#39; in values.yaml • [`12c20a3`](https://github.com/trueforge-org/truecharts/commit/12c20a348b29275c03b1ce8d6e12a940f85a61a7) • [@Kjeld Schouten] (2026-02-15)
