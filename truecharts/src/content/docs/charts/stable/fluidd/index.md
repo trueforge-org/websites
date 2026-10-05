@@ -2,7 +2,7 @@
 title: fluidd
 ---
 
-![Version: 13.11.1](https://img.shields.io/badge/Version-13.11.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.37.5](https://img.shields.io/badge/AppVersion-1.37.5-informational?style=flat-square)
+![Version: 13.11.2](https://img.shields.io/badge/Version-13.11.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.37.6](https://img.shields.io/badge/AppVersion-1.37.6-informational?style=flat-square)
 
 Fluidd is a free and open-source Klipper web interface for managing your 3d printer.
 
