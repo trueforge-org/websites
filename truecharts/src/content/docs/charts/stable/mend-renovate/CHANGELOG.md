@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.11.0 • [Train: stable]
+
+- feat(mend-renovate): update image ghcr.io/mend/renovate-ce 15.6.0 → 15.7.0 (#53119) • [`018c043`](https://github.com/trueforge-org/truecharts/commit/018c043194d4ff9353b848fbb00280296f09cfce) • [@TrueCharts Bot] (2026-10-07)
+
 ## 9.10.0 • [Train: stable]
 
 - feat(mend-renovate): update image ghcr.io/mend/renovate-ce 15.5.0 → 15.6.0 (#52982) • [`b9be338`](https://github.com/trueforge-org/truecharts/commit/b9be33899226b69fb9384b57f0c8b49fc0924ee1) • [@TrueCharts Bot] (2026-10-06)
@@ -294,8 +298,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.0 • [Train: stable]
 
-- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 - chore(helm): update image ghcr.io/mend/renovate-ce 11.5.0 → 12.0.0 (#41461) • [`f19ac07`](https://github.com/trueforge-org/truecharts/commit/f19ac07047176a20b4cd5222532d6f752da2a4ce) • [@TrueCharts Bot] (2025-11-06)
+- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 
 ## 4.14.2 • [Train: stable]
 
@@ -386,8 +390,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.3.3 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 4.3.2 • [Train: stable]
 
