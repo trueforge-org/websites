@@ -2,7 +2,7 @@
 title: homarr
 ---
 
-![Version: 15.30.2](https://img.shields.io/badge/Version-15.30.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.77.2](https://img.shields.io/badge/AppVersion-1.77.2-informational?style=flat-square)
+![Version: 16.0.0](https://img.shields.io/badge/Version-16.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.0](https://img.shields.io/badge/AppVersion-2.2.0-informational?style=flat-square)
 
 Homarr is a simple and lightweight homepage for your server, that helps you easily access all of your services in one place.
 
