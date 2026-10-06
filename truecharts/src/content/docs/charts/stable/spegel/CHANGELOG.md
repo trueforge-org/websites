@@ -487,8 +487,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.4 • [Train: incubator]
 
-- Update values.yaml • [`83f874f`](https://github.com/trueforge-org/truecharts/commit/83f874f8e60dc44c9f67827aac74665c9f519b43) • [@Kjeld Schouten] (2024-10-24)
 - fix(spegel): always enabled storage • [`037d068`](https://github.com/trueforge-org/truecharts/commit/037d06877a8faa41f53108432aac83c568d7f1ce) • [@Kjeld Schouten] (2024-10-24)
+- Update values.yaml • [`83f874f`](https://github.com/trueforge-org/truecharts/commit/83f874f8e60dc44c9f67827aac74665c9f519b43) • [@Kjeld Schouten] (2024-10-24)
 - fix(spegel): ensure its a daemonset • [`646e088`](https://github.com/trueforge-org/truecharts/commit/646e0882d71fcd8aa3bf476a80476542d021db51) • [@Kjeld Schouten] (2024-10-23)
 
 ## 2.0.3 • [Train: incubator]
