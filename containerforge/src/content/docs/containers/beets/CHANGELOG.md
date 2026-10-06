@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.14.1 • [Train: ]
 
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.6 → 3.14.7 (#3075) • [`689c90a`](https://github.com/trueforge-org/truecharts/commit/689c90a6150d81cc6a45b6561b377afbff32350b) • [@TrueCharts Bot] (2026-10-06)
 - fix(deps): update beetbox/beets v2.14.0 → v2.14.1 (#3647) • [`6292850`](https://github.com/trueforge-org/truecharts/commit/6292850ef51fb0b3ea540891413871a6da07a8f7) • [@TrueCharts Bot] (2026-09-17)
 
 ## 2.14.0 • [Train: ]

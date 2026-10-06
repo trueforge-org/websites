@@ -2,7 +2,7 @@
 title: python-node
 ---
 
-![Version: 3.14.7](https://img.shields.io/badge/Version-3.14.7-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 3.14.8](https://img.shields.io/badge/Version-3.14.8-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **python-node**, including upstre
 | Field | Value |
 | --- | --- |
 | App | python-node |
-| Version | 3.14.7 |
+| Version | 3.14.8 |
 | License | AGPL--3.0--or--later |
 
 ## Source

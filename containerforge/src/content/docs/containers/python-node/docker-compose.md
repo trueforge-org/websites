@@ -34,7 +34,7 @@ services:
           memory: 4G
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/python-node:3.14.7
+    image: ghcr.io/trueforge-org/python-node:3.14.8
     restart: unless-stopped
     shm_size: 256M
     volumes:
