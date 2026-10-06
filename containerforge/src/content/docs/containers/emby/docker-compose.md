@@ -39,7 +39,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/emby:4.11.0.5
+    image: ghcr.io/trueforge-org/emby:4.11.0.6
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
