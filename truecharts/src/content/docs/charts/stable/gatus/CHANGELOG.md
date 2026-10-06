@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.17.1 • [Train: stable]
+
+- fix(gatus): update image ghcr.io/home-operations/gatus-sidecar 0.5.2 → 0.5.3 (#52883) • [`1533c27`](https://github.com/trueforge-org/truecharts/commit/1533c27ea00f9a5f9a9b2d1c305aaf27df65f9e5) • [@TrueCharts Bot] (2026-10-06)
+
 ## 4.17.0 • [Train: stable]
 
 - feat(gatus): update image ghcr.io/twin/gatus v5.36.0 → v5.37.0 (#52969) • [`2ea82e0`](https://github.com/trueforge-org/truecharts/commit/2ea82e0c1655b91303d4c0db5ab24af5aa0130a1) • [@TrueCharts Bot] (2026-10-06)
@@ -192,8 +196,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.13 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 3.1.12 • [Train: stable]
 
@@ -372,8 +376,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.1 • [Train: stable]
 
-- chore(helm): update image twinproduction/gatus v5.25.1 → v5.25.2 (#40359) • [`b4fa7cb`](https://github.com/trueforge-org/truecharts/commit/b4fa7cbb8e0bfbd1dc0e63a247886916bde95b53) • [@TrueCharts Bot] (2025-10-04)
 - Commit daily changes • [`044fb16`](https://github.com/trueforge-org/truecharts/commit/044fb16f843c28067054900ff9c84fbe0c7e2f44) • [@TrueCharts-Bot] (2025-10-04)
+- chore(helm): update image twinproduction/gatus v5.25.1 → v5.25.2 (#40359) • [`b4fa7cb`](https://github.com/trueforge-org/truecharts/commit/b4fa7cbb8e0bfbd1dc0e63a247886916bde95b53) • [@TrueCharts Bot] (2025-10-04)
 
 ## 2.13.0 • [Train: stable]
 
@@ -391,8 +395,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.2 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 2.11.1 • [Train: stable]
 
