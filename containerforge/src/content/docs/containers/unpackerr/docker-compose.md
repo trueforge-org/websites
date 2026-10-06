@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/unpackerr:0.15.2
+    image: ghcr.io/trueforge-org/unpackerr:0.16.1
     restart: unless-stopped
     shm_size: 256M
     volumes:
