@@ -259,8 +259,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.14.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 20.13.0 • [Train: stable]
 
@@ -305,9 +305,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.10.0 • [Train: stable]
 
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 20.9.2 • [Train: stable]
 
@@ -382,8 +382,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.3.2 • [Train: stable]
 
-- chore(helm): update chart common 28.17.0 → 28.17.1 (#39324) • [`6600a55`](https://github.com/trueforge-org/truecharts/commit/6600a55c9674a87cfc424515b4fdf086f4610f81) • [@TrueCharts Bot] (2025-09-09)
 - chore(helm): update image docker.io/vabene1111/recipes 2.1.1 → 2.1.2 (#39326) • [`1c72d22`](https://github.com/trueforge-org/truecharts/commit/1c72d228f2e36856fd8844823dc9f877e150cf8e) • [@TrueCharts Bot] (2025-09-09)
+- chore(helm): update chart common 28.17.0 → 28.17.1 (#39324) • [`6600a55`](https://github.com/trueforge-org/truecharts/commit/6600a55c9674a87cfc424515b4fdf086f4610f81) • [@TrueCharts Bot] (2025-09-09)
 
 ## 20.3.1 • [Train: stable]
 
@@ -717,9 +717,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.8.7 • [Train: stable]
 
-- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
+- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - chore: bump charts to ensure new icons are released • [`9828a1e`](https://github.com/trueforge-org/truecharts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5) • [@Kjeld Schouten] (2024-04-16)
 
 ## 16.8.6 • [Train: stable]
@@ -939,5 +939,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 14.0.0 • [Train: incubator]
 
-- chore: move all incubator to dev • [`ce92332`](https://github.com/trueforge-org/truecharts/commit/ce92332e6980fcbd48138b35a9723351005fc29a) • [@Kjeld Schouten] (2024-01-04)
 - fix(tandoor-recipes): change to new common and move to incubator (#16864) • [`e0f7445`](https://github.com/trueforge-org/truecharts/commit/e0f744500394f457e9d7850aa19823e11f020b11) • [@ZasX] (2024-01-04)
+- chore: move all incubator to dev • [`ce92332`](https://github.com/trueforge-org/truecharts/commit/ce92332e6980fcbd48138b35a9723351005fc29a) • [@Kjeld Schouten] (2024-01-04)

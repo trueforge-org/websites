@@ -213,8 +213,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.15.19 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 5.15.18 • [Train: stable]
 
@@ -530,8 +530,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.3.8 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 5.3.7 • [Train: stable]
 
@@ -950,14 +950,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.8.8 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.45.19@a1c0310 by renovate (#20906) • [`d0639fa`](https://github.com/trueforge-org/truecharts/commit/d0639fa62e08aa8e22713cac4b3f9a37fa7a1204) • [@TrueCharts Bot] (2024-04-18)
 - Commit daily changes • [`dd036eb`](https://github.com/trueforge-org/truecharts/commit/dd036eb75382bb8ae09c8ce995a99cb045d85d54) • [@TrueCharts-Bot] (2024-04-18)
+- chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.45.19@a1c0310 by renovate (#20906) • [`d0639fa`](https://github.com/trueforge-org/truecharts/commit/d0639fa62e08aa8e22713cac4b3f9a37fa7a1204) • [@TrueCharts Bot] (2024-04-18)
 
 ## 2.8.7 • [Train: stable]
 
-- Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
 - Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
+- Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
 - chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.45.18@2f9fbaf by renovate (#20865) • [`4a3520f`](https://github.com/trueforge-org/truecharts/commit/4a3520fe9807c0a9246bbf502ad251bb4b883f61) • [@TrueCharts Bot] (2024-04-16)
 
 ## 2.8.6 • [Train: stable]
