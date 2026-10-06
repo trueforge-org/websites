@@ -36,7 +36,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/minisatip:2.0.122
+    image: ghcr.io/trueforge-org/minisatip:2.0.123
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
