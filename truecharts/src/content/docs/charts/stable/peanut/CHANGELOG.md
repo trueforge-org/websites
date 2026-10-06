@@ -225,8 +225,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.20.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 8.19.0 • [Train: stable]
 
@@ -287,8 +287,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.11.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 8.11.0 • [Train: stable]
 
@@ -305,8 +305,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.10.0 • [Train: stable]
 
-- chore(helm): update image docker.io/brandawg93/peanut 5.14.2 → 5.15.0 (#39576) • [`5fce9df`](https://github.com/trueforge-org/truecharts/commit/5fce9df228d8251009cd444e82188fb5659b8da7) • [@TrueCharts Bot] (2025-09-16)
 - chore(helm): update chart common 28.17.1 → 28.18.0 (#39603) • [`9d5627c`](https://github.com/trueforge-org/truecharts/commit/9d5627c493d95b05bf22ba29df5eb712e3ecfc07) • [@TrueCharts Bot] (2025-09-16)
+- chore(helm): update image docker.io/brandawg93/peanut 5.14.2 → 5.15.0 (#39576) • [`5fce9df`](https://github.com/trueforge-org/truecharts/commit/5fce9df228d8251009cd444e82188fb5659b8da7) • [@TrueCharts Bot] (2025-09-16)
 
 ## 8.9.1 • [Train: stable]
 
