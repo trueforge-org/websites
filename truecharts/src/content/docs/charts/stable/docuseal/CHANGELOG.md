@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.10.0 • [Train: stable]
+
+- feat(docuseal): update image docker.io/docuseal/docuseal 3.2.5 → 3.3.1 (#52965) • [`eb7b297`](https://github.com/trueforge-org/truecharts/commit/eb7b2973bb1a000344a75c795b17202a4ead6620) • [@TrueCharts Bot] (2026-10-06)
+
 ## 7.9.1 • [Train: stable]
 
 - fix(docuseal): update image docker.io/docuseal/docuseal 3.2.4 → 3.2.5 (#52535) • [`6a31013`](https://github.com/trueforge-org/truecharts/commit/6a3101315593bea2cac1c6b3b9bbf3c6abb60284) • [@TrueCharts Bot] (2026-09-15)
@@ -232,8 +236,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.16.10 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 5.16.9 • [Train: stable]
 
@@ -249,11 +253,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.16.7 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
+- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
-- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(docuseal): update image docker.io/docuseal/docuseal 2.3.0 → 2.3.1 (#44210) • [`dc37b3d`](https://github.com/trueforge-org/truecharts/commit/dc37b3d8de2e3e151386b5c67a0e030caa4eeee6) • [@TrueCharts Bot] (2026-01-27)
 
 ## 5.16.6 • [Train: stable]
@@ -895,12 +899,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.1 • [Train: incubator]
 
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
-- chore(deps): update container image docuseal/docuseal to v1.5.8@0b4b02a by renovate (#22651) • [`13b499f`](https://github.com/trueforge-org/truecharts/commit/13b499f3070fe9cc40d6039b9ccac23adf30b3c8) • [@TrueCharts Bot] (2024-05-30)
 - chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
+- chore(deps): update container image docuseal/docuseal to v1.5.8@0b4b02a by renovate (#22651) • [`13b499f`](https://github.com/trueforge-org/truecharts/commit/13b499f3070fe9cc40d6039b9ccac23adf30b3c8) • [@TrueCharts Bot] (2024-05-30)
 
 ## 1.0.0 • [Train: incubator]
 
-- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`94fbcff`](https://github.com/trueforge-org/truecharts/commit/94fbcff2c6f5272e4eafc37a30dffce4f26d0de4) • [@TrueCharts-Bot] (2024-05-20)
 - feat(docuseal): Add Docuseal (#21453) • [`92d3d0e`](https://github.com/trueforge-org/truecharts/commit/92d3d0e3e7d0d29f6d95b5096307db40b03a7c95) • [@SolidSly] (2024-05-19)

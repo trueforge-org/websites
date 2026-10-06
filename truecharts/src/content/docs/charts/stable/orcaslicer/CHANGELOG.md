@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.11.3 • [Train: stable]
+
+- chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to b6b9794 (#52818) • [`3d0932a`](https://github.com/trueforge-org/truecharts/commit/3d0932a02cdd926853befe3405a12a1be0e00da2) • [@TrueCharts Bot] (2026-10-06)
+
 ## 3.11.2 • [Train: stable]
 
 - chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 209754c (#52613) • [`f34a7e5`](https://github.com/trueforge-org/truecharts/commit/f34a7e51b1dcf37926d2496cefa76cb7bda74d4f) • [@TrueCharts Bot] (2026-09-16)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.1.0 • [Train: stable]
+
+- feat(convertx): update image ghcr.io/c4illin/convertx v0.18.0 → v0.19.0 (#52962) • [`5863c62`](https://github.com/trueforge-org/truecharts/commit/5863c625c19a6caf1dd517ebb1fa3e8bf27abd0f) • [@TrueCharts Bot] (2026-10-06)
+
 ## 1.0.0 • [Train: stable]
 
 - Commit daily changes • [`686644a`](https://github.com/trueforge-org/truecharts/commit/686644ab5d23e0d63a57899952514e314115bc28) • [@TrueCharts-Bot] (2026-09-18)
