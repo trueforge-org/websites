@@ -40,7 +40,7 @@ services:
       RESOURCE: configmap
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/k8s-sidecar:2.11.2
+    image: ghcr.io/trueforge-org/k8s-sidecar:2.13.1
     restart: unless-stopped
     shm_size: 256M
     volumes:
