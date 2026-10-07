@@ -36,7 +36,7 @@ services:
       SMARTCTL_EXPORTER_LOG_LEVEL: info
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/smartctl-exporter:0.14.0
+    image: ghcr.io/trueforge-org/smartctl-exporter:0.15.0
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
