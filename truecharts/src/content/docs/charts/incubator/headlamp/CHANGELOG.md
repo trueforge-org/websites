@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.3.1 • [Train: incubator]
+
+- chore(headlamp): update image oci.trueforge.org/containerforge/node digest to e92e30c (#53159) • [`3190ca4`](https://github.com/trueforge-org/truecharts/commit/3190ca4aa6dba374b932a0659d68f861c3ba4947) • [@TrueCharts Bot] (2026-10-08)
+
 ## 0.3.0 • [Train: incubator]
 
 - feat(deps): update ghcr.io/headlamp-k8s/headlamp-plugin-flux docker tag v0.6.0 → v0.7.0 (#52964) • [`3abd67b`](https://github.com/trueforge-org/truecharts/commit/3abd67b15164e2d1b450129e16d1ee332114245e) • [@TrueCharts Bot] (2026-10-06)
