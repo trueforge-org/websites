@@ -34,7 +34,7 @@ services:
           memory: 4G
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/golang:1.27.1
+    image: ghcr.io/trueforge-org/golang:1.27.2
     restart: unless-stopped
     shm_size: 256M
     volumes:
