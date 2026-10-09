@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.10.6 • [Train: stable]
+
+- chore(minecraft-gate): update image ghcr.io/minekube/gate digest to 6addd87 (#53228) • [`fb5dfa3`](https://github.com/trueforge-org/truecharts/commit/fb5dfa394177e2f9cdee4a6767580488c2a364f6) • [@TrueCharts Bot] (2026-10-09)
+
 ## 3.10.5 • [Train: stable]
 
 - chore(minecraft-gate): update image ghcr.io/minekube/gate digest to e243eeb (#52801) • [`72daba4`](https://github.com/trueforge-org/truecharts/commit/72daba40c940a970cf1428b6a2e596d7047f075b) • [@TrueCharts Bot] (2026-10-06)
