@@ -2,15 +2,15 @@
 title: zwavejs2mqtt
 ---
 
-![Version: 25.20.3](https://img.shields.io/badge/Version-25.20.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11.24.2](https://img.shields.io/badge/AppVersion-11.24.2-informational?style=flat-square)
+![Version: 25.20.4](https://img.shields.io/badge/Version-25.20.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11.24.3](https://img.shields.io/badge/AppVersion-11.24.3-informational?style=flat-square)
 
 Full featured Z-Wave Control Panel and MQTT Gateway, using NodeJS and Vue.
 
 ## Chart Sources
 
+- https://ghcr.io/zwave-js/zwave-js-ui
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/zwavejs2mqtt
 - https://github.com/zwave-js/zwave-js-ui
-- https://hub.docker.com/r/zwavejs/zwave-js-ui
 
 ## Available Documentation
 
