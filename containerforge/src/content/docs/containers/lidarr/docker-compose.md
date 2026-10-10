@@ -36,7 +36,7 @@ services:
       DB_DATABASE: lidarr
       DB_HOST: postgresql
       DB_LOGSDB: lidarr-log
-      DB_PASSWORD: 699887417e2a9c177e88359ccd3a13b8WORD
+      DB_PASSWORD: 15e19c0047f6f9990cf5f9d5f02fd519WORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: lidarr
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: lidarr
-#       POSTGRES_PASSWORD: 699887417e2a9c177e88359ccd3a13b8WORD
+#       POSTGRES_PASSWORD: 15e19c0047f6f9990cf5f9d5f02fd519WORD
 #       POSTGRES_USER: lidarr
 #       TZ: Etc/UTC
 #     group_add:
