@@ -8,9 +8,9 @@ This tool will help manage tedious tasks in qBittorrent and automate them. Tag, 
 
 ## Chart Sources
 
+- https://ghcr.io/stuffanthings/qbit_manage
 - https://github.com/StuffAnThings/qbit_manage/wiki/Docker-Installation
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/qbitmanage
-- https://hub.docker.com/r/bobokun/qbit_manage
 
 ## Available Documentation
 

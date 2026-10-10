@@ -8,10 +8,10 @@ A Prometheus exporter for Proxmox Virtual Environment metrics.
 
 ## Chart Sources
 
+- https://ghcr.io/prometheus-pve/prometheus-pve-exporter
 - https://github.com/prometheus-pve/prometheus-pve-exporter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/prometheus-pve-exporter
 - https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/
-- https://hub.docker.com/r/prompve/prometheus-pve-exporter
 
 ## Available Documentation
 

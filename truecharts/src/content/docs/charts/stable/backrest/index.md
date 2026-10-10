@@ -8,9 +8,9 @@ Web-accessible backup solution built on top of restic.
 
 ## Chart Sources
 
+- https://ghcr.io/garethgeorge/backrest
 - https://github.com/garethgeorge/backrest
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/backrest
-- https://hub.docker.com/r/garethgeorge/backrest
 
 ## Available Documentation
 

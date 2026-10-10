@@ -8,8 +8,8 @@ Headless version of the YACReaderLibraryServer.
 
 ## Chart Sources
 
+- https://ghcr.io/xthursdayx/yacreaderlibrary-server-docker
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/yacreaderlibraryserver
-- https://hub.docker.com/r/xthursdayx/yacreaderlibrary-server-docker
 - https://www.yacreader.com
 
 ## Available Documentation

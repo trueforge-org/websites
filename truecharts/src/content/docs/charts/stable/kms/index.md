@@ -8,9 +8,9 @@ Private Windows Activation Server for development and testing
 
 ## Chart Sources
 
+- https://ghcr.io/py-kms-organization/py-kms
 - https://github.com/Py-KMS-Organization/py-kms
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kms
-- https://hub.docker.com/r/pykmsorg/py-kms
 
 ## Available Documentation
 

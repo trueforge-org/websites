@@ -8,9 +8,9 @@ IRC Highway eBook Downloads.
 
 ## Chart Sources
 
+- https://ghcr.io/evan-buss/openbooks
 - https://github.com/evan-buss/openbooks
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openbooks
-- https://hub.docker.com/r/evanbuss/openbooks
 
 ## Available Documentation
 

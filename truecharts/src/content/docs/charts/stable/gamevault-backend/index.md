@@ -8,9 +8,9 @@ the self-hosted gaming platform for alternatively obtained games.
 
 ## Chart Sources
 
+- https://ghcr.io/phalcode/gamevault-backend
 - https://github.com/Phalcode/gamevault-backend
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gamevault-backend
-- https://hub.docker.com/r/phalcode/gamevault-backend
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ Avidemux is a free video editor designed for simple cutting, filtering and encod
 
 ## Chart Sources
 
+- https://ghcr.io/jlesage/avidemux
 - https://github.com/jlesage/docker-avidemux
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/avidemux
-- https://hub.docker.com/r/jlesage/avidemux
 
 ## Available Documentation
 

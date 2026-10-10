@@ -8,9 +8,9 @@ MKVToolNix is a set of tools to create, alter and inspect Matroska files.
 
 ## Chart Sources
 
+- https://ghcr.io/jlesage/mkvtoolnix
 - https://github.com/jlesage/docker-mkvtoolnix
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mkvtoolnix
-- https://hub.docker.com/r/jlesage/mkvtoolnix
 - https://mkvtoolnix.download/
 
 ## Available Documentation

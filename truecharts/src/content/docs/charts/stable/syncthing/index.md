@@ -8,9 +8,9 @@ P2P file synchronization application
 
 ## Chart Sources
 
+- https://ghcr.io/syncthing/syncthing
 - https://github.com/syncthing/syncthing
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/syncthing
-- https://hub.docker.com/r/syncthing/syncthing
 - https://syncthing.net/
 
 ## Available Documentation

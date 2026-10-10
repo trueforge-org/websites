@@ -8,9 +8,9 @@ gPodder is a simple, open source podcast client written in Python using GTK+. In
 
 ## Chart Sources
 
+- https://ghcr.io/xthursdayx/gpodder-docker
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gpodder
 - https://gpodder.github.io/
-- https://hub.docker.com/r/xthursdayx/gpodder-docker
 
 ## Available Documentation
 

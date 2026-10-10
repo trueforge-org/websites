@@ -8,9 +8,9 @@ RSS feed for Chart Hub images.
 
 ## Chart Sources
 
+- https://ghcr.io/theconnman/docker-hub-rss
 - https://github.com/TheConnMan/docker-hub-rss
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/docker-hub-rss
-- https://hub.docker.com/r/theconnman/docker-hub-rss
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ PhotoStructure is your new home for all your photos and videos.
 
 ## Chart Sources
 
+- https://ghcr.io/photostructure/server
 - https://github.com/photostructure/photostructure-for-servers
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/photostructure
-- https://hub.docker.com/r/photostructure/server
 
 ## Available Documentation
 

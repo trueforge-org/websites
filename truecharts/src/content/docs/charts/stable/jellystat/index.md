@@ -8,9 +8,9 @@ A free and open source Statistics App for Jellyfin.
 
 ## Chart Sources
 
+- https://ghcr.io/cyfershepard/jellystat
 - https://github.com/CyferShepard/Jellystat
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jellystat
-- https://hub.docker.com/r/cyfershepard/jellystat
 
 ## Available Documentation
 

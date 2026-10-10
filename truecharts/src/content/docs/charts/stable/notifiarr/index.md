@@ -8,9 +8,9 @@ This is the unified client for Notifiarr.com. The client enables content request
 
 ## Chart Sources
 
+- https://ghcr.io/notifiarr/notifiarr
 - https://github.com/Notifiarr/notifiarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/notifiarr
-- https://hub.docker.com/r/golift/notifiarr
 
 ## Available Documentation
 

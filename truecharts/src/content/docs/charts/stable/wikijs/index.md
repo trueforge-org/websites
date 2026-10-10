@@ -9,9 +9,9 @@ Make documentation a joy to write using Wiki.js's beautiful and intuitive interf
 ## Chart Sources
 
 - https://docs.requarks.io/install/docker
+- https://ghcr.io/requarks/wiki
 - https://github.com/Requarks/wiki
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wikijs
-- https://hub.docker.com/r/requarks/wiki
 
 ## Available Documentation
 

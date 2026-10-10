@@ -8,9 +8,9 @@ RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for website
 
 ## Chart Sources
 
+- https://ghcr.io/rss-bridge/rss-bridge
 - https://github.com/RSS-Bridge/rss-bridge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rss-bridge
-- https://hub.docker.com/r/rssbridge/rss-bridge
 
 ## Available Documentation
 

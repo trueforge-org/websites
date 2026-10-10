@@ -8,9 +8,9 @@ The personal, minimalist, super-fast, database free, bookmarking service.
 
 ## Chart Sources
 
+- https://ghcr.io/shaarli/shaarli
 - https://github.com/shaarli/Shaarli
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/shaarli
-- https://hub.docker.com/r/shaarli/shaarli
 
 ## Available Documentation
 

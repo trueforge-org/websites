@@ -8,9 +8,9 @@ Scrypted is a high performance home video integration and automation platform.
 
 ## Chart Sources
 
+- https://ghcr.io/koush/scrypted
 - https://github.com/koush/scrypted
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/scrypted
-- https://hub.docker.com/r/koush/scrypted
 
 ## Available Documentation
 

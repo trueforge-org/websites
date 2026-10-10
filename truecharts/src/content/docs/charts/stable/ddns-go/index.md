@@ -8,9 +8,9 @@ Automatically obtain your public network IPv4 or IPv6 address and resolve it to 
 
 ## Chart Sources
 
+- https://ghcr.io/jeessy2/ddns-go
 - https://github.com/jeessy2/ddns-go
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ddns-go
-- https://hub.docker.com/r/jeessy/ddns-go
 
 ## Available Documentation
 

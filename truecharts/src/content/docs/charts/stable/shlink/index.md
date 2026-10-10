@@ -8,9 +8,9 @@ A PHP-based self-hosted URL shortener that can be used to serve shortened URLs u
 
 ## Chart Sources
 
+- https://ghcr.io/shlinkio/shlink
 - https://github.com/shlinkio/shlink
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/shlink
-- https://hub.docker.com/r/shlinkio/shlink
 
 ## Available Documentation
 

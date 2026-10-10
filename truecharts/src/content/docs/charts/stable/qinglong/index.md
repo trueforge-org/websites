@@ -8,8 +8,8 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 ## Chart Sources
 
+- https://ghcr.io/whyour/qinglong
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/qinglong
-- https://hub.docker.com/r/whyour/qinglong
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ Commento++ is a free, open source, fast & lightweight comments box that you can 
 
 ## Chart Sources
 
+- https://ghcr.io/souramoo/commentoplusplus
 - https://github.com/souramoo/commentoplusplus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/commento-plusplus
-- https://hub.docker.com/r/caroga/commentoplusplus
 
 ## Available Documentation
 

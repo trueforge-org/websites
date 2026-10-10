@@ -8,9 +8,9 @@ rustdesk self-hosted
 
 ## Chart Sources
 
+- https://ghcr.io/rustdesk/rustdesk-server-s6
 - https://github.com/rustdesk/rustdesk-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rustdesk
-- https://hub.docker.com/r/rustdesk/rustdesk-server-s6
 - https://rustdesk.com/de/
 
 ## Available Documentation

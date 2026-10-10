@@ -8,9 +8,9 @@ MKVCleaver is a tool for batch extraction of data from MKV files
 
 ## Chart Sources
 
+- https://ghcr.io/jlesage/mkvcleaver
 - https://github.com/jlesage/docker-mkvcleaver
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mkvcleaver
-- https://hub.docker.com/r/jlesage/mkvcleaver
 
 ## Available Documentation
 

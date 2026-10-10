@@ -8,9 +8,9 @@ Prometheus exporter for Nvidia GPU's using nvidia-smi binary to gather metrics.
 
 ## Chart Sources
 
+- https://ghcr.io/utkuozdemir/nvidia_gpu_exporter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nvidia-gpu-exporter
 - https://github.com/utkuozdemir/nvidia_gpu_exporter
-- https://hub.docker.com/r/utkuozdemir/nvidia_gpu_exporter
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ Light container updating DNS A and/or AAAA records periodically for multiple DNS
 
 ## Chart Sources
 
+- https://ghcr.io/qdm12/ddns-updater
 - https://github.com/qdm12/ddns-updater
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ddns-updater
-- https://hub.docker.com/r/qmcgaw/ddns-updater
 
 ## Available Documentation
 

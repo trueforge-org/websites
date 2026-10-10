@@ -8,9 +8,9 @@ A self-hosted, ad-free, privacy-respecting metasearch engine
 
 ## Chart Sources
 
+- https://ghcr.io/benbusby/whoogle-search
 - https://github.com/benbusby/whoogle-search
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/whoogle
-- https://hub.docker.com/r/benbusby/whoogle-search
 
 ## Available Documentation
 

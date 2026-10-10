@@ -8,9 +8,9 @@ Pingvin Share is self-hosted file sharing platform and an alternative for WeTran
 
 ## Chart Sources
 
+- https://ghcr.io/stonith404/pingvin-share
 - https://github.com/stonith404/pingvin-share
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pingvin-share
-- https://hub.docker.com/r/stonith404/pingvin-share
 
 ## Available Documentation
 

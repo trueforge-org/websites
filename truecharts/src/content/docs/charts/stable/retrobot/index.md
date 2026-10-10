@@ -8,9 +8,9 @@ A discord bot that allows you to play old nintendo games with your friends over 
 
 ## Chart Sources
 
+- https://ghcr.io/rossimo/retrobot
 - https://github.com/rossimo/retrobot
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/retrobot
-- https://hub.docker.com/r/rossimo/retrobot
 
 ## Available Documentation
 

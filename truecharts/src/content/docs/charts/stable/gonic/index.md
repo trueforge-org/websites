@@ -8,9 +8,9 @@ Music streaming server / subsonic server API implementation
 
 ## Chart Sources
 
+- https://ghcr.io/sentriz/gonic
 - https://github.com/sentriz/gonic
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gonic
-- https://hub.docker.com/r/sentriz/gonic
 
 ## Available Documentation
 

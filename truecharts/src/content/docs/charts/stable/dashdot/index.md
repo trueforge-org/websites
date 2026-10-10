@@ -8,9 +8,9 @@ dash. (or dashdot) is a modern server dashboard, running on the latest tech, des
 
 ## Chart Sources
 
+- https://ghcr.io/mauricenino/dashdot
 - https://github.com/MauriceNino/dashdot
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/dashdot
-- https://hub.docker.com/r/mauricenino/dashdot
 
 ## Available Documentation
 

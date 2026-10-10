@@ -8,11 +8,11 @@ This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Pre
 
 ## Chart Sources
 
+- https://ghcr.io/p3terx/aria2-pro
 - https://ghcr.io/rogerfar/rdtclient
 - https://github.com/rogerfar/rdt-client
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rdtclient
 - https://github.com/trueforge/truecharts/tree/master/charts/stable/rdtclient
-- https://hub.docker.com/r/p3terx/aria2-pro
 
 ## Available Documentation
 

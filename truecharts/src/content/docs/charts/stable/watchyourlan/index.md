@@ -8,9 +8,9 @@ Lightweight network IP scanner with web GUI
 
 ## Chart Sources
 
+- https://ghcr.io/aceberg/watchyourlan
 - https://github.com/aceberg/WatchYourLAN
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/watchyourlan
-- https://hub.docker.com/r/aceberg/watchyourlan
 
 ## Available Documentation
 
