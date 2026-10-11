@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.1 • [Train: incubator]
+
+- feat:(aistore): changes (#53332) • [`d4834f8`](https://github.com/trueforge-org/truecharts/commit/d4834f82e82056de80db5d850406026cb978fd21) • [@Boemeltrein] (2026-10-11)
+
 ## 1.0.0 • [Train: incubator]
 
 - BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
