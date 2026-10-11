@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/sickchill:2024.3.1
+    image: ghcr.io/trueforge-org/sickchill:2026.10.8
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
