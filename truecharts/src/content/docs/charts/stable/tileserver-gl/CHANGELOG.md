@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.0 • [Train: stable]
+
+- BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
+
 ## 1.0.0 • [Train: stable]
 
 - Commit daily changes • [`f669e35`](https://github.com/trueforge-org/truecharts/commit/f669e352fd19aeb190063e77f3a0dbbdbd9de4de) • [@TrueCharts-Bot] (2026-09-10)

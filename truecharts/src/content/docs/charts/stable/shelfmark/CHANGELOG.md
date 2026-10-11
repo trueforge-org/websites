@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.0 • [Train: stable]
+
+- BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
+
 ## 1.2.0 • [Train: stable]
 
 - feat(shelfmark): update image ghcr.io/calibrain/shelfmark v1.3.15 → v1.4.0 (#53000) • [`6bf1ba4`](https://github.com/trueforge-org/truecharts/commit/6bf1ba4b5e4b4a23b2db5f6b8d248999328beff3) • [@TrueCharts Bot] (2026-10-06)

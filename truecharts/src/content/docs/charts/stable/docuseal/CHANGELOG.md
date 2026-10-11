@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.0.0 • [Train: stable]
+
+- BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
+
 ## 7.10.0 • [Train: stable]
 
 - feat(docuseal): update image docker.io/docuseal/docuseal 3.2.5 → 3.3.1 (#52965) • [`eb7b297`](https://github.com/trueforge-org/truecharts/commit/eb7b2973bb1a000344a75c795b17202a4ead6620) • [@TrueCharts Bot] (2026-10-06)
@@ -563,8 +567,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.6 • [Train: stable]
 
-- chore(helm): update image docker.io/docuseal/docuseal 2.0.5 → 2.0.6 (#37191) • [`9f9b0af`](https://github.com/trueforge-org/truecharts/commit/9f9b0af2b339ada75d290c1590c24564e1951724) • [@TrueCharts Bot] (2025-07-07)
 - chore(helm): update chart common 28.12.6 → 28.12.7 (#37188) • [`0f93b7d`](https://github.com/trueforge-org/truecharts/commit/0f93b7dddf18d6ec567159463c0edea43413d372) • [@TrueCharts Bot] (2025-07-07)
+- chore(helm): update image docker.io/docuseal/docuseal 2.0.5 → 2.0.6 (#37191) • [`9f9b0af`](https://github.com/trueforge-org/truecharts/commit/9f9b0af2b339ada75d290c1590c24564e1951724) • [@TrueCharts Bot] (2025-07-07)
 
 ## 5.0.5 • [Train: stable]
 
@@ -899,8 +903,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.1 • [Train: incubator]
 
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
-- chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
 - chore(deps): update container image docuseal/docuseal to v1.5.8@0b4b02a by renovate (#22651) • [`13b499f`](https://github.com/trueforge-org/truecharts/commit/13b499f3070fe9cc40d6039b9ccac23adf30b3c8) • [@TrueCharts Bot] (2024-05-30)
+- chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
 
 ## 1.0.0 • [Train: incubator]
 

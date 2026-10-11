@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.0 • [Train: incubator]
+
+- BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
+
 ## 0.1.0 • [Train: incubator]
 
 - fix(aistor): rename chart from aistore to aistor (#53323) • [`7622da9`](https://github.com/trueforge-org/truecharts/commit/7622da97b8b46ab1b80f1f5bbc861be61d1e50c7) • [@Alfred Göppel] (2026-10-11)

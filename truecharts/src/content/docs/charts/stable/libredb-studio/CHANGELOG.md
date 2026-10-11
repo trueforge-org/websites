@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.0 • [Train: stable]
+
+- BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
+
 ## 1.2.2 • [Train: stable]
 
 - fix(libredb-studio): update image ghcr.io/libredb/libredb-studio 0.18.1 → 0.18.2 (#53266) • [`ff92948`](https://github.com/trueforge-org/truecharts/commit/ff929482724687fb68524f46bc89a639daa857b9) • [@TrueCharts Bot] (2026-10-10)
