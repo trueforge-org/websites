@@ -38,7 +38,7 @@ services:
       ZNC_USER: admin
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/znc:znc-1.10.1
+    image: ghcr.io/trueforge-org/znc:1.10.3
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1

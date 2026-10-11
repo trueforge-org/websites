@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/sickgear:release_3.34.5
+    image: ghcr.io/trueforge-org/sickgear:3.36.8
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1

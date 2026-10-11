@@ -2,7 +2,7 @@
 title: sickgear
 ---
 
-![Version: release_3.34.5](https://img.shields.io/badge/Version-release_3.34.5-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 3.36.8](https://img.shields.io/badge/Version-3.36.8-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **sickgear**, including upstream 
 | Field | Value |
 | --- | --- |
 | App | sickgear |
-| Version | release_3.34.5 |
+| Version | 3.36.8 |
 | License | AGPL--3.0--or--later |
 
 ## Source
