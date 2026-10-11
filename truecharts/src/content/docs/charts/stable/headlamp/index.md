@@ -2,7 +2,7 @@
 title: headlamp
 ---
 
-![Version: 0.3.1](https://img.shields.io/badge/Version-0.3.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.45.0](https://img.shields.io/badge/AppVersion-0.45.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.45.0](https://img.shields.io/badge/AppVersion-0.45.0-informational?style=flat-square)
 
 Headlamp is a user-friendly Kubernetes UI focused on extensibility
 
@@ -11,8 +11,8 @@ Headlamp is a user-friendly Kubernetes UI focused on extensibility
 - https://ghcr.io/headlamp-k8s/headlamp
 - https://github.com/kubernetes-sigs/headlamp
 - https://github.com/trueforge-org/containers/tree/main/apps/node
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/headlamp
-- https://github.com/trueforge/truecharts/tree/master/charts/incubator/headlamp
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/headlamp
+- https://github.com/trueforge/truecharts/tree/master/charts/stable/headlamp
 - https://headlamp.dev
 
 ## Available Documentation
@@ -26,7 +26,7 @@ Headlamp is a user-friendly Kubernetes UI focused on extensibility
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/incubator/headlamp)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/headlamp)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 
@@ -44,12 +44,12 @@ For more information on how to install TrueCharts Helm charts, checkout the [ins
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://truecharts.org/charts/incubator/headlamp
+https://truecharts.org/charts/stable/headlamp
 
 ### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/incubator/headlamp/values.yaml
+The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/stable/headlamp/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://trueforge.org/truecharts-common/)

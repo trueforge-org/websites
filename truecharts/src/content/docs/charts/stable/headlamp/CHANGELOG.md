@@ -3,13 +3,17 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/incubator/headlamp)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/headlamp)
 
 :::tip
 
 If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
 
 :::
+
+## 1.0.0 • [Train: stable]
+
+- feat(headlamp): move to stable (#53322) • [`5e4435e`](https://github.com/trueforge-org/truecharts/commit/5e4435e4e51da059be0dade2ef21e22acfbf0bf2) • [@Alfred Göppel] (2026-10-11)
 
 ## 0.3.1 • [Train: incubator]
 
