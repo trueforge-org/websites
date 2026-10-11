@@ -2,7 +2,7 @@
 title: emby
 ---
 
-![Version: 4.11.0.6](https://img.shields.io/badge/Version-4.11.0.6-informational?style=flat-square) ![License: MIT](https://img.shields.io/badge/License-MIT-informational?style=flat-square)
+![Version: 4.11.0.7](https://img.shields.io/badge/Version-4.11.0.7-informational?style=flat-square) ![License: MIT](https://img.shields.io/badge/License-MIT-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **emby**, including upstream sour
 | Field | Value |
 | --- | --- |
 | App | emby |
-| Version | 4.11.0.6 |
+| Version | 4.11.0.7 |
 | License | MIT |
 
 ## Source
