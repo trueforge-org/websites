@@ -2,15 +2,15 @@
 title: docusaurus
 ---
 
-![Version: 12.10.0](https://img.shields.io/badge/Version-12.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 13.0.0](https://img.shields.io/badge/Version-13.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.10.2](https://img.shields.io/badge/AppVersion-3.10.2-informational?style=flat-square)
 
 Docusaurus makes it easy to maintain Open Source documentation websites.
 
 ## Chart Sources
 
-- https://github.com/awesometic/docker-docusaurus
+- https://github.com/facebook/docusaurus
+- https://github.com/trueforge-org/containerforge/tree/main/apps/docusaurus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/docusaurus
-- https://hub.docker.com/r/awesometic/docusaurus
 
 ## Available Documentation
 
