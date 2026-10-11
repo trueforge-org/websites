@@ -40,7 +40,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/apprise-api:1.5.4
+    image: ghcr.io/trueforge-org/apprise-api:2.0.1
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
