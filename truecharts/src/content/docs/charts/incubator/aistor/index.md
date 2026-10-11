@@ -1,5 +1,5 @@
 ---
-title: aistore
+title: aistor
 ---
 
 ![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: RELEASE.2026-09-19T17-05-25Z](https://img.shields.io/badge/AppVersion-RELEASE.2026-09-19T17-05-25Z-informational?style=flat-square)
@@ -10,7 +10,7 @@ MinIO AIStor is an S3-compatible object storage server.
 
 - https://docs.min.io/aistor/
 - https://quay.io/repository/minio/aistor/minio
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/aistore
+- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/aistor
 
 ## Available Documentation
 
@@ -23,7 +23,7 @@ MinIO AIStor is an S3-compatible object storage server.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/incubator/aistore)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/incubator/aistor)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 
@@ -33,7 +33,7 @@ For more information about this Chart, please check the docs on the TrueCharts [
 
 To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
-`helm install mychart oci://oci.trueforge.org/truecharts/aistore`
+`helm install mychart oci://oci.trueforge.org/truecharts/aistor`
 
 For more information on how to install TrueCharts Helm charts, checkout the [instructions on the website](https://trueforge.org/truecharts/guides/)
 
@@ -41,12 +41,12 @@ For more information on how to install TrueCharts Helm charts, checkout the [ins
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://truecharts.org/charts/incubator/aistore
+https://truecharts.org/charts/incubator/aistor
 
 ### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/incubator/aistore/values.yaml
+The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/incubator/aistor/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://trueforge.org/truecharts-common/)
