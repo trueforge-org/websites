@@ -2,15 +2,15 @@
 title: aistor
 ---
 
-![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: RELEASE.2026-09-19T17-05-25Z](https://img.shields.io/badge/AppVersion-RELEASE.2026-09-19T17-05-25Z-informational?style=flat-square)
+![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.09.19](https://img.shields.io/badge/AppVersion-2026.09.19-informational?style=flat-square)
 
 MinIO AIStor is an S3-compatible object storage server.
 
 ## Chart Sources
 
 - https://docs.min.io/aistor/
-- https://quay.io/repository/minio/aistor/minio
 - https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/aistor
+- https://quay.io/minio/aistor/minio
 
 ## Available Documentation
 

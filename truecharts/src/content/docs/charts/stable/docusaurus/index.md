@@ -9,7 +9,7 @@ Docusaurus makes it easy to maintain Open Source documentation websites.
 ## Chart Sources
 
 - https://github.com/facebook/docusaurus
-- https://github.com/trueforge-org/containerforge/tree/main/apps/docusaurus
+- https://github.com/trueforge-org/containers/tree/main/apps/docusaurus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/docusaurus
 
 ## Available Documentation
