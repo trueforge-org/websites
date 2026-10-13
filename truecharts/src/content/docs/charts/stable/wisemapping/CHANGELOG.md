@@ -132,8 +132,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.20 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 4.13.19 • [Train: stable]
 
@@ -231,8 +231,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.11.5 • [Train: stable]
 
-- Commit daily changes • [`0d9a801`](https://github.com/trueforge-org/truecharts/commit/0d9a8012163003f1c431e02a221c9033465f05e4) • [@TrueCharts-Bot] (2025-11-09)
 - chore(helm): update image docker.io/wisemapping/wisemapping digest to ae8a963 (#41556) • [`fb5b761`](https://github.com/trueforge-org/truecharts/commit/fb5b76140451932df8a3ab70fbfebfe7239a5f27) • [@TrueCharts Bot] (2025-11-09)
+- Commit daily changes • [`0d9a801`](https://github.com/trueforge-org/truecharts/commit/0d9a8012163003f1c431e02a221c9033465f05e4) • [@TrueCharts-Bot] (2025-11-09)
 
 ## 4.11.4 • [Train: stable]
 
@@ -474,8 +474,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.2 • [Train: incubator]
 
-- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 - chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 
 ## 2.0.1 • [Train: incubator]
 
