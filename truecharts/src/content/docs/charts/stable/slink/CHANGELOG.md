@@ -198,8 +198,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.17.8 • [Train: stable]
 
-- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 - fix(slink): update image docker.io/anirdev/slink v1.9.4 → v1.9.5 (#44901) • [`00ef95f`](https://github.com/trueforge-org/truecharts/commit/00ef95f544c12e9bfef1d598c39babe24aca1dfe) • [@TrueCharts Bot] (2026-02-14)
+- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 
 ## 5.17.7 • [Train: stable]
 
@@ -375,9 +375,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.11.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 5.10.2 • [Train: stable]
 
@@ -576,8 +576,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.4.2 • [Train: stable]
 
-- chore(helm): update chart common 25.2.4 → 25.2.5 (#30408) • [`36b91b5`](https://github.com/trueforge-org/truecharts/commit/36b91b5aa43af48f6e5ddd24b236be22ba96fcb0) • [@TrueCharts Bot] (2024-12-29)
 - disable ingress being enabled by default on unimportant chart ci-testing values • [`ee336b1`](https://github.com/trueforge-org/truecharts/commit/ee336b12a7290b4442da5f94488ccf9dad83ea1b) • [@Kjeld Schouten] (2024-12-29)
+- chore(helm): update chart common 25.2.4 → 25.2.5 (#30408) • [`36b91b5`](https://github.com/trueforge-org/truecharts/commit/36b91b5aa43af48f6e5ddd24b236be22ba96fcb0) • [@TrueCharts Bot] (2024-12-29)
 
 ## 3.4.1 • [Train: stable]
 

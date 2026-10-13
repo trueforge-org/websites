@@ -188,8 +188,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 7.0.8 • [Train: stable]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
+- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 7.0.7 • [Train: stable]
@@ -198,8 +198,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.0.6 • [Train: stable]
 
-- fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
 - fix(semaphore): update image docker.io/semaphoreui/semaphore v2.17.32 → v2.17.33 (#46662) • [`1e0a8f0`](https://github.com/trueforge-org/truecharts/commit/1e0a8f0b68897954d1a96ec771d7aa58c522f435) • [@TrueCharts Bot] (2026-04-02)
+- fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
 
 ## 7.0.5 • [Train: stable]
 
@@ -291,8 +291,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.15.2 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 6.15.1 • [Train: stable]
 
@@ -497,8 +497,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.4.13 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 6.4.12 • [Train: stable]
 
@@ -849,8 +849,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
-- chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
 - chore(deps): update container image semaphoreui/semaphore to v2.9.112@05c9a6f by renovate (#22652) • [`b804ec3`](https://github.com/trueforge-org/truecharts/commit/b804ec3c29e096be44e4643a50cdb26951ec5837) • [@TrueCharts Bot] (2024-05-30)
+- chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
 
 ## 2.0.5 • [Train: incubator]
 
