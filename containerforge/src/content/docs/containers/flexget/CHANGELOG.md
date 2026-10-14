@@ -18,8 +18,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.22.2 • [Train: ]
 
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
 - feat(deps): update ghcr.io/astral-sh/uv docker tag 0.12.24 → 0.13.0 (#3971) • [`dde8466`](https://github.com/trueforge-org/truecharts/commit/dde84667a39ea5fbee69728e766d44b0ade9d2fb) • [@TrueCharts Bot] (2026-10-09)
 - fix(deps): update flexget/flexget v3.22.1 → v3.22.2 (#3970) • [`deaa297`](https://github.com/trueforge-org/truecharts/commit/deaa2972bcb906c178af83f9f343d03e4cbe234a) • [@TrueCharts Bot] (2026-10-09)
 
@@ -40,8 +40,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.21.3 • [Train: ]
 
 - fix(deps): update ghcr.io/astral-sh/uv docker tag 0.12.21 → 0.12.23 (#3855) • [`2780301`](https://github.com/trueforge-org/truecharts/commit/27803012945f8a58bfb98efb215002582524e5f5) • [@TrueCharts Bot] (2026-10-06)
-- fix(deps): update ghcr.io/astral-sh/uv docker tag 0.12.19 → 0.12.20 (#3810) • [`6a47d3a`](https://github.com/trueforge-org/truecharts/commit/6a47d3a72873069b3bdc55753d9c7fc0befb7841) • [@TrueCharts Bot] (2026-09-29)
 - fix(deps): update ghcr.io/astral-sh/uv docker tag 0.12.20 → 0.12.21 (#3826) • [`5309df4`](https://github.com/trueforge-org/truecharts/commit/5309df432a1cf891290981479163c2ea1b67b1a0) • [@TrueCharts Bot] (2026-09-29)
+- fix(deps): update ghcr.io/astral-sh/uv docker tag 0.12.19 → 0.12.20 (#3810) • [`6a47d3a`](https://github.com/trueforge-org/truecharts/commit/6a47d3a72873069b3bdc55753d9c7fc0befb7841) • [@TrueCharts Bot] (2026-09-29)
 - fix(deps): update flexget/flexget v3.21.2 → v3.21.3 (#3806) • [`cc0bef8`](https://github.com/trueforge-org/truecharts/commit/cc0bef81152d4cda99410049adeb0fd2e5250e99) • [@TrueCharts Bot] (2026-09-28)
 
 ## 3.21.2 • [Train: ]
@@ -56,8 +56,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.21.0 • [Train: ]
 
-- fix(deps): update ghcr.io/astral-sh/uv docker tag 0.12.15 → 0.12.16 (#3654) • [`f05036f`](https://github.com/trueforge-org/truecharts/commit/f05036f7644f55b1b007cfdb2f5e6601e94fa203) • [@TrueCharts Bot] (2026-09-18)
 - fix(deps): update ghcr.io/astral-sh/uv docker tag 0.12.16 → 0.12.17 (#3677) • [`04ba55d`](https://github.com/trueforge-org/truecharts/commit/04ba55da6014591284db3f6f4702eae30f188dfd) • [@TrueCharts Bot] (2026-09-18)
+- fix(deps): update ghcr.io/astral-sh/uv docker tag 0.12.15 → 0.12.16 (#3654) • [`f05036f`](https://github.com/trueforge-org/truecharts/commit/f05036f7644f55b1b007cfdb2f5e6601e94fa203) • [@TrueCharts Bot] (2026-09-18)
 - feat(deps): update flexget/flexget v3.20.13 → v3.21.0 (#3619) • [`cfa7540`](https://github.com/trueforge-org/truecharts/commit/cfa75400ac4316785d3476df2a00ad9e03758b19) • [@TrueCharts Bot] (2026-09-16)
 
 ## 3.20.13 • [Train: ]
@@ -147,8 +147,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - fix(deps): update ghcr.io/astral-sh/uv docker tag 0.11.31 → 0.11.32 (#2915) • [`8832a5e`](https://github.com/trueforge-org/truecharts/commit/8832a5e88566fb3c4331e16fa0db7b947456fddd) • [@TrueCharts Bot] (2026-07-24)
 - fix(deps): update ghcr.io/astral-sh/uv docker tag 0.11.30 → 0.11.31 (#2890) • [`8bf79b8`](https://github.com/trueforge-org/truecharts/commit/8bf79b84ca2248c80567253a6c1a24aa2985aa44) • [@TrueCharts Bot] (2026-07-22)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.6 docker digest digest to dc837e1 (#2878) • [`a46f842`](https://github.com/trueforge-org/truecharts/commit/a46f8421be435439c9ee9f34aa003fd981b426d8) • [@TrueCharts Bot] (2026-07-21)
-- fix(deps): update flexget/flexget v3.19.29 → v3.19.30 (#2862) • [`bde9a18`](https://github.com/trueforge-org/truecharts/commit/bde9a185fcd136605eb6416d14b4ffde24c9d477) • [@TrueCharts Bot] (2026-07-20)
 - fix(deps): update ghcr.io/astral-sh/uv docker tag 0.11.29 → 0.11.30 (#2863) • [`b94b904`](https://github.com/trueforge-org/truecharts/commit/b94b90422497fdf1a537c85c4079fc18f4dc6cec) • [@TrueCharts Bot] (2026-07-20)
+- fix(deps): update flexget/flexget v3.19.29 → v3.19.30 (#2862) • [`bde9a18`](https://github.com/trueforge-org/truecharts/commit/bde9a185fcd136605eb6416d14b4ffde24c9d477) • [@TrueCharts Bot] (2026-07-20)
 
 ## 3.19.29 • [Train: ]
 
@@ -175,16 +175,16 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.19.25 • [Train: ]
 
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.5 → 3.14.6 (#2502) • [`2ea5fc8`](https://github.com/trueforge-org/truecharts/commit/2ea5fc845864083f2b3e7099a07f26dcc1e0892e) • [@TrueCharts Bot] (2026-06-27)
 - fix(deps): update ghcr.io/astral-sh/uv docker tag 0.11.11 → 0.11.25 (#2344) • [`42ad2e8`](https://github.com/trueforge-org/truecharts/commit/42ad2e88f34bc83ee9054e7e17c30b6369f707e1) • [@TrueCharts Bot] (2026-06-27)
 - fix(deps): update flexget/flexget v3.19.16 → v3.19.25 (#2365) • [`b74806e`](https://github.com/trueforge-org/truecharts/commit/b74806e358dd596123d5e957ba10a9a619795f6a) • [@TrueCharts Bot] (2026-06-27)
-- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.5 → 3.14.6 (#2502) • [`2ea5fc8`](https://github.com/trueforge-org/truecharts/commit/2ea5fc845864083f2b3e7099a07f26dcc1e0892e) • [@TrueCharts Bot] (2026-06-27)
 
 ## 3.19.16 • [Train: ]
 
 - fix(repo): remove hidden unicode (#2575) • [`61ac3db`](https://github.com/trueforge-org/truecharts/commit/61ac3db5226adcb2786dd6c3b27d6c3cfb35487c) • [@Alfred Göppel] (2026-06-26)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.4 → 3.14.5 (#2375) • [`65af60a`](https://github.com/trueforge-org/truecharts/commit/65af60a10dbd6733d8e52f8eba9564091bdfe5a2) • [@TrueCharts Bot] (2026-06-08)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to b87e7b8 (#2463) • [`fb8da62`](https://github.com/trueforge-org/truecharts/commit/fb8da62a83ecce42bed996582167265995863cf8) • [@TrueCharts Bot] (2026-06-08)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to c78b908 (#2477) • [`d9a1692`](https://github.com/trueforge-org/truecharts/commit/d9a16928e991f16f4be9b19359379e172e6cdd5d) • [@TrueCharts Bot] (2026-06-08)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to b87e7b8 (#2463) • [`fb8da62`](https://github.com/trueforge-org/truecharts/commit/fb8da62a83ecce42bed996582167265995863cf8) • [@TrueCharts Bot] (2026-06-08)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.4 docker digest digest to 622c7c1 (#2326) • [`e1f2bc1`](https://github.com/trueforge-org/truecharts/commit/e1f2bc1071f9dccdcb0f5a0c6a3b1e496c64ac20) • [@TrueCharts Bot] (2026-05-07)
 - feat(python-dep): update python (minor) (#2287) • [`4efcb6e`](https://github.com/trueforge-org/truecharts/commit/4efcb6ed8c0de6dacaa7ca3c02ec104816578aa8) • [@TrueCharts Bot] (2026-05-07)
 - fix(deps): update ghcr.io/astral-sh/uv docker tag 0.11.10 → 0.11.11 (#2249) • [`ca944b2`](https://github.com/trueforge-org/truecharts/commit/ca944b25e0ca0985be190f4bd7597d7d36519316) • [@TrueCharts Bot] (2026-05-06)
@@ -194,8 +194,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.19.15 • [Train: ]
 
 - some password fixes • [`68a527b`](https://github.com/trueforge-org/truecharts/commit/68a527b6c7a868d29014720fc8458313be3410e1) • [@Kjeld Schouten] (2026-05-02)
-- fix(deps): update ghcr.io/astral-sh/uv docker tag 0.9.10 → 0.9.30 (#2143) • [`0769e74`](https://github.com/trueforge-org/truecharts/commit/0769e74038141687071d120c92fa18aec5ade196) • [@TrueCharts Bot] (2026-04-28)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#2150) • [`438a36e`](https://github.com/trueforge-org/truecharts/commit/438a36ed912e0aca061688e1d9e752c4cd333f8e) • [@TrueCharts Bot] (2026-04-28)
+- fix(deps): update ghcr.io/astral-sh/uv docker tag 0.9.10 → 0.9.30 (#2143) • [`0769e74`](https://github.com/trueforge-org/truecharts/commit/0769e74038141687071d120c92fa18aec5ade196) • [@TrueCharts Bot] (2026-04-28)
 - fix(deps): update flexget/flexget v3.19.14 → v3.19.15 (#2160) • [`28a10f7`](https://github.com/trueforge-org/truecharts/commit/28a10f7c65f8f534c042072bd2582ac03ddf8c6d) • [@TrueCharts Bot] (2026-04-27)
 
 ## 3.19.14 • [Train: ]
