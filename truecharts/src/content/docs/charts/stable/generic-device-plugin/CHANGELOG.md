@@ -365,8 +365,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.6.2 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 2.6.1 • [Train: stable]
 
@@ -416,8 +416,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.4 • [Train: stable]
 
-- chore(helm): update image ghcr.io/squat/generic-device-plugin digest to 5aab484 (#38938) • [`96a76e7`](https://github.com/trueforge-org/truecharts/commit/96a76e7ca14749270fe6022be2c802b5fb6ebf1d) • [@TrueCharts Bot] (2025-08-30)
 - chore(helm): update chart common 28.16.4 → 28.16.5 (#38952) • [`977aa51`](https://github.com/trueforge-org/truecharts/commit/977aa51ecddfb3da31c324fcbf0f73ba51f1017b) • [@TrueCharts Bot] (2025-08-30)
+- chore(helm): update image ghcr.io/squat/generic-device-plugin digest to 5aab484 (#38938) • [`96a76e7`](https://github.com/trueforge-org/truecharts/commit/96a76e7ca14749270fe6022be2c802b5fb6ebf1d) • [@TrueCharts Bot] (2025-08-30)
 
 ## 2.3.3 • [Train: stable]
 
