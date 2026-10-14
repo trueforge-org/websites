@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.1 • [Train: stable]
+
+- fix(birdnet-go): update image ghcr.io/tphakala/birdnet-go 20261010 → 20261014 (#53463) • [`01f3793`](https://github.com/trueforge-org/truecharts/commit/01f3793a3651c5ccac0a9c2af0e8edc0f667111a) • [@TrueCharts Bot] (2026-10-14)
+
 ## 2.0.0 • [Train: stable]
 
 - BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
