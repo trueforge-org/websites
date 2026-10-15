@@ -33,7 +33,7 @@ services:
           cpus: 4
           memory: 4G
     environment:
-      DATABASE_URL: postgres://babybuddy:ddbb86875a03c04a3bfaf13187f7fd0fWORD@postgresql:5432/babybuddy
+      DATABASE_URL: postgres://babybuddy:2ccb74833e809335654f3bd84a92849cWORD@postgresql:5432/babybuddy
       TZ: Etc/UTC
     group_add:
       - "568"
@@ -62,7 +62,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: babybuddy
-#       POSTGRES_PASSWORD: ddbb86875a03c04a3bfaf13187f7fd0fWORD
+#       POSTGRES_PASSWORD: 2ccb74833e809335654f3bd84a92849cWORD
 #       POSTGRES_USER: babybuddy
 #       TZ: Etc/UTC
 #     group_add:
