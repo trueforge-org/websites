@@ -145,8 +145,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.18.1 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 6.18.0 • [Train: stable]
 
@@ -260,8 +260,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.14.3 • [Train: stable]
 
-- chore(helm): update image ghcr.io/chroma-core/chroma 1.3.0 → 1.3.2 (#41403) • [`b6ac058`](https://github.com/trueforge-org/truecharts/commit/b6ac05816e913f60cc77d0809ce473e87e43fae7) • [@TrueCharts Bot] (2025-11-04)
 - Commit daily changes • [`dfe2909`](https://github.com/trueforge-org/truecharts/commit/dfe2909e3628718e83ddfecffe2770551fea0c74) • [@TrueCharts-Bot] (2025-11-04)
+- chore(helm): update image ghcr.io/chroma-core/chroma 1.3.0 → 1.3.2 (#41403) • [`b6ac058`](https://github.com/trueforge-org/truecharts/commit/b6ac05816e913f60cc77d0809ce473e87e43fae7) • [@TrueCharts Bot] (2025-11-04)
 
 ## 6.14.2 • [Train: stable]
 
@@ -301,9 +301,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.10.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 6.9.0 • [Train: stable]
 
@@ -388,8 +388,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.3.3 • [Train: stable]
 
-- chore(helm): update chart common 28.16.1 → 28.16.2 (#38562) • [`d3f1669`](https://github.com/trueforge-org/truecharts/commit/d3f166997de22289c9247208bc6b9b4c57d277a1) • [@TrueCharts Bot] (2025-08-18)
 - chore(helm): update image ghcr.io/chroma-core/chroma 1.0.17 → 1.0.18 (#38567) • [`be6e1d2`](https://github.com/trueforge-org/truecharts/commit/be6e1d2f65ffcf5d8fb67a241ab9b2d9557d5a00) • [@TrueCharts Bot] (2025-08-18)
+- chore(helm): update chart common 28.16.1 → 28.16.2 (#38562) • [`d3f1669`](https://github.com/trueforge-org/truecharts/commit/d3f166997de22289c9247208bc6b9b4c57d277a1) • [@TrueCharts Bot] (2025-08-18)
 
 ## 6.3.2 • [Train: stable]
 
