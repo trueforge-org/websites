@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.3.0 • [Train: stable]
+
+- feat(stirling-pdf): update image ghcr.io/stirling-tools/s-pdf 3.1.0 → 3.2.0 (#53553) • [`4d6af24`](https://github.com/trueforge-org/truecharts/commit/4d6af240aaeb7a4a295454800e9874c3c8e46267) • [@TrueCharts Bot] (2026-10-16)
+
 ## 13.0.0 • [Train: stable]
 
 - BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
@@ -269,12 +273,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.13.9 • [Train: stable]
 
+- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
+- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`ddba628`](https://github.com/trueforge-org/truecharts/commit/ddba6288bf69736c6c18f4a7dfd3636e54db2614) • [@TrueCharts-Bot] (2026-01-31)
-- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
-- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(stirling-pdf): update image ghcr.io/stirling-tools/s-pdf 2.4.1 → 2.4.2 (#44318) • [`b71fe2c`](https://github.com/trueforge-org/truecharts/commit/b71fe2c47c9f140ba04b31f6ed4b61c5ea47e6ba) • [@TrueCharts Bot] (2026-01-30)
 
 ## 8.13.6 • [Train: stable]
