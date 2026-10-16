@@ -2,7 +2,7 @@
 title: neko
 ---
 
-![Version: 12.0.0](https://img.shields.io/badge/Version-12.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.6](https://img.shields.io/badge/AppVersion-3.1.6-informational?style=flat-square)
+![Version: 12.10.0](https://img.shields.io/badge/Version-12.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.2.0](https://img.shields.io/badge/AppVersion-3.2.0-informational?style=flat-square)
 
 A self hosted virtual browser that runs in Chart
 

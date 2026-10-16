@@ -228,9 +228,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.9.0 • [Train: stable]
 
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 5.8.0 • [Train: stable]
 
@@ -251,8 +251,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.6.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 5.6.0 • [Train: stable]
 
@@ -432,8 +432,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.2 • [Train: stable]
 
-- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 
 ## 4.0.1 • [Train: stable]
 
@@ -471,8 +471,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.6 • [Train: stable]
 
-- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
+- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - chore(deps): update container image archivebox/archivebox to latest@8f51a6d by renovate (#21470) • [`92fac33`](https://github.com/trueforge-org/truecharts/commit/92fac33e2f5d7ce74c3199bd1b823ac3ccb943ba) • [@TrueCharts Bot] (2024-05-05)
 
 ## 3.0.5 • [Train: stable]
@@ -632,6 +632,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.7.2 • [Train: incubator]
 
 - Commit daily changes • [`a0aa313`](https://github.com/trueforge-org/truecharts/commit/a0aa3134245af8f9d7a7cee7e2775819746bae62) • [@TrueCharts-Bot] (2024-02-23)
-- fix(archivebox): Remove unused `postgres` section from `questions.yaml`, add docs (#18488) • [`d6ed8c7`](https://github.com/trueforge-org/truecharts/commit/d6ed8c78d22b99cac1028460e76fb13545492477) • [@Nick Sweeting] (2024-02-22)
 - Commit daily changes • [`8965459`](https://github.com/trueforge-org/truecharts/commit/896545910673d88c5a093e2b46b46198fe496d6c) • [@TrueCharts-Bot] (2024-02-22)
+- fix(archivebox): Remove unused `postgres` section from `questions.yaml`, add docs (#18488) • [`d6ed8c7`](https://github.com/trueforge-org/truecharts/commit/d6ed8c78d22b99cac1028460e76fb13545492477) • [@Nick Sweeting] (2024-02-22)
 - add(archivebox): Add new ArchiveBox chart  (#18258) • [`943073e`](https://github.com/trueforge-org/truecharts/commit/943073e4baa08add114233f23d9af84bd00e2048) • [@Nick Sweeting] (2024-02-21)
