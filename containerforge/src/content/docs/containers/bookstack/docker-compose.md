@@ -37,7 +37,7 @@ services:
       APP_URL: ""
       DB_DATABASE: bookstack
       DB_HOST: ""
-      DB_PASS: 2cc261009009e0d5e5fb7e5bbdc5b65eWORD
+      DB_PASS: 5c369e40ee03da50fa681b0e5955c3f5WORD
       DB_PORT: "3306"
       DB_USER: bookstack
       QUEUE_CONNECTION: database
@@ -74,8 +74,8 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       MARIADB_DATABASE: bookstack
-#       MARIADB_PASSWORD: 2cc261009009e0d5e5fb7e5bbdc5b65eWORD
-#       MARIADB_ROOT_PASSWORD: 5bc634f5107b0269e0cf77ba94784130WORD
+#       MARIADB_PASSWORD: 5c369e40ee03da50fa681b0e5955c3f5WORD
+#       MARIADB_ROOT_PASSWORD: 7a549e07ee0224cfa265949133d15f79WORD
 #       MARIADB_USER: bookstack
 #       TZ: Etc/UTC
 #     group_add:

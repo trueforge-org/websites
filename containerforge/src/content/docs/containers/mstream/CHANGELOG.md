@@ -175,8 +175,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.5.7 • [Train: ]
 
-- fix(deps): update irosthebeggar/mstream v6.5.4 → v6.5.7 (#2106) • [`15c9e49`](https://github.com/trueforge-org/truecharts/commit/15c9e49ea1aa0d62bbe658e3e500cbfa578be4b9) • [@TrueCharts Bot] (2026-04-26)
 - chore(node-dep): update node.js digest to 4bca93d (#2116) • [`2217a7f`](https://github.com/trueforge-org/truecharts/commit/2217a7f3f1620851bbda98aaa7385abaa1c44137) • [@TrueCharts Bot] (2026-04-26)
+- fix(deps): update irosthebeggar/mstream v6.5.4 → v6.5.7 (#2106) • [`15c9e49`](https://github.com/trueforge-org/truecharts/commit/15c9e49ea1aa0d62bbe658e3e500cbfa578be4b9) • [@TrueCharts Bot] (2026-04-26)
 
 ## 6.5.4 • [Train: ]
 
@@ -202,8 +202,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.4.4 • [Train: ]
 
-- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
+- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - fix(deps): update irosthebeggar/mstream v6.4.3 → v6.4.4 (#2020) • [`3c9c15d`](https://github.com/trueforge-org/truecharts/commit/3c9c15d1bb04da871226a801b1883ac4efe02c3a) • [@TrueCharts Bot] (2026-04-22)
 
 ## 6.4.3 • [Train: ]
@@ -246,8 +246,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.14.3 • [Train: ]
 
-- feat(deps): update irosthebeggar/mstream v5.13.1 → v5.14.3 (#1569) • [`1599652`](https://github.com/trueforge-org/truecharts/commit/1599652080b77126471ede9034144d93cc43a1ba) • [@TrueCharts Bot] (2026-02-24)
 - chore(node-dep): update node.js digest to 57a4a36 (#1478) • [`f83a675`](https://github.com/trueforge-org/truecharts/commit/f83a675f3fe4d70c33afe0fe62211e8a4c66c28d) • [@TrueCharts Bot] (2026-02-24)
+- feat(deps): update irosthebeggar/mstream v5.13.1 → v5.14.3 (#1569) • [`1599652`](https://github.com/trueforge-org/truecharts/commit/1599652080b77126471ede9034144d93cc43a1ba) • [@TrueCharts Bot] (2026-02-24)
 
 ## 5.13.1 • [Train: ]
 
