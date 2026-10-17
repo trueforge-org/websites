@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.4.0 • [Train: stable]
+
+- feat(poznote): update image ghcr.io/timothepoznanski/poznote 6.119.3 → 6.120.0 (#53594) • [`2d4fcae`](https://github.com/trueforge-org/truecharts/commit/2d4fcae15770adcf2dbd98687dd7b51cdc952668) • [@TrueCharts Bot] (2026-10-17)
+
 ## 2.3.0 • [Train: stable]
 
 - feat(poznote): update image ghcr.io/timothepoznanski/poznote 6.117.1 → 6.119.3 (#53552) • [`144c1d1`](https://github.com/trueforge-org/truecharts/commit/144c1d1bbbf1bb173e0a2afe0b9a6d3908ac4424) • [@TrueCharts Bot] (2026-10-16)
