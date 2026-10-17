@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.1 • [Train: stable]
+
+- chore(headlamp): update image oci.trueforge.org/containerforge/node digest to b395d72 (#53605) • [`a4439b2`](https://github.com/trueforge-org/truecharts/commit/a4439b280a7d66b174d4306b4625947d37f47b89) • [@TrueCharts Bot] (2026-10-17)
+
 ## 2.1.0 • [Train: stable]
 
 - feat(headlamp): update image ghcr.io/headlamp-k8s/headlamp v0.45.0 → v0.46.0 (#53549) • [`3f9853e`](https://github.com/trueforge-org/truecharts/commit/3f9853e26b656fcfa056d41e5205835f690c7ddb) • [@TrueCharts Bot] (2026-10-16)
