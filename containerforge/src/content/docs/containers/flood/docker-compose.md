@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/flood:4.16.2
+    image: ghcr.io/trueforge-org/flood:4.16.3
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
