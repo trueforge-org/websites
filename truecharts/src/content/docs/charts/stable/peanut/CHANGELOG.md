@@ -313,8 +313,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.10.0 • [Train: stable]
 
-- chore(helm): update chart common 28.17.1 → 28.18.0 (#39603) • [`9d5627c`](https://github.com/trueforge-org/truecharts/commit/9d5627c493d95b05bf22ba29df5eb712e3ecfc07) • [@TrueCharts Bot] (2025-09-16)
 - chore(helm): update image docker.io/brandawg93/peanut 5.14.2 → 5.15.0 (#39576) • [`5fce9df`](https://github.com/trueforge-org/truecharts/commit/5fce9df228d8251009cd444e82188fb5659b8da7) • [@TrueCharts Bot] (2025-09-16)
+- chore(helm): update chart common 28.17.1 → 28.18.0 (#39603) • [`9d5627c`](https://github.com/trueforge-org/truecharts/commit/9d5627c493d95b05bf22ba29df5eb712e3ecfc07) • [@TrueCharts Bot] (2025-09-16)
 
 ## 8.9.1 • [Train: stable]
 
@@ -712,9 +712,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.6.6 • [Train: stable]
 
+- Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
 - Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
-- Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - chore: bump charts to ensure new icons are released • [`9828a1e`](https://github.com/trueforge-org/truecharts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5) • [@Kjeld Schouten] (2024-04-16)
 
 ## 1.6.5 • [Train: stable]
