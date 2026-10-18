@@ -39,7 +39,7 @@ services:
       WUD_WATCHER_local_WATCHBYDEFAULT: "false"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/wud:9.4.1
+    image: ghcr.io/trueforge-org/wud:9.5.0
     restart: unless-stopped
     shm_size: 256M
     volumes:
