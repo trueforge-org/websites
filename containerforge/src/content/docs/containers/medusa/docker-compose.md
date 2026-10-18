@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/medusa:1.0.26
+    image: ghcr.io/trueforge-org/medusa:1.0.27
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
