@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.0.1 • [Train: stable]
+
+- fix(kromgo): update image ghcr.io/home-operations/kromgo 0.16.1 → 0.16.2 (#53667) • [`c6ca8a2`](https://github.com/trueforge-org/truecharts/commit/c6ca8a248d1820aff4405fe6cccf4b53d00b7ec8) • [@TrueCharts Bot] (2026-10-18)
+
 ## 4.0.0 • [Train: stable]
 
 - BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
@@ -197,8 +201,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.14 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 1.0.13 • [Train: stable]
 
@@ -251,8 +255,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.3 • [Train: stable]
 
-- fix(kromgo): update image ghcr.io/kashalls/kromgo v0.7.4 → v0.7.5 (#43632) • [`c99cf8f`](https://github.com/trueforge-org/truecharts/commit/c99cf8f3fdd7d1cc60b58612cfcd61db2ec2f56a) • [@TrueCharts Bot] (2026-01-15)
 - fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
+- fix(kromgo): update image ghcr.io/kashalls/kromgo v0.7.4 → v0.7.5 (#43632) • [`c99cf8f`](https://github.com/trueforge-org/truecharts/commit/c99cf8f3fdd7d1cc60b58612cfcd61db2ec2f56a) • [@TrueCharts Bot] (2026-01-15)
 
 ## 1.0.2 • [Train: stable]
 
