@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.0 • [Train: ]
 
-- chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to 9cf9f14 (#4111) • [`c6ed365`](https://github.com/trueforge-org/truecharts/commit/c6ed365131d5d6e8045f851e94bbeec096483a21) • [@TrueCharts Bot] (2026-10-17)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to e881768 (#4097) • [`d036954`](https://github.com/trueforge-org/truecharts/commit/d036954b01f92e5b5ace0711dc461dda15aa7f04) • [@TrueCharts Bot] (2026-10-17)
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to 9cf9f14 (#4111) • [`c6ed365`](https://github.com/trueforge-org/truecharts/commit/c6ed365131d5d6e8045f851e94bbeec096483a21) • [@TrueCharts Bot] (2026-10-17)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to a2e3f17 (#3884) • [`a0c308a`](https://github.com/trueforge-org/truecharts/commit/a0c308ad7c66a84d0b21b222e31e23a4c480c4ca) • [@TrueCharts Bot] (2026-10-06)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to 44c132b (#3686) • [`6a6711c`](https://github.com/trueforge-org/truecharts/commit/6a6711cdf676351783ad412906e2dc8b57de2c6b) • [@TrueCharts Bot] (2026-09-19)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to c2b3a73 (#3661) • [`bbf63c5`](https://github.com/trueforge-org/truecharts/commit/bbf63c501b13fed299159137f42bb49a3aa85e1c) • [@TrueCharts Bot] (2026-09-18)
