@@ -34,7 +34,7 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: wikijs
-      POSTGRES_PASSWORD: bdf58b39e07d0ab7bc05096bf757ac61WORD
+      POSTGRES_PASSWORD: 2e79ac6eb8951f925428c8cdddff75abWORD
       POSTGRES_USER: wikijs
       TZ: Etc/UTC
     group_add:
@@ -66,7 +66,7 @@ services:
     environment:
       DB_HOST: postgresql
       DB_NAME: wikijs
-      DB_PASS: bdf58b39e07d0ab7bc05096bf757ac61WORD
+      DB_PASS: 2e79ac6eb8951f925428c8cdddff75abWORD
       DB_PORT: "5432"
       DB_TYPE: postgres
       DB_USER: wikijs
