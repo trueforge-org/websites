@@ -2,7 +2,7 @@
 title: qbitmanage
 ---
 
-![Version: v4.13.0](https://img.shields.io/badge/Version-v4.13.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: v4.14.0](https://img.shields.io/badge/Version-v4.14.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **qbitmanage**, including upstrea
 | Field | Value |
 | --- | --- |
 | App | qbitmanage |
-| Version | v4.13.0 |
+| Version | v4.14.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
