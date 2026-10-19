@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 26.9.1 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to fbb8b28 (#4108) • [`1c9d0f7`](https://github.com/trueforge-org/truecharts/commit/1c9d0f778988fda9e57b617e4827417564971eb5) • [@TrueCharts Bot] (2026-10-17)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b5600d4 (#4095) • [`f80daf7`](https://github.com/trueforge-org/truecharts/commit/f80daf76c6eed693d51f4a8cba4cd0011ed7f7be) • [@TrueCharts Bot] (2026-10-17)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to fbb8b28 (#4108) • [`1c9d0f7`](https://github.com/trueforge-org/truecharts/commit/1c9d0f778988fda9e57b617e4827417564971eb5) • [@TrueCharts Bot] (2026-10-17)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to ea16b55 (#3878) • [`12758ef`](https://github.com/trueforge-org/truecharts/commit/12758ef0290eecb056d4075a42076cbc4f02e99e) • [@TrueCharts Bot] (2026-10-06)
 - fix(deps): update bookstackapp/bookstack v26.09 → v26.09.1 (#3822) • [`4a0f1fb`](https://github.com/trueforge-org/truecharts/commit/4a0f1fbfc0ae27aaa58f4b32f0143504a56f4801) • [@TrueCharts Bot] (2026-09-29)
 
@@ -81,7 +81,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 25.11.1 • [Train: ]
 
-- some more settings • [`8c51ef4`](https://github.com/trueforge-org/truecharts/commit/8c51ef4479a9db12fa5b329f4cf40151366176d3) • [@Kjeld Schouten] (2026-05-02)
 - work on compose rendering placeholders • [`62433a7`](https://github.com/trueforge-org/truecharts/commit/62433a7054d425651f3d1f0c8d7dfbdb5c7b629a) • [@Kjeld Schouten] (2026-05-02)
+- some more settings • [`8c51ef4`](https://github.com/trueforge-org/truecharts/commit/8c51ef4479a9db12fa5b329f4cf40151366176d3) • [@Kjeld Schouten] (2026-05-02)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to fdcc4e2 (#2140) • [`f443ebf`](https://github.com/trueforge-org/truecharts/commit/f443ebf9463e49614be0c399d8b57160a68be9ab) • [@TrueCharts Bot] (2026-04-28)
 - Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
