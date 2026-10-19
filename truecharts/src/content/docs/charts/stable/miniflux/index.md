@@ -2,7 +2,7 @@
 title: miniflux
 ---
 
-![Version: 19.0.0](https://img.shields.io/badge/Version-19.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.3](https://img.shields.io/badge/AppVersion-2.3.3-informational?style=flat-square)
+![Version: 19.0.1](https://img.shields.io/badge/Version-19.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.3](https://img.shields.io/badge/AppVersion-2.3.3-informational?style=flat-square)
 
 Miniflux is a minimalist and opinionated feed reader.
 

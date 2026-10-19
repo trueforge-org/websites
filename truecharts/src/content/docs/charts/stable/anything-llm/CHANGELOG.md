@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.0.4 • [Train: stable]
+
+- fix(helm-deps): update chart common 30.2.0 → 30.2.2 (#53710) • [`8b341df`](https://github.com/trueforge-org/truecharts/commit/8b341df66dc1625b8d93aadca72f4430601d16f6) • [@TrueCharts Bot] (2026-10-19)
+
 ## 6.0.3 • [Train: stable]
 
 - chore(anything-llm): update image ghcr.io/mintplex-labs/anything-llm digest to 73db67c (#53579) • [`cf8d639`](https://github.com/trueforge-org/truecharts/commit/cf8d639aaa646fa75b124d59eade7dcf0e067aeb) • [@TrueCharts Bot] (2026-10-18)
@@ -374,8 +378,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.16.1 • [Train: stable]
 
-- chore(anything-llm): update image ghcr.io/mintplex-labs/anything-llm digest to 13738f3 (#45488) • [`8f6f998`](https://github.com/trueforge-org/truecharts/commit/8f6f9986da48e3a2881770bdd12257f580bae094) • [@TrueCharts Bot] (2026-02-24)
 - fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
+- chore(anything-llm): update image ghcr.io/mintplex-labs/anything-llm digest to 13738f3 (#45488) • [`8f6f998`](https://github.com/trueforge-org/truecharts/commit/8f6f9986da48e3a2881770bdd12257f580bae094) • [@TrueCharts Bot] (2026-02-24)
 
 ## 4.16.0 • [Train: stable]
 
@@ -443,8 +447,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.34 • [Train: stable]
 
-- Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
+- Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - chore(anything-llm): update image ghcr.io/mintplex-labs/anything-llm digest to 0a57e91 (#44233) • [`ef7e68a`](https://github.com/trueforge-org/truecharts/commit/ef7e68abe1dc4d57d9f50204a778baa8a6308af0) • [@TrueCharts Bot] (2026-01-28)
 
 ## 4.13.33 • [Train: stable]
@@ -1722,8 +1726,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.5.12 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@c235db5 by renovate (#20891) • [`202eaf0`](https://github.com/trueforge-org/truecharts/commit/202eaf0331b08fc2a7424f0255da6aef3539c2c5) • [@TrueCharts Bot] (2024-04-18)
 - Commit daily changes • [`dd036eb`](https://github.com/trueforge-org/truecharts/commit/dd036eb75382bb8ae09c8ce995a99cb045d85d54) • [@TrueCharts-Bot] (2024-04-18)
+- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@c235db5 by renovate (#20891) • [`202eaf0`](https://github.com/trueforge-org/truecharts/commit/202eaf0331b08fc2a7424f0255da6aef3539c2c5) • [@TrueCharts Bot] (2024-04-18)
 
 ## 1.5.11 • [Train: stable]
 
@@ -1853,8 +1857,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.4.11 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cba07af by renovate (#19858) • [`7e92bd4`](https://github.com/trueforge-org/truecharts/commit/7e92bd4ff5289027eac14e4e2d4e2804b56f0284) • [@TrueCharts Bot] (2024-03-27)
 - chore(deps): update container image common to v20.2.9@10fd6c5 by renovate (#19817) • [`604ffe1`](https://github.com/trueforge-org/truecharts/commit/604ffe1d5fb655bc1b4140413af6e6102dba73f0) • [@TrueCharts Bot] (2024-03-27)
+- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cba07af by renovate (#19858) • [`7e92bd4`](https://github.com/trueforge-org/truecharts/commit/7e92bd4ff5289027eac14e4e2d4e2804b56f0284) • [@TrueCharts Bot] (2024-03-27)
 
 ## 1.4.10 • [Train: stable]
 

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.0.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 30.2.0 → 30.2.2 (#53710) • [`8b341df`](https://github.com/trueforge-org/truecharts/commit/8b341df66dc1625b8d93aadca72f4430601d16f6) • [@TrueCharts Bot] (2026-10-19)
+
 ## 9.0.0 • [Train: stable]
 
 - BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
@@ -116,8 +120,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.13.17 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 7.13.16 • [Train: stable]
 
@@ -193,9 +197,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.13.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 7.12.0 • [Train: stable]
 
@@ -864,13 +868,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.9 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-cpu to v1.2.2 (#14295) • [`503627b`](https://github.com/trueforge-org/truecharts/commit/503627b6e1848b440297bc8068307d2794c5403c) • [@TrueCharts Bot] (2023-11-03)
 - chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-gpu to v1.2.2 (#14296) • [`2bb6570`](https://github.com/trueforge-org/truecharts/commit/2bb65708e999bbba7261a066ab422200998a7e3c) • [@TrueCharts Bot] (2023-11-03)
+- chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-cpu to v1.2.2 (#14295) • [`503627b`](https://github.com/trueforge-org/truecharts/commit/503627b6e1848b440297bc8068307d2794c5403c) • [@TrueCharts Bot] (2023-11-03)
 
 ## 1.0.8 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-gpu to v1.2.1 (#14285) • [`53d1316`](https://github.com/trueforge-org/truecharts/commit/53d131676cec67da4bddf2d211adf0f295a0b40e) • [@TrueCharts Bot] (2023-11-03)
 - chore(deps): update helm general non-major (#14287) • [`4f3a7d8`](https://github.com/trueforge-org/truecharts/commit/4f3a7d84428b0db8b0fb305db9ac8e68ec9fd3dd) • [@TrueCharts Bot] (2023-11-03)
+- chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-gpu to v1.2.1 (#14285) • [`53d1316`](https://github.com/trueforge-org/truecharts/commit/53d131676cec67da4bddf2d211adf0f295a0b40e) • [@TrueCharts Bot] (2023-11-03)
 
 ## 1.0.7 • [Train: stable]
 

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.0.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 30.2.0 → 30.2.2 (#53710) • [`8b341df`](https://github.com/trueforge-org/truecharts/commit/8b341df66dc1625b8d93aadca72f4430601d16f6) • [@TrueCharts Bot] (2026-10-19)
+
 ## 3.0.0 • [Train: stable]
 
 - BREAKING CHANGE(helm-deps): Update chart common to v30.2.0 (#53236) • [`2b71910`](https://github.com/trueforge-org/truecharts/commit/2b71910bcc0135ca69c1bac75ce5304b3fcef7dc) • [@TrueCharts Bot] (2026-10-11)
@@ -140,10 +144,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.16.0 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
-- feat(signal-cli-rest-api): update image docker.io/bbernhard/signal-cli-rest-api 0.96 → 0.97 (#44388) • [`6ddf37e`](https://github.com/trueforge-org/truecharts/commit/6ddf37e23d3586fb812cb9a19ae2a98a4c717784) • [@TrueCharts Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
+- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
+- feat(signal-cli-rest-api): update image docker.io/bbernhard/signal-cli-rest-api 0.96 → 0.97 (#44388) • [`6ddf37e`](https://github.com/trueforge-org/truecharts/commit/6ddf37e23d3586fb812cb9a19ae2a98a4c717784) • [@TrueCharts Bot] (2026-01-31)
 
 ## 1.15.14 • [Train: stable]
 

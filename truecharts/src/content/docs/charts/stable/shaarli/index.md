@@ -2,7 +2,7 @@
 title: shaarli
 ---
 
-![Version: 10.0.0](https://img.shields.io/badge/Version-10.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.9](https://img.shields.io/badge/AppVersion-0.16.9-informational?style=flat-square)
+![Version: 10.0.1](https://img.shields.io/badge/Version-10.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.9](https://img.shields.io/badge/AppVersion-0.16.9-informational?style=flat-square)
 
 The personal, minimalist, super-fast, database free, bookmarking service.
 
