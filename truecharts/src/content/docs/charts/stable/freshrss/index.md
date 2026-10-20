@@ -2,7 +2,7 @@
 title: freshrss
 ---
 
-![Version: 23.0.5](https://img.shields.io/badge/Version-23.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.30.2](https://img.shields.io/badge/AppVersion-1.30.2-informational?style=flat-square)
+![Version: 23.0.6](https://img.shields.io/badge/Version-23.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.30.2](https://img.shields.io/badge/AppVersion-1.30.2-informational?style=flat-square)
 
 FreshRSS is a self-hosted RSS feed aggregator
 

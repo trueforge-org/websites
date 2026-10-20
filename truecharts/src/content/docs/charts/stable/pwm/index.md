@@ -2,7 +2,7 @@
 title: pwm
 ---
 
-![Version: 10.0.2](https://img.shields.io/badge/Version-10.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: alpine](https://img.shields.io/badge/AppVersion-alpine-informational?style=flat-square)
+![Version: 10.0.3](https://img.shields.io/badge/Version-10.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: alpine](https://img.shields.io/badge/AppVersion-alpine-informational?style=flat-square)
 
 PWM is a free and opensource password self-service application enabling end-users to reset their enterprise password themselves.
 

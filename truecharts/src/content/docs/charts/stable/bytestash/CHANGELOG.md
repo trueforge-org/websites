@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.1.3 • [Train: stable]
+
+- fix(helm-deps): update chart common 30.2.4 → 30.2.8 (#53759) • [`03331b3`](https://github.com/trueforge-org/truecharts/commit/03331b35f673ac3cfedb3e8d2e1f714c219613c0) • [@TrueCharts Bot] (2026-10-20)
+
 ## 4.1.2 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.2.2 → 30.2.4 (#53735) • [`7bf2ad2`](https://github.com/trueforge-org/truecharts/commit/7bf2ad201e0ecfaa048f44693161c7ef95aeb9f0) • [@TrueCharts Bot] (2026-10-19)
@@ -132,8 +136,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.18 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 2.13.17 • [Train: stable]
 
@@ -158,8 +162,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.14 • [Train: stable]
 
-- fix(bytestash): update image ghcr.io/jordan-dalby/bytestash 1.5.9 → 1.5.10 (#44155) • [`3a329f7`](https://github.com/trueforge-org/truecharts/commit/3a329f7190dabe716566c8c905f30485bbe69171) • [@TrueCharts Bot] (2026-01-26)
 - fix(helm-deps): update chart common 28.29.36 → 28.29.37 (#44120) • [`6fef4f5`](https://github.com/trueforge-org/truecharts/commit/6fef4f53787f24b468c8db964f464a66742b2e69) • [@TrueCharts Bot] (2026-01-26)
+- fix(bytestash): update image ghcr.io/jordan-dalby/bytestash 1.5.9 → 1.5.10 (#44155) • [`3a329f7`](https://github.com/trueforge-org/truecharts/commit/3a329f7190dabe716566c8c905f30485bbe69171) • [@TrueCharts Bot] (2026-01-26)
 
 ## 2.13.13 • [Train: stable]
 

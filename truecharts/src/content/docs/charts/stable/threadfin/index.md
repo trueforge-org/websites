@@ -2,7 +2,7 @@
 title: threadfin
 ---
 
-![Version: 4.0.2](https://img.shields.io/badge/Version-4.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.37](https://img.shields.io/badge/AppVersion-1.2.37-informational?style=flat-square)
+![Version: 4.0.3](https://img.shields.io/badge/Version-4.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.37](https://img.shields.io/badge/AppVersion-1.2.37-informational?style=flat-square)
 
 M3U Proxy for Plex DVR and Emby/Jellyfin Live TV. Based on xTeVe.
 
