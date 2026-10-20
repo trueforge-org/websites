@@ -472,8 +472,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.4 • [Train: incubator]
 
-- chore(container): update image pepperlabs/peppermint → by renovate (#27935) • [`9846e30`](https://github.com/trueforge-org/truecharts/commit/9846e308dc9c3e1b787eeeea563f8502711ad4eb) • [@TrueCharts Bot] (2024-10-18)
 - chore(helm): update chart common 25.0.0 → 25.1.0 by renovate (#27948) • [`37bd2b6`](https://github.com/trueforge-org/truecharts/commit/37bd2b67d5bdb5ac56a2f3d3f82a16353275ab67) • [@TrueCharts Bot] (2024-10-18)
+- chore(container): update image pepperlabs/peppermint → by renovate (#27935) • [`9846e30`](https://github.com/trueforge-org/truecharts/commit/9846e308dc9c3e1b787eeeea563f8502711ad4eb) • [@TrueCharts Bot] (2024-10-18)
 
 ## 2.2.3 • [Train: incubator]
 
@@ -583,8 +583,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.6 • [Train: incubator]
 
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
-- Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
 - chore(deps): update container image pepperlabs/peppermint to latest@7b6818a by renovate (#22674) • [`f3b6de5`](https://github.com/trueforge-org/truecharts/commit/f3b6de50410b18b403b6525d3533813f38a43c5f) • [@TrueCharts Bot] (2024-05-31)
+- Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
 
 ## 1.0.5 • [Train: incubator]
 
@@ -660,9 +660,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.9 • [Train: incubator]
 
+- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
-- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - chore(deps): update ignored updates to v20.3.8@52f4118 by renovate (#20876) • [`0347003`](https://github.com/trueforge-org/truecharts/commit/03470036d7e37c8fbcb25953e7558c6f2961e9c0) • [@TrueCharts Bot] (2024-04-16)
 
 ## 0.1.8 • [Train: incubator]
