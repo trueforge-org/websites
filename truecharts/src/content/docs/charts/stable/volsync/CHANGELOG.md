@@ -125,8 +125,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.15.17 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 3.15.16 • [Train: stable]
 
@@ -501,13 +501,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.6 • [Train: incubator]
 
-- Update Chart.yaml • [`cd22d77`](https://github.com/trueforge-org/truecharts/commit/cd22d7797f9481eb35738a333dbfdeaabe57bea4) • [@Kjeld Schouten] (2024-05-19)
 - Update common.yaml • [`ed24534`](https://github.com/trueforge-org/truecharts/commit/ed245346e458de6307e2df5b5f964172ea33830e) • [@Kjeld Schouten] (2024-05-19)
+- Update Chart.yaml • [`cd22d77`](https://github.com/trueforge-org/truecharts/commit/cd22d7797f9481eb35738a333dbfdeaabe57bea4) • [@Kjeld Schouten] (2024-05-19)
 
 ## 1.0.5 • [Train: incubator]
 
-- Commit daily changes • [`eb306f1`](https://github.com/trueforge-org/truecharts/commit/eb306f178d74a7a5a9d6e45233bcdf723e9d311f) • [@TrueCharts-Bot] (2024-05-19)
 - chore(volsync): remove credentials option for volsync as it has not database or persistence • [`6dbab77`](https://github.com/trueforge-org/truecharts/commit/6dbab7745092b09850efdaf609c88917f94303d3) • [@Kjeld Schouten] (2024-05-19)
+- Commit daily changes • [`eb306f1`](https://github.com/trueforge-org/truecharts/commit/eb306f178d74a7a5a9d6e45233bcdf723e9d311f) • [@TrueCharts-Bot] (2024-05-19)
 - Commit daily changes • [`4308336`](https://github.com/trueforge-org/truecharts/commit/43083361ae3f9b47e2466e1f7d20164ef8fa3c06) • [@TrueCharts-Bot] (2024-05-16)
 - Commit daily changes • [`e809331`](https://github.com/trueforge-org/truecharts/commit/e809331fb204e410a5254aa77c65ece76bb65d5e) • [@TrueCharts-Bot] (2024-05-13)
 - Commit daily changes • [`e147a6b`](https://github.com/trueforge-org/truecharts/commit/e147a6b787eb49a391434ab3fa80e3eb5cc997c3) • [@TrueCharts-Bot] (2024-05-12)
