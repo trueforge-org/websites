@@ -303,8 +303,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.8.0 • [Train: stable]
 
-- chore(helm): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.3.2 → 1.4.0 (#40396) • [`43b0cc4`](https://github.com/trueforge-org/truecharts/commit/43b0cc4fe82f99d491b50b48fdedc0416391384d) • [@TrueCharts Bot] (2025-10-05)
 - Commit daily changes • [`78bf41d`](https://github.com/trueforge-org/truecharts/commit/78bf41d0462bed36561027358c27bc7f303c3462) • [@TrueCharts-Bot] (2025-10-05)
+- chore(helm): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.3.2 → 1.4.0 (#40396) • [`43b0cc4`](https://github.com/trueforge-org/truecharts/commit/43b0cc4fe82f99d491b50b48fdedc0416391384d) • [@TrueCharts Bot] (2025-10-05)
 
 ## 5.7.1 • [Train: stable]
 
