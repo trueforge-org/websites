@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.0 • [Train: stable]
+
+- feat(pocket-id): update image ghcr.io/pocket-id/pocket-id v2.18.0 → v2.19.0 (#53851) • [`3da08e3`](https://github.com/trueforge-org/truecharts/commit/3da08e33856549c9b0c43bc54a68bf3af95dea35) • [@TrueCharts Bot] (2026-10-21)
+
 ## 2.0.3 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.2.4 → 30.2.8 (#53759) • [`03331b3`](https://github.com/trueforge-org/truecharts/commit/03331b35f673ac3cfedb3e8d2e1f714c219613c0) • [@TrueCharts Bot] (2026-10-20)
