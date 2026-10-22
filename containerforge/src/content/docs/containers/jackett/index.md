@@ -2,7 +2,7 @@
 title: jackett
 ---
 
-![Version: v0.24.2887](https://img.shields.io/badge/Version-v0.24.2887-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: v0.24.2890](https://img.shields.io/badge/Version-v0.24.2890-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **jackett**, including upstream s
 | Field | Value |
 | --- | --- |
 | App | jackett |
-| Version | v0.24.2887 |
+| Version | v0.24.2890 |
 | License | AGPL--3.0--or--later |
 
 ## Source
