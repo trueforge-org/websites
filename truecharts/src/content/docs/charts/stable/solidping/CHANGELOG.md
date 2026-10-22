@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.3.0 • [Train: stable]
+
+- feat(solidping): update image ghcr.io/fclairamb/solidping 0.40.1 → 0.41.0 (#53973) • [`ee0bee6`](https://github.com/trueforge-org/truecharts/commit/ee0bee619c8f1414e5b92f0769cf40632e1bee04) • [@TrueCharts Bot] (2026-10-22)
+
 ## 1.2.3 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.2.4 → 30.2.8 (#53759) • [`03331b3`](https://github.com/trueforge-org/truecharts/commit/03331b35f673ac3cfedb3e8d2e1f714c219613c0) • [@TrueCharts Bot] (2026-10-20)
