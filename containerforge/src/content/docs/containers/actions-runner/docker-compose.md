@@ -41,7 +41,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/actions-runner:2.338.1
+    image: ghcr.io/trueforge-org/actions-runner:2.338.0
     restart: unless-stopped
     shm_size: 256M
     volumes:
