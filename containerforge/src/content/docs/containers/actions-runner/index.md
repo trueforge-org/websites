@@ -2,7 +2,7 @@
 title: actions-runner
 ---
 
-![Version: 2.338.0](https://img.shields.io/badge/Version-2.338.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 2.338.1](https://img.shields.io/badge/Version-2.338.1-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **actions-runner**, including ups
 | Field | Value |
 | --- | --- |
 | App | actions-runner |
-| Version | 2.338.0 |
+| Version | 2.338.1 |
 | License | AGPL--3.0--or--later |
 
 ## Source
