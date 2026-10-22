@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.1 • [Train: ]
 
+- feat(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.8 → 3.15.0 (#4054) • [`181425d`](https://github.com/trueforge-org/truecharts/commit/181425d0560b567da53c15213599752087765b8c) • [@TrueCharts Bot] (2026-10-22)
 - fix(deps): update healthchecks/healthchecks v5.0 → v5.0.1 (#4212) • [`e141e59`](https://github.com/trueforge-org/truecharts/commit/e141e59862bda4f5aced7e88632c31d2c3ed6157) • [@TrueCharts Bot] (2026-10-22)
 
 ## 5.0.0 • [Train: ]
@@ -49,9 +50,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.1.1 • [Train: ]
 
+- add dependencies settings key • [`f86db16`](https://github.com/trueforge-org/truecharts/commit/f86db166f69bb102f6a54714d7387cd393322ceb) • [@Kjeld Schouten] (2026-04-24)
 - fix dependencies and opt_dependencies • [`4d1f4a3`](https://github.com/trueforge-org/truecharts/commit/4d1f4a39e60cd0239cb0fdfaa59b97180553dd90) • [@Kjeld Schouten] (2026-04-24)
 - tweak dependency system and allow for opt_dependencies • [`7d92bb5`](https://github.com/trueforge-org/truecharts/commit/7d92bb52cab800671d00900ec0109a0cff8b9fbe) • [@Kjeld Schouten] (2026-04-24)
-- add dependencies settings key • [`f86db16`](https://github.com/trueforge-org/truecharts/commit/f86db166f69bb102f6a54714d7387cd393322ceb) • [@Kjeld Schouten] (2026-04-24)
 - move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
