@@ -285,8 +285,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.18.3 • [Train: stable]
 
-- chore(lyrion-music-server): update image docker.io/lmscommunity/lyrionmusicserver digest to b28433c (#45982) • [`47ee791`](https://github.com/trueforge-org/truecharts/commit/47ee791823a9eed234a9c1efccf8150799ade873) • [@TrueCharts Bot] (2026-03-12)
 - fix(helm-deps): update chart common 28.33.3 → 28.33.4 (#45987) • [`465db91`](https://github.com/trueforge-org/truecharts/commit/465db91ac6853d102ac8bb2ffd731d1b01168a02) • [@TrueCharts Bot] (2026-03-12)
+- chore(lyrion-music-server): update image docker.io/lmscommunity/lyrionmusicserver digest to b28433c (#45982) • [`47ee791`](https://github.com/trueforge-org/truecharts/commit/47ee791823a9eed234a9c1efccf8150799ade873) • [@TrueCharts Bot] (2026-03-12)
 
 ## 5.18.2 • [Train: stable]
 
@@ -366,14 +366,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.13.30 • [Train: stable]
 
-- chore(lyrion-music-server): update image docker.io/lmscommunity/lyrionmusicserver digest to d63d2ff (#44594) • [`c5b92b5`](https://github.com/trueforge-org/truecharts/commit/c5b92b5e8527cba8cb4a3fc4a86ec3ed5b262cec) • [@TrueCharts Bot] (2026-02-06)
 - Commit daily changes • [`41c694d`](https://github.com/trueforge-org/truecharts/commit/41c694d0cf1a681da347a16bf8dbc7a055e64491) • [@TrueCharts-Bot] (2026-02-06)
+- chore(lyrion-music-server): update image docker.io/lmscommunity/lyrionmusicserver digest to d63d2ff (#44594) • [`c5b92b5`](https://github.com/trueforge-org/truecharts/commit/c5b92b5e8527cba8cb4a3fc4a86ec3ed5b262cec) • [@TrueCharts Bot] (2026-02-06)
 
 ## 5.13.29 • [Train: stable]
 
 - Commit daily changes • [`bafc468`](https://github.com/trueforge-org/truecharts/commit/bafc468832c3bd0cd5db1adf3087e205881ec267) • [@TrueCharts-Bot] (2026-02-03)
-- chore(lyrion-music-server): update image docker.io/lmscommunity/lyrionmusicserver digest to a6e2591 (#44455) • [`bb119ef`](https://github.com/trueforge-org/truecharts/commit/bb119ef6e47f9d9086a0af31a438560e5e362127) • [@TrueCharts Bot] (2026-02-02)
 - feat(helm-deps): update chart common to v28.29.49 (#44431) • [`32a5df0`](https://github.com/trueforge-org/truecharts/commit/32a5df0fdad2f71ea9a0f371e0a7ce073cdf49c0) • [@TrueCharts Bot] (2026-02-02)
+- chore(lyrion-music-server): update image docker.io/lmscommunity/lyrionmusicserver digest to a6e2591 (#44455) • [`bb119ef`](https://github.com/trueforge-org/truecharts/commit/bb119ef6e47f9d9086a0af31a438560e5e362127) • [@TrueCharts Bot] (2026-02-02)
 
 ## 5.13.28 • [Train: stable]
 
@@ -568,9 +568,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.9.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 5.8.3 • [Train: stable]
 
@@ -663,8 +663,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.3.9 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 5.3.8 • [Train: stable]
 
@@ -680,8 +680,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.3.5 • [Train: stable]
 
-- chore(helm): update image docker.io/lmscommunity/lyrionmusicserver digest to 18305ad (#38914) • [`1f37fb7`](https://github.com/trueforge-org/truecharts/commit/1f37fb78d48ec27b60f17362ab1789a1e45c852c) • [@TrueCharts Bot] (2025-08-30)
 - chore(helm): update chart common 28.16.2 → 28.16.4 (#38897) • [`0d7cca6`](https://github.com/trueforge-org/truecharts/commit/0d7cca68ae3e46baa42d459ff3307445e889fc57) • [@TrueCharts Bot] (2025-08-30)
+- chore(helm): update image docker.io/lmscommunity/lyrionmusicserver digest to 18305ad (#38914) • [`1f37fb7`](https://github.com/trueforge-org/truecharts/commit/1f37fb78d48ec27b60f17362ab1789a1e45c852c) • [@TrueCharts Bot] (2025-08-30)
 
 ## 5.3.4 • [Train: stable]
 
