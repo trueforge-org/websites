@@ -282,8 +282,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.3 • [Train: stable]
 
-- Update image repository and tag in values.yaml • [`46aa0b0`](https://github.com/trueforge-org/truecharts/commit/46aa0b0ff0b97ca527d1bb11812cd54f2e25d79d) • [@Alfred Göppel] (2025-12-13)
 - chore(helm): update chart common 28.29.2 → 28.29.10 (#42426) • [`1fc9e35`](https://github.com/trueforge-org/truecharts/commit/1fc9e3509224b519f967f373c29bef9841759213) • [@TrueCharts Bot] (2025-12-13)
+- Update image repository and tag in values.yaml • [`46aa0b0`](https://github.com/trueforge-org/truecharts/commit/46aa0b0ff0b97ca527d1bb11812cd54f2e25d79d) • [@Alfred Göppel] (2025-12-13)
 
 ## 4.13.2 • [Train: stable]
 
