@@ -2,7 +2,7 @@
 title: monero-node
 ---
 
-![Version: 11.0.4](https://img.shields.io/badge/Version-11.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.18.5.4](https://img.shields.io/badge/AppVersion-0.18.5.4-informational?style=flat-square)
+![Version: 11.0.5](https://img.shields.io/badge/Version-11.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.18.5.4](https://img.shields.io/badge/AppVersion-0.18.5.4-informational?style=flat-square)
 
 Chart to run a monero full network node
 
