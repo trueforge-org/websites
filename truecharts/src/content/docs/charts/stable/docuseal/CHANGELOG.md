@@ -257,8 +257,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.16.10 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 5.16.9 • [Train: stable]
 
@@ -268,8 +268,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.16.8 • [Train: stable]
 
 - Commit daily changes • [`bafc468`](https://github.com/trueforge-org/truecharts/commit/bafc468832c3bd0cd5db1adf3087e205881ec267) • [@TrueCharts-Bot] (2026-02-03)
-- feat(helm-deps): update chart common to v28.29.49 (#44431) • [`32a5df0`](https://github.com/trueforge-org/truecharts/commit/32a5df0fdad2f71ea9a0f371e0a7ce073cdf49c0) • [@TrueCharts Bot] (2026-02-02)
 - fix(docuseal): update image docker.io/docuseal/docuseal 2.3.1 → 2.3.2 (#44457) • [`5079d74`](https://github.com/trueforge-org/truecharts/commit/5079d74c83bac695ed977aa81aff52d252dd365e) • [@TrueCharts Bot] (2026-02-02)
+- feat(helm-deps): update chart common to v28.29.49 (#44431) • [`32a5df0`](https://github.com/trueforge-org/truecharts/commit/32a5df0fdad2f71ea9a0f371e0a7ce073cdf49c0) • [@TrueCharts Bot] (2026-02-02)
 
 ## 5.16.7 • [Train: stable]
 
@@ -835,8 +835,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.1.1 • [Train: incubator]
 
-- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 - chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 
 ## 2.1.0 • [Train: incubator]
 
@@ -925,7 +925,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: incubator]
 
-- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`94fbcff`](https://github.com/trueforge-org/truecharts/commit/94fbcff2c6f5272e4eafc37a30dffce4f26d0de4) • [@TrueCharts-Bot] (2024-05-20)
 - feat(docuseal): Add Docuseal (#21453) • [`92d3d0e`](https://github.com/trueforge-org/truecharts/commit/92d3d0e3e7d0d29f6d95b5096307db40b03a7c95) • [@SolidSly] (2024-05-19)
