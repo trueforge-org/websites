@@ -2,7 +2,7 @@
 title: poznote
 ---
 
-![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.125.0](https://img.shields.io/badge/AppVersion-6.125.0-informational?style=flat-square)
+![Version: 2.10.0](https://img.shields.io/badge/Version-2.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.127.0](https://img.shields.io/badge/AppVersion-6.127.0-informational?style=flat-square)
 
 Poznote is a self-hosted note-taking and knowledge base application with a web editor, attachments, snapshots, backups and optional OIDC authentication.
 
