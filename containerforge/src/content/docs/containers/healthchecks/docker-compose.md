@@ -47,7 +47,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/healthchecks:5.0
+    image: ghcr.io/trueforge-org/healthchecks:5.0.1
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -73,7 +73,7 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: healthchecks
-      POSTGRES_PASSWORD: 768129be1ecee12f28673379e7117e80WORD
+      POSTGRES_PASSWORD: 52e721af08ff73eb2f5f4eb131f01c00WORD
       POSTGRES_USER: healthchecks
       TZ: Etc/UTC
     group_add:
