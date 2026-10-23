@@ -2,7 +2,7 @@
 title: homebridge
 ---
 
-![Version: 14.1.3](https://img.shields.io/badge/Version-14.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.10.16](https://img.shields.io/badge/AppVersion-2026.10.16-informational?style=flat-square)
+![Version: 14.1.4](https://img.shields.io/badge/Version-14.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.10.23](https://img.shields.io/badge/AppVersion-2026.10.23-informational?style=flat-square)
 
 A lightweight NodeJS server that emulates the iOS HomeKit API
 
