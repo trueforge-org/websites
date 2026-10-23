@@ -213,8 +213,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.13.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 6.12.0 • [Train: stable]
 
@@ -243,9 +243,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.9.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 6.8.0 • [Train: stable]
 
@@ -491,8 +491,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.7 • [Train: stable]
 
-- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`d6fcde9`](https://github.com/trueforge-org/truecharts/commit/d6fcde91583cf4aac42cb7dd861f8a89ffe7d941) • [@TrueCharts-Bot] (2024-05-25)
 - Commit daily changes • [`6328fd0`](https://github.com/trueforge-org/truecharts/commit/6328fd0cbaeb8b6cac43c50abf61b4d0191e0635) • [@TrueCharts-Bot] (2024-05-24)
 - Commit daily changes • [`ccf85f7`](https://github.com/trueforge-org/truecharts/commit/ccf85f7bca2d2c3726837c8003d0d55ee44a7542) • [@TrueCharts-Bot] (2024-05-22)
@@ -567,8 +567,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.8.7 • [Train: stable]
 
 - Commit daily changes • [`9cb7bb6`](https://github.com/trueforge-org/truecharts/commit/9cb7bb6e6fdb99ac9a846ecf3333e05582bb3691) • [@TrueCharts-Bot] (2024-04-21)
-- docs(multiple charts): fix asides (#21073) • [`ef93158`](https://github.com/trueforge-org/truecharts/commit/ef9315820f7f52eb7f2cf2f25c79b5ad2647baeb) • [@kqmaverick] (2024-04-20)
 - chore(deps): update container image common to v20.3.11@dae6129 by renovate (#20875) • [`53e2bed`](https://github.com/trueforge-org/truecharts/commit/53e2bed79fb73bb5e6334edafb90af207aa3fb35) • [@TrueCharts Bot] (2024-04-20)
+- docs(multiple charts): fix asides (#21073) • [`ef93158`](https://github.com/trueforge-org/truecharts/commit/ef9315820f7f52eb7f2cf2f25c79b5ad2647baeb) • [@kqmaverick] (2024-04-20)
 
 ## 2.8.6 • [Train: stable]
 
@@ -586,8 +586,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.8.4 • [Train: stable]
 
 - Commit daily changes • [`94c6bd8`](https://github.com/trueforge-org/truecharts/commit/94c6bd88755e2a915ad4a22e7dd0d0624d163b7f) • [@TrueCharts-Bot] (2024-04-15)
-- Commit daily changes • [`37d2fb8`](https://github.com/trueforge-org/truecharts/commit/37d2fb846d0b02beb0e368a90e8b4deb38a9b655) • [@TrueCharts-Bot] (2024-04-14)
 - chore(docs): fix few more (#20721) • [`77af3eb`](https://github.com/trueforge-org/truecharts/commit/77af3ebf004ef9efaf50026106a8d1c626f17715) • [@Stavros Kois] (2024-04-14)
+- Commit daily changes • [`37d2fb8`](https://github.com/trueforge-org/truecharts/commit/37d2fb846d0b02beb0e368a90e8b4deb38a9b655) • [@TrueCharts-Bot] (2024-04-14)
 - Commit daily changes • [`4945e43`](https://github.com/trueforge-org/truecharts/commit/4945e43b43acee38fa448d07925001e2c08f27fd) • [@TrueCharts-Bot] (2024-04-12)
 - chore(deps): update container image common to v20.3.6@27edfed by renovate (#20599) • [`6c807c1`](https://github.com/trueforge-org/truecharts/commit/6c807c1f9707d9fd751d71cbfed29469368880e2) • [@TrueCharts Bot] (2024-04-11)
 
@@ -748,8 +748,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.1 • [Train: stable]
 
 - Commit daily changes • [`a59c8b1`](https://github.com/trueforge-org/truecharts/commit/a59c8b181ddc13ec0e32f16526f043bce8861c97) • [@TrueCharts-Bot] (2024-02-12)
-- Commit daily changes • [`c50930a`](https://github.com/trueforge-org/truecharts/commit/c50930afcf30d9f68259760e1d7d42082391c310) • [@TrueCharts-Bot] (2024-02-11)
 - docs(palworld): fix a typo in questions (#18012) • [`571d6ab`](https://github.com/trueforge-org/truecharts/commit/571d6abc656c013a88ba503945ca62e5dd01b5e1) • [@felixfon] (2024-02-11)
+- Commit daily changes • [`c50930a`](https://github.com/trueforge-org/truecharts/commit/c50930afcf30d9f68259760e1d7d42082391c310) • [@TrueCharts-Bot] (2024-02-11)
 
 ## 1.0.0 • [Train: stable]
 
