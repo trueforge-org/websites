@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.18.0 • [Train: stable]
+
+- feat(renovate): update image oci.trueforge.org/containerforge/renovate 44.179.1 → 44.181.0 (#54015) • [`a7074f5`](https://github.com/trueforge-org/truecharts/commit/a7074f56a79b37174d5c5bf4c65a52f5ef79d658) • [@TrueCharts Bot] (2026-10-23)
+
 ## 8.17.0 • [Train: stable]
 
 - feat(renovate): update image oci.trueforge.org/containerforge/renovate 44.178.5 → 44.179.1 (#54002) • [`56bd7cc`](https://github.com/trueforge-org/truecharts/commit/56bd7cc2d26fc5ecc3266ec920501b8724e5fba2) • [@TrueCharts Bot] (2026-10-23)
@@ -65,8 +69,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.11.1 • [Train: stable]
 
-- fix(renovate): update image oci.trueforge.org/containerforge/renovate 44.171.1 → 44.171.4 (#53771) • [`d6e285b`](https://github.com/trueforge-org/truecharts/commit/d6e285bb35c5e6de36e8cbe92d9eeef60e9c51c5) • [@TrueCharts Bot] (2026-10-20)
 - fix(helm-deps): update chart common 30.2.4 → 30.2.8 (#53759) • [`03331b3`](https://github.com/trueforge-org/truecharts/commit/03331b35f673ac3cfedb3e8d2e1f714c219613c0) • [@TrueCharts Bot] (2026-10-20)
+- fix(renovate): update image oci.trueforge.org/containerforge/renovate 44.171.1 → 44.171.4 (#53771) • [`d6e285b`](https://github.com/trueforge-org/truecharts/commit/d6e285bb35c5e6de36e8cbe92d9eeef60e9c51c5) • [@TrueCharts Bot] (2026-10-20)
 
 ## 8.11.0 • [Train: stable]
 
@@ -1369,8 +1373,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.27.2 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.24 → 28.29.27 (#43825) • [`01774c7`](https://github.com/trueforge-org/truecharts/commit/01774c784b9fad99aa7af6aa15d498e8765df0a0) • [@TrueCharts Bot] (2026-01-20)
 - fix(renovate): update image oci.trueforge.org/containerforge/renovate 42.85.4 → 42.85.5 (#43858) • [`062fd98`](https://github.com/trueforge-org/truecharts/commit/062fd9826c9a1f52de8f95a5119a795d49cd6aac) • [@TrueCharts Bot] (2026-01-20)
+- fix(helm-deps): update chart common 28.29.24 → 28.29.27 (#43825) • [`01774c7`](https://github.com/trueforge-org/truecharts/commit/01774c784b9fad99aa7af6aa15d498e8765df0a0) • [@TrueCharts Bot] (2026-01-20)
 
 ## 4.27.1 • [Train: stable]
 
@@ -1591,9 +1595,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.5.0 • [Train: stable]
 
-- chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 
 ## 4.4.0 • [Train: stable]
 
@@ -2032,8 +2036,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.11.5 • [Train: incubator]
 
 - fix(website): remove references to deprecated guides • [`d25d00b`](https://github.com/trueforge-org/truecharts/commit/d25d00b9c237f6cbe63941158ccffe03ed9943e9) • [@Kjeld Schouten] (2024-11-04)
-- Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
 - chore(helm): update image renovate/renovate 38.142.4 → 38.142.5 (#28769) • [`8ec6c8e`](https://github.com/trueforge-org/truecharts/commit/8ec6c8eea6c29bfa1c9ecc88dbc006efec78e869) • [@TrueCharts Bot] (2024-11-03)
+- Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
 
 ## 0.11.4 • [Train: incubator]
 
