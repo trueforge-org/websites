@@ -17,8 +17,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.0.3 • [Train: stable]
 
-- fix(helm-deps): update chart common 30.2.2 → 30.2.4 (#53735) • [`7bf2ad2`](https://github.com/trueforge-org/truecharts/commit/7bf2ad201e0ecfaa048f44693161c7ef95aeb9f0) • [@TrueCharts Bot] (2026-10-19)
 - fix(docuseal): update image docker.io/docuseal/docuseal 3.3.2 → 3.3.3 (#53732) • [`ef32c01`](https://github.com/trueforge-org/truecharts/commit/ef32c01041f01eb9599d0d6ebd7cae0de81bdcdc) • [@TrueCharts Bot] (2026-10-19)
+- fix(helm-deps): update chart common 30.2.2 → 30.2.4 (#53735) • [`7bf2ad2`](https://github.com/trueforge-org/truecharts/commit/7bf2ad201e0ecfaa048f44693161c7ef95aeb9f0) • [@TrueCharts Bot] (2026-10-19)
 
 ## 8.0.2 • [Train: stable]
 
@@ -268,17 +268,17 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.16.8 • [Train: stable]
 
 - Commit daily changes • [`bafc468`](https://github.com/trueforge-org/truecharts/commit/bafc468832c3bd0cd5db1adf3087e205881ec267) • [@TrueCharts-Bot] (2026-02-03)
-- fix(docuseal): update image docker.io/docuseal/docuseal 2.3.1 → 2.3.2 (#44457) • [`5079d74`](https://github.com/trueforge-org/truecharts/commit/5079d74c83bac695ed977aa81aff52d252dd365e) • [@TrueCharts Bot] (2026-02-02)
 - feat(helm-deps): update chart common to v28.29.49 (#44431) • [`32a5df0`](https://github.com/trueforge-org/truecharts/commit/32a5df0fdad2f71ea9a0f371e0a7ce073cdf49c0) • [@TrueCharts Bot] (2026-02-02)
+- fix(docuseal): update image docker.io/docuseal/docuseal 2.3.1 → 2.3.2 (#44457) • [`5079d74`](https://github.com/trueforge-org/truecharts/commit/5079d74c83bac695ed977aa81aff52d252dd365e) • [@TrueCharts Bot] (2026-02-02)
 
 ## 5.16.7 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
+- Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
+- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
-- Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
-- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - fix(docuseal): update image docker.io/docuseal/docuseal 2.3.0 → 2.3.1 (#44210) • [`dc37b3d`](https://github.com/trueforge-org/truecharts/commit/dc37b3d8de2e3e151386b5c67a0e030caa4eeee6) • [@TrueCharts Bot] (2026-01-27)
 
 ## 5.16.6 • [Train: stable]
@@ -375,8 +375,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.15.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 5.14.0 • [Train: stable]
 
