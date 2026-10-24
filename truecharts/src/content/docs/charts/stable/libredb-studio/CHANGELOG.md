@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.0 • [Train: stable]
+
+- feat(libredb-studio): update image ghcr.io/libredb/libredb-studio 1.0.0 → 1.1.0 (#54051) • [`e387e9b`](https://github.com/trueforge-org/truecharts/commit/e387e9bc633be22441f48f14189327609003a306) • [@TrueCharts Bot] (2026-10-24)
+
 ## 3.0.0 • [Train: stable]
 
 - BREAKING CHANGE(libredb-studio): Update image ghcr.io/libredb/libredb-studio 0.18.3 → 1.0.0 (#53765) • [`570b59a`](https://github.com/trueforge-org/truecharts/commit/570b59ac8db6d6367cbf7c2ed27e8ce30e9daccd) • [@TrueCharts Bot] (2026-10-20)
