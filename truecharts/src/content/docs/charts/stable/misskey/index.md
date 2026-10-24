@@ -2,7 +2,7 @@
 title: misskey
 ---
 
-![Version: 19.0.6](https://img.shields.io/badge/Version-19.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.10.0](https://img.shields.io/badge/AppVersion-2026.10.0-informational?style=flat-square)
+![Version: 19.0.7](https://img.shields.io/badge/Version-19.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.10.1](https://img.shields.io/badge/AppVersion-2026.10.1-informational?style=flat-square)
 
 Open source decentralized social media platform that's free forever!
 
