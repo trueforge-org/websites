@@ -228,8 +228,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.28 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 2.11.27 • [Train: stable]
 
@@ -273,8 +273,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.19 • [Train: stable]
 
-- fix(openwebrxplus): update image docker.io/slechev/openwebrxplus-softmbe 1.2.104 → 1.2.105 (#43857) • [`6a13606`](https://github.com/trueforge-org/truecharts/commit/6a136067e1fe4f3fa9e287ca45f1325bc0cf01ea) • [@TrueCharts Bot] (2026-01-20)
 - fix(helm-deps): update chart common 28.29.24 → 28.29.27 (#43825) • [`01774c7`](https://github.com/trueforge-org/truecharts/commit/01774c784b9fad99aa7af6aa15d498e8765df0a0) • [@TrueCharts Bot] (2026-01-20)
+- fix(openwebrxplus): update image docker.io/slechev/openwebrxplus-softmbe 1.2.104 → 1.2.105 (#43857) • [`6a13606`](https://github.com/trueforge-org/truecharts/commit/6a136067e1fe4f3fa9e287ca45f1325bc0cf01ea) • [@TrueCharts Bot] (2026-01-20)
 
 ## 2.11.18 • [Train: stable]
 
@@ -411,9 +411,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.7.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.6.0 • [Train: stable]
 
@@ -434,8 +434,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.4.2 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 2.4.1 • [Train: stable]
 
