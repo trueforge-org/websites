@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.0 • [Train: stable]
+
+- feat(tileserver-gl): update image maptiler/tileserver-gl v5.6.0 → v5.7.0 (#54134) • [`9dcb94c`](https://github.com/trueforge-org/truecharts/commit/9dcb94c0ebfd5d3210f194c3740abb3dc021ef3c) • [@TrueCharts Bot] (2026-10-25)
+
 ## 2.0.3 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.2.4 → 30.2.8 (#53759) • [`03331b3`](https://github.com/trueforge-org/truecharts/commit/03331b35f673ac3cfedb3e8d2e1f714c219613c0) • [@TrueCharts Bot] (2026-10-20)
