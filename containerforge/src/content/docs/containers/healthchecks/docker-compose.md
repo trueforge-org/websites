@@ -73,7 +73,7 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: healthchecks
-      POSTGRES_PASSWORD: 23e35474700bc068405450cd6159d439WORD
+      POSTGRES_PASSWORD: a767fdd69d4358bf8e2cb6053f33dc70WORD
       POSTGRES_USER: healthchecks
       TZ: Etc/UTC
     group_add:
