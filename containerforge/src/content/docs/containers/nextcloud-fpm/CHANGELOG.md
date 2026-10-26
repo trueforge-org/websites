@@ -78,12 +78,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
 - feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
 - Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
-- feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
 - feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
-- setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
-- test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
-- update test yaml files • [`c449680`](https://github.com/trueforge-org/truecharts/commit/c4496802f6497d5444cc9a164d6d96b0a3955df7) • [@Kjeld Schouten] (2026-02-15)
+- feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
 - test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
+- setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
+- update test yaml files • [`c449680`](https://github.com/trueforge-org/truecharts/commit/c4496802f6497d5444cc9a164d6d96b0a3955df7) • [@Kjeld Schouten] (2026-02-15)
+- test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - fix(deps): update public.ecr.aws/docker/library/nextcloud docker tag 32.0.5-fpm → 32.0.6-fpm (#1109) • [`d4dc9f3`](https://github.com/trueforge-org/truecharts/commit/d4dc9f398f592255fe2798c4b4d8009278392c0c) • [@TrueCharts Bot] (2026-02-13)
 
 ## 32.0.5 • [Train: ]
