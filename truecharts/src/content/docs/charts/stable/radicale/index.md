@@ -2,7 +2,7 @@
 title: radicale
 ---
 
-![Version: 10.0.4](https://img.shields.io/badge/Version-10.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.8.3.0](https://img.shields.io/badge/AppVersion-3.8.3.0-informational?style=flat-square)
+![Version: 10.1.0](https://img.shields.io/badge/Version-10.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.9.0.0](https://img.shields.io/badge/AppVersion-3.9.0.0-informational?style=flat-square)
 
 Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (contacts) server.
 
