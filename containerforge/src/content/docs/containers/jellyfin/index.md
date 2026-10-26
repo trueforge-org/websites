@@ -2,7 +2,7 @@
 title: jellyfin
 ---
 
-![Version: 12.3](https://img.shields.io/badge/Version-12.3-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 12.4](https://img.shields.io/badge/Version-12.4-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **jellyfin**, including upstream 
 | Field | Value |
 | --- | --- |
 | App | jellyfin |
-| Version | 12.3 |
+| Version | 12.4 |
 | License | AGPL--3.0--or--later |
 
 ## Source
