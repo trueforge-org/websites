@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.0.0 • [Train: stable]
+
+- BREAKING CHANGE(avm-exporter): Update image docker.io/pdreker/fritz_exporter 3.5.1 → 4.0.0 (#54190) • [`468d731`](https://github.com/trueforge-org/truecharts/commit/468d7312e39e47986a01b3c026bc7da60dbe3ef6) • [@TrueCharts Bot] (2026-10-26)
+
 ## 4.0.4 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.2.8 → 30.2.9 (#54147) • [`567d8b9`](https://github.com/trueforge-org/truecharts/commit/567d8b967254110733438d7b62ca8a4109d9b3b0) • [@TrueCharts Bot] (2026-10-26)

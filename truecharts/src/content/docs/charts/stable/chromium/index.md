@@ -2,13 +2,14 @@
 title: chromium
 ---
 
-![Version: 10.0.4](https://img.shields.io/badge/Version-10.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 11.0.0](https://img.shields.io/badge/Version-11.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Chromium is a free and open-source software project developed by the Google-sponsored Chromium project.
 
 ## Chart Sources
 
-- https://ghcr.io/ich777/chrome
+- https://github.com/linuxserver/docker-chromium
+- https://ghcr.io/linuxserver/chromium
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/chromium
 - https://www.google.com/chrome/
 
