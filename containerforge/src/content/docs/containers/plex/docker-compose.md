@@ -41,7 +41,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/plex:1.43.5.11029-6bf8af3f0
+    image: ghcr.io/trueforge-org/plex:1.43.5.11079-b3b13e506
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
