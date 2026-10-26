@@ -193,8 +193,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.1 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 1.0.0 • [Train: stable]
 
@@ -228,5 +228,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.0 • [Train: incubator]
 
-- chore(multus-cni): pin dependencies (#44328) • [`60afaf5`](https://github.com/trueforge-org/truecharts/commit/60afaf54c30bddf8fa6fe20666e5f3ef65a862d0) • [@TrueCharts Bot] (2026-01-30)
 - feat(multus-cni): Add multus-cni chart (#43365) • [`2c4b477`](https://github.com/trueforge-org/truecharts/commit/2c4b477b48e55cae7573b8723e83a364f0b12489) • [@astro-stan] (2026-01-30)
+- chore(multus-cni): pin dependencies (#44328) • [`60afaf5`](https://github.com/trueforge-org/truecharts/commit/60afaf54c30bddf8fa6fe20666e5f3ef65a862d0) • [@TrueCharts Bot] (2026-01-30)
