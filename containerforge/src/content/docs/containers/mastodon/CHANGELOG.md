@@ -14,8 +14,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.7.3 • [Train: ]
 
 - fix(node-dep): update node.js 24.22.0 → 24.22.1 (#4187) • [`1ab718b`](https://github.com/trueforge-org/truecharts/commit/1ab718ba2cd9a1c799e9f9b990e3306da30eac9e) • [@TrueCharts Bot] (2026-10-21)
-- chore(node-dep): update node.js digest to 4403e4d (#4103) • [`bd45b32`](https://github.com/trueforge-org/truecharts/commit/bd45b32c87b11c98cde8987e0c0ff9bff4b0ae91) • [@TrueCharts Bot] (2026-10-17)
 - chore(node-dep): update node.js digest to b395d72 (#4116) • [`8180579`](https://github.com/trueforge-org/truecharts/commit/8180579cc9f67c60d5833fddf3dcd76e4a4cc714) • [@TrueCharts Bot] (2026-10-17)
+- chore(node-dep): update node.js digest to 4403e4d (#4103) • [`bd45b32`](https://github.com/trueforge-org/truecharts/commit/bd45b32c87b11c98cde8987e0c0ff9bff4b0ae91) • [@TrueCharts Bot] (2026-10-17)
 - feat(node-dep): update node.js 24.21.0 → 24.22.0 (#4059) • [`df96dc7`](https://github.com/trueforge-org/truecharts/commit/df96dc7ddefb6bcc604a651f6dfee6afa82879f2) • [@TrueCharts Bot] (2026-10-15)
 - chore(node-dep): update node.js digest to e92e30c (#3897) • [`9682d75`](https://github.com/trueforge-org/truecharts/commit/9682d75c4d26270bd702b9694945993d8733c233) • [@TrueCharts Bot] (2026-10-11)
 - fix(deps): update mastodon/mastodon v4.7.2 → v4.7.3 (#3849) • [`0c1648c`](https://github.com/trueforge-org/truecharts/commit/0c1648cc84a9fb38d0458701a3d86bc9d1a213ae) • [@TrueCharts Bot] (2026-10-01)
@@ -86,6 +86,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.5.1 • [Train: ]
 
-- fix(node-dep): update node.js 22.22.0 → 22.22.1 (#2149) • [`a30e9dd`](https://github.com/trueforge-org/truecharts/commit/a30e9dd10645deae0ecf21fe30a5e566a79f2127) • [@TrueCharts Bot] (2026-04-27)
 - chore(node-dep): pin node.js digest to 57a4a36 (#2139) • [`6119199`](https://github.com/trueforge-org/truecharts/commit/6119199ff879a826ea91f89456a2424121a876e8) • [@TrueCharts Bot] (2026-04-27)
 - Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
+- fix(node-dep): update node.js 22.22.0 → 22.22.1 (#2149) • [`a30e9dd`](https://github.com/trueforge-org/truecharts/commit/a30e9dd10645deae0ecf21fe30a5e566a79f2127) • [@TrueCharts Bot] (2026-04-27)
