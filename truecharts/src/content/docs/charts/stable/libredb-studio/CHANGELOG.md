@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 30.2.8 → 30.2.9 (#54147) • [`567d8b9`](https://github.com/trueforge-org/truecharts/commit/567d8b967254110733438d7b62ca8a4109d9b3b0) • [@TrueCharts Bot] (2026-10-26)
+
 ## 3.1.0 • [Train: stable]
 
 - feat(libredb-studio): update image ghcr.io/libredb/libredb-studio 1.0.0 → 1.1.0 (#54051) • [`e387e9b`](https://github.com/trueforge-org/truecharts/commit/e387e9bc633be22441f48f14189327609003a306) • [@TrueCharts Bot] (2026-10-24)

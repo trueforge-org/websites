@@ -2,7 +2,7 @@
 title: kromgo
 ---
 
-![Version: 4.0.5](https://img.shields.io/badge/Version-4.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.3](https://img.shields.io/badge/AppVersion-0.16.3-informational?style=flat-square)
+![Version: 4.0.6](https://img.shields.io/badge/Version-4.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.3](https://img.shields.io/badge/AppVersion-0.16.3-informational?style=flat-square)
 
 A simple go project that allows you to expose prometheus metrics "safely" to a public source.
 

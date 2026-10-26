@@ -2,7 +2,7 @@
 title: peanut
 ---
 
-![Version: 11.1.4](https://img.shields.io/badge/Version-11.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.1.2](https://img.shields.io/badge/AppVersion-6.1.2-informational?style=flat-square)
+![Version: 11.1.5](https://img.shields.io/badge/Version-11.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.1.2](https://img.shields.io/badge/AppVersion-6.1.2-informational?style=flat-square)
 
 A Tiny Dashboard for Network UPS Tools.
 
