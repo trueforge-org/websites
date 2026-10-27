@@ -236,8 +236,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.17.2 • [Train: stable]
 
-- chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 3448b73 (#45969) • [`6347900`](https://github.com/trueforge-org/truecharts/commit/63479001bfc80a9a39d380ffd84007adbee21893) • [@TrueCharts Bot] (2026-03-12)
 - fix(helm-deps): update chart common 28.33.0 → 28.33.3 (#45974) • [`7727607`](https://github.com/trueforge-org/truecharts/commit/77276072da04092d5ba9072ff6456dffdb9d680a) • [@TrueCharts Bot] (2026-03-12)
+- chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 3448b73 (#45969) • [`6347900`](https://github.com/trueforge-org/truecharts/commit/63479001bfc80a9a39d380ffd84007adbee21893) • [@TrueCharts Bot] (2026-03-12)
 
 ## 2.17.1 • [Train: stable]
 
@@ -250,8 +250,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.16.1 • [Train: stable]
 
-- chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 38f6620 (#45499) • [`023b3bb`](https://github.com/trueforge-org/truecharts/commit/023b3bb8d0fbdbb6da4f356b0b6bc50297421a15) • [@TrueCharts Bot] (2026-02-24)
 - fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
+- chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 38f6620 (#45499) • [`023b3bb`](https://github.com/trueforge-org/truecharts/commit/023b3bb8d0fbdbb6da4f356b0b6bc50297421a15) • [@TrueCharts Bot] (2026-02-24)
 
 ## 2.16.0 • [Train: stable]
 
@@ -462,9 +462,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.1 • [Train: stable]
 
