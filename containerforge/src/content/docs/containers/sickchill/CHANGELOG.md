@@ -16,9 +16,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.15.1 → 3.15.2 (#4295) • [`e0ab141`](https://github.com/trueforge-org/truecharts/commit/e0ab1414d0c3990ae6af48e86df1a3e2c5d0a81a) • [@TrueCharts Bot] (2026-10-26)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.15.0 → 3.15.1 (#4224) • [`71d8432`](https://github.com/trueforge-org/truecharts/commit/71d84329a8b565ce0ec7670175db3f0fbcf84b2e) • [@TrueCharts Bot] (2026-10-24)
 - feat(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.8 → 3.15.0 (#4054) • [`181425d`](https://github.com/trueforge-org/truecharts/commit/181425d0560b567da53c15213599752087765b8c) • [@TrueCharts Bot] (2026-10-22)
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
 - BREAKING CHANGE(deps): Update SickChill/SickChill 2024.3.1 → 2026.10.8 (#3707) • [`0f2c23a`](https://github.com/trueforge-org/truecharts/commit/0f2c23a9886f01aa07e79f8a6f9acc851c572a8b) • [@TrueCharts Bot] (2026-10-11)
-- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
 
 ## 2024.3.1 • [Train: ]
 
