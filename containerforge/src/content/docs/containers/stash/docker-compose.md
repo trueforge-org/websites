@@ -62,7 +62,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: stash
-#       POSTGRES_PASSWORD: 399da90fa5bcd51d22cdee9ed374b147WORD
+#       POSTGRES_PASSWORD: d4c90590197d518bd1a68e437dbe9efaWORD
 #       POSTGRES_USER: stash
 #       TZ: Etc/UTC
 #     group_add:
