@@ -571,8 +571,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.15 • [Train: incubator]
 
-- chore(container): update image ghcr.io/neggles/sd-webui-docker → by renovate (#27931) • [`233df3b`](https://github.com/trueforge-org/truecharts/commit/233df3b774f09c10ef80eb99fdd6fbd5a71b955f) • [@TrueCharts Bot] (2024-10-18)
 - chore(helm): update chart common 25.0.0 → 25.1.0 by renovate (#27948) • [`37bd2b6`](https://github.com/trueforge-org/truecharts/commit/37bd2b67d5bdb5ac56a2f3d3f82a16353275ab67) • [@TrueCharts Bot] (2024-10-18)
+- chore(container): update image ghcr.io/neggles/sd-webui-docker → by renovate (#27931) • [`233df3b`](https://github.com/trueforge-org/truecharts/commit/233df3b774f09c10ef80eb99fdd6fbd5a71b955f) • [@TrueCharts Bot] (2024-10-18)
 
 ## 2.2.14 • [Train: incubator]
 
