@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: stable]
+
+- feat(aurral): update image ghcr.io/lklynet/aurral 2.11.0 → 2.12.0 (#54234) • [`bbe67a0`](https://github.com/trueforge-org/truecharts/commit/bbe67a0a6962e1e6874206034ef0475d4b7d7a3e) • [@TrueCharts Bot] (2026-10-27)
+
 ## 2.1.1 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.2.8 → 30.2.9 (#54147) • [`567d8b9`](https://github.com/trueforge-org/truecharts/commit/567d8b967254110733438d7b62ca8a4109d9b3b0) • [@TrueCharts Bot] (2026-10-26)
