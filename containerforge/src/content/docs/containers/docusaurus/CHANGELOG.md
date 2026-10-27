@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.10.2 • [Train: ]
 
+- chore(node-dep): update node.js digest to 5b3efcf (#4319) • [`43084c9`](https://github.com/trueforge-org/truecharts/commit/43084c9d71178b9168fef902511794de6c439e56) • [@TrueCharts Bot] (2026-10-27)
 - fix(node-dep): update node.js 24.22.0 → 24.22.1 (#4187) • [`1ab718b`](https://github.com/trueforge-org/truecharts/commit/1ab718ba2cd9a1c799e9f9b990e3306da30eac9e) • [@TrueCharts Bot] (2026-10-21)
 - chore(node-dep): update node.js digest to b395d72 (#4116) • [`8180579`](https://github.com/trueforge-org/truecharts/commit/8180579cc9f67c60d5833fddf3dcd76e4a4cc714) • [@TrueCharts Bot] (2026-10-17)
 - chore(node-dep): update node.js digest to 4403e4d (#4103) • [`bd45b32`](https://github.com/trueforge-org/truecharts/commit/bd45b32c87b11c98cde8987e0c0ff9bff4b0ae91) • [@TrueCharts Bot] (2026-10-17)
