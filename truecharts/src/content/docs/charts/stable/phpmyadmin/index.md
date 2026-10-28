@@ -8,9 +8,9 @@ A web interface for MySQL and MariaDB.
 
 ## Chart Sources
 
+- https://github.com/phpmyadmin/phpmyadmin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/phpmyadmin
 - https://hub.docker.com/_/phpmyadmin
-- https://github.com/phpmyadmin/phpmyadmin
 
 ## Available Documentation
 

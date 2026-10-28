@@ -8,8 +8,8 @@ Chromium is a free and open-source software project developed by the Google-spon
 
 ## Chart Sources
 
-- https://github.com/linuxserver/docker-chromium
 - https://ghcr.io/linuxserver/chromium
+- https://github.com/linuxserver/docker-chromium
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/chromium
 - https://www.google.com/chrome/
 
