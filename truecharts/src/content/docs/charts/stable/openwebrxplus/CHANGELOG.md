@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.0.6 • [Train: stable]
+
+- fix(openwebrxplus): update image docker.io/slechev/openwebrxplus-softmbe 1.2.127 → 1.2.128 (#54246) • [`8418c8c`](https://github.com/trueforge-org/truecharts/commit/8418c8c31cb6178fc1f11c0f6f1dbfe4611cd2f2) • [@TrueCharts Bot] (2026-10-28)
+
 ## 4.0.5 • [Train: stable]
 
 - fix(openwebrxplus): update image docker.io/slechev/openwebrxplus-softmbe 1.2.126 → 1.2.127 (#54216) • [`28dae62`](https://github.com/trueforge-org/truecharts/commit/28dae62db47abb37fa49111f14c1d60f738731a4) • [@TrueCharts Bot] (2026-10-27)
@@ -281,8 +285,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.19 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.24 → 28.29.27 (#43825) • [`01774c7`](https://github.com/trueforge-org/truecharts/commit/01774c784b9fad99aa7af6aa15d498e8765df0a0) • [@TrueCharts Bot] (2026-01-20)
 - fix(openwebrxplus): update image docker.io/slechev/openwebrxplus-softmbe 1.2.104 → 1.2.105 (#43857) • [`6a13606`](https://github.com/trueforge-org/truecharts/commit/6a136067e1fe4f3fa9e287ca45f1325bc0cf01ea) • [@TrueCharts Bot] (2026-01-20)
+- fix(helm-deps): update chart common 28.29.24 → 28.29.27 (#43825) • [`01774c7`](https://github.com/trueforge-org/truecharts/commit/01774c784b9fad99aa7af6aa15d498e8765df0a0) • [@TrueCharts Bot] (2026-01-20)
 
 ## 2.11.18 • [Train: stable]
 
@@ -358,8 +362,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 2.10.0 • [Train: stable]
 
