@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.0 • [Train: ]
 
+- chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to 9c4cac8 (#4347) • [`4f529e7`](https://github.com/trueforge-org/truecharts/commit/4f529e7114b6289c9d44f0b6e51b761eecd1922b) • [@TrueCharts Bot] (2026-10-28)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to 82ca54e (#4311) • [`0ac4ad1`](https://github.com/trueforge-org/truecharts/commit/0ac4ad1ecc9aae8692a06f2b3205a3e83c64688e) • [@TrueCharts Bot] (2026-10-27)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to e881768 (#4097) • [`d036954`](https://github.com/trueforge-org/truecharts/commit/d036954b01f92e5b5ace0711dc461dda15aa7f04) • [@TrueCharts Bot] (2026-10-17)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to 9cf9f14 (#4111) • [`c6ed365`](https://github.com/trueforge-org/truecharts/commit/c6ed365131d5d6e8045f851e94bbeec096483a21) • [@TrueCharts Bot] (2026-10-17)
@@ -33,8 +34,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to f55dd0c (#2808) • [`26295a6`](https://github.com/trueforge-org/truecharts/commit/26295a6369e3d461012d7f3c87d4ff5c41dc771f) • [@TrueCharts Bot] (2026-07-16)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to f6a3802 (#2660) • [`95b7936`](https://github.com/trueforge-org/truecharts/commit/95b7936e5c2dd66bfd11ff9a4ba34d8dbb57367e) • [@TrueCharts Bot] (2026-07-02)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to 6f6d68a (#2586) • [`3bb9143`](https://github.com/trueforge-org/truecharts/commit/3bb914316f7d3ff1b2971457a7737f717e97b6a5) • [@TrueCharts Bot] (2026-06-27)
-- fix(repo): remove hidden unicode (#2575) • [`61ac3db`](https://github.com/trueforge-org/truecharts/commit/61ac3db5226adcb2786dd6c3b27d6c3cfb35487c) • [@Alfred Göppel] (2026-06-26)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to f56b8d1 (#2545) • [`4e62861`](https://github.com/trueforge-org/truecharts/commit/4e6286130111dc3fede7c2141846d25d4eb97e7e) • [@TrueCharts Bot] (2026-06-26)
+- fix(repo): remove hidden unicode (#2575) • [`61ac3db`](https://github.com/trueforge-org/truecharts/commit/61ac3db5226adcb2786dd6c3b27d6c3cfb35487c) • [@Alfred Göppel] (2026-06-26)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to b80fbb0 (#2467) • [`8f2f837`](https://github.com/trueforge-org/truecharts/commit/8f2f837c5581a7bf616a42839837b00884400229) • [@TrueCharts Bot] (2026-06-08)
 - chore(java17-dep): update ghcr.io/trueforge-org/java17:17 docker digest digest to c66396f (#2300) • [`887d454`](https://github.com/trueforge-org/truecharts/commit/887d4542fc2e28dd5bb068eb19d329f4ae212214) • [@TrueCharts Bot] (2026-05-07)
 - BREAKING CHANGE(deps): Update linuxserver/ubooquity Docker tag 3.1.0 → 131 (#2178) • [`5a66f7a`](https://github.com/trueforge-org/truecharts/commit/5a66f7ae50e5cbaff45cb147ba82d93da952893a) • [@TrueCharts Bot] (2026-05-06)
