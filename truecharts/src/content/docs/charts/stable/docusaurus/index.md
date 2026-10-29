@@ -2,7 +2,7 @@
 title: docusaurus
 ---
 
-![Version: 14.0.6](https://img.shields.io/badge/Version-14.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.10.2](https://img.shields.io/badge/AppVersion-3.10.2-informational?style=flat-square)
+![Version: 14.0.7](https://img.shields.io/badge/Version-14.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.10.2](https://img.shields.io/badge/AppVersion-3.10.2-informational?style=flat-square)
 
 Docusaurus makes it easy to maintain Open Source documentation websites.
 
