@@ -310,8 +310,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.5 • [Train: stable]
 
-- chore(helm): update image fyb3roptik/threadfin 1.2.36 → 1.2.37 (#38956) • [`fe02f1a`](https://github.com/trueforge-org/truecharts/commit/fe02f1ac3ac2700af62115f3c96f4d751ef20a8f) • [@TrueCharts Bot] (2025-08-30)
 - chore(helm): update chart common 28.16.4 → 28.16.5 (#38952) • [`977aa51`](https://github.com/trueforge-org/truecharts/commit/977aa51ecddfb3da31c324fcbf0f73ba51f1017b) • [@TrueCharts Bot] (2025-08-30)
+- chore(helm): update image fyb3roptik/threadfin 1.2.36 → 1.2.37 (#38956) • [`fe02f1a`](https://github.com/trueforge-org/truecharts/commit/fe02f1ac3ac2700af62115f3c96f4d751ef20a8f) • [@TrueCharts Bot] (2025-08-30)
 
 ## 2.3.4 • [Train: stable]
 
