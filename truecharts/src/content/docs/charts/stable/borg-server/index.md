@@ -2,7 +2,7 @@
 title: borg-server
 ---
 
-![Version: 9.0.11](https://img.shields.io/badge/Version-9.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.23](https://img.shields.io/badge/AppVersion-2.8.23-informational?style=flat-square)
+![Version: 9.0.12](https://img.shields.io/badge/Version-9.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.25](https://img.shields.io/badge/AppVersion-2.8.25-informational?style=flat-square)
 
 A borg Backup server
 

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.8 • [Train: stable]
+
+- chore(headlamp): update image oci.trueforge.org/containerforge/node digest to bb972ad (#54364) • [`450c5df`](https://github.com/trueforge-org/truecharts/commit/450c5df737c135df55979643ecc994d7cc845e05) • [@TrueCharts Bot] (2026-10-29)
+
 ## 2.1.7 • [Train: stable]
 
 - chore(headlamp): update image oci.trueforge.org/containerforge/node digest to 2129aa7 (#54300) • [`e8aab39`](https://github.com/trueforge-org/truecharts/commit/e8aab39ffead8f58f7b83b7d31f5ee21a5ba3329) • [@TrueCharts Bot] (2026-10-29)
