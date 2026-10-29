@@ -34,7 +34,7 @@ services:
           memory: 4G
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/node:24.22.1
+    image: ghcr.io/trueforge-org/node:24.22.2
     restart: unless-stopped
     shm_size: 256M
     volumes:
