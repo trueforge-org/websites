@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.2.0 • [Train: stable]
+
+- feat(gatus): update image ghcr.io/twin/gatus v5.37.0 → v5.38.0 (#54352) • [`32f90c0`](https://github.com/trueforge-org/truecharts/commit/32f90c0de9fb5d00f9962885ea3e5eef9d404fa6) • [@TrueCharts Bot] (2026-10-29)
+
 ## 5.1.0 • [Train: stable]
 
 - feat(gatus): update image ghcr.io/home-operations/gatus-sidecar 0.5.5 → 0.6.0 (#54247) • [`aa89fbe`](https://github.com/trueforge-org/truecharts/commit/aa89fbe210e6be26138a9911ca58a7d5bb6ff574) • [@TrueCharts Bot] (2026-10-28)
@@ -244,12 +248,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.1.10 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- Commit daily changes • [`ddba628`](https://github.com/trueforge-org/truecharts/commit/ddba6288bf69736c6c18f4a7dfd3636e54db2614) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
+- Commit daily changes • [`ddba628`](https://github.com/trueforge-org/truecharts/commit/ddba6288bf69736c6c18f4a7dfd3636e54db2614) • [@TrueCharts-Bot] (2026-01-31)
 - fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 
 ## 3.1.9 • [Train: stable]
