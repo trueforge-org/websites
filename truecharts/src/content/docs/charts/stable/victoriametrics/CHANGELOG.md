@@ -21,8 +21,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.1.3 • [Train: stable]
 
-- fix(helm-deps): update chart common 30.2.4 → 30.2.8 (#53759) • [`03331b3`](https://github.com/trueforge-org/truecharts/commit/03331b35f673ac3cfedb3e8d2e1f714c219613c0) • [@TrueCharts Bot] (2026-10-20)
 - fix(victoriametrics): update image docker.io/victoriametrics/victoria-metrics v1.154.0 → v1.154.1 (#53772) • [`6065822`](https://github.com/trueforge-org/truecharts/commit/6065822504a0edbdee548dfcb02864d2d5c4b8f1) • [@TrueCharts Bot] (2026-10-20)
+- fix(helm-deps): update chart common 30.2.4 → 30.2.8 (#53759) • [`03331b3`](https://github.com/trueforge-org/truecharts/commit/03331b35f673ac3cfedb3e8d2e1f714c219613c0) • [@TrueCharts Bot] (2026-10-20)
 
 ## 6.1.2 • [Train: stable]
 
@@ -796,5 +796,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.1 • [Train: incubator]
 
-- Create disclaimer.md • [`ae849cc`](https://github.com/trueforge-org/truecharts/commit/ae849cca3e82dd58b190465d06fc9928f49dc5ba) • [@Kjeld Schouten] (2024-04-08)
 - feat(victoriametrics): add VictoriaMetrics database (#20158) • [`6064a8f`](https://github.com/trueforge-org/truecharts/commit/6064a8f1cfcea7d5d8a8bfcb0c8938d43f7113f2) • [@Alexandre NICOLAIE] (2024-04-08)
+- Create disclaimer.md • [`ae849cc`](https://github.com/trueforge-org/truecharts/commit/ae849cca3e82dd58b190465d06fc9928f49dc5ba) • [@Kjeld Schouten] (2024-04-08)
