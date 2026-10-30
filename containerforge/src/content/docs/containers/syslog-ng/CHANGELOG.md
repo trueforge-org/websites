@@ -16,8 +16,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.15.1 → 3.15.2 (#4295) • [`e0ab141`](https://github.com/trueforge-org/truecharts/commit/e0ab1414d0c3990ae6af48e86df1a3e2c5d0a81a) • [@TrueCharts Bot] (2026-10-26)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.15.0 → 3.15.1 (#4224) • [`71d8432`](https://github.com/trueforge-org/truecharts/commit/71d84329a8b565ce0ec7670175db3f0fbcf84b2e) • [@TrueCharts Bot] (2026-10-24)
 - feat(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.8 → 3.15.0 (#4054) • [`181425d`](https://github.com/trueforge-org/truecharts/commit/181425d0560b567da53c15213599752087765b8c) • [@TrueCharts Bot] (2026-10-22)
-- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.6 → 3.14.7 (#3075) • [`689c90a`](https://github.com/trueforge-org/truecharts/commit/689c90a6150d81cc6a45b6561b377afbff32350b) • [@TrueCharts Bot] (2026-10-06)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.6 docker digest digest to 7126ada (#3058) • [`0171755`](https://github.com/trueforge-org/truecharts/commit/0171755e79747ab5fed470568596e12ee577184d) • [@TrueCharts Bot] (2026-08-05)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.6 docker digest digest to 1470b61 (#3042) • [`ca8a004`](https://github.com/trueforge-org/truecharts/commit/ca8a0046161bd0c93d6a25c7f384d5d056ae151d) • [@TrueCharts Bot] (2026-08-04)
@@ -42,9 +42,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 00bb627 (#1736) • [`c4cc46b`](https://github.com/trueforge-org/truecharts/commit/c4cc46b36ec9442cf0d62de4ea808a7764818fc9) • [@TrueCharts Bot] (2026-04-07)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to cc5a5a3 (#1702) • [`4b64d16`](https://github.com/trueforge-org/truecharts/commit/4b64d16e8887aeb1cea5bbeda5ae75085c6c3ed3) • [@TrueCharts Bot] (2026-03-30)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to b2e5413 (#1692) • [`340e7db`](https://github.com/trueforge-org/truecharts/commit/340e7db7596f53f135db6f0555f92016958f989a) • [@TrueCharts Bot] (2026-03-29)
-- chore(python-dep): pin ghcr.io/trueforge-org/python docker tag digest to ec0d5db (#1532) • [`77a7822`](https://github.com/trueforge-org/truecharts/commit/77a78223e507d59c47a0d941f76739926629ed05) • [@TrueCharts Bot] (2026-02-24)
-- feat(deps): update linuxserver/docker-syslog-ng 4.8.3-r1-ls176 → 4.10.2-r1-ls184 (#1558) • [`09c126f`](https://github.com/trueforge-org/truecharts/commit/09c126f9c42240b094055fbd442b3ba405230959) • [@TrueCharts Bot] (2026-02-24)
 - Restore upstream-based Renovate version sources for app containers (#1564) • [`ae336a4`](https://github.com/trueforge-org/truecharts/commit/ae336a46aad77583211f21fd13aa64cd5c30a557) • [@Copilot] (2026-02-24)
+- feat(deps): update linuxserver/docker-syslog-ng 4.8.3-r1-ls176 → 4.10.2-r1-ls184 (#1558) • [`09c126f`](https://github.com/trueforge-org/truecharts/commit/09c126f9c42240b094055fbd442b3ba405230959) • [@TrueCharts Bot] (2026-02-24)
+- chore(python-dep): pin ghcr.io/trueforge-org/python docker tag digest to ec0d5db (#1532) • [`77a7822`](https://github.com/trueforge-org/truecharts/commit/77a78223e507d59c47a0d941f76739926629ed05) • [@TrueCharts Bot] (2026-02-24)
 
 ## 4.8.3 • [Train: ]
 
