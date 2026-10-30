@@ -2,7 +2,7 @@
 title: transmission
 ---
 
-![Version: 26.0.7](https://img.shields.io/badge/Version-26.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.1.3](https://img.shields.io/badge/AppVersion-4.1.3-informational?style=flat-square)
+![Version: 26.0.8](https://img.shields.io/badge/Version-26.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.1.4](https://img.shields.io/badge/AppVersion-4.1.4-informational?style=flat-square)
 
 fast, easy, and free BitTorrent client.
 
