@@ -34,12 +34,12 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: postgresql
-      POSTGRES_PASSWORD: 0927c5ba9538de03082469d67abdac78WORD
+      POSTGRES_PASSWORD: 9f5d52f011779f48998804b0281c67e3WORD
       POSTGRES_USER: postgresql
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/postgresql:18.3
+    image: ghcr.io/trueforge-org/postgresql:18.6
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1

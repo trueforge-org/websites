@@ -66,12 +66,12 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: planka
-#       POSTGRES_PASSWORD: cb33a6f20673db743a49dbd71a3969f1WORD
+#       POSTGRES_PASSWORD: b28df2a5cde25c8985da777ce70261e1WORD
 #       POSTGRES_USER: planka
 #       TZ: Etc/UTC
 #     group_add:
 #       - "568"
-#     image: ghcr.io/trueforge-org/postgresql:18.3
+#     image: ghcr.io/trueforge-org/postgresql:18.6
 #     ports:
 #       - mode: ingress
 #         host_ip: 127.0.0.1

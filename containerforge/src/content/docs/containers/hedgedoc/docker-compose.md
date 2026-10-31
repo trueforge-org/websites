@@ -42,7 +42,7 @@ services:
       CMD_URL_ADDPORT: "false"
       DB_HOST: postgresql
       DB_NAME: hedgedoc
-      DB_PASS: bd57a7177ef7ed2b9cf4de709c01ddceWORD
+      DB_PASS: 7423ff294aa8af156721620b98e30b6bWORD
       DB_PORT: "5432"
       DB_USER: hedgedoc
       TZ: Etc/UTC
@@ -74,12 +74,12 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: hedgedoc
-      POSTGRES_PASSWORD: bd57a7177ef7ed2b9cf4de709c01ddceWORD
+      POSTGRES_PASSWORD: 7423ff294aa8af156721620b98e30b6bWORD
       POSTGRES_USER: hedgedoc
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/postgresql:18.3
+    image: ghcr.io/trueforge-org/postgresql:18.6
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1

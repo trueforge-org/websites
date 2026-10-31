@@ -2,7 +2,7 @@
 title: nginx
 ---
 
-![Version: 1.28.3-2ubuntu1](https://img.shields.io/badge/Version-1.28.3-2ubuntu1-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 1.28.3-2ubuntu1.11](https://img.shields.io/badge/Version-1.28.3-2ubuntu1.11-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **nginx**, including upstream sou
 | Field | Value |
 | --- | --- |
 | App | nginx |
-| Version | 1.28.3-2ubuntu1 |
+| Version | 1.28.3-2ubuntu1.11 |
 | License | AGPL--3.0--or--later |
 
 ## Source

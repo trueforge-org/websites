@@ -62,12 +62,12 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: stash
-#       POSTGRES_PASSWORD: b590b1cdb5d0679736e365803da528ddWORD
+#       POSTGRES_PASSWORD: c4a5c15a42c70022bb3a3682a429810bWORD
 #       POSTGRES_USER: stash
 #       TZ: Etc/UTC
 #     group_add:
 #       - "568"
-#     image: ghcr.io/trueforge-org/postgresql:18.3
+#     image: ghcr.io/trueforge-org/postgresql:18.6
 #     ports:
 #       - mode: ingress
 #         host_ip: 127.0.0.1

@@ -73,12 +73,12 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: healthchecks
-      POSTGRES_PASSWORD: 730b04a18efc0815e325d01faa94be56WORD
+      POSTGRES_PASSWORD: a57248fd0b6a8dd4f9e981792466e5e4WORD
       POSTGRES_USER: healthchecks
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/postgresql:18.3
+    image: ghcr.io/trueforge-org/postgresql:18.6
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
