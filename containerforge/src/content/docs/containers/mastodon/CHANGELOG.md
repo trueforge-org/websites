@@ -21,8 +21,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(node-dep): update node.js digest to 2129aa7 (#4356) • [`59ece16`](https://github.com/trueforge-org/truecharts/commit/59ece16ec38cc1a1dac16d39ef9e1a785799a81f) • [@TrueCharts Bot] (2026-10-28)
 - chore(node-dep): update node.js digest to 5b3efcf (#4319) • [`43084c9`](https://github.com/trueforge-org/truecharts/commit/43084c9d71178b9168fef902511794de6c439e56) • [@TrueCharts Bot] (2026-10-27)
 - fix(node-dep): update node.js 24.22.0 → 24.22.1 (#4187) • [`1ab718b`](https://github.com/trueforge-org/truecharts/commit/1ab718ba2cd9a1c799e9f9b990e3306da30eac9e) • [@TrueCharts Bot] (2026-10-21)
-- chore(node-dep): update node.js digest to b395d72 (#4116) • [`8180579`](https://github.com/trueforge-org/truecharts/commit/8180579cc9f67c60d5833fddf3dcd76e4a4cc714) • [@TrueCharts Bot] (2026-10-17)
 - chore(node-dep): update node.js digest to 4403e4d (#4103) • [`bd45b32`](https://github.com/trueforge-org/truecharts/commit/bd45b32c87b11c98cde8987e0c0ff9bff4b0ae91) • [@TrueCharts Bot] (2026-10-17)
+- chore(node-dep): update node.js digest to b395d72 (#4116) • [`8180579`](https://github.com/trueforge-org/truecharts/commit/8180579cc9f67c60d5833fddf3dcd76e4a4cc714) • [@TrueCharts Bot] (2026-10-17)
 - feat(node-dep): update node.js 24.21.0 → 24.22.0 (#4059) • [`df96dc7`](https://github.com/trueforge-org/truecharts/commit/df96dc7ddefb6bcc604a651f6dfee6afa82879f2) • [@TrueCharts Bot] (2026-10-15)
 - chore(node-dep): update node.js digest to e92e30c (#3897) • [`9682d75`](https://github.com/trueforge-org/truecharts/commit/9682d75c4d26270bd702b9694945993d8733c233) • [@TrueCharts Bot] (2026-10-11)
 - fix(deps): update mastodon/mastodon v4.7.2 → v4.7.3 (#3849) • [`0c1648c`](https://github.com/trueforge-org/truecharts/commit/0c1648cc84a9fb38d0458701a3d86bc9d1a213ae) • [@TrueCharts Bot] (2026-10-01)
@@ -71,8 +71,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.6.2 • [Train: ]
 
 - feat(node-dep): update node.js 24.16.0 → 24.18.0 (#2582) • [`9e671d4`](https://github.com/trueforge-org/truecharts/commit/9e671d4e86ff5cec179b08970d58b6f9700e7f31) • [@TrueCharts Bot] (2026-06-27)
-- chore(node-dep): update node.js digest to bb2868b (#2541) • [`32f4fb0`](https://github.com/trueforge-org/truecharts/commit/32f4fb025350a18f828f418bb95a01be1504fad6) • [@TrueCharts Bot] (2026-06-26)
 - feat(deps): update mastodon/mastodon v4.5.11 → v4.6.2 (#2523) • [`5398566`](https://github.com/trueforge-org/truecharts/commit/53985669f57889b454d34dddd99bf3bf703c56ac) • [@TrueCharts Bot] (2026-06-26)
+- chore(node-dep): update node.js digest to bb2868b (#2541) • [`32f4fb0`](https://github.com/trueforge-org/truecharts/commit/32f4fb025350a18f828f418bb95a01be1504fad6) • [@TrueCharts Bot] (2026-06-26)
 
 ## 4.5.13 • [Train: ]
 
@@ -80,9 +80,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.5.11 • [Train: ]
 
+- feat(node-dep): update node.js 24.15.0 → 24.16.0 (#2459) • [`0643262`](https://github.com/trueforge-org/truecharts/commit/064326201954243ac725a5ca2b77aa38e9e1b133) • [@TrueCharts Bot] (2026-06-08)
 - chore(node-dep): update node.js digest to 054127d (#2472) • [`b1f65c2`](https://github.com/trueforge-org/truecharts/commit/b1f65c22b435d7bdaed598e565bb19b4f8d22d89) • [@TrueCharts Bot] (2026-06-08)
 - fix(deps): update mastodon/mastodon v4.5.9 → v4.5.11 (#2405) • [`f484a8c`](https://github.com/trueforge-org/truecharts/commit/f484a8c2c7f90779c5da47a7a63c867d79c8a30c) • [@TrueCharts Bot] (2026-06-08)
-- feat(node-dep): update node.js 24.15.0 → 24.16.0 (#2459) • [`0643262`](https://github.com/trueforge-org/truecharts/commit/064326201954243ac725a5ca2b77aa38e9e1b133) • [@TrueCharts Bot] (2026-06-08)
 
 ## 4.5.9 • [Train: ]
 
