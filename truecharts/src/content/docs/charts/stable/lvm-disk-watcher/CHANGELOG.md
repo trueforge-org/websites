@@ -95,8 +95,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.0.2 • [Train: stable]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
+- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 5.0.1 • [Train: stable]
@@ -231,8 +231,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.0 • [Train: stable]
 
-- chore!: move non-common containers from tccr to containerforge (#41408) • [`bbff07c`](https://github.com/trueforge-org/truecharts/commit/bbff07c7978f171e134de3a3ca32dd1c056edd3e) • [@Kjeld Schouten] (2025-11-06)
 - Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
+- chore!: move non-common containers from tccr to containerforge (#41408) • [`bbff07c`](https://github.com/trueforge-org/truecharts/commit/bbff07c7978f171e134de3a3ca32dd1c056edd3e) • [@Kjeld Schouten] (2025-11-06)
 
 ## 3.11.3 • [Train: stable]
 
@@ -257,9 +257,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.9.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 3.8.0 • [Train: system]
 
@@ -436,9 +436,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.1.2 • [Train: system]
 
-- Update Chart.yaml • [`8083937`](https://github.com/trueforge-org/truecharts/commit/8083937a9611b60da75d5cb7a3a443ba888a7835) • [@Kjeld Schouten] (2024-10-08)
 - Update values.yaml • [`f01dded`](https://github.com/trueforge-org/truecharts/commit/f01dded4c117eafdc3a4d40f4a56803b500f5546) • [@Kjeld Schouten] (2024-10-08)
 - Revert &#34;chore(deps): update ignored updates to v3.20.3@b2f660b by renovate&#34; (#27466) • [`7c9719e`](https://github.com/trueforge-org/truecharts/commit/7c9719e2993dfbfb0ca0ee7e876234b07d18a769) • [@alfi0812] (2024-10-08)
+- Update Chart.yaml • [`8083937`](https://github.com/trueforge-org/truecharts/commit/8083937a9611b60da75d5cb7a3a443ba888a7835) • [@Kjeld Schouten] (2024-10-08)
 
 ## 1.1.1 • [Train: system]
 
@@ -476,8 +476,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.3 • [Train: system]
 
 - Commit daily changes • [`78a3dd3`](https://github.com/trueforge-org/truecharts/commit/78a3dd328cc9f07258742f3bfd5630c4bbbbdf6c) • [@TrueCharts-Bot] (2024-07-25)
-- chore(deps): update ignored by renovate (patch) (#24139) • [`51504b7`](https://github.com/trueforge-org/truecharts/commit/51504b7b0045e75470a34b20fdfe9004bbf3c081) • [@TrueCharts Bot] (2024-07-24)
 - Update values.yaml • [`07b3a76`](https://github.com/trueforge-org/truecharts/commit/07b3a766a855a2cb7c13089f34c6c624032d8774) • [@Stavros Kois] (2024-07-24)
+- chore(deps): update ignored by renovate (patch) (#24139) • [`51504b7`](https://github.com/trueforge-org/truecharts/commit/51504b7b0045e75470a34b20fdfe9004bbf3c081) • [@TrueCharts Bot] (2024-07-24)
 - Update Chart.yaml • [`790b583`](https://github.com/trueforge-org/truecharts/commit/790b583dc7d9cd340b104d5a66f8f5c3d3c96b3d) • [@Kjeld Schouten] (2024-07-23)
 
 ## 0.0.2 • [Train: system]
