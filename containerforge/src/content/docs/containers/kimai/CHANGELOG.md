@@ -38,8 +38,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.68.0 • [Train: ]
 
-- feat(deps): update kimai/kimai 2.67.0 → 2.68.0 (#3865) • [`88118d7`](https://github.com/trueforge-org/truecharts/commit/88118d7954987641977d38be763053a067b522d9) • [@TrueCharts Bot] (2026-10-06)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to ea16b55 (#3878) • [`12758ef`](https://github.com/trueforge-org/truecharts/commit/12758ef0290eecb056d4075a42076cbc4f02e99e) • [@TrueCharts Bot] (2026-10-06)
+- feat(deps): update kimai/kimai 2.67.0 → 2.68.0 (#3865) • [`88118d7`](https://github.com/trueforge-org/truecharts/commit/88118d7954987641977d38be763053a067b522d9) • [@TrueCharts Bot] (2026-10-06)
 
 ## 2.67.0 • [Train: ]
 
@@ -97,8 +97,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.56.0 • [Train: ]
 
-- fix(php-apps): align package names with Ubuntu 26.04 base (#2292) • [`263cfad`](https://github.com/trueforge-org/truecharts/commit/263cfadc08d9514977753dbe3ec5892007ede78f) • [@Copilot] (2026-05-07)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 17312da (#2273) • [`07c023d`](https://github.com/trueforge-org/truecharts/commit/07c023df996444b5d1291559d1d7234f8302ea47) • [@TrueCharts Bot] (2026-05-07)
+- fix(php-apps): align package names with Ubuntu 26.04 base (#2292) • [`263cfad`](https://github.com/trueforge-org/truecharts/commit/263cfadc08d9514977753dbe3ec5892007ede78f) • [@Copilot] (2026-05-07)
 - BREAKING CHANGE(ubuntu-dep): Update ghcr.io/trueforge-org/ubuntu Docker tag (#2271) • [`2030ba8`](https://github.com/trueforge-org/truecharts/commit/2030ba8657cd49390206c3638a4635de0b4a4bf9) • [@TrueCharts Bot] (2026-05-06)
 - work on compose rendering placeholders • [`62433a7`](https://github.com/trueforge-org/truecharts/commit/62433a7054d425651f3d1f0c8d7dfbdb5c7b629a) • [@Kjeld Schouten] (2026-05-02)
 - feat(deps): update kimai/kimai 2.55.0 → 2.56.0 (#2155) • [`0d58679`](https://github.com/trueforge-org/truecharts/commit/0d586798588e167e5fd5add622b6e7416e49a501) • [@TrueCharts Bot] (2026-04-28)
@@ -106,12 +106,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.55.0 • [Train: ]
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to fdcc4e2 (#2111) • [`6eb80b4`](https://github.com/trueforge-org/truecharts/commit/6eb80b42574f0d6774223afb175a29aeaa917ab9) • [@TrueCharts Bot] (2026-04-26)
-- refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
-- move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
-- fix dependencies and opt_dependencies • [`4d1f4a3`](https://github.com/trueforge-org/truecharts/commit/4d1f4a39e60cd0239cb0fdfaa59b97180553dd90) • [@Kjeld Schouten] (2026-04-24)
 - tweak dependency system and allow for opt_dependencies • [`7d92bb5`](https://github.com/trueforge-org/truecharts/commit/7d92bb52cab800671d00900ec0109a0cff8b9fbe) • [@Kjeld Schouten] (2026-04-24)
 - add dependencies settings key • [`f86db16`](https://github.com/trueforge-org/truecharts/commit/f86db166f69bb102f6a54714d7387cd393322ceb) • [@Kjeld Schouten] (2026-04-24)
+- move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
+- fix dependencies and opt_dependencies • [`4d1f4a3`](https://github.com/trueforge-org/truecharts/commit/4d1f4a39e60cd0239cb0fdfaa59b97180553dd90) • [@Kjeld Schouten] (2026-04-24)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 5fa3c2c (#2076) • [`8582ebc`](https://github.com/trueforge-org/truecharts/commit/8582ebcc6a0322009da1c100ab08b2d52614ac5c) • [@TrueCharts Bot] (2026-04-24)
+- refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 01cc09f (#2061) • [`b684474`](https://github.com/trueforge-org/truecharts/commit/b684474fb24d4ea62f4444d9b2e64451d7518894) • [@TrueCharts Bot] (2026-04-23)
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
@@ -147,8 +147,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.49.0 • [Train: ]
 
-- feat(deps): update kimai/kimai 2.43.0 → 2.49.0 (#1570) • [`1f4744f`](https://github.com/trueforge-org/truecharts/commit/1f4744fedf5a922433f99b812837983b3cc2cad6) • [@TrueCharts Bot] (2026-02-24)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to 1c87476 (#1533) • [`fa9215c`](https://github.com/trueforge-org/truecharts/commit/fa9215ca9fa8fc6f7118ab176ac04c2dd9f4d0a2) • [@TrueCharts Bot] (2026-02-24)
+- feat(deps): update kimai/kimai 2.43.0 → 2.49.0 (#1570) • [`1f4744f`](https://github.com/trueforge-org/truecharts/commit/1f4744fedf5a922433f99b812837983b3cc2cad6) • [@TrueCharts Bot] (2026-02-24)
 
 ## 2.43.0 • [Train: ]
 
