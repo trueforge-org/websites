@@ -2,7 +2,7 @@
 title: grav
 ---
 
-![Version: 17.0.16](https://img.shields.io/badge/Version-17.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.16](https://img.shields.io/badge/AppVersion-2.2.16-informational?style=flat-square)
+![Version: 17.0.17](https://img.shields.io/badge/Version-17.0.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.17](https://img.shields.io/badge/AppVersion-2.2.17-informational?style=flat-square)
 
 A Fast, Simple, and Flexible, file-based Web-platform.
 

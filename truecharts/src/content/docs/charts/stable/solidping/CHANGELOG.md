@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.5.0 • [Train: stable]
+
+- feat(solidping): update image ghcr.io/fclairamb/solidping 0.42.1 → 0.43.0 (#54489) • [`b18f60d`](https://github.com/trueforge-org/truecharts/commit/b18f60d37e02376db33ff7d9fc1e86ce9df84322) • [@TrueCharts Bot] (2026-10-31)
+
 ## 1.4.1 • [Train: stable]
 
 - fix(solidping): update image ghcr.io/fclairamb/solidping 0.42.0 → 0.42.1 (#54436) • [`4bd3d14`](https://github.com/trueforge-org/truecharts/commit/4bd3d143f157caad7ed53fee4992fbacb7b91204) • [@TrueCharts Bot] (2026-10-30)
@@ -33,8 +37,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.2.2 • [Train: stable]
 
-- fix(solidping): update image ghcr.io/fclairamb/solidping 0.40.0 → 0.40.1 (#53741) • [`cf8b2c5`](https://github.com/trueforge-org/truecharts/commit/cf8b2c550f90b059213cef2d4aac84e9d0776ddc) • [@TrueCharts Bot] (2026-10-19)
 - fix(helm-deps): update chart common 30.2.2 → 30.2.4 (#53735) • [`7bf2ad2`](https://github.com/trueforge-org/truecharts/commit/7bf2ad201e0ecfaa048f44693161c7ef95aeb9f0) • [@TrueCharts Bot] (2026-10-19)
+- fix(solidping): update image ghcr.io/fclairamb/solidping 0.40.0 → 0.40.1 (#53741) • [`cf8b2c5`](https://github.com/trueforge-org/truecharts/commit/cf8b2c550f90b059213cef2d4aac84e9d0776ddc) • [@TrueCharts Bot] (2026-10-19)
 
 ## 1.2.1 • [Train: stable]
 
