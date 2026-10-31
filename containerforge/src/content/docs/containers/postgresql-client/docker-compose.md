@@ -34,7 +34,7 @@ services:
           memory: 4G
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/postgresql-client:9.6.24
+    image: ghcr.io/trueforge-org/postgresql-client:18.6
     restart: unless-stopped
     shm_size: 256M
     volumes:
