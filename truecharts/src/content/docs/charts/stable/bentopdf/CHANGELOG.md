@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.5 • [Train: stable]
+
+- fix(bentopdf): update image ghcr.io/alam00000/bentopdf-simple 2.8.10 → 2.8.11 (#54479) • [`a6b2610`](https://github.com/trueforge-org/truecharts/commit/a6b26104aec5b2f6ae93aeedc9e8a85c3aa21e91) • [@TrueCharts Bot] (2026-10-31)
+
 ## 2.0.4 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.2.8 → 30.2.9 (#54147) • [`567d8b9`](https://github.com/trueforge-org/truecharts/commit/567d8b967254110733438d7b62ca8a4109d9b3b0) • [@TrueCharts Bot] (2026-10-26)
