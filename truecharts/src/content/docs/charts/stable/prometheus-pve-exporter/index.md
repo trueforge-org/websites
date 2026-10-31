@@ -2,7 +2,7 @@
 title: prometheus-pve-exporter
 ---
 
-![Version: 4.0.5](https://img.shields.io/badge/Version-4.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.10.2](https://img.shields.io/badge/AppVersion-3.10.2-informational?style=flat-square)
+![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.11.0](https://img.shields.io/badge/AppVersion-3.11.0-informational?style=flat-square)
 
 A Prometheus exporter for Proxmox Virtual Environment metrics.
 
