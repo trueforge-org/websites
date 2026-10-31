@@ -14,8 +14,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.14.1 • [Train: ]
 
 - feat(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.8 → 3.15.0 (#4054) • [`181425d`](https://github.com/trueforge-org/truecharts/commit/181425d0560b567da53c15213599752087765b8c) • [@TrueCharts Bot] (2026-10-22)
-- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.6 → 3.14.7 (#3075) • [`689c90a`](https://github.com/trueforge-org/truecharts/commit/689c90a6150d81cc6a45b6561b377afbff32350b) • [@TrueCharts Bot] (2026-10-06)
 - fix(deps): update beetbox/beets v2.14.0 → v2.14.1 (#3647) • [`6292850`](https://github.com/trueforge-org/truecharts/commit/6292850ef51fb0b3ea540891413871a6da07a8f7) • [@TrueCharts Bot] (2026-09-17)
 
@@ -73,10 +73,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.0 • [Train: ]
 
-- feat: remove tz and umask envs [ci-skip] (#408) • [`099cb44`](https://github.com/trueforge-org/truecharts/commit/099cb4499fa9b2436b8df67bc2f56d6f4275773a) • [@Devin Buhl] (2025-05-04)
 - fix(beets): use latest nodejs (#410) • [`38d1833`](https://github.com/trueforge-org/truecharts/commit/38d18339c6930320e9bd9f253af80bace7cd0201) • [@Devin Buhl] (2025-05-04)
-- chore: more dockerfile style updates (#333) • [`b61bc45`](https://github.com/trueforge-org/truecharts/commit/b61bc45ee8aac4c6557a1fe47d0c542dd4340047) • [@Devin Buhl] (2025-04-10)
+- feat: remove tz and umask envs [ci-skip] (#408) • [`099cb44`](https://github.com/trueforge-org/truecharts/commit/099cb4499fa9b2436b8df67bc2f56d6f4275773a) • [@Devin Buhl] (2025-05-04)
 - chore: dockerfile style updates [ci-skip] (#331) • [`37a676f`](https://github.com/trueforge-org/truecharts/commit/37a676f1d1c5aad699ec46d05c0df0b45a8eb1e2) • [@Devin Buhl] (2025-04-10)
+- chore: more dockerfile style updates (#333) • [`b61bc45`](https://github.com/trueforge-org/truecharts/commit/b61bc45ee8aac4c6557a1fe47d0c542dd4340047) • [@Devin Buhl] (2025-04-10)
 - ci: add SOURCE var in bake files [ci-skip] (#312) • [`6d81fdb`](https://github.com/trueforge-org/truecharts/commit/6d81fdb4307f25d5510c4e63a3e6f20b1e388510) • [@Devin Buhl] (2025-04-04)
 - feat: container housekeeping [ci-skip] (#302) • [`b834303`](https://github.com/trueforge-org/truecharts/commit/b834303df234fa3cc9ce7367f3be76e39e74c0b4) • [@Devin Buhl] (2025-04-03)
 - chore: add dockerignore for all apps [ci-skip] (#284) • [`d1336f5`](https://github.com/trueforge-org/truecharts/commit/d1336f52c2c27a2a6a9529c57c274e06e2a5e4ac) • [@Devin Buhl] (2025-03-30)
