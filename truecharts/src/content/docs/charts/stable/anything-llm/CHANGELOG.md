@@ -476,10 +476,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.13.35 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - chore(anything-llm): update image ghcr.io/mintplex-labs/anything-llm digest to 013601c (#44380) • [`0f18b95`](https://github.com/trueforge-org/truecharts/commit/0f18b951ef91671379e6202e6ccc05a3ac744429) • [@TrueCharts Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
+- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 
 ## 4.13.34 • [Train: stable]
 
@@ -621,8 +621,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 4.12.1 • [Train: stable]
 
@@ -719,8 +719,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.6.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 4.6.0 • [Train: stable]
 
@@ -1214,8 +1214,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.2.7 • [Train: stable]
 
-- chore(container): update image ghcr.io/mintplex-labs/anything-llm → by renovate (#27930) • [`8b1bb1e`](https://github.com/trueforge-org/truecharts/commit/8b1bb1e25f4556fe6ef63ee391432f87614fd803) • [@TrueCharts Bot] (2024-10-18)
 - chore(helm): update chart common 25.0.0 → 25.1.0 by renovate (#27948) • [`37bd2b6`](https://github.com/trueforge-org/truecharts/commit/37bd2b67d5bdb5ac56a2f3d3f82a16353275ab67) • [@TrueCharts Bot] (2024-10-18)
+- chore(container): update image ghcr.io/mintplex-labs/anything-llm → by renovate (#27930) • [`8b1bb1e`](https://github.com/trueforge-org/truecharts/commit/8b1bb1e25f4556fe6ef63ee391432f87614fd803) • [@TrueCharts Bot] (2024-10-18)
 
 ## 3.2.6 • [Train: stable]
 
@@ -1292,8 +1292,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.65 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cca7af7 by renovate (#26679) • [`3beae23`](https://github.com/trueforge-org/truecharts/commit/3beae231119209b16b443186f7920b7ef5aaa1f7) • [@TrueCharts Bot] (2024-09-20)
 - chore(deps): update container image common to v24.1.18@7f6a309 by renovate (#26673) • [`e061ead`](https://github.com/trueforge-org/truecharts/commit/e061eade8e506c3fe7e51e000d60a82696a79375) • [@TrueCharts Bot] (2024-09-20)
+- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cca7af7 by renovate (#26679) • [`3beae23`](https://github.com/trueforge-org/truecharts/commit/3beae231119209b16b443186f7920b7ef5aaa1f7) • [@TrueCharts Bot] (2024-09-20)
 
 ## 3.1.64 • [Train: stable]
 
@@ -1640,8 +1640,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.6 • [Train: stable]
 
-- Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
 - chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
+- Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
 - chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@ec278d9 by renovate (#21521) • [`76c3633`](https://github.com/trueforge-org/truecharts/commit/76c363338665dff9806a061adbbc92708bff369a) • [@TrueCharts Bot] (2024-05-05)
 
 ## 2.0.5 • [Train: stable]
@@ -1893,8 +1893,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.4.11 • [Train: stable]
 
-- chore(deps): update container image common to v20.2.9@10fd6c5 by renovate (#19817) • [`604ffe1`](https://github.com/trueforge-org/truecharts/commit/604ffe1d5fb655bc1b4140413af6e6102dba73f0) • [@TrueCharts Bot] (2024-03-27)
 - chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cba07af by renovate (#19858) • [`7e92bd4`](https://github.com/trueforge-org/truecharts/commit/7e92bd4ff5289027eac14e4e2d4e2804b56f0284) • [@TrueCharts Bot] (2024-03-27)
+- chore(deps): update container image common to v20.2.9@10fd6c5 by renovate (#19817) • [`604ffe1`](https://github.com/trueforge-org/truecharts/commit/604ffe1d5fb655bc1b4140413af6e6102dba73f0) • [@TrueCharts Bot] (2024-03-27)
 
 ## 1.4.10 • [Train: stable]
 
