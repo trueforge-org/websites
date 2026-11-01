@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.0.10 • [Train: stable]
+
+- fix(helm-deps): update chart valkey 3.0.7 → 3.0.8 (#54543) • [`596af18`](https://github.com/trueforge-org/truecharts/commit/596af18b3eb9fa99d297661ef74f671684b89937) • [@TrueCharts Bot] (2026-11-01)
+
 ## 3.0.9 • [Train: stable]
 
 - fix(helm-deps): update chart valkey 3.0.6 → 3.0.7 (#54378) • [`0c7d860`](https://github.com/trueforge-org/truecharts/commit/0c7d8606d7e989650de2546216f6213290c9995e) • [@TrueCharts Bot] (2026-10-30)
