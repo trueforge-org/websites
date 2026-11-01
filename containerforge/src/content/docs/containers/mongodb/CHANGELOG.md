@@ -13,4 +13,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.0.4 • [Train: ]
 
+- fix(mongodb): ship the script that sets up the users (#4440) • [`d2923e0`](https://github.com/trueforge-org/truecharts/commit/d2923e0aa41a29646331a07a6a983b11ddc5faf7) • [@Alfred Göppel] (2026-11-01)
 - feat(mongodb): add mongodb image (#4438) • [`b9eb7cb`](https://github.com/trueforge-org/truecharts/commit/b9eb7cbe9261830103ec2a9b30a740f0eba77c2c) • [@Alfred Göppel] (2026-11-01)

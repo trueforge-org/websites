@@ -14,8 +14,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.14.1 • [Train: ]
 
 - feat(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.8 → 3.15.0 (#4054) • [`181425d`](https://github.com/trueforge-org/truecharts/commit/181425d0560b567da53c15213599752087765b8c) • [@TrueCharts Bot] (2026-10-22)
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.6 → 3.14.7 (#3075) • [`689c90a`](https://github.com/trueforge-org/truecharts/commit/689c90a6150d81cc6a45b6561b377afbff32350b) • [@TrueCharts Bot] (2026-10-06)
 - fix(deps): update beetbox/beets v2.14.0 → v2.14.1 (#3647) • [`6292850`](https://github.com/trueforge-org/truecharts/commit/6292850ef51fb0b3ea540891413871a6da07a8f7) • [@TrueCharts Bot] (2026-09-17)
 
@@ -59,8 +59,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.1 • [Train: ]
 
-- chore: use `UV_EXTRA_INDEX_URL` [ci-skip] (#498) • [`d0c506e`](https://github.com/trueforge-org/truecharts/commit/d0c506e7d936f50526bf6afad0f5652010214323) • [@Devin Buhl] (2025-05-31)
 - feat: upgrade python alpine base images to 3.22 (#497) • [`3764932`](https://github.com/trueforge-org/truecharts/commit/37649320e77bcbe2e53c2d53d358ccf77a29baf7) • [@Devin Buhl] (2025-05-31)
+- chore: use `UV_EXTRA_INDEX_URL` [ci-skip] (#498) • [`d0c506e`](https://github.com/trueforge-org/truecharts/commit/d0c506e7d936f50526bf6afad0f5652010214323) • [@Devin Buhl] (2025-05-31)
 - ci: add APP var to bakefiles (#469) • [`62cc8e2`](https://github.com/trueforge-org/truecharts/commit/62cc8e2aca9ec4db49345e6c58077024dd4b26f9) • [@Devin Buhl] (2025-05-23)
 - fix(github-release): update release beetbox/beets (v2.3.0 → v2.3.1) (#449) • [`41ee113`](https://github.com/trueforge-org/truecharts/commit/41ee113accf309c82661e29bd68d33e64b39c9c6) • [@sticky-gecko[bot]] (2025-05-14)
 
