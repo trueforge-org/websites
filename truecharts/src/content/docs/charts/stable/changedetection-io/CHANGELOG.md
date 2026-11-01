@@ -174,8 +174,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.20.3 • [Train: stable]
 
-- fix(changedetection-io): update image ghcr.io/dgtlmoon/changedetection.io 0.54.4 → 0.54.5 (#45985) • [`e7c9aa9`](https://github.com/trueforge-org/truecharts/commit/e7c9aa91f97a3e675e1f9e0b8b76b9148f5f1c73) • [@TrueCharts Bot] (2026-03-12)
 - fix(helm-deps): update chart common 28.33.3 → 28.33.4 (#45987) • [`465db91`](https://github.com/trueforge-org/truecharts/commit/465db91ac6853d102ac8bb2ffd731d1b01168a02) • [@TrueCharts Bot] (2026-03-12)
+- fix(changedetection-io): update image ghcr.io/dgtlmoon/changedetection.io 0.54.4 → 0.54.5 (#45985) • [`e7c9aa9`](https://github.com/trueforge-org/truecharts/commit/e7c9aa91f97a3e675e1f9e0b8b76b9148f5f1c73) • [@TrueCharts Bot] (2026-03-12)
 
 ## 5.20.2 • [Train: stable]
 
