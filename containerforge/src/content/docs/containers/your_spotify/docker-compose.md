@@ -58,4 +58,34 @@ services:
         source: /mnt/tank/apps/your_spotify/config
         target: /config
         read_only: false
+#   mongodb:
+#     cap_drop:
+#       - ALL
+#     container_name: mongodb
+#     deploy:
+#       resources:
+#         limits:
+#           cpus: 4
+#           memory: "4294967296"
+#     environment:
+#       MONGODB_DATABASE: MYMONGODBDB
+#       MONGODB_PASSWORD: 96542698b8c42957e879cc1fe2ec00ccWORD
+#       MONGODB_ROOT_PASSWORD: c1110213877410eaa96a3fee87882eb0WORD
+#       MONGODB_USERNAME: MYMONGODBUSER
+#       TZ: Etc/UTC
+#     group_add:
+#       - "568"
+#     image: ghcr.io/trueforge-org/mongodb:9.0.4
+#     ports:
+#       - mode: ingress
+#         host_ip: 127.0.0.1
+#         target: 27017
+#         published: "27017"
+#         protocol: tcp
+#     restart: unless-stopped
+#     shm_size: "268435456"
+#     volumes:
+#       - type: bind
+#         source: /mnt/tank/apps/mongodb/config
+#         target: /config
 ```
