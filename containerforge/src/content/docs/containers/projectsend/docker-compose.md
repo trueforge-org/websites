@@ -34,13 +34,13 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: projectsend
-      MARIADB_PASSWORD: 23364cd0a99e7202faddade9301dc1bfWORD
-      MARIADB_ROOT_PASSWORD: a159faa2a402e4ff43ab51080c6e2346WORD
+      MARIADB_PASSWORD: 36308fe4939d09336f62a9d9d79559f7WORD
+      MARIADB_ROOT_PASSWORD: 263fcc0169a7487311db525f5e1c7d35WORD
       MARIADB_USER: projectsend
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
+    image: ghcr.io/trueforge-org/mariadb:11.8.6
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1

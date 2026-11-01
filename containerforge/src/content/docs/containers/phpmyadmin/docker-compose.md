@@ -71,13 +71,13 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       MARIADB_DATABASE: phpmyadmin
-#       MARIADB_PASSWORD: 75644b135cd1c4e3dca86d54eeea087fWORD
-#       MARIADB_ROOT_PASSWORD: 0ba82b2367dea07e50565145e6120168WORD
+#       MARIADB_PASSWORD: 3b5d5e65d97213801ca7909bc3bf9e88WORD
+#       MARIADB_ROOT_PASSWORD: 9308c30fa2765aa009ade342b0b9330fWORD
 #       MARIADB_USER: phpmyadmin
 #       TZ: Etc/UTC
 #     group_add:
 #       - "568"
-#     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
+#     image: ghcr.io/trueforge-org/mariadb:11.8.6
 #     ports:
 #       - mode: ingress
 #         host_ip: 127.0.0.1

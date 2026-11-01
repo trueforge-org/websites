@@ -34,13 +34,13 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: monica
-      MARIADB_PASSWORD: 892afdf42eaf83025919da476af3cb8bWORD
-      MARIADB_ROOT_PASSWORD: 63137138a9d213755ab2540da39c9d2eWORD
+      MARIADB_PASSWORD: 47de6a046cd57472b38b455c394c2583WORD
+      MARIADB_ROOT_PASSWORD: 91a63a6277ba2580c67ad6fa5a180621WORD
       MARIADB_USER: monica
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
+    image: ghcr.io/trueforge-org/mariadb:11.8.6
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -71,7 +71,7 @@ services:
       DB_CONNECTION: mysql
       DB_DATABASE: monica
       DB_HOST: mariadb
-      DB_PASSWORD: 892afdf42eaf83025919da476af3cb8bWORD
+      DB_PASSWORD: 47de6a046cd57472b38b455c394c2583WORD
       DB_PORT: "3306"
       DB_USERNAME: monica
       TZ: Etc/UTC

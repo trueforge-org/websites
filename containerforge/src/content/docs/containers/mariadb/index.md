@@ -2,7 +2,7 @@
 title: mariadb
 ---
 
-![Version: 11.4.8-r0](https://img.shields.io/badge/Version-11.4.8-r0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 11.8.6](https://img.shields.io/badge/Version-11.8.6-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **mariadb**, including upstream s
 | Field | Value |
 | --- | --- |
 | App | mariadb |
-| Version | 11.4.8-r0 |
+| Version | 11.8.6 |
 | License | AGPL--3.0--or--later |
 
 ## Source

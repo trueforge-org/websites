@@ -34,13 +34,13 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: xbackbone
-      MARIADB_PASSWORD: 1872a8081c7369987d4b64414abb7a8fWORD
-      MARIADB_ROOT_PASSWORD: 18557c3d24d470cfce89aa37edce6cefWORD
+      MARIADB_PASSWORD: 40e96f8478fb4dbe8e38ffd7ef68f73eWORD
+      MARIADB_ROOT_PASSWORD: 51a3a4e3a016c76d93f04181bad2ca54WORD
       MARIADB_USER: xbackbone
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
+    image: ghcr.io/trueforge-org/mariadb:11.8.6
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -68,7 +68,7 @@ services:
       DB_CONNECTION: mysql
       DB_DATABASE: xbackbone
       DB_HOST: mariadb
-      DB_PASSWORD: 1872a8081c7369987d4b64414abb7a8fWORD
+      DB_PASSWORD: 40e96f8478fb4dbe8e38ffd7ef68f73eWORD
       DB_PORT: "3306"
       DB_USERNAME: xbackbone
       TZ: Etc/UTC

@@ -34,13 +34,13 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: mariadb
-      MARIADB_PASSWORD: fe3211833c78fc7712abefbce6ff0809WORD
-      MARIADB_ROOT_PASSWORD: e8d74501cdcdbdf297e5f5b629fc77c0WORD
+      MARIADB_PASSWORD: 7b59b023bedcf19235f457ca7499466aWORD
+      MARIADB_ROOT_PASSWORD: 92dc04e57966d0af0cd3d6c0679fd862WORD
       MARIADB_USER: mariadb
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
+    image: ghcr.io/trueforge-org/mariadb:11.8.6
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
