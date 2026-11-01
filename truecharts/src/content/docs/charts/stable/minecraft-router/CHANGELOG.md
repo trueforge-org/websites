@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.5.0 • [Train: stable]
+
+- feat(minecraft-router): update image ghcr.io/itzg/mc-router 1.51.0 → 1.52.0 (#54546) • [`31d25fc`](https://github.com/trueforge-org/truecharts/commit/31d25fcd660763594bc32f5efa6dd57baf662812) • [@TrueCharts Bot] (2026-11-01)
+
 ## 4.4.0 • [Train: stable]
 
 - feat(minecraft-router): update image ghcr.io/itzg/mc-router 1.50.1 → 1.51.0 (#54447) • [`1f7fda5`](https://github.com/trueforge-org/truecharts/commit/1f7fda503ba1b05ea0fccdc95be92d32f66cd1ea) • [@TrueCharts Bot] (2026-10-30)
@@ -347,8 +351,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.18.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 2.17.0 • [Train: stable]
 
