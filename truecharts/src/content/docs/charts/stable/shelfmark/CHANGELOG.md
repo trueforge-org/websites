@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.1 • [Train: stable]
+
+- fix(shelfmark): update image ghcr.io/calibrain/shelfmark v1.6.0 → v1.6.1 (#54629) • [`da13c8b`](https://github.com/trueforge-org/truecharts/commit/da13c8be26a3aabfe83a9ea3af852e55783632d5) • [@TrueCharts Bot] (2026-11-02)
+
 ## 2.2.0 • [Train: stable]
 
 - feat(shelfmark): update image ghcr.io/calibrain/shelfmark v1.5.1 → v1.6.0 (#54487) • [`43810ad`](https://github.com/trueforge-org/truecharts/commit/43810ad4695808e4d035a89fa06b8dc7aa052915) • [@TrueCharts Bot] (2026-10-31)
