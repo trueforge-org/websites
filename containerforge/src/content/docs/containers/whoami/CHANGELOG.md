@@ -14,4 +14,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.12.0 • [Train: ]
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a3ec289 (#4481) • [`320431d`](https://github.com/trueforge-org/truecharts/commit/320431dc092a05019a71aa214439b8c15e2936e6) • [@TrueCharts Bot] (2026-11-03)
+- chore(golang-dep): update ghcr.io/trueforge-org/golang:1.27.3 docker digest digest to 30c178f (#4486) • [`387720f`](https://github.com/trueforge-org/truecharts/commit/387720f2225bfeeb85dc8d0feec1f324197d2410) • [@TrueCharts Bot] (2026-11-03)
 - feat(apps): add whoami and netshoot images (#4430) • [`eb99d47`](https://github.com/trueforge-org/truecharts/commit/eb99d47a339d521a170d0c0e0cf5f995ea6fbd35) • [@Alfred Göppel] (2026-10-31)
