@@ -34,8 +34,8 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: monica
-      MARIADB_PASSWORD: b27692e0fc04267c7d89f9d4d41d673eWORD
-      MARIADB_ROOT_PASSWORD: a188ba05c75f00491a33b6f7af6dbce2WORD
+      MARIADB_PASSWORD: f201774446fc4218f9de92ca44db485cWORD
+      MARIADB_ROOT_PASSWORD: 801e9616c4416cd87c5f98d0478a2925WORD
       MARIADB_USER: monica
       TZ: Etc/UTC
     group_add:
@@ -71,7 +71,7 @@ services:
       DB_CONNECTION: mysql
       DB_DATABASE: monica
       DB_HOST: mariadb
-      DB_PASSWORD: b27692e0fc04267c7d89f9d4d41d673eWORD
+      DB_PASSWORD: f201774446fc4218f9de92ca44db485cWORD
       DB_PORT: "3306"
       DB_USERNAME: monica
       TZ: Etc/UTC
