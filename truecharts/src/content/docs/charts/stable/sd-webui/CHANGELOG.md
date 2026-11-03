@@ -79,8 +79,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.0.2 • [Train: stable]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
+- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 5.0.1 • [Train: stable]
@@ -502,8 +502,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.2.32 • [Train: incubator]
 
 - fix(website): remove references to deprecated guides • [`d25d00b`](https://github.com/trueforge-org/truecharts/commit/d25d00b9c237f6cbe63941158ccffe03ed9943e9) • [@Kjeld Schouten] (2024-11-04)
-- chore(helm): update image ghcr.io/neggles/sd-webui-docker digest to 3a3847c (#28749) • [`9b164ec`](https://github.com/trueforge-org/truecharts/commit/9b164ec981f8487bf84c5c45f25feacaad3c3120) • [@TrueCharts Bot] (2024-11-03)
 - Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
+- chore(helm): update image ghcr.io/neggles/sd-webui-docker digest to 3a3847c (#28749) • [`9b164ec`](https://github.com/trueforge-org/truecharts/commit/9b164ec981f8487bf84c5c45f25feacaad3c3120) • [@TrueCharts Bot] (2024-11-03)
 
 ## 2.2.31 • [Train: incubator]
 
@@ -1086,8 +1086,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.6 • [Train: incubator]
 
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
-- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@6e0740a by renovate (#22679) • [`31f31a8`](https://github.com/trueforge-org/truecharts/commit/31f31a8db8e4dfad0091698e4d034c7ed07edd53) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@6e0740a by renovate (#22679) • [`31f31a8`](https://github.com/trueforge-org/truecharts/commit/31f31a8db8e4dfad0091698e4d034c7ed07edd53) • [@TrueCharts Bot] (2024-05-31)
 
 ## 1.0.5 • [Train: incubator]
 
