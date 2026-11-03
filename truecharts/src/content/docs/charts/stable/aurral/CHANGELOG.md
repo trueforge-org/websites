@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.3.0 • [Train: stable]
+
+- feat(aurral): update image ghcr.io/lklynet/aurral 2.12.0 → 2.13.0 (#54699) • [`64cca48`](https://github.com/trueforge-org/truecharts/commit/64cca48d238f47e42ae8f8f1ceff0568259bd342) • [@TrueCharts Bot] (2026-11-03)
+
 ## 2.2.0 • [Train: stable]
 
 - feat(aurral): update image ghcr.io/lklynet/aurral 2.11.0 → 2.12.0 (#54234) • [`bbe67a0`](https://github.com/trueforge-org/truecharts/commit/bbe67a0a6962e1e6874206034ef0475d4b7d7a3e) • [@TrueCharts Bot] (2026-10-27)
