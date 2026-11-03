@@ -2,7 +2,7 @@
 title: mastodon
 ---
 
-![Version: 4.7.4](https://img.shields.io/badge/Version-4.7.4-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 4.7.5](https://img.shields.io/badge/Version-4.7.5-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **mastodon**, including upstream 
 | Field | Value |
 | --- | --- |
 | App | mastodon |
-| Version | 4.7.4 |
+| Version | 4.7.5 |
 | License | AGPL--3.0--or--later |
 
 ## Source
