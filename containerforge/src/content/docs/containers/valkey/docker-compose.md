@@ -36,7 +36,7 @@ services:
       TZ: Etc/UTC
       VALKEY_APPENDONLY: "yes"
       VALKEY_DATA_DIR: /config
-      VALKEY_PASSWORD: fc189a7a68bf46d6851ff754ca3b0e0bWORD
+      VALKEY_PASSWORD: 54e709dfc7eab97354ebd6af66b607c6WORD
     group_add:
       - "568"
     image: ghcr.io/trueforge-org/valkey:9.0.4
