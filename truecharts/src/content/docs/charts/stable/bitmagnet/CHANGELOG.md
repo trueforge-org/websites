@@ -134,8 +134,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.17 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 4.13.16 • [Train: stable]
 
@@ -211,8 +211,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 4.12.0 • [Train: stable]
 
@@ -241,9 +241,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.9.0 • [Train: stable]
 
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 4.8.0 • [Train: stable]
 
@@ -294,8 +294,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.3.5 • [Train: stable]
 
-- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 
 ## 4.3.4 • [Train: stable]
 
@@ -565,8 +565,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.9.7 • [Train: stable]
 
-- chore: update docs links • [`6e36f6e`](https://github.com/trueforge-org/truecharts/commit/6e36f6e157ba9f221e921172d26d8040eb044707) • [@Kjeld Schouten] (2024-04-20)
 - chore(deps): update container image common to v20.3.11@dae6129 by renovate (#20875) • [`53e2bed`](https://github.com/trueforge-org/truecharts/commit/53e2bed79fb73bb5e6334edafb90af207aa3fb35) • [@TrueCharts Bot] (2024-04-20)
+- chore: update docs links • [`6e36f6e`](https://github.com/trueforge-org/truecharts/commit/6e36f6e157ba9f221e921172d26d8040eb044707) • [@Kjeld Schouten] (2024-04-20)
 
 ## 1.9.6 • [Train: stable]
 
@@ -582,8 +582,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.9.4 • [Train: stable]
 
-- chore(docs): make links relative • [`5ba71e6`](https://github.com/trueforge-org/truecharts/commit/5ba71e6ec30b5defcdb5340f0776cc6362db5511) • [@Stavros Kois] (2024-04-14)
 - chore(docs): Fix broken links for Starlight (#20737) • [`f8affcc`](https://github.com/trueforge-org/truecharts/commit/f8affccb717a62183d56eace9a6897ec7a0bebba) • [@StevenMcElligott] (2024-04-14)
+- chore(docs): make links relative • [`5ba71e6`](https://github.com/trueforge-org/truecharts/commit/5ba71e6ec30b5defcdb5340f0776cc6362db5511) • [@Stavros Kois] (2024-04-14)
 - chore(deps): update container image common to v20.3.6@27edfed by renovate (#20599) • [`6c807c1`](https://github.com/trueforge-org/truecharts/commit/6c807c1f9707d9fd751d71cbfed29469368880e2) • [@TrueCharts Bot] (2024-04-11)
 
 ## 1.9.3 • [Train: stable]
@@ -722,8 +722,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: incubator]
 
-- chore(bitmagnet): move to stable • [`2d2d889`](https://github.com/trueforge-org/truecharts/commit/2d2d8894a512cc2cdd56f52de4294a00ad588456) • [@Kjeld Schouten] (2024-02-24)
 - chore: BREAKING CHANGE remove SCALE-GPU GUI support in favor of custom-GPU GUI • [`e2ec0b0`](https://github.com/trueforge-org/truecharts/commit/e2ec0b02c6202c43cc19f4c4ad047025985ebb51) • [@Kjeld Schouten] (2024-02-24)
+- chore(bitmagnet): move to stable • [`2d2d889`](https://github.com/trueforge-org/truecharts/commit/2d2d8894a512cc2cdd56f52de4294a00ad588456) • [@Kjeld Schouten] (2024-02-24)
 
 ## 0.0.1 • [Train: incubator]
 
