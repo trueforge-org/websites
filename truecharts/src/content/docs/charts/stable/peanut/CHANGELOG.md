@@ -25,8 +25,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.1.3 • [Train: stable]
 
-- fix(helm-deps): update chart common 30.2.2 → 30.2.4 (#53735) • [`7bf2ad2`](https://github.com/trueforge-org/truecharts/commit/7bf2ad201e0ecfaa048f44693161c7ef95aeb9f0) • [@TrueCharts Bot] (2026-10-19)
 - fix(peanut): update image docker.io/brandawg93/peanut 6.1.1 → 6.1.2 (#53740) • [`cd8826d`](https://github.com/trueforge-org/truecharts/commit/cd8826dd0bf9a00c6329f06c50fa1eb44d6cdfc0) • [@TrueCharts Bot] (2026-10-19)
+- fix(helm-deps): update chart common 30.2.2 → 30.2.4 (#53735) • [`7bf2ad2`](https://github.com/trueforge-org/truecharts/commit/7bf2ad201e0ecfaa048f44693161c7ef95aeb9f0) • [@TrueCharts Bot] (2026-10-19)
 
 ## 11.1.2 • [Train: stable]
 
@@ -267,8 +267,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.18.0 • [Train: stable]
 
-- Commit daily changes • [`0accf63`](https://github.com/trueforge-org/truecharts/commit/0accf6365ee2c01479d21a5a62bf4ee11d4245b3) • [@TrueCharts-Bot] (2025-11-12)
 - chore(helm): update image docker.io/brandawg93/peanut 5.16.0 → 5.17.0 (#41643) • [`dfb0965`](https://github.com/trueforge-org/truecharts/commit/dfb0965303c6c6949a52ecca1ced1cd4be54f406) • [@TrueCharts Bot] (2025-11-12)
+- Commit daily changes • [`0accf63`](https://github.com/trueforge-org/truecharts/commit/0accf6365ee2c01479d21a5a62bf4ee11d4245b3) • [@TrueCharts-Bot] (2025-11-12)
 
 ## 8.17.3 • [Train: stable]
 
