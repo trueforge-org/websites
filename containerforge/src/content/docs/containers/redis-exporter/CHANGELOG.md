@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.97.0 • [Train: ]
+
+- feat(deps): update oliver006/redis_exporter v1.96.0 → v1.97.0 (#4507) • [`8c03203`](https://github.com/trueforge-org/truecharts/commit/8c03203d868409d92af86fd80b928d66c74d2705) • [@TrueCharts Bot] (2026-11-04)
+
 ## 1.96.0 • [Train: ]
 
 - feat(deps): update oliver006/redis_exporter v1.94.0 → v1.96.0 (#4497) • [`2b8f99c`](https://github.com/trueforge-org/truecharts/commit/2b8f99cbff4ef9a977e89325e40a4c254e59dd24) • [@TrueCharts Bot] (2026-11-03)
