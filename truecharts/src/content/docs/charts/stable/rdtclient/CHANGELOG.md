@@ -128,8 +128,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 8.0.3 • [Train: stable]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
+- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 8.0.2 • [Train: stable]
@@ -286,8 +286,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.13.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 7.12.0 • [Train: stable]
 
@@ -352,8 +352,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.6.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 7.6.0 • [Train: stable]
 
@@ -665,8 +665,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`211d95b`](https://github.com/trueforge-org/truecharts/commit/211d95b95d2e49ca17709059ffe7b5e67e251db3) • [@TrueCharts-Bot] (2024-05-11)
 - Commit daily changes • [`6e72827`](https://github.com/trueforge-org/truecharts/commit/6e728271ad5ff1a3cbf3ce945fcb7f056a556484) • [@TrueCharts-Bot] (2024-05-09)
 - Commit daily changes • [`410bacb`](https://github.com/trueforge-org/truecharts/commit/410bacb1c125e67432259a71529f46c58054e4ef) • [@TrueCharts-Bot] (2024-05-07)
-- Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
 - chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
+- Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
 - chore(deps): update container image ghcr.io/rogerfar/rdtclient to v2.0.78@6137ed0 by renovate (#21577) • [`2a90b85`](https://github.com/trueforge-org/truecharts/commit/2a90b85eb4a996a6dd474ac8fb07abe35d410af8) • [@TrueCharts Bot] (2024-05-05)
 
 ## 5.0.4 • [Train: stable]
@@ -786,8 +786,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.8.1 • [Train: stable]
 
 - Commit daily changes • [`eecc44d`](https://github.com/trueforge-org/truecharts/commit/eecc44dbd242b325a56edc7095c7998959af18b2) • [@TrueCharts-Bot] (2024-04-10)
-- chore(deps): update container image ghcr.io/rogerfar/rdtclient to v2.0.66@c693300 by renovate (#20483) • [`d52d24c`](https://github.com/trueforge-org/truecharts/commit/d52d24c46429a8668dd82bda491ce6eaf940c2a5) • [@TrueCharts Bot] (2024-04-09)
 - chore(deps): update container image common to v20.3.3@3876ba5 by renovate (#20478) • [`204bb16`](https://github.com/trueforge-org/truecharts/commit/204bb166ae637d01f18147c76523017cd428d1ed) • [@TrueCharts Bot] (2024-04-09)
+- chore(deps): update container image ghcr.io/rogerfar/rdtclient to v2.0.66@c693300 by renovate (#20483) • [`d52d24c`](https://github.com/trueforge-org/truecharts/commit/d52d24c46429a8668dd82bda491ce6eaf940c2a5) • [@TrueCharts Bot] (2024-04-09)
 
 ## 4.8.0 • [Train: stable]
 
