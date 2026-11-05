@@ -41,7 +41,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/planka:v2.3.0
+    image: ghcr.io/trueforge-org/planka:v2.3.1
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -66,7 +66,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: planka
-#       POSTGRES_PASSWORD: 326203082092b7f51f248b8c5842d797WORD
+#       POSTGRES_PASSWORD: 0b5ec0d1de61524952e32661223b465cWORD
 #       POSTGRES_USER: planka
 #       TZ: Etc/UTC
 #     group_add:
