@@ -36,7 +36,7 @@ services:
       DB_DATABASE: whisparr-eros
       DB_HOST: postgresql
       DB_LOGSDB: whisparr-eros-log
-      DB_PASSWORD: f855c625d844e4adc011c7cc3a1d2d0eWORD
+      DB_PASSWORD: 8c922048f009472bec07482572caa25aWORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: whisparr-eros
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: whisparr-eros
-#       POSTGRES_PASSWORD: f855c625d844e4adc011c7cc3a1d2d0eWORD
+#       POSTGRES_PASSWORD: 8c922048f009472bec07482572caa25aWORD
 #       POSTGRES_USER: whisparr-eros
 #       TZ: Etc/UTC
 #     group_add:
