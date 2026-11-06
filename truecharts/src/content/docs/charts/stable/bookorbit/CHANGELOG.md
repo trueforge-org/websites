@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.4.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
+
 ## 3.3.0 • [Train: stable]
 
 - feat(bookorbit): update image ghcr.io/bookorbit/bookorbit 3.5.0 → 3.6.0 (#54257) • [`eb03415`](https://github.com/trueforge-org/truecharts/commit/eb034154a225af43c3e8eaf4981e2c59ccbab5ed) • [@TrueCharts Bot] (2026-10-28)

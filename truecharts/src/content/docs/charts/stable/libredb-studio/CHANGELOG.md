@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.3.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
+
 ## 3.2.0 • [Train: stable]
 
 - feat(libredb-studio): update image ghcr.io/libredb/libredb-studio 1.1.0 → 1.2.0 (#54470) • [`0864642`](https://github.com/trueforge-org/truecharts/commit/0864642906d683844021a890a7c6212639bb6fd9) • [@TrueCharts Bot] (2026-10-31)

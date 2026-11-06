@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
+
 ## 2.1.0 • [Train: stable]
 
 - feat(convertx): update image ghcr.io/c4illin/convertx v0.19.0 → v0.20.0 (#54351) • [`a1df61f`](https://github.com/trueforge-org/truecharts/commit/a1df61f43c06d7d929277f68a34a1ded0c671992) • [@TrueCharts Bot] (2026-10-29)

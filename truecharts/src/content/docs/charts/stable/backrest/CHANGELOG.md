@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
+
 ## 3.0.4 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.2.8 → 30.2.9 (#54147) • [`567d8b9`](https://github.com/trueforge-org/truecharts/commit/567d8b967254110733438d7b62ca8a4109d9b3b0) • [@TrueCharts Bot] (2026-10-26)
@@ -149,8 +153,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.11 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 1.0.10 • [Train: stable]
 
@@ -215,6 +219,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.1 • [Train: incubator]
 
-- Commit daily changes • [`92d3516`](https://github.com/trueforge-org/truecharts/commit/92d35160776d91274e51c447d43f17c8cb5caad7) • [@TrueCharts-Bot] (2026-01-03)
 - chore(backrest): pin image docker.io/garethgeorge/backrest digest to 1308397 (#43329) • [`68fd8a6`](https://github.com/trueforge-org/truecharts/commit/68fd8a6db1e5ff620a7b340e39f1c251a1eef950) • [@TrueCharts Bot] (2026-01-03)
+- Commit daily changes • [`92d3516`](https://github.com/trueforge-org/truecharts/commit/92d35160776d91274e51c447d43f17c8cb5caad7) • [@TrueCharts-Bot] (2026-01-03)
 - feat(backrest): add initial chart files and configuration (#43328) • [`8f3ab64`](https://github.com/trueforge-org/truecharts/commit/8f3ab648f9f9b0dc6a3d7e1f8ed3378ffc6991f6) • [@jogotcha] (2026-01-02)

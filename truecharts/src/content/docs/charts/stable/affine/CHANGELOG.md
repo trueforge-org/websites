@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
+
 ## 3.0.10 • [Train: stable]
 
 - fix(helm-deps): update chart valkey 3.0.7 → 3.0.8 (#54543) • [`596af18`](https://github.com/trueforge-org/truecharts/commit/596af18b3eb9fa99d297661ef74f671684b89937) • [@TrueCharts Bot] (2026-11-01)

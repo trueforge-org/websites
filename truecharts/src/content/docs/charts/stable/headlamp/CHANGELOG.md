@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
+
 ## 2.1.10 • [Train: stable]
 
 - chore(headlamp): update image oci.trueforge.org/containerforge/node digest to 27e759f (#54789) • [`ece21a6`](https://github.com/trueforge-org/truecharts/commit/ece21a641991de1060ddc9bdd78331f2692650d9) • [@TrueCharts Bot] (2026-11-05)

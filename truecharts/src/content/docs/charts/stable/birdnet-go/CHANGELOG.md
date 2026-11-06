@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
+
 ## 2.0.6 • [Train: stable]
 
 - fix(birdnet-go): update image ghcr.io/tphakala/birdnet-go 20261014 → 20261031 (#54480) • [`6f4f895`](https://github.com/trueforge-org/truecharts/commit/6f4f8956280334b2f5c55d806103c8ee85d13eee) • [@TrueCharts Bot] (2026-10-31)

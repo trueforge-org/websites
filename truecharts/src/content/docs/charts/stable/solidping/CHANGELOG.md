@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.7.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
+
 ## 1.6.0 • [Train: stable]
 
 - feat(solidping): update image ghcr.io/fclairamb/solidping 0.43.1 → 0.44.0 (#54887) • [`6a7f463`](https://github.com/trueforge-org/truecharts/commit/6a7f4639b13ee34eef7bee11228902029d0368fc) • [@TrueCharts Bot] (2026-11-06)

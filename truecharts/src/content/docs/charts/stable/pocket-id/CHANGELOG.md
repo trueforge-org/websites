@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
+
 ## 2.1.3 • [Train: stable]
 
 - fix(pocket-id): update image ghcr.io/pocket-id/pocket-id v2.19.1 → v2.19.2 (#54662) • [`3f13884`](https://github.com/trueforge-org/truecharts/commit/3f13884184c02f2d257b64fedaa1ef45781a424c) • [@TrueCharts Bot] (2026-11-03)
