@@ -2,12 +2,13 @@
 title: common-test
 ---
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: unknown](https://img.shields.io/badge/AppVersion-unknown-informational?style=flat-square)
+![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: unknown](https://img.shields.io/badge/AppVersion-unknown-informational?style=flat-square)
 
 Helper chart to test different use cases of the common library
 
 ## Chart Sources
 
+- https://github.com/trueforge-org/containers/tree/main/apps/ubuntu
 - https://github.com/trueforge-org/truecharts/tree/master/charts/library/common-test
 
 ## Available Documentation
