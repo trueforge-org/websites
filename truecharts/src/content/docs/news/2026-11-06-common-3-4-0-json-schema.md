@@ -33,6 +33,20 @@ That makes it much easier for AI assistants, generators and other automation to 
 Instead of guessing from examples, they can read the schema, produce valid configuration and check their own output.
 This means fewer invented keys and more reliable AI-assisted configuration.
 
+## Documentation Generated From the Schema
+
+The complete **common-2026 documentation is now generated directly from the schema**.
+Because the docs and the schema come from the same source, they can no longer drift apart.
+That means no more stale common-2026 docs: when an option changes, the documentation changes with it.
+
+## Much Stronger Coverage Checking
+
+We also significantly improved coverage checking.
+Documentation, unit tests and the schema itself now all have extensive coverage tests.
+These checks make sure every option is defined in the schema, documented and tested.
+This greatly reduces the chance of holes in our testing and documentation,
+and helps us catch missing pieces before they reach a release.
+
 ## Improved Security
 
 Configuration mistakes are a real source of security problems.
