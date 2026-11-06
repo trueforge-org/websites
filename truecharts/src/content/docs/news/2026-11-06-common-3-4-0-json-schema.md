@@ -23,7 +23,8 @@ Helm checks your values against this schema whenever you install, upgrade, lint 
 
 - **Mistakes are caught early.** Typos, wrong nesting and wrong types are reported before anything reaches your cluster.
 - **Clear error messages.** Helm tells you which key is wrong and why, instead of leaving you to guess why something does not behave as expected.
-- **Better editor support.** Editors with YAML language server support (such as VS Code) can offer autocompletion, inline documentation and live validation while you write your values.
+- **Better editor support.** Editors with YAML language server support (such as VS Code) can offer autocompletion,
+  inline documentation and live validation while you write your values.
 - **One source of truth.** Users, contributors and CI tooling all validate against the same definition of what a valid `values.yaml` looks like.
 
 ## Easier for AI and Other Tools
