@@ -12,6 +12,7 @@ Your Ultimate IPTV & Stream Management Companion
 - https://github.com/Dispatcharr/Dispatcharr
 - https://github.com/Dispatcharr/Dispatcharr/blob/main/docker/docker-compose.aio.yml
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/dispatcharr
+- https://hub.docker.com/_/alpine
 
 ## Available Documentation
 
