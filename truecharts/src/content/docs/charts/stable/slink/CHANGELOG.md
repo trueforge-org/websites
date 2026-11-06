@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.0 • [Train: stable]
+
+- feat(charts): validate values against remote common schema (failing templating) (#54903) • [`533d27b`](https://github.com/trueforge-org/truecharts/commit/533d27b37ffc9018d974ec544ca5fa850ef8d8a3) • [@Kjeld Schouten] (2026-11-06)
+
 ## 7.0.9 • [Train: stable]
 
 - fix(slink): update image docker.io/anirdev/slink v1.14.4 → v1.14.5 (#54469) • [`10d791a`](https://github.com/trueforge-org/truecharts/commit/10d791a4a3e343c1d92cbe3a85ef2207a3fb50a3) • [@TrueCharts Bot] (2026-10-31)
@@ -407,9 +411,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.11.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 5.10.2 • [Train: stable]
 
