@@ -1,6 +1,6 @@
 ---
 slug: "news/truecharts/common-3-4-0-json-schema"
-title: "Common 3.4.0: JSON Schema for values.yaml"
+title: "Common 30.4.0: JSON Schema for values.yaml"
 authors: [crowcontrol]
 date: 2026-11-06
 tags:
@@ -8,9 +8,9 @@ tags:
   - "announcement"
 ---
 
-## Common 3.4.0 Released: values.yaml Now Has a JSON Schema
+## Common 30.4.0 Released: values.yaml Now Has a JSON Schema
 
-We are happy to announce the release of **common 3.4.0**, the shared Helm library behind every TrueCharts chart.
+We are happy to announce the release of **common 30.4.0**, the shared Helm library behind every TrueCharts chart.
 The headline feature of this release is a complete **JSON schema for `values.yaml`**.
 
 ## What Is a JSON Schema?
