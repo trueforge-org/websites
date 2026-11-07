@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/jackett:v0.24.3021
+    image: ghcr.io/trueforge-org/jackett:v0.24.3025
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
