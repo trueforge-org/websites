@@ -17,6 +17,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.0 • [Train: stable]
 
+- Commit daily changes • [`5f27360`](https://github.com/trueforge-org/truecharts/commit/5f273605c22759737774fc10f4b4f07bdad107c0) • [@TrueCharts-Bot] (2026-11-07)
 - feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
 
 ## 3.0.8 • [Train: stable]
@@ -278,8 +279,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: incubator]
 
-- chore(valkey): pin image docker.io/bitnamisecure/valkey digest to 14dc12c (#44989) • [`f74af0f`](https://github.com/trueforge-org/truecharts/commit/f74af0f85c4bceaf11b7df0078ad12e15c6b3f4a) • [@TrueCharts Bot] (2026-02-15)
 - Bump version from 0.0.1 to 0.0.2 • [`96b77fa`](https://github.com/trueforge-org/truecharts/commit/96b77fa49ea4353bb67175707c3151d75e1e5d0e) • [@Kjeld Schouten] (2026-02-15)
+- chore(valkey): pin image docker.io/bitnamisecure/valkey digest to 14dc12c (#44989) • [`f74af0f`](https://github.com/trueforge-org/truecharts/commit/f74af0f85c4bceaf11b7df0078ad12e15c6b3f4a) • [@TrueCharts Bot] (2026-02-15)
 
 ## 0.0.1 • [Train: incubator]
 

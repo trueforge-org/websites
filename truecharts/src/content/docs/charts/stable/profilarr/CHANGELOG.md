@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.2.0 • [Train: stable]
 
+- Commit daily changes • [`5f27360`](https://github.com/trueforge-org/truecharts/commit/5f273605c22759737774fc10f4b4f07bdad107c0) • [@TrueCharts-Bot] (2026-11-07)
 - feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
 
 ## 5.1.2 • [Train: stable]
@@ -291,8 +292,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.7.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 2.7.0 • [Train: stable]
 
@@ -400,8 +401,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.0 • [Train: stable]
 
 - Commit daily changes • [`81131bc`](https://github.com/trueforge-org/truecharts/commit/81131bc7f2a3f63487ba9bff2396ea05abbba2ba) • [@TrueCharts-Bot] (2025-04-10)
-- chore(profilarr) move profilarr to stable (#34037) • [`34d8f07`](https://github.com/trueforge-org/truecharts/commit/34d8f078e4f814f2a9c51823d50ac3cc9729ed91) • [@Xstar97TheNoob] (2025-04-07)
 - feat(common): remove portal and ensure appUrl is used for notes.txt (#34047) • [`f8e3376`](https://github.com/trueforge-org/truecharts/commit/f8e33766bfc580b0cfa1ebbda93e110c98209022) • [@Kjeld Schouten] (2025-04-07)
+- chore(profilarr) move profilarr to stable (#34037) • [`34d8f07`](https://github.com/trueforge-org/truecharts/commit/34d8f078e4f814f2a9c51823d50ac3cc9729ed91) • [@Xstar97TheNoob] (2025-04-07)
 
 ## 0.0.1 • [Train: incubator]
 

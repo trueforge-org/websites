@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.0 • [Train: stable]
 
+- Commit daily changes • [`5f27360`](https://github.com/trueforge-org/truecharts/commit/5f273605c22759737774fc10f4b4f07bdad107c0) • [@TrueCharts-Bot] (2026-11-07)
 - feat(charts): validate values against remote common schema (#54902) • [`45a7409`](https://github.com/trueforge-org/truecharts/commit/45a740962cd038b7a9e78154827b5b1cc4da9669) • [@Kjeld Schouten] (2026-11-06)
 
 ## 2.1.0 • [Train: stable]

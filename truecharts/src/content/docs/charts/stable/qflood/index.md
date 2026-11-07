@@ -2,14 +2,14 @@
 title: qflood
 ---
 
-![Version: 12.0.0](https://img.shields.io/badge/Version-12.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.2.3](https://img.shields.io/badge/AppVersion-5.2.3-informational?style=flat-square)
+![Version: 12.0.0](https://img.shields.io/badge/Version-12.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.3.0](https://img.shields.io/badge/AppVersion-5.3.0-informational?style=flat-square)
 
 Chart with qBittorrent and the Flood UI.
 
 ## Chart Sources
 
-- https://ghcr.io/engels74/qflood
 - https://github.com/engels74/qflood
+- https://github.com/trueforge-org/containers/tree/main/apps/qflood
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/qflood
 
 ## Available Documentation
