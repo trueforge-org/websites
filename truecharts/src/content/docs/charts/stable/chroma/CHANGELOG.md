@@ -285,8 +285,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.14.3 • [Train: stable]
 
-- chore(helm): update image ghcr.io/chroma-core/chroma 1.3.0 → 1.3.2 (#41403) • [`b6ac058`](https://github.com/trueforge-org/truecharts/commit/b6ac05816e913f60cc77d0809ce473e87e43fae7) • [@TrueCharts Bot] (2025-11-04)
 - Commit daily changes • [`dfe2909`](https://github.com/trueforge-org/truecharts/commit/dfe2909e3628718e83ddfecffe2770551fea0c74) • [@TrueCharts-Bot] (2025-11-04)
+- chore(helm): update image ghcr.io/chroma-core/chroma 1.3.0 → 1.3.2 (#41403) • [`b6ac058`](https://github.com/trueforge-org/truecharts/commit/b6ac05816e913f60cc77d0809ce473e87e43fae7) • [@TrueCharts Bot] (2025-11-04)
 
 ## 6.14.2 • [Train: stable]
 
