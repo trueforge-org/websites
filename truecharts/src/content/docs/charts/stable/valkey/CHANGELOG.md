@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat: Add incubator `valkey` chart scaffolded from stable `redis` (#44984) • [`b21ce0e`](https://github.com/trueforge-org/truecharts/commit/b21ce0e1f5056e51481b8627d3813eec0b1bb9d2) • [@Copilot] (2026-02-15)
 
+## 3.1.3 • [Train: stable]
+
+- fix(helm-deps): update chart common 30.4.1 → 30.4.4 (#54969) • [`6dee648`](https://github.com/trueforge-org/truecharts/commit/6dee6482c5ce6aca7252fef8bd10e3f5060dd53e) • [@TrueCharts Bot] (2026-11-08)
+
 ## 3.1.1 • [Train: stable]
 
 - chore(valkey): update image docker.io/bitnamisecure/valkey digest to 3b340a0 (#54965) • [`50c3a34`](https://github.com/trueforge-org/truecharts/commit/50c3a342087ea51495e30cac4bd5bf1e2ee29821) • [@TrueCharts Bot] (2026-11-07)
@@ -193,8 +197,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.6 • [Train: incubator]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
 - more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
+- Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 1.0.5 • [Train: incubator]

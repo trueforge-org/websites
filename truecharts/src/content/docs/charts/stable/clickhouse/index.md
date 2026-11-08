@@ -2,7 +2,7 @@
 title: clickhouse
 ---
 
-![Version: 19.2.0](https://img.shields.io/badge/Version-19.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 26.10.3.7](https://img.shields.io/badge/AppVersion-26.10.3.7-informational?style=flat-square)
+![Version: 19.2.2](https://img.shields.io/badge/Version-19.2.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 26.10.3.7](https://img.shields.io/badge/AppVersion-26.10.3.7-informational?style=flat-square)
 
 ClickHouse is a column-oriented database management system (DBMS) for online analytical processing of queries (OLAP).
 

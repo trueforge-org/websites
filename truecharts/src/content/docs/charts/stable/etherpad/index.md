@@ -2,7 +2,7 @@
 title: etherpad
 ---
 
-![Version: 23.1.1](https://img.shields.io/badge/Version-23.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.3.16](https://img.shields.io/badge/AppVersion-3.3.16-informational?style=flat-square)
+![Version: 23.1.3](https://img.shields.io/badge/Version-23.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.3.16](https://img.shields.io/badge/AppVersion-3.3.16-informational?style=flat-square)
 
 A real-time collaborative editor scalable to thousands of simultaneous real time users.
 
