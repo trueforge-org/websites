@@ -2,7 +2,7 @@
 title: tracearr
 ---
 
-![Version: 8.2.4](https://img.shields.io/badge/Version-8.2.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.7](https://img.shields.io/badge/AppVersion-3.1.7-informational?style=flat-square)
+![Version: 8.3.0](https://img.shields.io/badge/Version-8.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.7](https://img.shields.io/badge/AppVersion-3.1.7-informational?style=flat-square)
 
 Streaming access manager for Plex, Jellyfin, and Emby with account sharing detection.
 
