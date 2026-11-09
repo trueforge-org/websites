@@ -2,7 +2,7 @@
 title: vocechat-server
 ---
 
-![Version: 8.1.2](https://img.shields.io/badge/Version-8.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.39](https://img.shields.io/badge/AppVersion-0.5.39-informational?style=flat-square)
+![Version: 8.1.5](https://img.shields.io/badge/Version-8.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.40](https://img.shields.io/badge/AppVersion-0.5.40-informational?style=flat-square)
 
 A superlight rust written social server.
 

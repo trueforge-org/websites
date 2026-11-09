@@ -2,7 +2,7 @@
 title: solidping
 ---
 
-![Version: 1.7.3](https://img.shields.io/badge/Version-1.7.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.44.3](https://img.shields.io/badge/AppVersion-0.44.3-informational?style=flat-square)
+![Version: 1.7.5](https://img.shields.io/badge/Version-1.7.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.44.3](https://img.shields.io/badge/AppVersion-0.44.3-informational?style=flat-square)
 
 SolidPing is a self-hosted uptime and synthetic monitoring tool with status pages, incidents and on-call.
 

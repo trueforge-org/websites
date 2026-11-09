@@ -2,7 +2,7 @@
 title: atuin
 ---
 
-![Version: 8.2.2](https://img.shields.io/badge/Version-8.2.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 18.24.5](https://img.shields.io/badge/AppVersion-18.24.5-informational?style=flat-square)
+![Version: 8.2.4](https://img.shields.io/badge/Version-8.2.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 18.24.5](https://img.shields.io/badge/AppVersion-18.24.5-informational?style=flat-square)
 
 Magical shell history.
 
