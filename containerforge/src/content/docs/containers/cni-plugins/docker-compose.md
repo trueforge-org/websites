@@ -34,7 +34,7 @@ services:
           memory: 4G
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/cni-plugins:v1.9.1
+    image: ghcr.io/trueforge-org/cni-plugins:v1.10.0
     restart: unless-stopped
     shm_size: 256M
     volumes:

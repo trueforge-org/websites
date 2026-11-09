@@ -2,7 +2,7 @@
 title: cni-plugins
 ---
 
-![Version: v1.9.1](https://img.shields.io/badge/Version-v1.9.1-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: v1.10.0](https://img.shields.io/badge/Version-v1.10.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **cni-plugins**, including upstre
 | Field | Value |
 | --- | --- |
 | App | cni-plugins |
-| Version | v1.9.1 |
+| Version | v1.10.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
