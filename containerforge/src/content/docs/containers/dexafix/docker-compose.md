@@ -59,7 +59,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: dexafix
-#       POSTGRES_PASSWORD: f4ab4d045643c9a1e6470cf03a6315eeWORD
+#       POSTGRES_PASSWORD: 703f7311cc88dbba95129826852e9d3cWORD
 #       POSTGRES_USER: dexafix
 #       TZ: Etc/UTC
 #     group_add:
