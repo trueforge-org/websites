@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.9.0 • [Train: stable]
+
+- feat(solidping): update image ghcr.io/fclairamb/solidping 0.45.0 → 0.46.0 (#55068) • [`bb5b61f`](https://github.com/trueforge-org/truecharts/commit/bb5b61f6005b80acf647307797ceef07264e6b15) • [@TrueCharts Bot] (2026-11-10)
+
 ## 1.8.0 • [Train: stable]
 
 - feat(solidping): update image ghcr.io/fclairamb/solidping 0.44.3 → 0.45.0 (#55057) • [`6d7c2ba`](https://github.com/trueforge-org/truecharts/commit/6d7c2ba977e2371501c158679019eef80ae692c6) • [@TrueCharts Bot] (2026-11-10)
