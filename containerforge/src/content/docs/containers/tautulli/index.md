@@ -2,7 +2,7 @@
 title: tautulli
 ---
 
-![Version: 2.19.0](https://img.shields.io/badge/Version-2.19.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 2.19.1](https://img.shields.io/badge/Version-2.19.1-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **tautulli**, including upstream 
 | Field | Value |
 | --- | --- |
 | App | tautulli |
-| Version | 2.19.0 |
+| Version | 2.19.1 |
 | License | AGPL--3.0--or--later |
 
 ## Source

@@ -69,8 +69,8 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       MONGODB_DATABASE: MYMONGODBDB
-#       MONGODB_PASSWORD: 2cc4b48c9c6c34e50f162fbb486f724eWORD
-#       MONGODB_ROOT_PASSWORD: 5d97dc704250da7663360addcccf4b9aWORD
+#       MONGODB_PASSWORD: 21fe4f6c4bbc1ed46ab4b8a0bef60327WORD
+#       MONGODB_ROOT_PASSWORD: 145bd77b1272affd8c3af200bb80f3cdWORD
 #       MONGODB_USERNAME: MYMONGODBUSER
 #       TZ: Etc/UTC
 #     group_add:
