@@ -28,8 +28,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.3.2 • [Train: ]
 
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.6 → 3.14.7 (#3075) • [`689c90a`](https://github.com/trueforge-org/truecharts/commit/689c90a6150d81cc6a45b6561b377afbff32350b) • [@TrueCharts Bot] (2026-10-06)
 - fix(deps): update selkies-project/sealskin 0.3.1 → 0.3.2 (#3535) • [`5d11853`](https://github.com/trueforge-org/truecharts/commit/5d11853dee1804ff143a8429c40e4478d3e78cc5) • [@TrueCharts Bot] (2026-09-11)
 
@@ -58,8 +58,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.38 • [Train: ]
 
-- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.4 docker digest digest to 622c7c1 (#2326) • [`e1f2bc1`](https://github.com/trueforge-org/truecharts/commit/e1f2bc1071f9dccdcb0f5a0c6a3b1e496c64ac20) • [@TrueCharts Bot] (2026-05-07)
 - feat(python-dep): update python (minor) (#2287) • [`4efcb6e`](https://github.com/trueforge-org/truecharts/commit/4efcb6ed8c0de6dacaa7ca3c02ec104816578aa8) • [@TrueCharts Bot] (2026-05-07)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.4 docker digest digest to 622c7c1 (#2326) • [`e1f2bc1`](https://github.com/trueforge-org/truecharts/commit/e1f2bc1071f9dccdcb0f5a0c6a3b1e496c64ac20) • [@TrueCharts Bot] (2026-05-07)
 - fix(deps): update selkies-project/sealskin 0.1.37 → 0.1.38 (#2222) • [`a313cb7`](https://github.com/trueforge-org/truecharts/commit/a313cb730aa9b68337fd0707552e0b024645045f) • [@TrueCharts Bot] (2026-05-04)
 
 ## 0.1.37 • [Train: ]
