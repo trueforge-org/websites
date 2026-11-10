@@ -9,8 +9,8 @@ Eclipse Mosquitto - An open source MQTT broker
 ## Chart Sources
 
 - https://github.com/eclipse/mosquitto
+- https://github.com/trueforge-org/containers/tree/main/apps/mosquitto
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mosquitto
-- https://hub.docker.com/_/eclipse-mosquitto
 
 ## Available Documentation
 

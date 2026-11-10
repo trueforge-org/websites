@@ -285,8 +285,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.8.0 • [Train: stable]
 
-- chore(helm): update image docker.io/bbernhard/signal-cli-rest-api 0.94 → 0.95 (#40362) • [`34c7604`](https://github.com/trueforge-org/truecharts/commit/34c76045e789b52f3f0142548fb2a05264f1e980) • [@TrueCharts Bot] (2025-10-04)
 - Commit daily changes • [`044fb16`](https://github.com/trueforge-org/truecharts/commit/044fb16f843c28067054900ff9c84fbe0c7e2f44) • [@TrueCharts-Bot] (2025-10-04)
+- chore(helm): update image docker.io/bbernhard/signal-cli-rest-api 0.94 → 0.95 (#40362) • [`34c7604`](https://github.com/trueforge-org/truecharts/commit/34c76045e789b52f3f0142548fb2a05264f1e980) • [@TrueCharts Bot] (2025-10-04)
 
 ## 1.7.1 • [Train: stable]
 
@@ -300,8 +300,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.6.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 1.6.0 • [Train: stable]
 
