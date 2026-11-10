@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: stable]
+
+- feat(streamystats): update image ghcr.io/fredrikburmester/streamystats-job-server v2.20.0 → v2.21.1 (#55078) • [`676af60`](https://github.com/trueforge-org/truecharts/commit/676af60803cba4810c455890188a819b541e9081) • [@TrueCharts Bot] (2026-11-10)
+
 ## 2.1.4 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.4.4 → 30.4.5 (#55014) • [`da7fcfb`](https://github.com/trueforge-org/truecharts/commit/da7fcfb68465180fc102526dbec97097eabecf45) • [@TrueCharts Bot] (2026-11-09)
