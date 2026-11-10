@@ -11,6 +11,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.3.0 • [Train: stable]
+
+- feat(streamystats): update image ghcr.io/fredrikburmester/streamystats-nextjs v2.21.1 → v2.22.0 (#55095) • [`56d2415`](https://github.com/trueforge-org/truecharts/commit/56d2415ed38a911be9e106a1dfe00330711361d1) • [@TrueCharts Bot] (2026-11-10)
+- feat(streamystats): update image ghcr.io/fredrikburmester/streamystats-job-server v2.21.1 → v2.22.0 (#55094) • [`910cb30`](https://github.com/trueforge-org/truecharts/commit/910cb3062775f113f393a9414a48b9ed0c893feb) • [@TrueCharts Bot] (2026-11-10)
+
 ## 2.2.0 • [Train: stable]
 
 - feat(streamystats): update image ghcr.io/fredrikburmester/streamystats-job-server v2.20.0 → v2.21.1 (#55078) • [`676af60`](https://github.com/trueforge-org/truecharts/commit/676af60803cba4810c455890188a819b541e9081) • [@TrueCharts Bot] (2026-11-10)
