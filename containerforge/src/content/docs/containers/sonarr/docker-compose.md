@@ -36,7 +36,7 @@ services:
       DB_DATABASE: sonarr
       DB_HOST: postgresql
       DB_LOGSDB: sonarr-log
-      DB_PASSWORD: c956f5ed30e845122dbf8c74999fcc7bWORD
+      DB_PASSWORD: b85594206b5147b62fed8a38e84e44a3WORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: sonarr
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: sonarr
-#       POSTGRES_PASSWORD: c956f5ed30e845122dbf8c74999fcc7bWORD
+#       POSTGRES_PASSWORD: b85594206b5147b62fed8a38e84e44a3WORD
 #       POSTGRES_USER: sonarr
 #       TZ: Etc/UTC
 #     group_add:
