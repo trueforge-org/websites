@@ -33,8 +33,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.2.1 • [Train: stable]
 
-- fix(tracearr): update image ghcr.io/connorgallopo/tracearr 3.1.4 → 3.1.5 (#54918) • [`2d69883`](https://github.com/trueforge-org/truecharts/commit/2d6988360efea941bca81a271c23254ae17cd8b7) • [@TrueCharts Bot] (2026-11-07)
 - Commit daily changes • [`5f27360`](https://github.com/trueforge-org/truecharts/commit/5f273605c22759737774fc10f4b4f07bdad107c0) • [@TrueCharts-Bot] (2026-11-07)
+- fix(tracearr): update image ghcr.io/connorgallopo/tracearr 3.1.4 → 3.1.5 (#54918) • [`2d69883`](https://github.com/trueforge-org/truecharts/commit/2d6988360efea941bca81a271c23254ae17cd8b7) • [@TrueCharts Bot] (2026-11-07)
 
 ## 8.2.0 • [Train: stable]
 
