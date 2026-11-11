@@ -511,8 +511,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.1.3 • [Train: incubator]
 
-- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/trueforge-org/truecharts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
 - feat(TeslaMate): adding grafana annotation for adding a directory to TeslaMate dashboard (#23674) • [`f50aeef`](https://github.com/trueforge-org/truecharts/commit/f50aeef909c3a522d8daa541d06b2a12ba04d665) • [@Nick Kampe] (2024-06-22)
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/trueforge-org/truecharts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
 
 ## 2.1.2 • [Train: incubator]
 
@@ -553,8 +553,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.7 • [Train: incubator]
 
-- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - fic(teslamate) bugfix teslamate port (#22465) • [`bf8999b`](https://github.com/trueforge-org/truecharts/commit/bf8999b3fd4fee965768345aa713c8dfedaff5b9) • [@Jamie] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 
 ## 1.0.6 • [Train: incubator]
 
@@ -652,8 +652,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: incubator]
 
-- Add frontmatters to charts except &#34;stable&#34; (#20720) • [`df07fd3`](https://github.com/trueforge-org/truecharts/commit/df07fd3eaba11868249b0dbc6ad87add1ca1ce57) • [@bitpushr] (2024-04-14)
 - Commit daily changes • [`37d2fb8`](https://github.com/trueforge-org/truecharts/commit/37d2fb846d0b02beb0e368a90e8b4deb38a9b655) • [@TrueCharts-Bot] (2024-04-14)
+- Add frontmatters to charts except &#34;stable&#34; (#20720) • [`df07fd3`](https://github.com/trueforge-org/truecharts/commit/df07fd3eaba11868249b0dbc6ad87add1ca1ce57) • [@bitpushr] (2024-04-14)
 - chore(deps): update ignored updates to v20.3.6@27edfed by renovate (#20711) • [`ac0b3fa`](https://github.com/trueforge-org/truecharts/commit/ac0b3facf1334fe44e70fbe5d7c6f1491c0a707e) • [@TrueCharts Bot] (2024-04-13)
 
 ## 0.0.1 • [Train: incubator]
