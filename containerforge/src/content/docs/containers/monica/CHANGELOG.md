@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.1.2 • [Train: ]
 
-- BREAKING CHANGE(deps): Update ghcr.io/trueforge-org/postgresql-client Docker tag 9.6.24 → 18.6.0 (#4446) • [`a38a6d7`](https://github.com/trueforge-org/truecharts/commit/a38a6d7a1875334e4ffe0b0f75282edd7aca777d) • [@TrueCharts Bot] (2026-11-01)
 - chore(deps): update ghcr.io/trueforge-org/postgresql-client:9.6.24 docker digest digest to 65e2aae (#4433) • [`581e756`](https://github.com/trueforge-org/truecharts/commit/581e7563d8434d8dcd63b17703f5ce085bd04117) • [@TrueCharts Bot] (2026-11-01)
+- BREAKING CHANGE(deps): Update ghcr.io/trueforge-org/postgresql-client Docker tag 9.6.24 → 18.6.0 (#4446) • [`a38a6d7`](https://github.com/trueforge-org/truecharts/commit/a38a6d7a1875334e4ffe0b0f75282edd7aca777d) • [@TrueCharts Bot] (2026-11-01)
 - chore(deps): update ghcr.io/trueforge-org/postgresql-client:9.6.24 docker digest digest to 49adaad (#3007) • [`0f0253b`](https://github.com/trueforge-org/truecharts/commit/0f0253b0eeda4ad609eb5ebdaeb0c1f92ecb075b) • [@TrueCharts Bot] (2026-10-06)
 - chore(deps): update ghcr.io/trueforge-org/postgresql-client:9.6.24 docker digest digest to 3f2db88 (#2596) • [`6f50ee6`](https://github.com/trueforge-org/truecharts/commit/6f50ee644d2974ebd1f38d95207753aed9eb7cdd) • [@TrueCharts Bot] (2026-06-27)
 - work on compose rendering placeholders • [`62433a7`](https://github.com/trueforge-org/truecharts/commit/62433a7054d425651f3d1f0c8d7dfbdb5c7b629a) • [@Kjeld Schouten] (2026-05-02)
