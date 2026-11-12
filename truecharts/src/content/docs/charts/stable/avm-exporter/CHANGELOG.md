@@ -21,8 +21,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.1.1 • [Train: stable]
 
-- fix(avm-exporter): update image docker.io/pdreker/fritz_exporter 4.0.2 → 4.0.3 (#54913) • [`f095e92`](https://github.com/trueforge-org/truecharts/commit/f095e92a42546a98a161aef65062106ccb7cfe76) • [@TrueCharts Bot] (2026-11-07)
 - Commit daily changes • [`5f27360`](https://github.com/trueforge-org/truecharts/commit/5f273605c22759737774fc10f4b4f07bdad107c0) • [@TrueCharts-Bot] (2026-11-07)
+- fix(avm-exporter): update image docker.io/pdreker/fritz_exporter 4.0.2 → 4.0.3 (#54913) • [`f095e92`](https://github.com/trueforge-org/truecharts/commit/f095e92a42546a98a161aef65062106ccb7cfe76) • [@TrueCharts Bot] (2026-11-07)
 
 ## 5.1.0 • [Train: stable]
 
