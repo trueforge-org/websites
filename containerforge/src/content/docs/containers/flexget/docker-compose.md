@@ -35,7 +35,7 @@ services:
     environment:
       FG_CONFIG_FILE: /config/config.yml
       FG_LOG_LEVEL: info
-      FG_WEBUI_PASSWORD: cf93792ea1a5859d205894c2ccd8b84fWORD
+      FG_WEBUI_PASSWORD: e6ae5f76fc672f9308158b2cfb21d535WORD
       TZ: Etc/UTC
     group_add:
       - "568"
