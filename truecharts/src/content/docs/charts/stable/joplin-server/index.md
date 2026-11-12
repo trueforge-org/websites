@@ -2,7 +2,7 @@
 title: joplin-server
 ---
 
-![Version: 23.1.4](https://img.shields.io/badge/Version-23.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.7.4](https://img.shields.io/badge/AppVersion-3.7.4-informational?style=flat-square)
+![Version: 23.1.5](https://img.shields.io/badge/Version-23.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.7.5](https://img.shields.io/badge/AppVersion-3.7.5-informational?style=flat-square)
 
 Allows you to sync any Joplin client.
 
