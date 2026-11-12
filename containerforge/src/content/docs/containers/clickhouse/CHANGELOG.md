@@ -13,5 +13,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 26.10.2 • [Train: ]
 
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.4 docker digest digest to f5810a8 (#4659) • [`6603dbe`](https://github.com/trueforge-org/truecharts/commit/6603dbe6b8c3f3009158a773f4239714e0192414) • [@TrueCharts Bot] (2026-11-12)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a3ec289 (#4481) • [`320431d`](https://github.com/trueforge-org/truecharts/commit/320431dc092a05019a71aa214439b8c15e2936e6) • [@TrueCharts Bot] (2026-11-03)
 - feat(clickhouse): add clickhouse image (#4439) • [`5fce441`](https://github.com/trueforge-org/truecharts/commit/5fce4411dfb01f81b5fde74a59e1ef580a8d2128) • [@Alfred Göppel] (2026-11-01)
