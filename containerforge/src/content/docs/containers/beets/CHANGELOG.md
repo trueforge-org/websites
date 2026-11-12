@@ -54,8 +54,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.5.1 • [Train: ]
 
-- fxes • [`657d301`](https://github.com/trueforge-org/truecharts/commit/657d301e7a7b73617b714163dfd31200e0fff59a) • [@Kjeld Schouten] (2026-05-06)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#2266) • [`8e09793`](https://github.com/trueforge-org/truecharts/commit/8e097933e8952e20738bb27c3e4dc1495692d069) • [@TrueCharts Bot] (2026-05-06)
+- fxes • [`657d301`](https://github.com/trueforge-org/truecharts/commit/657d301e7a7b73617b714163dfd31200e0fff59a) • [@Kjeld Schouten] (2026-05-06)
 
 ## 2.3.1 • [Train: ]
 
