@@ -34,8 +34,8 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: snipe-it
-      MARIADB_PASSWORD: 15b894f986da0f23d14c8873e86a6b9eWORD
-      MARIADB_ROOT_PASSWORD: 71d10d391810d9b7b652727f9078dd3fWORD
+      MARIADB_PASSWORD: e0aad00d7abd4025ba01120797893226WORD
+      MARIADB_ROOT_PASSWORD: 02b6e2a71640094fc1b2a62a5bca9100WORD
       MARIADB_USER: snipe-it
       TZ: Etc/UTC
     group_add:
@@ -72,7 +72,7 @@ services:
       DB_CONNECTION: mysql
       DB_DATABASE: snipe-it
       DB_HOST: mariadb
-      DB_PASSWORD: 15b894f986da0f23d14c8873e86a6b9eWORD
+      DB_PASSWORD: e0aad00d7abd4025ba01120797893226WORD
       DB_PORT: "3306"
       DB_USERNAME: snipe-it
       TZ: Etc/UTC
