@@ -66,8 +66,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.12.0 • [Train: stable]
 
-- feat(multus-cni): update image docker.io/alpine/crane 0.21.9 → 0.22.0 (#51956) • [`c48bda1`](https://github.com/trueforge-org/truecharts/commit/c48bda1eed96a5ff01c55983d0df9d74d8b1704c) • [@TrueCharts Bot] (2026-08-30)
 - feat(helm-deps): update chart common 29.16.0 → 29.17.0 (#51942) • [`9fdc9c2`](https://github.com/trueforge-org/truecharts/commit/9fdc9c2eb39cc3e011f6a1f154e387e0165d8379) • [@TrueCharts Bot] (2026-08-30)
+- feat(multus-cni): update image docker.io/alpine/crane 0.21.9 → 0.22.0 (#51956) • [`c48bda1`](https://github.com/trueforge-org/truecharts/commit/c48bda1eed96a5ff01c55983d0df9d74d8b1704c) • [@TrueCharts Bot] (2026-08-30)
 
 ## 2.11.0 • [Train: stable]
 
@@ -249,5 +249,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.0 • [Train: incubator]
 
-- chore(multus-cni): pin dependencies (#44328) • [`60afaf5`](https://github.com/trueforge-org/truecharts/commit/60afaf54c30bddf8fa6fe20666e5f3ef65a862d0) • [@TrueCharts Bot] (2026-01-30)
 - feat(multus-cni): Add multus-cni chart (#43365) • [`2c4b477`](https://github.com/trueforge-org/truecharts/commit/2c4b477b48e55cae7573b8723e83a364f0b12489) • [@astro-stan] (2026-01-30)
+- chore(multus-cni): pin dependencies (#44328) • [`60afaf5`](https://github.com/trueforge-org/truecharts/commit/60afaf54c30bddf8fa6fe20666e5f3ef65a862d0) • [@TrueCharts Bot] (2026-01-30)
