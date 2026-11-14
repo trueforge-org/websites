@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.5 • [Train: stable]
+
+- chore(headlamp): update image oci.trueforge.org/containerforge/node digest to 9089d94 (#55289) • [`8eeed04`](https://github.com/trueforge-org/truecharts/commit/8eeed04d15b7d171db113014888fabb80bb16600) • [@TrueCharts Bot] (2026-11-14)
+
 ## 2.2.4 • [Train: stable]
 
 - fix(helm-deps): update chart common 30.4.4 → 30.4.5 (#55014) • [`da7fcfb`](https://github.com/trueforge-org/truecharts/commit/da7fcfb68465180fc102526dbec97097eabecf45) • [@TrueCharts Bot] (2026-11-09)
