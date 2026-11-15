@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 29.3.0 • [Train: ]
 
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to cdc35c1 (#4714) • [`f7c8f8b`](https://github.com/trueforge-org/truecharts/commit/f7c8f8bfdc184f75520f24827be39f856021e396) • [@TrueCharts Bot] (2026-11-15)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to f5810a8 (#4657) • [`0096adc`](https://github.com/trueforge-org/truecharts/commit/0096adcca624c6f05e77a2da00e1db28d80486b9) • [@TrueCharts Bot] (2026-11-12)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a3ec289 (#4481) • [`320431d`](https://github.com/trueforge-org/truecharts/commit/320431dc092a05019a71aa214439b8c15e2936e6) • [@TrueCharts Bot] (2026-11-03)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 205c656 (#4372) • [`4a4192e`](https://github.com/trueforge-org/truecharts/commit/4a4192effc04fd6c88d29a721314849700b1a5b2) • [@TrueCharts Bot] (2026-10-29)
@@ -45,8 +46,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 5cb91be (#2540) • [`1066942`](https://github.com/trueforge-org/truecharts/commit/1066942d16d1205097ba555d52015cc17884d60f) • [@TrueCharts Bot] (2026-06-22)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to c21fcd8 (#2464) • [`20cfabc`](https://github.com/trueforge-org/truecharts/commit/20cfabc16f0cf777e74ef91b282ac0d187db8415) • [@TrueCharts Bot] (2026-06-08)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 17312da (#2273) • [`07c023d`](https://github.com/trueforge-org/truecharts/commit/07c023df996444b5d1291559d1d7234f8302ea47) • [@TrueCharts Bot] (2026-05-07)
-- BREAKING CHANGE(ubuntu-dep): Update ghcr.io/trueforge-org/ubuntu Docker tag (#2271) • [`2030ba8`](https://github.com/trueforge-org/truecharts/commit/2030ba8657cd49390206c3638a4635de0b4a4bf9) • [@TrueCharts Bot] (2026-05-06)
 - BREAKING CHANGE(deps): Update owntone/owntone-server 28.12 → 29.2 (#2170) • [`9ba9c70`](https://github.com/trueforge-org/truecharts/commit/9ba9c7052b9accf8451a71da7cf567e35145d0cf) • [@TrueCharts Bot] (2026-05-06)
+- BREAKING CHANGE(ubuntu-dep): Update ghcr.io/trueforge-org/ubuntu Docker tag (#2271) • [`2030ba8`](https://github.com/trueforge-org/truecharts/commit/2030ba8657cd49390206c3638a4635de0b4a4bf9) • [@TrueCharts Bot] (2026-05-06)
 
 ## 28.12.0 • [Train: ]
 
