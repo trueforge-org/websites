@@ -34,7 +34,7 @@ services:
           memory: 4G
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/unrar:7.2.7
+    image: ghcr.io/trueforge-org/unrar:7.3.2
     restart: unless-stopped
     shm_size: 256M
     volumes:
