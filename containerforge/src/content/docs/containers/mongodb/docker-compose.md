@@ -34,8 +34,8 @@ services:
           memory: 4G
     environment:
       MONGODB_DATABASE: MYMONGODBDB
-      MONGODB_PASSWORD: e76de13d7e87b4cc8c8841d29f4fba51WORD
-      MONGODB_ROOT_PASSWORD: ecc4cd9c2dee30ebbb96e9e42b2e9c6dWORD
+      MONGODB_PASSWORD: fcb6fac1159befcecb2bf403a0e45bd0WORD
+      MONGODB_ROOT_PASSWORD: e32d81bd28594f4df3960ac58ebe4679WORD
       MONGODB_USERNAME: MYMONGODBUSER
       TZ: Etc/UTC
     group_add:
