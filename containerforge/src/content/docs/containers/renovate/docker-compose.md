@@ -36,7 +36,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/renovate:44.246.5
+    image: ghcr.io/trueforge-org/renovate:44.247.1
     restart: unless-stopped
     shm_size: 256M
     volumes:
