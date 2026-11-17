@@ -14,8 +14,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 7.3.2 • [Train: ]
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 6694765 (#4733) • [`b03961d`](https://github.com/trueforge-org/truecharts/commit/b03961d5f27ee624523b635f1229f31261c6e0dc) • [@TrueCharts Bot] (2026-11-16)
-- feat(deps): update linuxserver/unrar docker tag 7.2.7 → 7.3.2 (#4713) • [`b9a2b2c`](https://github.com/trueforge-org/truecharts/commit/b9a2b2c11d7ab52c0ce135747f825b7e8f1359ba) • [@TrueCharts Bot] (2026-11-15)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to cdc35c1 (#4714) • [`f7c8f8b`](https://github.com/trueforge-org/truecharts/commit/f7c8f8bfdc184f75520f24827be39f856021e396) • [@TrueCharts Bot] (2026-11-15)
+- feat(deps): update linuxserver/unrar docker tag 7.2.7 → 7.3.2 (#4713) • [`b9a2b2c`](https://github.com/trueforge-org/truecharts/commit/b9a2b2c11d7ab52c0ce135747f825b7e8f1359ba) • [@TrueCharts Bot] (2026-11-15)
 
 ## 7.2.7 • [Train: ]
 
