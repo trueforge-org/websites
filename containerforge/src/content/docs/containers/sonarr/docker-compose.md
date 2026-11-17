@@ -36,7 +36,7 @@ services:
       DB_DATABASE: sonarr
       DB_HOST: postgresql
       DB_LOGSDB: sonarr-log
-      DB_PASSWORD: 3f8c7488ade893d3e9744797d94ad851WORD
+      DB_PASSWORD: 3ad985ef344646f0bb2deef1b9b25d25WORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: sonarr
@@ -44,7 +44,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/sonarr:5.0.0.2941
+    image: ghcr.io/trueforge-org/sonarr:5.0.0.2997
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: sonarr
-#       POSTGRES_PASSWORD: 3f8c7488ade893d3e9744797d94ad851WORD
+#       POSTGRES_PASSWORD: 3ad985ef344646f0bb2deef1b9b25d25WORD
 #       POSTGRES_USER: sonarr
 #       TZ: Etc/UTC
 #     group_add:
