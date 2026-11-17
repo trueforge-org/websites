@@ -355,8 +355,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.16.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 9.15.0 • [Train: stable]
 
@@ -693,8 +693,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 6.2.17 • [Train: stable]
 
 - fix(website): remove references to deprecated guides • [`d25d00b`](https://github.com/trueforge-org/truecharts/commit/d25d00b9c237f6cbe63941158ccffe03ed9943e9) • [@Kjeld Schouten] (2024-11-04)
-- Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
 - chore(helm): update image docker.io/bellamy/wallos digest to 6a10106 (#28773) • [`fa08c0c`](https://github.com/trueforge-org/truecharts/commit/fa08c0cc79ba08318d4a6ccaea033e278c42383e) • [@TrueCharts Bot] (2024-11-03)
+- Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
 
 ## 6.2.16 • [Train: stable]
 
@@ -796,8 +796,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.1.20 • [Train: stable]
 
-- chore(deps): update container image docker.io/bellamy/wallos to latest@f5e586e by renovate (#25794) • [`9ccaca7`](https://github.com/trueforge-org/truecharts/commit/9ccaca79ec406c213a3f6012e4529119d471d26f) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/trueforge-org/truecharts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+- chore(deps): update container image docker.io/bellamy/wallos to latest@f5e586e by renovate (#25794) • [`9ccaca7`](https://github.com/trueforge-org/truecharts/commit/9ccaca79ec406c213a3f6012e4529119d471d26f) • [@TrueCharts Bot] (2024-09-02)
 
 ## 6.1.19 • [Train: stable]
 
@@ -1080,8 +1080,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.8.7 • [Train: stable]
 
-- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 - chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
+- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 
 ## 4.8.6 • [Train: stable]
 
@@ -1126,8 +1126,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.7.12 • [Train: stable]
 
 - Commit daily changes • [`b7029d2`](https://github.com/trueforge-org/truecharts/commit/b7029d2eaeb176cf55e995fd2e57b0f44fe661bd) • [@TrueCharts-Bot] (2024-03-31)
-- chore(deps): update container image docker.io/bellamy/wallos to latest@6a2e50a by renovate (#19991) • [`e380a86`](https://github.com/trueforge-org/truecharts/commit/e380a86bc7b5c685bc36e2a058b80c40827261b7) • [@TrueCharts Bot] (2024-03-30)
 - chore(deps): update container image common to v20.2.10@6f99c97 by renovate (#19876) • [`80c956e`](https://github.com/trueforge-org/truecharts/commit/80c956e5bfc574f179ba2bb0bcd9bda044fd1bce) • [@TrueCharts Bot] (2024-03-30)
+- chore(deps): update container image docker.io/bellamy/wallos to latest@6a2e50a by renovate (#19991) • [`e380a86`](https://github.com/trueforge-org/truecharts/commit/e380a86bc7b5c685bc36e2a058b80c40827261b7) • [@TrueCharts Bot] (2024-03-30)
 
 ## 4.7.11 • [Train: stable]
 
@@ -1247,8 +1247,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.1.5 • [Train: stable]
 
-- chore: pre-commit cleanup • [`d66746c`](https://github.com/trueforge-org/truecharts/commit/d66746cae553d4bbb1ca4b2e013e1be0410dd3a3) • [@Kjeld Schouten] (2024-02-27)
 - Commit daily changes • [`97ded71`](https://github.com/trueforge-org/truecharts/commit/97ded71eb672b4811c6a365dde0700aa75114775) • [@TrueCharts-Bot] (2024-02-27)
+- chore: pre-commit cleanup • [`d66746c`](https://github.com/trueforge-org/truecharts/commit/d66746cae553d4bbb1ca4b2e013e1be0410dd3a3) • [@Kjeld Schouten] (2024-02-27)
 - chore(deps): update container image common to v18.0.3@3f3170c by renovate (#18664) • [`eb6ece6`](https://github.com/trueforge-org/truecharts/commit/eb6ece6923050f017bf8fa56d3bbce1ca6644d2e) • [@TrueCharts Bot] (2024-02-26)
 
 ## 4.1.4 • [Train: stable]
@@ -1357,8 +1357,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.3 • [Train: stable]
 
-- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 - chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
+- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 
 ## 3.1.2 • [Train: stable]
 
@@ -1372,9 +1372,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
+- Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
 - chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
-- Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
 - chore(deps): update helm general minor by renovate (#16579) • [`9eddcd9`](https://github.com/trueforge-org/truecharts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59) • [@TrueCharts Bot] (2023-12-30)
 
 ## 3.0.1 • [Train: stable]
@@ -1435,8 +1435,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.0 • [Train: stable]
 
-- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 - chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
+- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 
 ## 1.0.8 • [Train: stable]
 
@@ -1471,9 +1471,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`9edb8f3`](https://github.com/trueforge-org/truecharts/commit/9edb8f34a2c42615d9769c78aab806ed32594375) • [@TrueCharts-Bot] (2023-12-09)
 - Commit daily changes • [`22527b3`](https://github.com/trueforge-org/truecharts/commit/22527b3c61ba1b4c97f581b18b8af8c296bb65de) • [@TrueCharts-Bot] (2023-12-08)
+- Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 - chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 - Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
-- Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 
 ## 1.0.2 • [Train: stable]
 
@@ -1488,8 +1488,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.1 • [Train: stable]
 
-- Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`d1c2213`](https://github.com/trueforge-org/truecharts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`4ff2452`](https://github.com/trueforge-org/truecharts/commit/4ff2452842e5eb4f799a001aa510fc0e7ec77217) • [@TrueCharts-Bot] (2023-11-23)
 - chore(deps): update container image docker.io/bellamy/wallos to latest@2465d84 (#15226) • [`1d9d1dd`](https://github.com/trueforge-org/truecharts/commit/1d9d1ddfb1ec348d92d8fbf8a1aff97b8827e6ce) • [@TrueCharts Bot] (2023-11-22)
 
