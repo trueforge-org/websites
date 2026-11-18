@@ -64,7 +64,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: dexafix
-#       POSTGRES_PASSWORD: d152fb9489625e1ccdf3b748626f8d44WORD
+#       POSTGRES_PASSWORD: 33706d7262a6dbe829d30982d6018dccWORD
 #       POSTGRES_USER: dexafix
 #       TZ: Etc/UTC
 #     group_add:
@@ -95,7 +95,7 @@ services:
 #       TZ: Etc/UTC
 #       VALKEY_APPENDONLY: "yes"
 #       VALKEY_DATA_DIR: /config
-#       VALKEY_PASSWORD: af03859c0bd944b1d6de2b035a2ffec7WORD
+#       VALKEY_PASSWORD: f078297efef2e19f45f028c5b80ab067WORD
 #     group_add:
 #       - "568"
 #     image: ghcr.io/trueforge-org/valkey:9.0.4
