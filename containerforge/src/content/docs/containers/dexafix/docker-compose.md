@@ -39,7 +39,7 @@ services:
       DEXAFIX_LISTEN: :8080
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/dexafix:0.0.4
+    image: ghcr.io/trueforge-org/dexafix:0.0.5
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -64,7 +64,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: dexafix
-#       POSTGRES_PASSWORD: 50db3a72d01ad6e6ba5f7d73da136f9dWORD
+#       POSTGRES_PASSWORD: 7d71cdfa4360f1cff42f27e551bb0701WORD
 #       POSTGRES_USER: dexafix
 #       TZ: Etc/UTC
 #     group_add:
@@ -95,7 +95,7 @@ services:
 #       TZ: Etc/UTC
 #       VALKEY_APPENDONLY: "yes"
 #       VALKEY_DATA_DIR: /config
-#       VALKEY_PASSWORD: 0dd09a22f04bda1d1aeaceb7261ab0f0WORD
+#       VALKEY_PASSWORD: 06fa889130351976c74afdb568fca51cWORD
 #     group_add:
 #       - "568"
 #     image: ghcr.io/trueforge-org/valkey:9.0.4
