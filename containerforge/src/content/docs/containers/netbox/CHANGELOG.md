@@ -28,8 +28,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.7.2 • [Train: ]
 
-- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.8 docker digest digest to f099b70 (#4006) • [`e284398`](https://github.com/trueforge-org/truecharts/commit/e28439837fdedafeb090f3b028a39612d8dade65) • [@TrueCharts Bot] (2026-10-11)
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.7 → 3.14.8 (#3880) • [`d2c7fc5`](https://github.com/trueforge-org/truecharts/commit/d2c7fc54250bff8a72e42ed633b6ff96bfc2270a) • [@TrueCharts Bot] (2026-10-11)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.6 → 3.14.7 (#3075) • [`689c90a`](https://github.com/trueforge-org/truecharts/commit/689c90a6150d81cc6a45b6561b377afbff32350b) • [@TrueCharts Bot] (2026-10-06)
 - fix(deps): update netbox-community/netbox v4.7.1 → v4.7.2 (#3827) • [`dd81bdd`](https://github.com/trueforge-org/truecharts/commit/dd81bdd9d84be48dd35148fb8b164f9c583dcf3e) • [@TrueCharts Bot] (2026-09-29)
 
