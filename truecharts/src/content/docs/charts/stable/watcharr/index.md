@@ -2,7 +2,7 @@
 title: watcharr
 ---
 
-![Version: 12.2.4](https://img.shields.io/badge/Version-12.2.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.0](https://img.shields.io/badge/AppVersion-4.3.0-informational?style=flat-square)
+![Version: 12.3.0](https://img.shields.io/badge/Version-12.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.4.0](https://img.shields.io/badge/AppVersion-4.4.0-informational?style=flat-square)
 
 Open source, self-hostable watched list
 
