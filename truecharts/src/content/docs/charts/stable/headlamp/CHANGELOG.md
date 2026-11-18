@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.6 • [Train: stable]
+
+- chore(headlamp): update image oci.trueforge.org/containerforge/node digest to ed25382 (#55475) • [`b405cad`](https://github.com/trueforge-org/truecharts/commit/b405cad16333c9b63a6c9ecf166045becab09d38) • [@TrueCharts Bot] (2026-11-18)
+
 ## 2.2.5 • [Train: stable]
 
 - chore(headlamp): update image oci.trueforge.org/containerforge/node digest to 9089d94 (#55289) • [`8eeed04`](https://github.com/trueforge-org/truecharts/commit/8eeed04d15b7d171db113014888fabb80bb16600) • [@TrueCharts Bot] (2026-11-14)
