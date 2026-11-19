@@ -33,8 +33,13 @@ services:
           cpus: 4
           memory: 4G
     environment:
+      RUNNER_DIND: auto
+      RUNNER_DISABLE_UPDATE: "false"
+      RUNNER_EPHEMERAL: "false"
+      RUNNER_GROUP: ""
       RUNNER_LABELS: ""
       RUNNER_NAME: ""
+      RUNNER_REMOVE_ON_EXIT: "false"
       RUNNER_REPOSITORY_URL: ""
       RUNNER_TOKEN: ""
       RUNNER_WORKDIR: /tmp/runner/work
