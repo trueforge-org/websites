@@ -2,7 +2,7 @@
 title: common
 ---
 
-![Version: 31.0.19](https://img.shields.io/badge/Version-31.0.19-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.12.0](https://img.shields.io/badge/AppVersion-1.12.0-informational?style=flat-square)
+![Version: 32.0.0](https://img.shields.io/badge/Version-32.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.12.0](https://img.shields.io/badge/AppVersion-1.12.0-informational?style=flat-square)
 
 Function library for TrueCharts
 
@@ -30,30 +30,27 @@ Function library for TrueCharts
 - [**Time Zone**](./tz)
 - [**Certificate**](./certificate)
 - [**Chart Context**](./chartcontext)
-- [**ClickHouse**](./clickhouse)
 - [**Common**](./common)
+- [**ConfigMaps From Folder**](./configmapsfromfolder)
 - [**ConfigMap**](./configmap)
 - [**Container Options**](./containeroptions)
+- [**Create Chart Context Configmap**](./createchartcontextconfigmap)
 - [**Credentials**](./credentials)
-- [**Dependencies**](./dependencies)
 - [**Diagnostic Mode**](./diagnosticmode)
 - [**Extra Templates**](./extratpl)
+- [**Gateway Class**](./gatewayclass)
 - [**Image**](./image)
 - [**Image Pull Secret**](./imagepullsecret)
-- [**MariaDB**](./mariadb)
 - [**Labels, Annotations and Namespace**](./metadata)
-- [**MongoDB**](./mongodb)
 - [**Namespace**](./namespace)
 - [**Notes**](./notes)
 - [**Pod Disruption Budget**](./poddisruptionbudget)
 - [**Priority Class**](./priorityclass)
 - [**RBAC**](./rbac)
-- [**Redis**](./redis)
 - [**Schema Options**](./schemaoptions)
 - [**Secret**](./secret)
 - [**Security Context**](./securitycontext)
 - [**Service Account**](./serviceaccount)
-- [**Solr**](./solr)
 - [**Storage Class**](./storageclass)
 - [**Volume Snapshot Class**](./volumesnapshotclass)
 - [**Volume Snapshot**](./volumesnapshots)
@@ -96,6 +93,29 @@ All our Charts use a shared "common" library chart that contains most of the tem
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://trueforge.org/truecharts-common/)
 
 For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/trueforge-org/truecharts/blob/master/charts/library/common/values.yaml
+
+### Schema Validation
+
+You can validate values files against the common schema with:
+
+`python3 charts/library/common/test_schema.py`
+
+This validates:
+
+- `charts/stable/*/values.yaml`
+- `charts/library/common-test/ci/*values.yaml`
+
+Useful options:
+
+- `--output-file <path>`: write output to both stdout and a log file
+- `--max-failures <n>`: stop after `n` schema failures (`0` means no limit)
+- `--fail-fast`: stop after the first schema failure
+
+When running `run_common_tests.sh`, you can set `SCHEMA_MAX_FAILURES` to apply a failure threshold locally, for example:
+
+`SCHEMA_MAX_FAILURES=25 ./run_common_tests.sh`
+
+CI always performs a full run (`--max-failures 0`) and uploads the schema log artifact.
 
 ### Support
 
