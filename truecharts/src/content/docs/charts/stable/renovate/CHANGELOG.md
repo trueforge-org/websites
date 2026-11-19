@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.50.1 • [Train: stable]
+
+- fix(renovate): update image oci.trueforge.org/containerforge/renovate 44.252.4 → 44.252.6 (#55542) • [`b6cca9e`](https://github.com/trueforge-org/truecharts/commit/b6cca9ee26474ad12dc30fe952a1b5a41f88c5c4) • [@TrueCharts Bot] (2026-11-19)
+
 ## 8.50.0 • [Train: stable]
 
 - feat(renovate): update image oci.trueforge.org/containerforge/renovate 44.251.0 → 44.252.4 (#55517) • [`6c5919f`](https://github.com/trueforge-org/truecharts/commit/6c5919f615125986b31746ad2587061c9c9a5cc3) • [@TrueCharts Bot] (2026-11-18)
@@ -230,8 +234,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.18.4 • [Train: stable]
 
-- fix(renovate): update image oci.trueforge.org/containerforge/renovate 44.181.5 → 44.181.6 (#54152) • [`cffb3dc`](https://github.com/trueforge-org/truecharts/commit/cffb3dcec01a0c6b225a0afe15c4a9ffbd35c2ff) • [@TrueCharts Bot] (2026-10-26)
 - fix(helm-deps): update chart common 30.2.8 → 30.2.9 (#54147) • [`567d8b9`](https://github.com/trueforge-org/truecharts/commit/567d8b967254110733438d7b62ca8a4109d9b3b0) • [@TrueCharts Bot] (2026-10-26)
+- fix(renovate): update image oci.trueforge.org/containerforge/renovate 44.181.5 → 44.181.6 (#54152) • [`cffb3dc`](https://github.com/trueforge-org/truecharts/commit/cffb3dcec01a0c6b225a0afe15c4a9ffbd35c2ff) • [@TrueCharts Bot] (2026-10-26)
 
 ## 8.18.3 • [Train: stable]
 
@@ -1337,8 +1341,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.10.1 • [Train: stable]
 
-- fix(renovate): update image oci.trueforge.org/containerforge/renovate 43.15.1 → 43.15.3 (#45050) • [`2694f43`](https://github.com/trueforge-org/truecharts/commit/2694f43302de0302624e57c43dfec98fb3889636) • [@TrueCharts Bot] (2026-02-16)
 - fix(helm-deps): update chart common 28.30.0 → 28.30.2 (#45040) • [`02dac97`](https://github.com/trueforge-org/truecharts/commit/02dac97d455c4ad8a549b8c9e93d92821f058747) • [@TrueCharts Bot] (2026-02-16)
+- fix(renovate): update image oci.trueforge.org/containerforge/renovate 43.15.1 → 43.15.3 (#45050) • [`2694f43`](https://github.com/trueforge-org/truecharts/commit/2694f43302de0302624e57c43dfec98fb3889636) • [@TrueCharts Bot] (2026-02-16)
 
 ## 5.10.0 • [Train: stable]
 
@@ -1350,9 +1354,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.9.0 • [Train: stable]
 
+- feat(renovate): update image oci.trueforge.org/containerforge/renovate 43.14.2 → 43.15.0 (#44974) • [`9f1e1c4`](https://github.com/trueforge-org/truecharts/commit/9f1e1c43ad3029b40025face5beaba318a7eb496) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
-- feat(renovate): update image oci.trueforge.org/containerforge/renovate 43.14.2 → 43.15.0 (#44974) • [`9f1e1c4`](https://github.com/trueforge-org/truecharts/commit/9f1e1c43ad3029b40025face5beaba318a7eb496) • [@TrueCharts Bot] (2026-02-15)
 
 ## 5.8.2 • [Train: stable]
 
@@ -1481,12 +1485,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.37.0 • [Train: stable]
 
-- Commit daily changes • [`f79951b`](https://github.com/trueforge-org/truecharts/commit/f79951ba8701a9d79c372be2eca1d9a482a5fe81) • [@TrueCharts-Bot] (2026-01-31)
-- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
+- Commit daily changes • [`f79951b`](https://github.com/trueforge-org/truecharts/commit/f79951ba8701a9d79c372be2eca1d9a482a5fe81) • [@TrueCharts-Bot] (2026-01-31)
+- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - feat(renovate): update image oci.trueforge.org/containerforge/renovate 42.94.7 → 42.95.1 (#44304) • [`438c6bf`](https://github.com/trueforge-org/truecharts/commit/438c6bfddb72ad7903b1f4a7cd60edc935b9d509) • [@TrueCharts Bot] (2026-01-29)
 
 ## 4.36.3 • [Train: stable]
@@ -1519,8 +1523,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.34.6 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 - fix(renovate): update image oci.trueforge.org/containerforge/renovate 42.92.10 → 42.92.11 (#44183) • [`390ee8e`](https://github.com/trueforge-org/truecharts/commit/390ee8e21da6ba98c564dd268d73bd2ec936a48c) • [@TrueCharts Bot] (2026-01-27)
+- fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 
 ## 4.34.5 • [Train: stable]
 
@@ -1887,9 +1891,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.0 • [Train: stable]
 
@@ -1944,9 +1948,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.5 • [Train: stable]
 
+- fix(links): more-links (#39224) • [`eb14bb3`](https://github.com/trueforge-org/truecharts/commit/eb14bb36d52d079c33e5acc43b23e395763efd11) • [@Alfred Göppel] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
-- fix(links): more-links (#39224) • [`eb14bb3`](https://github.com/trueforge-org/truecharts/commit/eb14bb36d52d079c33e5acc43b23e395763efd11) • [@Alfred Göppel] (2025-09-07)
 
 ## 2.3.4 • [Train: stable]
 
@@ -2025,9 +2029,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.26.2 • [Train: stable]
 
+- fix(renovate): use our container BETA • [`afd99cc`](https://github.com/trueforge-org/truecharts/commit/afd99cc2921c7e748207a8a718713c6bc851103c) • [@Kjeld Schouten] (2025-04-09)
 - chore: update clustertool version everywhere • [`bb99174`](https://github.com/trueforge-org/truecharts/commit/bb991743f2c9d580bc4097334aebe393333dc6d7) • [@Kjeld Schouten] (2025-04-09)
 - hmm • [`2ec6932`](https://github.com/trueforge-org/truecharts/commit/2ec6932556467294b337207fc3a5ea5993806f19) • [@Kjeld Schouten] (2025-04-09)
-- fix(renovate): use our container BETA • [`afd99cc`](https://github.com/trueforge-org/truecharts/commit/afd99cc2921c7e748207a8a718713c6bc851103c) • [@Kjeld Schouten] (2025-04-09)
 
 ## 1.26.1 • [Train: stable]
 
@@ -2148,9 +2152,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.1 • [Train: incubator]
 
-- Update values.yaml • [`09a9fbf`](https://github.com/trueforge-org/truecharts/commit/09a9fbfad10be645a459a0c596b93c38e8d3b77a) • [@Kjeld Schouten] (2025-02-07)
 - Update values.yaml • [`a375f44`](https://github.com/trueforge-org/truecharts/commit/a375f4410471c4b9d0741a1b81ddf98ac2e1cc28) • [@Kjeld Schouten] (2025-02-07)
 - Update Chart.yaml • [`a93c641`](https://github.com/trueforge-org/truecharts/commit/a93c641e86de61d28d512dfa212b432327b12a4b) • [@Kjeld Schouten] (2025-02-07)
+- Update values.yaml • [`09a9fbf`](https://github.com/trueforge-org/truecharts/commit/09a9fbfad10be645a459a0c596b93c38e8d3b77a) • [@Kjeld Schouten] (2025-02-07)
 
 ## 1.11.0 • [Train: incubator]
 
@@ -2188,8 +2192,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.7.0 • [Train: incubator]
 
-- chore(helm): update image renovate/renovate 39.105.1 → 39.128.0 (#31153) • [`24cac04`](https://github.com/trueforge-org/truecharts/commit/24cac04bc43830e6790c4ba6a1d83bf1e8cb766d) • [@TrueCharts Bot] (2025-01-25)
 - chore(helm): update chart common 25.3.1 → 25.4.4 (#30594) • [`836c413`](https://github.com/trueforge-org/truecharts/commit/836c4134f2b7a2653d63e3fbe669356839609f05) • [@TrueCharts Bot] (2025-01-25)
+- chore(helm): update image renovate/renovate 39.105.1 → 39.128.0 (#31153) • [`24cac04`](https://github.com/trueforge-org/truecharts/commit/24cac04bc43830e6790c4ba6a1d83bf1e8cb766d) • [@TrueCharts Bot] (2025-01-25)
 
 ## 1.6.0 • [Train: incubator]
 
