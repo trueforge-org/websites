@@ -2,7 +2,7 @@
 title: test-template
 ---
 
-![Version: 21.3.7](https://img.shields.io/badge/Version-21.3.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.5.4](https://img.shields.io/badge/AppVersion-3.5.4-informational?style=flat-square)
+![Version: 22.0.0](https://img.shields.io/badge/Version-22.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.5.4](https://img.shields.io/badge/AppVersion-3.5.4-informational?style=flat-square)
 
 Test Template to test the new common chart
 
