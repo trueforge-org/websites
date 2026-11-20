@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.1.5 • [Train: stable]
 
+- Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
 - fix(bentopdf): update image ghcr.io/alam00000/bentopdf-simple 2.8.11 → 2.8.12 (#55586) • [`cdc9fce`](https://github.com/trueforge-org/truecharts/commit/cdc9fced9b00020c5fd198c14b4e60dc9c8090c1) • [@TrueCharts Bot] (2026-11-19)
 
 ## 2.1.4 • [Train: stable]
@@ -46,8 +47,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.1 • [Train: stable]
 
-- fix(bentopdf): update image ghcr.io/alam00000/bentopdf-simple 2.8.8 → 2.8.10 (#53720) • [`198a21a`](https://github.com/trueforge-org/truecharts/commit/198a21ac000f56dc81e9ceff45d838310ec864b1) • [@TrueCharts Bot] (2026-10-19)
 - fix(helm-deps): update chart common 30.2.0 → 30.2.2 (#53710) • [`8b341df`](https://github.com/trueforge-org/truecharts/commit/8b341df66dc1625b8d93aadca72f4430601d16f6) • [@TrueCharts Bot] (2026-10-19)
+- fix(bentopdf): update image ghcr.io/alam00000/bentopdf-simple 2.8.8 → 2.8.10 (#53720) • [`198a21a`](https://github.com/trueforge-org/truecharts/commit/198a21ac000f56dc81e9ceff45d838310ec864b1) • [@TrueCharts Bot] (2026-10-19)
 
 ## 2.0.0 • [Train: stable]
 

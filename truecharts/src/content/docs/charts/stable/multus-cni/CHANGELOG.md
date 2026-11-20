@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.4 • [Train: stable]
 
+- Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
 - fix(helm-deps): update chart common 30.4.4 → 30.4.5 (#55014) • [`da7fcfb`](https://github.com/trueforge-org/truecharts/commit/da7fcfb68465180fc102526dbec97097eabecf45) • [@TrueCharts Bot] (2026-11-09)
 
 ## 3.1.2 • [Train: stable]
@@ -66,8 +67,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.12.0 • [Train: stable]
 
-- feat(helm-deps): update chart common 29.16.0 → 29.17.0 (#51942) • [`9fdc9c2`](https://github.com/trueforge-org/truecharts/commit/9fdc9c2eb39cc3e011f6a1f154e387e0165d8379) • [@TrueCharts Bot] (2026-08-30)
 - feat(multus-cni): update image docker.io/alpine/crane 0.21.9 → 0.22.0 (#51956) • [`c48bda1`](https://github.com/trueforge-org/truecharts/commit/c48bda1eed96a5ff01c55983d0df9d74d8b1704c) • [@TrueCharts Bot] (2026-08-30)
+- feat(helm-deps): update chart common 29.16.0 → 29.17.0 (#51942) • [`9fdc9c2`](https://github.com/trueforge-org/truecharts/commit/9fdc9c2eb39cc3e011f6a1f154e387e0165d8379) • [@TrueCharts Bot] (2026-08-30)
 
 ## 2.11.0 • [Train: stable]
 
@@ -220,8 +221,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.0 • [Train: stable]
 
 - Commit daily changes • [`e61ac18`](https://github.com/trueforge-org/truecharts/commit/e61ac1832997e6dead504d7d004110b43c07254f) • [@TrueCharts-Bot] (2026-02-15)
-- feat(multus-cni): Move multus-cni to stable (#44892) • [`ecbcf37`](https://github.com/trueforge-org/truecharts/commit/ecbcf37387132522fde0009557a2b52d5a12fd48) • [@astro-stan] (2026-02-14)
 - port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
+- feat(multus-cni): Move multus-cni to stable (#44892) • [`ecbcf37`](https://github.com/trueforge-org/truecharts/commit/ecbcf37387132522fde0009557a2b52d5a12fd48) • [@astro-stan] (2026-02-14)
 
 ## 0.3.0 • [Train: incubator]
 
@@ -235,12 +236,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.2.0 • [Train: incubator]
 
+- feat(multus-cni): update image ghcr.io/siderolabs/cni v1.11.0 → v1.12.0 (#44336) • [`e888769`](https://github.com/trueforge-org/truecharts/commit/e88876994e98a72e6b1a10f1c7aae6479fa78198) • [@TrueCharts Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`ddba628`](https://github.com/trueforge-org/truecharts/commit/ddba6288bf69736c6c18f4a7dfd3636e54db2614) • [@TrueCharts-Bot] (2026-01-31)
-- feat(multus-cni): update image ghcr.io/siderolabs/cni v1.11.0 → v1.12.0 (#44336) • [`e888769`](https://github.com/trueforge-org/truecharts/commit/e88876994e98a72e6b1a10f1c7aae6479fa78198) • [@TrueCharts Bot] (2026-01-31)
 
 ## 0.1.1 • [Train: incubator]
 

@@ -12,16 +12,24 @@ Function library for TrueCharts
 - https://ghcr.io/cloudnative-pg/postgresql
 - https://ghcr.io/tensorchord/cloudnative-pgvecto.rs
 - https://ghcr.io/tensorchord/cloudnative-vectorchord
-- https://ghcr.io/traefik/whoami
+- https://github.com/trueforge-org/containers/tree/main/apps/clickhouse
 - https://github.com/trueforge-org/containers/tree/main/apps/code-server
-- https://github.com/trueforge-org/containers/tree/main/apps/go-yq
+- https://github.com/trueforge-org/containers/tree/main/apps/gluetun
 - https://github.com/trueforge-org/containers/tree/main/apps/kubectl
+- https://github.com/trueforge-org/containers/tree/main/apps/mariadb
 - https://github.com/trueforge-org/containers/tree/main/apps/mariadb-client
+- https://github.com/trueforge-org/containers/tree/main/apps/memcache
+- https://github.com/trueforge-org/containers/tree/main/apps/mongodb
 - https://github.com/trueforge-org/containers/tree/main/apps/mongosh
+- https://github.com/trueforge-org/containers/tree/main/apps/netshoot
+- https://github.com/trueforge-org/containers/tree/main/apps/postgresql
 - https://github.com/trueforge-org/containers/tree/main/apps/postgresql-client
-- https://github.com/trueforge-org/containers/tree/main/apps/scratch
+- https://github.com/trueforge-org/containers/tree/main/apps/redis-exporter
+- https://github.com/trueforge-org/containers/tree/main/apps/tailscale
 - https://github.com/trueforge-org/containers/tree/main/apps/ubuntu
+- https://github.com/trueforge-org/containers/tree/main/apps/valkey
 - https://github.com/trueforge-org/containers/tree/main/apps/valkey-tools
+- https://github.com/trueforge-org/containers/tree/main/apps/whoami
 - https://github.com/trueforge-org/truecharts/tree/master/charts/library/common
 - https://hub.docker.com/_/
 
@@ -93,29 +101,6 @@ All our Charts use a shared "common" library chart that contains most of the tem
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://trueforge.org/truecharts-common/)
 
 For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/trueforge-org/truecharts/blob/master/charts/library/common/values.yaml
-
-### Schema Validation
-
-You can validate values files against the common schema with:
-
-`python3 charts/library/common/test_schema.py`
-
-This validates:
-
-- `charts/stable/*/values.yaml`
-- `charts/library/common-test/ci/*values.yaml`
-
-Useful options:
-
-- `--output-file <path>`: write output to both stdout and a log file
-- `--max-failures <n>`: stop after `n` schema failures (`0` means no limit)
-- `--fail-fast`: stop after the first schema failure
-
-When running `run_common_tests.sh`, you can set `SCHEMA_MAX_FAILURES` to apply a failure threshold locally, for example:
-
-`SCHEMA_MAX_FAILURES=25 ./run_common_tests.sh`
-
-CI always performs a full run (`--max-failures 0`) and uploads the schema log artifact.
 
 ### Support
 
