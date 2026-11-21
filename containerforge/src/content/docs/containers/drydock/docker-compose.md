@@ -37,7 +37,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/drydock:0.0.17
+    image: ghcr.io/trueforge-org/drydock:v1.7.1
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
