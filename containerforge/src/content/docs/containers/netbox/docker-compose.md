@@ -36,18 +36,18 @@ services:
       ALLOWED_HOSTS: '*'
       DB_HOST: postgresql
       DB_NAME: netbox
-      DB_PASSWORD: 6023a9ccc5bcc13a168f723e70f7ae49WORD
+      DB_PASSWORD: fa51e399e8e22c526546810ca2bfb024WORD
       DB_PORT: "5432"
       DB_USER: netbox
       REDIS_DB_CACHE: "1"
       REDIS_DB_TASK: "0"
       REDIS_HOST: valkey
-      REDIS_PASSWORD: 8fce0194962f92afd2b1723252eaf458WORD
+      REDIS_PASSWORD: 9dbab34a5f3f7f882d987240b0ea1935WORD
       REDIS_PORT: "6379"
       SECRET_KEY: ""
       SUPERUSER_EMAIL: ""
       SUPERUSER_NAME: admin
-      SUPERUSER_PASSWORD: e21557f8282d97056355a2af8fad2453WORD
+      SUPERUSER_PASSWORD: 24b652cf5c2ab97667ad914a490cdb44WORD
       TZ: Etc/UTC
     group_add:
       - "568"
@@ -77,7 +77,7 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: netbox
-      POSTGRES_PASSWORD: 6023a9ccc5bcc13a168f723e70f7ae49WORD
+      POSTGRES_PASSWORD: fa51e399e8e22c526546810ca2bfb024WORD
       POSTGRES_USER: netbox
       TZ: Etc/UTC
     group_add:
@@ -110,7 +110,7 @@ services:
       TZ: Etc/UTC
       VALKEY_APPENDONLY: "yes"
       VALKEY_DATA_DIR: /config
-      VALKEY_PASSWORD: 8fce0194962f92afd2b1723252eaf458WORD
+      VALKEY_PASSWORD: 9dbab34a5f3f7f882d987240b0ea1935WORD
     group_add:
       - "568"
     image: ghcr.io/trueforge-org/valkey:9.0.4
