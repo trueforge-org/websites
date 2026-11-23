@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.7.5 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 19cb2ce (#4871) • [`bdc199d`](https://github.com/trueforge-org/truecharts/commit/bdc199d5b5177b4821fa79f9fc142afcdbba9336) • [@TrueCharts Bot] (2026-11-21)
 - fix: verify all apps against the Phase A tests and fix breakage (#4870) • [`12b6e60`](https://github.com/trueforge-org/truecharts/commit/12b6e603188cf3af30cddf785edb37de700fa2a1) • [@Kjeld Schouten] (2026-11-21)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 19cb2ce (#4871) • [`bdc199d`](https://github.com/trueforge-org/truecharts/commit/bdc199d5b5177b4821fa79f9fc142afcdbba9336) • [@TrueCharts Bot] (2026-11-21)
 - node and golang containers -&gt; ubuntu • [`ea93691`](https://github.com/trueforge-org/truecharts/commit/ea93691be9d25807ad8f54c7a3d62c6d64147cc6) • [@Kjeld Schouten] (2026-11-18)
 - fix(deps): update mastodon/mastodon v4.7.4 → v4.7.5 (#4493) • [`a5e1cbb`](https://github.com/trueforge-org/truecharts/commit/a5e1cbb44ab84a069ffef279ba3fae1030c23515) • [@TrueCharts Bot] (2026-11-03)
 

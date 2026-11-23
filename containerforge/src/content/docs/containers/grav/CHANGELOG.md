@@ -26,8 +26,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.30 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 51a8cb1 (#4796) • [`26ee985`](https://github.com/trueforge-org/truecharts/commit/26ee985d244bec0912d29aedefdbda76f8d50323) • [@TrueCharts Bot] (2026-11-18)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 1e4ce94 (#4800) • [`30ead75`](https://github.com/trueforge-org/truecharts/commit/30ead75fba1412e058482c450a780208475efea3) • [@TrueCharts Bot] (2026-11-18)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 51a8cb1 (#4796) • [`26ee985`](https://github.com/trueforge-org/truecharts/commit/26ee985d244bec0912d29aedefdbda76f8d50323) • [@TrueCharts Bot] (2026-11-18)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 5b73e70 (#4782) • [`ab4f13b`](https://github.com/trueforge-org/truecharts/commit/ab4f13b62466f4bce1153d74c5eed143244fb9e1) • [@TrueCharts Bot] (2026-11-17)
 - fix(deps): update getgrav/grav 2.2.29 → 2.2.30 (#4752) • [`d4ab4d5`](https://github.com/trueforge-org/truecharts/commit/d4ab4d5deb82d64d590310f75d5985d551d56233) • [@TrueCharts Bot] (2026-11-16)
 
@@ -99,8 +99,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 205c656 (#4372) • [`4a4192e`](https://github.com/trueforge-org/truecharts/commit/4a4192effc04fd6c88d29a721314849700b1a5b2) • [@TrueCharts Bot] (2026-10-29)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to cab29d3 (#4345) • [`cd3a6f4`](https://github.com/trueforge-org/truecharts/commit/cd3a6f44936493685ed0d92d0bf66ccacbf35397) • [@TrueCharts Bot] (2026-10-28)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 9ec5de9 (#4310) • [`671a83e`](https://github.com/trueforge-org/truecharts/commit/671a83e4e84691be1c5d44388a7ca888e472a85a) • [@TrueCharts Bot] (2026-10-27)
 - fix(deps): update getgrav/grav 2.2.13 → 2.2.14 (#4303) • [`0419428`](https://github.com/trueforge-org/truecharts/commit/0419428d7524272283b01792b1c75d3d9b9d8e8e) • [@TrueCharts Bot] (2026-10-27)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 9ec5de9 (#4310) • [`671a83e`](https://github.com/trueforge-org/truecharts/commit/671a83e4e84691be1c5d44388a7ca888e472a85a) • [@TrueCharts Bot] (2026-10-27)
 
 ## 2.2.13 • [Train: ]
 
@@ -142,8 +142,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.4 • [Train: ]
 
-- fix(deps): update getgrav/grav 2.2.3 → 2.2.4 (#3857) • [`3b69b5b`](https://github.com/trueforge-org/truecharts/commit/3b69b5b3ea2790220870b1bd0cea2c6c3b44482e) • [@TrueCharts Bot] (2026-10-06)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to ea16b55 (#3878) • [`12758ef`](https://github.com/trueforge-org/truecharts/commit/12758ef0290eecb056d4075a42076cbc4f02e99e) • [@TrueCharts Bot] (2026-10-06)
+- fix(deps): update getgrav/grav 2.2.3 → 2.2.4 (#3857) • [`3b69b5b`](https://github.com/trueforge-org/truecharts/commit/3b69b5b3ea2790220870b1bd0cea2c6c3b44482e) • [@TrueCharts Bot] (2026-10-06)
 
 ## 2.2.3 • [Train: ]
 
@@ -186,8 +186,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 2f8d64c (#3657) • [`4155fde`](https://github.com/trueforge-org/truecharts/commit/4155fde8b8afaf2953d0ee354e6c0693c6edb674) • [@TrueCharts Bot] (2026-09-18)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b9eec94 (#3629) • [`39d6348`](https://github.com/trueforge-org/truecharts/commit/39d63480f83ad3cf5f75580667c1bfbfe8917b4e) • [@TrueCharts Bot] (2026-09-17)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 82ba374 (#3595) • [`ee78af7`](https://github.com/trueforge-org/truecharts/commit/ee78af7b887ce3b9e28df5af33c1cad2163bd437) • [@TrueCharts Bot] (2026-09-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to fe30ffe (#3604) • [`41b2890`](https://github.com/trueforge-org/truecharts/commit/41b289018269ac973e47a9fcfe4996c0cf565dad) • [@TrueCharts Bot] (2026-09-16)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 82ba374 (#3595) • [`ee78af7`](https://github.com/trueforge-org/truecharts/commit/ee78af7b887ce3b9e28df5af33c1cad2163bd437) • [@TrueCharts Bot] (2026-09-16)
 - fix(deps): update getgrav/grav 2.1.5 → 2.1.6 (#3591) • [`e6859c2`](https://github.com/trueforge-org/truecharts/commit/e6859c210bbd6b6a2038571f3ed2ca7eb5060de8) • [@TrueCharts Bot] (2026-09-15)
 
 ## 2.1.5 • [Train: ]
@@ -336,11 +336,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 01cc09f (#2061) • [`b684474`](https://github.com/trueforge-org/truecharts/commit/b684474fb24d4ea62f4444d9b2e64451d7518894) • [@TrueCharts Bot] (2026-04-23)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8b0b1f0 (#1905) • [`20a527b`](https://github.com/trueforge-org/truecharts/commit/20a527bd40e7ba2654b000ee00636a54cd8e42e9) • [@TrueCharts Bot] (2026-04-19)
-- fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to bec52e9 (#1929) • [`5d334f4`](https://github.com/trueforge-org/truecharts/commit/5d334f478dcb81a0f8560e9c158c650cd1a6d8f0) • [@TrueCharts Bot] (2026-04-19)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to b91efc2 (#1786) • [`a199fd0`](https://github.com/trueforge-org/truecharts/commit/a199fd0d56a7d1e90dec4d0f324dc58c94922c4e) • [@TrueCharts Bot] (2026-04-16)
+- fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to c5a3b56 (#1796) • [`e262b17`](https://github.com/trueforge-org/truecharts/commit/e262b170c46f318a17077a5cc2f6288fba0cb4e4) • [@TrueCharts Bot] (2026-04-16)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to b91efc2 (#1786) • [`a199fd0`](https://github.com/trueforge-org/truecharts/commit/a199fd0d56a7d1e90dec4d0f324dc58c94922c4e) • [@TrueCharts Bot] (2026-04-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to cc82810 (#1730) • [`fba0e4c`](https://github.com/trueforge-org/truecharts/commit/fba0e4cb9838b3e432a4dc6854905fb7c09c36b0) • [@TrueCharts Bot] (2026-04-07)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8f6de6a (#1685) • [`321716c`](https://github.com/trueforge-org/truecharts/commit/321716c160d4572147dcda1c8ae42f23a25ee2a5) • [@TrueCharts Bot] (2026-03-29)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 1685c0f (#1696) • [`64d05ad`](https://github.com/trueforge-org/truecharts/commit/64d05ad1bb1da5beb109e92fc7aece41925f51ed) • [@TrueCharts Bot] (2026-03-29)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8f6de6a (#1685) • [`321716c`](https://github.com/trueforge-org/truecharts/commit/321716c160d4572147dcda1c8ae42f23a25ee2a5) • [@TrueCharts Bot] (2026-03-29)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to 1c87476 (#1533) • [`fa9215c`](https://github.com/trueforge-org/truecharts/commit/fa9215ca9fa8fc6f7118ab176ac04c2dd9f4d0a2) • [@TrueCharts Bot] (2026-02-24)
