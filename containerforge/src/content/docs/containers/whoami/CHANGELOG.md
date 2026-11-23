@@ -13,11 +13,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.12.0 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 19cb2ce (#4871) • [`bdc199d`](https://github.com/trueforge-org/truecharts/commit/bdc199d5b5177b4821fa79f9fc142afcdbba9336) • [@TrueCharts Bot] (2026-11-21)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.4 docker digest digest to 19cb2ce (#4872) • [`b777097`](https://github.com/trueforge-org/truecharts/commit/b77709774204ee14085400cfa242644ecdf7f5ce) • [@TrueCharts Bot] (2026-11-21)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 19cb2ce (#4871) • [`bdc199d`](https://github.com/trueforge-org/truecharts/commit/bdc199d5b5177b4821fa79f9fc142afcdbba9336) • [@TrueCharts Bot] (2026-11-21)
+- chore(golang-dep): update ghcr.io/trueforge-org/golang:1.27.4 docker digest digest to 3fdf573 (#4785) • [`5aa84ef`](https://github.com/trueforge-org/truecharts/commit/5aa84efa686778b28f85c0dd1c40ce610b9ec4f8) • [@TrueCharts Bot] (2026-11-18)
 - node and golang containers -&gt; ubuntu • [`ea93691`](https://github.com/trueforge-org/truecharts/commit/ea93691be9d25807ad8f54c7a3d62c6d64147cc6) • [@Kjeld Schouten] (2026-11-18)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 1e4ce94 (#4800) • [`30ead75`](https://github.com/trueforge-org/truecharts/commit/30ead75fba1412e058482c450a780208475efea3) • [@TrueCharts Bot] (2026-11-18)
-- chore(golang-dep): update ghcr.io/trueforge-org/golang:1.27.4 docker digest digest to 3fdf573 (#4785) • [`5aa84ef`](https://github.com/trueforge-org/truecharts/commit/5aa84efa686778b28f85c0dd1c40ce610b9ec4f8) • [@TrueCharts Bot] (2026-11-18)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 5b73e70 (#4782) • [`ab4f13b`](https://github.com/trueforge-org/truecharts/commit/ab4f13b62466f4bce1153d74c5eed143244fb9e1) • [@TrueCharts Bot] (2026-11-17)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 6694765 (#4733) • [`b03961d`](https://github.com/trueforge-org/truecharts/commit/b03961d5f27ee624523b635f1229f31261c6e0dc) • [@TrueCharts Bot] (2026-11-16)
 - chore(golang-dep): update ghcr.io/trueforge-org/golang:1.27.4 docker digest digest to 00f64ec (#4735) • [`d246f4e`](https://github.com/trueforge-org/truecharts/commit/d246f4ea6867c44c41cc342641a37d82aea6edf9) • [@TrueCharts Bot] (2026-11-16)
