@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: stable]
+
+- feat(birdnet-go): update image ghcr.io/tphakala/birdnet-go 20261031 → 20261122 (#55789) • [`989b966`](https://github.com/trueforge-org/truecharts/commit/989b966aecfee95cfa1bfb3b7b907cd5bc60aab1) • [@TrueCharts Bot] (2026-11-23)
+
 ## 2.1.4 • [Train: stable]
 
 - Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
