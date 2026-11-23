@@ -36,7 +36,7 @@ services:
       DB_DATABASE: radarr
       DB_HOST: postgresql
       DB_LOGSDB: radarr-log
-      DB_PASSWORD: b8d42049d7e430daefc2951a82f746a7WORD
+      DB_PASSWORD: 28d83e47b3801d13e4b829805175a0caWORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: radarr
@@ -44,7 +44,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/radarr:7.0.3.10918
+    image: ghcr.io/trueforge-org/radarr:7.1.0.10948
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: radarr
-#       POSTGRES_PASSWORD: b8d42049d7e430daefc2951a82f746a7WORD
+#       POSTGRES_PASSWORD: 28d83e47b3801d13e4b829805175a0caWORD
 #       POSTGRES_USER: radarr
 #       TZ: Etc/UTC
 #     group_add:
