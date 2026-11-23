@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 22.0.2 • [Train: incubator]
 
-- fix(helm-deps): update chart common 32.2.0 → 32.2.1 (#55607) • [`d6424df`](https://github.com/trueforge-org/truecharts/commit/d6424df87f2418b92cb40c3fafd88067f704be6b) • [@TrueCharts Bot] (2026-11-20)
 - Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
+- fix(helm-deps): update chart common 32.2.0 → 32.2.1 (#55607) • [`d6424df`](https://github.com/trueforge-org/truecharts/commit/d6424df87f2418b92cb40c3fafd88067f704be6b) • [@TrueCharts Bot] (2026-11-20)
 
 ## 22.0.0 • [Train: incubator]
 
