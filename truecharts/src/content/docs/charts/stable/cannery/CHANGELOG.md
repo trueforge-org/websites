@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.6.9 • [Train: stable]
+
+- fix(cannery): update image docker.io/shibaobun/cannery 1.5.8 → 1.5.9 (#55764) • [`9df680f`](https://github.com/trueforge-org/truecharts/commit/9df680f3680750a484017c0f62c23fe90db0dc24) • [@TrueCharts Bot] (2026-11-23)
+
 ## 5.6.8 • [Train: stable]
 
 - Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
@@ -434,8 +438,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.6 • [Train: stable]
 
-- chore(helm): update image docker.io/shibaobun/cannery 0.9.14 → 0.9.15 (#37198) • [`01596b3`](https://github.com/trueforge-org/truecharts/commit/01596b34afbc1b576f52deae311374f65e4cc7a0) • [@TrueCharts Bot] (2025-07-07)
 - chore(helm): update chart common 28.12.6 → 28.12.7 (#37188) • [`0f93b7d`](https://github.com/trueforge-org/truecharts/commit/0f93b7dddf18d6ec567159463c0edea43413d372) • [@TrueCharts Bot] (2025-07-07)
+- chore(helm): update image docker.io/shibaobun/cannery 0.9.14 → 0.9.15 (#37198) • [`01596b3`](https://github.com/trueforge-org/truecharts/commit/01596b34afbc1b576f52deae311374f65e4cc7a0) • [@TrueCharts Bot] (2025-07-07)
 
 ## 2.0.5 • [Train: stable]
 
