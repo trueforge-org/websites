@@ -408,8 +408,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.12.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 4.12.0 • [Train: stable]
 
@@ -814,5 +814,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.1 • [Train: incubator]
 
-- Create disclaimer.md • [`ae849cc`](https://github.com/trueforge-org/truecharts/commit/ae849cca3e82dd58b190465d06fc9928f49dc5ba) • [@Kjeld Schouten] (2024-04-08)
 - feat(victoriametrics): add VictoriaMetrics database (#20158) • [`6064a8f`](https://github.com/trueforge-org/truecharts/commit/6064a8f1cfcea7d5d8a8bfcb0c8938d43f7113f2) • [@Alexandre NICOLAIE] (2024-04-08)
+- Create disclaimer.md • [`ae849cc`](https://github.com/trueforge-org/truecharts/commit/ae849cca3e82dd58b190465d06fc9928f49dc5ba) • [@Kjeld Schouten] (2024-04-08)
