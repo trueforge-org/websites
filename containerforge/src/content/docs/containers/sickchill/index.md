@@ -2,7 +2,7 @@
 title: sickchill
 ---
 
-![Version: 2026.10.8](https://img.shields.io/badge/Version-2026.10.8-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 2026.11.23](https://img.shields.io/badge/Version-2026.11.23-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **sickchill**, including upstream
 | Field | Value |
 | --- | --- |
 | App | sickchill |
-| Version | 2026.10.8 |
+| Version | 2026.11.23 |
 | License | AGPL--3.0--or--later |
 
 ## Source
