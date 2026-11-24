@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.0 • [Train: stable]
 
+- Commit daily changes • [`c0f4463`](https://github.com/trueforge-org/truecharts/commit/c0f44634fb1609243d6c21eab961039815803d97) • [@TrueCharts-Bot] (2026-11-24)
 - BREAKING CHANGE(charts): migrate all charts to common 32.8.5 (common2026) (#55574) • [`afba0a7`](https://github.com/trueforge-org/truecharts/commit/afba0a7e9473bd81b3f56207390246b4b2036f1d) • [@Kjeld Schouten] (2026-11-23)
 
 ## 2.4.0 • [Train: stable]

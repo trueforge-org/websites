@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.0 • [Train: stable]
 
+- Commit daily changes • [`c0f4463`](https://github.com/trueforge-org/truecharts/commit/c0f44634fb1609243d6c21eab961039815803d97) • [@TrueCharts-Bot] (2026-11-24)
 - BREAKING CHANGE(charts): migrate all charts to common 32.8.5 (common2026) (#55574) • [`afba0a7`](https://github.com/trueforge-org/truecharts/commit/afba0a7e9473bd81b3f56207390246b4b2036f1d) • [@Kjeld Schouten] (2026-11-23)
 
 ## 4.2.4 • [Train: stable]
@@ -276,8 +277,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.18.1 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 1.18.0 • [Train: stable]
 

@@ -11,7 +11,6 @@ Fast, reliable, scalable, and easy to use open-source relational database system
 - https://github.com/bitnami/bitnami-docker-mariadb
 - https://github.com/prometheus/mysqld_exporter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mariadb
-- https://hub.docker.com/r/bitnamisecure/mariadb
 - https://mariadb.org
 
 ## Available Documentation

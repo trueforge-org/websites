@@ -10,7 +10,6 @@ Memcached is a memory-backed database caching solution
 
 - https://github.com/bitnami/bitnami-docker-memcached
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/memcached
-- https://hub.docker.com/r/bitnamisecure/memcached
 
 ## Available Documentation
 

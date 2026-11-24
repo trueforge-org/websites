@@ -10,7 +10,6 @@ Open source, advanced key-value store.
 
 - https://github.com/bitnami/containers/tree/main/bitnami/valkey
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/valkey
-- https://hub.docker.com/r/bitnamisecure/valkey
 
 ## Available Documentation
 
