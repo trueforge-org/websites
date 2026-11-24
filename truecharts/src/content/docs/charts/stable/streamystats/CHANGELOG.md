@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.0.0 • [Train: stable]
+
+- BREAKING CHANGE(charts): migrate all charts to common 32.8.5 (common2026) (#55574) • [`afba0a7`](https://github.com/trueforge-org/truecharts/commit/afba0a7e9473bd81b3f56207390246b4b2036f1d) • [@Kjeld Schouten] (2026-11-23)
+
 ## 2.3.2 • [Train: stable]
 
 - Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
@@ -19,8 +23,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.1 • [Train: stable]
 
-- fix(streamystats): update image ghcr.io/fredrikburmester/streamystats-job-server v2.22.0 → v2.22.2 (#55105) • [`7b0ff93`](https://github.com/trueforge-org/truecharts/commit/7b0ff9380301ac7ca2c904b35fce259937c698d4) • [@TrueCharts Bot] (2026-11-10)
 - fix(streamystats): update image ghcr.io/fredrikburmester/streamystats-nextjs v2.22.0 → v2.22.2 (#55106) • [`d1d1422`](https://github.com/trueforge-org/truecharts/commit/d1d1422b2c6fdbbe649b0b4b957f32754282aacb) • [@TrueCharts Bot] (2026-11-10)
+- fix(streamystats): update image ghcr.io/fredrikburmester/streamystats-job-server v2.22.0 → v2.22.2 (#55105) • [`7b0ff93`](https://github.com/trueforge-org/truecharts/commit/7b0ff9380301ac7ca2c904b35fce259937c698d4) • [@TrueCharts Bot] (2026-11-10)
 
 ## 2.3.0 • [Train: stable]
 

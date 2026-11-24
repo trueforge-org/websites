@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.0.0 • [Train: stable]
+
+- BREAKING CHANGE(charts): migrate all charts to common 32.8.5 (common2026) (#55574) • [`afba0a7`](https://github.com/trueforge-org/truecharts/commit/afba0a7e9473bd81b3f56207390246b4b2036f1d) • [@Kjeld Schouten] (2026-11-23)
+
 ## 2.2.0 • [Train: stable]
 
 - feat(birdnet-go): update image ghcr.io/tphakala/birdnet-go 20261031 → 20261122 (#55789) • [`989b966`](https://github.com/trueforge-org/truecharts/commit/989b966aecfee95cfa1bfb3b7b907cd5bc60aab1) • [@TrueCharts Bot] (2026-11-23)

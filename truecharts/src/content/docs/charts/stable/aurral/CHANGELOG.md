@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.0.0 • [Train: stable]
+
+- BREAKING CHANGE(charts): migrate all charts to common 32.8.5 (common2026) (#55574) • [`afba0a7`](https://github.com/trueforge-org/truecharts/commit/afba0a7e9473bd81b3f56207390246b4b2036f1d) • [@Kjeld Schouten] (2026-11-23)
+
 ## 3.1.0 • [Train: stable]
 
 - feat(aurral): update image ghcr.io/lklynet/aurral 3.0.1 → 3.1.0 (#55828) • [`846f7a5`](https://github.com/trueforge-org/truecharts/commit/846f7a51c261b62ebeb0852d26d1659eb13e8e0d) • [@TrueCharts Bot] (2026-11-23)

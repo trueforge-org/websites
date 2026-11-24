@@ -2,7 +2,7 @@
 title: cloudflared
 ---
 
-![Version: 17.2.2](https://img.shields.io/badge/Version-17.2.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.11.2](https://img.shields.io/badge/AppVersion-2026.11.2-informational?style=flat-square)
+![Version: 18.0.0](https://img.shields.io/badge/Version-18.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.11.2](https://img.shields.io/badge/AppVersion-2026.11.2-informational?style=flat-square)
 
 Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.
 

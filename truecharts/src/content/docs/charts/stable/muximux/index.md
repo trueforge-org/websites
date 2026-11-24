@@ -2,7 +2,7 @@
 title: muximux
 ---
 
-![Version: 16.2.7](https://img.shields.io/badge/Version-16.2.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.7.3](https://img.shields.io/badge/AppVersion-3.7.3-informational?style=flat-square)
+![Version: 17.0.0](https://img.shields.io/badge/Version-17.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.7.3](https://img.shields.io/badge/AppVersion-3.7.3-informational?style=flat-square)
 
 A lightweight portal to view & manage your HTPC apps without having to run anything more than a PHP enabled webserver
 

@@ -2,7 +2,7 @@
 title: mstream
 ---
 
-![Version: 16.5.0](https://img.shields.io/badge/Version-16.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.35.0](https://img.shields.io/badge/AppVersion-6.35.0-informational?style=flat-square)
+![Version: 17.0.0](https://img.shields.io/badge/Version-17.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.35.0](https://img.shields.io/badge/AppVersion-6.35.0-informational?style=flat-square)
 
 A personal music streaming server
 

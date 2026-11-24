@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.0 • [Train: stable]
+
+- BREAKING CHANGE(charts): migrate all charts to common 32.8.5 (common2026) (#55574) • [`afba0a7`](https://github.com/trueforge-org/truecharts/commit/afba0a7e9473bd81b3f56207390246b4b2036f1d) • [@Kjeld Schouten] (2026-11-23)
+
 ## 6.1.6 • [Train: stable]
 
 - chore(comet): update image ghcr.io/g0ldyy/comet digest to 3dcb2b1 (#55626) • [`bdfe0c8`](https://github.com/trueforge-org/truecharts/commit/bdfe0c82ac2137bf7a2702aae358fd28ddbfe405) • [@TrueCharts Bot] (2026-11-20)
