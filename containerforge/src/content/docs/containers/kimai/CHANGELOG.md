@@ -22,8 +22,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.72.0 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 51a8cb1 (#4796) • [`26ee985`](https://github.com/trueforge-org/truecharts/commit/26ee985d244bec0912d29aedefdbda76f8d50323) • [@TrueCharts Bot] (2026-11-18)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 1e4ce94 (#4800) • [`30ead75`](https://github.com/trueforge-org/truecharts/commit/30ead75fba1412e058482c450a780208475efea3) • [@TrueCharts Bot] (2026-11-18)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 51a8cb1 (#4796) • [`26ee985`](https://github.com/trueforge-org/truecharts/commit/26ee985d244bec0912d29aedefdbda76f8d50323) • [@TrueCharts Bot] (2026-11-18)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 5b73e70 (#4782) • [`ab4f13b`](https://github.com/trueforge-org/truecharts/commit/ab4f13b62466f4bce1153d74c5eed143244fb9e1) • [@TrueCharts Bot] (2026-11-17)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 6694765 (#4733) • [`b03961d`](https://github.com/trueforge-org/truecharts/commit/b03961d5f27ee624523b635f1229f31261c6e0dc) • [@TrueCharts Bot] (2026-11-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to cdc35c1 (#4714) • [`f7c8f8b`](https://github.com/trueforge-org/truecharts/commit/f7c8f8bfdc184f75520f24827be39f856021e396) • [@TrueCharts Bot] (2026-11-15)
@@ -127,10 +127,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to fdcc4e2 (#2111) • [`6eb80b4`](https://github.com/trueforge-org/truecharts/commit/6eb80b42574f0d6774223afb175a29aeaa917ab9) • [@TrueCharts Bot] (2026-04-26)
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 5fa3c2c (#2076) • [`8582ebc`](https://github.com/trueforge-org/truecharts/commit/8582ebcc6a0322009da1c100ab08b2d52614ac5c) • [@TrueCharts Bot] (2026-04-24)
-- move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
-- add dependencies settings key • [`f86db16`](https://github.com/trueforge-org/truecharts/commit/f86db166f69bb102f6a54714d7387cd393322ceb) • [@Kjeld Schouten] (2026-04-24)
 - fix dependencies and opt_dependencies • [`4d1f4a3`](https://github.com/trueforge-org/truecharts/commit/4d1f4a39e60cd0239cb0fdfaa59b97180553dd90) • [@Kjeld Schouten] (2026-04-24)
+- add dependencies settings key • [`f86db16`](https://github.com/trueforge-org/truecharts/commit/f86db166f69bb102f6a54714d7387cd393322ceb) • [@Kjeld Schouten] (2026-04-24)
+- move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 5fa3c2c (#2076) • [`8582ebc`](https://github.com/trueforge-org/truecharts/commit/8582ebcc6a0322009da1c100ab08b2d52614ac5c) • [@TrueCharts Bot] (2026-04-24)
 - tweak dependency system and allow for opt_dependencies • [`7d92bb5`](https://github.com/trueforge-org/truecharts/commit/7d92bb52cab800671d00900ec0109a0cff8b9fbe) • [@Kjeld Schouten] (2026-04-24)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 01cc09f (#2061) • [`b684474`](https://github.com/trueforge-org/truecharts/commit/b684474fb24d4ea62f4444d9b2e64451d7518894) • [@TrueCharts Bot] (2026-04-23)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
