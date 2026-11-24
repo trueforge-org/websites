@@ -11,10 +11,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.99.0 • [Train: ]
+
+- feat(deps): update oliver006/redis_exporter v1.98.0 → v1.99.0 (#4921) • [`6673507`](https://github.com/trueforge-org/truecharts/commit/6673507e2e307b238fdd98f66e7442cdd0860089) • [@TrueCharts Bot] (2026-11-24)
+
 ## 1.98.0 • [Train: ]
 
-- feat(deps): update oliver006/redis_exporter v1.97.0 → v1.98.0 (#4863) • [`78e228d`](https://github.com/trueforge-org/truecharts/commit/78e228d2fa405554672f2ba547d3bd1268cae089) • [@TrueCharts Bot] (2026-11-21)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.4 docker digest digest to 19cb2ce (#4872) • [`b777097`](https://github.com/trueforge-org/truecharts/commit/b77709774204ee14085400cfa242644ecdf7f5ce) • [@TrueCharts Bot] (2026-11-21)
+- feat(deps): update oliver006/redis_exporter v1.97.0 → v1.98.0 (#4863) • [`78e228d`](https://github.com/trueforge-org/truecharts/commit/78e228d2fa405554672f2ba547d3bd1268cae089) • [@TrueCharts Bot] (2026-11-21)
 
 ## 1.97.0 • [Train: ]
 
