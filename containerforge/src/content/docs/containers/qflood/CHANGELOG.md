@@ -14,6 +14,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.3.1 • [Train: ]
 
 - fix(deps): update qbittorrent 5.3.0 → 5.3.1 (#4925) • [`5a2dd18`](https://github.com/trueforge-org/truecharts/commit/5a2dd18153ed49c00bb6c71d607a8c2c2489825d) • [@TrueCharts Bot] (2026-11-24)
+- fix(deps): update ghcr.io/trueforge-org/qbittorrent docker tag 5.3.0 → 5.3.1 (#4927) • [`f873620`](https://github.com/trueforge-org/truecharts/commit/f87362082e310cd59b409b67aa187e8d88b044a6) • [@TrueCharts Bot] (2026-11-24)
 
 ## 5.3.0 • [Train: ]
 
