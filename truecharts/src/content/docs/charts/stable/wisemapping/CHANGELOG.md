@@ -273,8 +273,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.11.5 • [Train: stable]
 
-- Commit daily changes • [`0d9a801`](https://github.com/trueforge-org/truecharts/commit/0d9a8012163003f1c431e02a221c9033465f05e4) • [@TrueCharts-Bot] (2025-11-09)
 - chore(helm): update image docker.io/wisemapping/wisemapping digest to ae8a963 (#41556) • [`fb5b761`](https://github.com/trueforge-org/truecharts/commit/fb5b76140451932df8a3ab70fbfebfe7239a5f27) • [@TrueCharts Bot] (2025-11-09)
+- Commit daily changes • [`0d9a801`](https://github.com/trueforge-org/truecharts/commit/0d9a8012163003f1c431e02a221c9033465f05e4) • [@TrueCharts-Bot] (2025-11-09)
 
 ## 4.11.4 • [Train: stable]
 
