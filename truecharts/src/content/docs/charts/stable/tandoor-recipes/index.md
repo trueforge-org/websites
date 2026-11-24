@@ -2,7 +2,7 @@
 title: tandoor-recipes
 ---
 
-![Version: 23.0.0](https://img.shields.io/badge/Version-23.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.7.6](https://img.shields.io/badge/AppVersion-2.7.6-informational?style=flat-square)
+![Version: 23.0.1](https://img.shields.io/badge/Version-23.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.7.8](https://img.shields.io/badge/AppVersion-2.7.8-informational?style=flat-square)
 
 Tandoor Recipes is a Django application to manage, tag and search recipes using either built in models or external storage providers hosting PDF's, Images or other files.
 
