@@ -63,13 +63,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 10.1.85 • [Train: ]
 
 - feat: move lots of containers to apps/ (#1529) • [`26e6b8a`](https://github.com/trueforge-org/truecharts/commit/26e6b8a6eb26be79c9b7cd43baf01d31dde7cec5) • [@Kjeld Schouten] (2026-02-24)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 1c87476 (#1511) • [`0556001`](https://github.com/trueforge-org/truecharts/commit/0556001d37198a73ecdf76d3e7e61153479a1635) • [@TrueCharts Bot] (2026-02-21)
-- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to e550737 (#1480) • [`d8ea9e3`](https://github.com/trueforge-org/truecharts/commit/d8ea9e3403e31b7602a787361a314c7d0cee81c8) • [@TrueCharts Bot] (2026-02-21)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 63879ad (#1481) • [`b49359f`](https://github.com/trueforge-org/truecharts/commit/b49359f2585ed49985b911ab9e60950a0be221ea) • [@TrueCharts Bot] (2026-02-21)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 654a659 (#1496) • [`fbfbee6`](https://github.com/trueforge-org/truecharts/commit/fbfbee6dae22b93890f78a384abcc16c1ddb5138) • [@TrueCharts Bot] (2026-02-21)
-- chore: test tests 2 (#1507) • [`9f06e63`](https://github.com/trueforge-org/truecharts/commit/9f06e63b0e0c037db8b68b48bc3c10bf8599aae3) • [@Kjeld Schouten] (2026-02-21)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 1c87476 (#1511) • [`0556001`](https://github.com/trueforge-org/truecharts/commit/0556001d37198a73ecdf76d3e7e61153479a1635) • [@TrueCharts Bot] (2026-02-21)
 - update filepath for latest forgetool • [`45309d7`](https://github.com/trueforge-org/truecharts/commit/45309d740b3865fd31c94aa0eeaeaed939467cf3) • [@Kjeld Schouten] (2026-02-21)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 654a659 (#1496) • [`fbfbee6`](https://github.com/trueforge-org/truecharts/commit/fbfbee6dae22b93890f78a384abcc16c1ddb5138) • [@TrueCharts Bot] (2026-02-21)
+- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
+- chore: test tests 2 (#1507) • [`9f06e63`](https://github.com/trueforge-org/truecharts/commit/9f06e63b0e0c037db8b68b48bc3c10bf8599aae3) • [@Kjeld Schouten] (2026-02-21)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 63879ad (#1481) • [`b49359f`](https://github.com/trueforge-org/truecharts/commit/b49359f2585ed49985b911ab9e60950a0be221ea) • [@TrueCharts Bot] (2026-02-21)
 - feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 36c48bc (#1429) • [`9986831`](https://github.com/trueforge-org/truecharts/commit/9986831fce5097b2010855f49d79c7d6a8f3f435) • [@TrueCharts Bot] (2026-02-19)
 - Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
@@ -82,14 +82,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.5.21 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 9a693d4 (#1212) • [`2d0d19e`](https://github.com/trueforge-org/truecharts/commit/2d0d19e64e0529573d339654efe15a834c20e9f4) • [@TrueCharts Bot] (2026-02-16)
-- feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
 - feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
-- fix(ci): correct ubuntu:24.4.0 digest to 5348eb7 (#1272) • [`94a3bb3`](https://github.com/trueforge-org/truecharts/commit/94a3bb35723fda2de6261bf3aee87bde79b4cec5) • [@Copilot] (2026-02-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 5d05227 (#1251) • [`94b1945`](https://github.com/trueforge-org/truecharts/commit/94b1945d051c20186c519345781fac62acc476d0) • [@TrueCharts Bot] (2026-02-16)
+- fix(ci): correct ubuntu:24.4.0 digest to 5348eb7 (#1272) • [`94a3bb3`](https://github.com/trueforge-org/truecharts/commit/94a3bb35723fda2de6261bf3aee87bde79b4cec5) • [@Copilot] (2026-02-16)
+- feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 9a693d4 (#1212) • [`2d0d19e`](https://github.com/trueforge-org/truecharts/commit/2d0d19e64e0529573d339654efe15a834c20e9f4) • [@TrueCharts Bot] (2026-02-16)
 - test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
-- test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
+- test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to ede54cb (#1159) • [`8518672`](https://github.com/trueforge-org/truecharts/commit/8518672b1f4e7b79440662400b579f10c4a2988e) • [@TrueCharts Bot] (2026-02-14)
 - Standardize Renovate annotations for app bakefile version variables (#1117) • [`15f06b4`](https://github.com/trueforge-org/truecharts/commit/15f06b4b9240a8c914fc4e9edd833b9babf6d996) • [@Copilot] (2026-02-14)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.4.0 docker digest digest to 3b826c0 (#1082) • [`4e662ce`](https://github.com/trueforge-org/truecharts/commit/4e662ce2ecf0df72c7b9acee0c2c20033e18bc43) • [@TrueCharts Bot] (2026-02-11)
