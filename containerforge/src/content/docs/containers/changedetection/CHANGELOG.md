@@ -19,8 +19,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix(deps): update playwright 1.65.1 → 1.65.2 (#4704) • [`579a696`](https://github.com/trueforge-org/truecharts/commit/579a6965fcae33a03bb4b7bb1c8d4dfa8e0c8d2b) • [@TrueCharts Bot] (2026-11-14)
 - fix(deps): update playwright 1.65.0 → 1.65.1 (#4653) • [`73584b6`](https://github.com/trueforge-org/truecharts/commit/73584b6ee7d7113191c10b0e02190c72a0e3f8f4) • [@TrueCharts Bot] (2026-11-12)
-- feat(deps): update playwright 1.64.1 → 1.65.0 (#4603) • [`6d081a1`](https://github.com/trueforge-org/truecharts/commit/6d081a10fd47d42de9abe3af4dc0cc2896124ea0) • [@TrueCharts Bot] (2026-11-09)
 - fix(deps): update dgtlmoon/changedetection.io 0.70.2 → 0.70.3 (#4595) • [`0aa6105`](https://github.com/trueforge-org/truecharts/commit/0aa6105186d16e036ad3463d3a403442c4ed4112) • [@TrueCharts Bot] (2026-11-09)
+- feat(deps): update playwright 1.64.1 → 1.65.0 (#4603) • [`6d081a1`](https://github.com/trueforge-org/truecharts/commit/6d081a10fd47d42de9abe3af4dc0cc2896124ea0) • [@TrueCharts Bot] (2026-11-09)
 
 ## 0.70.2 • [Train: ]
 
@@ -48,11 +48,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.60.8 • [Train: ]
 
-- fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.14.7 → 3.14.8 (#3888) • [`ef08bd2`](https://github.com/trueforge-org/truecharts/commit/ef08bd27e51c417f441984f3b40e961e5b038803) • [@TrueCharts Bot] (2026-10-11)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.8 docker digest digest to 75164c8 (#4004) • [`0047e11`](https://github.com/trueforge-org/truecharts/commit/0047e1160d54c91f17f04fa0fd30057d665928c6) • [@TrueCharts Bot] (2026-10-11)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.8 docker digest digest to feb6e44 (#4011) • [`5b85ebf`](https://github.com/trueforge-org/truecharts/commit/5b85ebf380196b5122ab03169c3c546b44f1b4d5) • [@TrueCharts Bot] (2026-10-11)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.8 docker digest digest to afc40a0 (#4000) • [`8c5b8ba`](https://github.com/trueforge-org/truecharts/commit/8c5b8ba60b71cb31ae900d2e10e67ad191ee3d53) • [@TrueCharts Bot] (2026-10-11)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.7 docker digest digest to 2f023f4 (#3896) • [`be0459d`](https://github.com/trueforge-org/truecharts/commit/be0459da4f49edef080cc016a44c3b452051cd6c) • [@TrueCharts Bot] (2026-10-11)
+- fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.14.7 → 3.14.8 (#3888) • [`ef08bd2`](https://github.com/trueforge-org/truecharts/commit/ef08bd27e51c417f441984f3b40e961e5b038803) • [@TrueCharts Bot] (2026-10-11)
 - fix(deps): update dgtlmoon/changedetection.io 0.60.7 → 0.60.8 (#3802) • [`c6120cf`](https://github.com/trueforge-org/truecharts/commit/c6120cf94248e09e711d360560d2b0605669c1a1) • [@TrueCharts Bot] (2026-09-28)
 
 ## 0.60.7 • [Train: ]
