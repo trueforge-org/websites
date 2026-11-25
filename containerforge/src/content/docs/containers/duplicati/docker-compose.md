@@ -40,7 +40,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/duplicati:2.4.1.0_stable_2026-10-29
+    image: ghcr.io/trueforge-org/duplicati:2.4.1.1_stable_2026-11-25
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
