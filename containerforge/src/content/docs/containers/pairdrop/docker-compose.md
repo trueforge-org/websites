@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/pairdrop:1.11.3
+    image: ghcr.io/trueforge-org/pairdrop:1.11.2
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
