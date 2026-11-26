@@ -109,8 +109,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.1.0 • [Train: stable]
 
 - Commit daily changes • [`e0feb4a`](https://github.com/trueforge-org/truecharts/commit/e0feb4afdbb578243e43f5199c08c0a16b77c881) • [@TrueCharts-Bot] (2026-04-20)
-- feat(slskd): update image ghcr.io/slskd/slskd 0.24.5 → 0.25.0 (#47225) • [`4da7418`](https://github.com/trueforge-org/truecharts/commit/4da74181a867af4e1d011a6f7a3b48e82d4a9704) • [@TrueCharts Bot] (2026-04-19)
 - feat(helm-deps): update chart common 29.0.15 → 29.1.0 (#47224) • [`ffc1341`](https://github.com/trueforge-org/truecharts/commit/ffc13416f5f8132a48149dee2ac914723c97cf1f) • [@TrueCharts Bot] (2026-04-19)
+- feat(slskd): update image ghcr.io/slskd/slskd 0.24.5 → 0.25.0 (#47225) • [`4da7418`](https://github.com/trueforge-org/truecharts/commit/4da74181a867af4e1d011a6f7a3b48e82d4a9704) • [@TrueCharts Bot] (2026-04-19)
 
 ## 5.0.2 • [Train: stable]
 
@@ -319,8 +319,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.7.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 4.7.0 • [Train: stable]
 
@@ -546,8 +546,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.2 • [Train: incubator]
 
-- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 
 ## 2.0.1 • [Train: incubator]
 
