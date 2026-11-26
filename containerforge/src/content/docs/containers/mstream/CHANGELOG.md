@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.35.0 • [Train: ]
 
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to f01a429 (#4975) • [`9f5521d`](https://github.com/trueforge-org/truecharts/commit/9f5521d99bfd5e41f83d7c866b065da1325cb3aa) • [@TrueCharts Bot] (2026-11-26)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 19cb2ce (#4871) • [`bdc199d`](https://github.com/trueforge-org/truecharts/commit/bdc199d5b5177b4821fa79f9fc142afcdbba9336) • [@TrueCharts Bot] (2026-11-21)
 - feat(deps): update irosthebeggar/mstream v6.34.0 → v6.35.0 (#4853) • [`866692b`](https://github.com/trueforge-org/truecharts/commit/866692b053b3c89691d92a70f4abab7af690c9df) • [@TrueCharts Bot] (2026-11-20)
 
@@ -47,8 +48,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 6.31.1 • [Train: ]
 
 - fix(node-dep): update node.js 24.22.0 → 24.22.1 (#4187) • [`1ab718b`](https://github.com/trueforge-org/truecharts/commit/1ab718ba2cd9a1c799e9f9b990e3306da30eac9e) • [@TrueCharts Bot] (2026-10-21)
-- chore(node-dep): update node.js digest to b395d72 (#4116) • [`8180579`](https://github.com/trueforge-org/truecharts/commit/8180579cc9f67c60d5833fddf3dcd76e4a4cc714) • [@TrueCharts Bot] (2026-10-17)
 - chore(node-dep): update node.js digest to 4403e4d (#4103) • [`bd45b32`](https://github.com/trueforge-org/truecharts/commit/bd45b32c87b11c98cde8987e0c0ff9bff4b0ae91) • [@TrueCharts Bot] (2026-10-17)
+- chore(node-dep): update node.js digest to b395d72 (#4116) • [`8180579`](https://github.com/trueforge-org/truecharts/commit/8180579cc9f67c60d5833fddf3dcd76e4a4cc714) • [@TrueCharts Bot] (2026-10-17)
 - feat(node-dep): update node.js 24.21.0 → 24.22.0 (#4059) • [`df96dc7`](https://github.com/trueforge-org/truecharts/commit/df96dc7ddefb6bcc604a651f6dfee6afa82879f2) • [@TrueCharts Bot] (2026-10-15)
 - chore(node-dep): update node.js digest to e92e30c (#3897) • [`9682d75`](https://github.com/trueforge-org/truecharts/commit/9682d75c4d26270bd702b9694945993d8733c233) • [@TrueCharts Bot] (2026-10-11)
 - feat(deps): update irosthebeggar/mstream v6.30.0 → v6.31.1 (#3864) • [`9c60396`](https://github.com/trueforge-org/truecharts/commit/9c6039660b95b525d625f9865e78448601fd001f) • [@TrueCharts Bot] (2026-10-06)
@@ -65,8 +66,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(node-dep): update node.js digest to bf1dd21 (#3688) • [`87d8515`](https://github.com/trueforge-org/truecharts/commit/87d8515dde1a5404129a6bb5a66f91c99ff5d85f) • [@TrueCharts Bot] (2026-09-19)
 - chore(node-dep): update node.js digest to 7681774 (#3663) • [`3581321`](https://github.com/trueforge-org/truecharts/commit/358132142099a83e02ccffda0fbc7b8ed71b2e53) • [@TrueCharts Bot] (2026-09-18)
-- chore(node-dep): update node.js digest to 8a3b149 (#3638) • [`942f718`](https://github.com/trueforge-org/truecharts/commit/942f71841b85482e296e67bd3d1416b6f9c01c4c) • [@TrueCharts Bot] (2026-09-17)
 - feat(deps): update irosthebeggar/mstream v6.27.0 → v6.28.1 (#3581) • [`4d84771`](https://github.com/trueforge-org/truecharts/commit/4d84771e1cdc342b71d13c6b55add36993a26a0d) • [@TrueCharts Bot] (2026-09-17)
+- chore(node-dep): update node.js digest to 8a3b149 (#3638) • [`942f718`](https://github.com/trueforge-org/truecharts/commit/942f71841b85482e296e67bd3d1416b6f9c01c4c) • [@TrueCharts Bot] (2026-09-17)
 
 ## 6.27.0 • [Train: ]
 
@@ -190,9 +191,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.10.1 • [Train: ]
 
+- chore(node-dep): update node.js digest to 054127d (#2472) • [`b1f65c2`](https://github.com/trueforge-org/truecharts/commit/b1f65c22b435d7bdaed598e565bb19b4f8d22d89) • [@TrueCharts Bot] (2026-06-08)
 - feat(node-dep): update node.js 24.15.0 → 24.16.0 (#2459) • [`0643262`](https://github.com/trueforge-org/truecharts/commit/064326201954243ac725a5ca2b77aa38e9e1b133) • [@TrueCharts Bot] (2026-06-08)
 - feat(deps): update irosthebeggar/mstream v6.7.1 → v6.10.1 (#2442) • [`7f6c804`](https://github.com/trueforge-org/truecharts/commit/7f6c8041dc71e5617c7c39da50928f983d207d76) • [@TrueCharts Bot] (2026-06-08)
-- chore(node-dep): update node.js digest to 054127d (#2472) • [`b1f65c2`](https://github.com/trueforge-org/truecharts/commit/b1f65c22b435d7bdaed598e565bb19b4f8d22d89) • [@TrueCharts Bot] (2026-06-08)
 
 ## 6.7.1 • [Train: ]
 
@@ -236,8 +237,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.4.4 • [Train: ]
 
-- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
+- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - fix(deps): update irosthebeggar/mstream v6.4.3 → v6.4.4 (#2020) • [`3c9c15d`](https://github.com/trueforge-org/truecharts/commit/3c9c15d1bb04da871226a801b1883ac4efe02c3a) • [@TrueCharts Bot] (2026-04-22)
 
 ## 6.4.3 • [Train: ]
@@ -258,9 +259,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.3.0 • [Train: ]
 
-- chore(node-dep): update node.js digest to c7c4a7a (#1917) • [`9675d3a`](https://github.com/trueforge-org/truecharts/commit/9675d3ab918d736e29e80c94694f2ddd27b09470) • [@TrueCharts Bot] (2026-04-19)
 - chore(node-dep): update node.js digest to 39f32ff (#1954) • [`38a2ad8`](https://github.com/trueforge-org/truecharts/commit/38a2ad8c025074b6d12b89e9f0df9aa70de7322a) • [@TrueCharts Bot] (2026-04-19)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
+- chore(node-dep): update node.js digest to c7c4a7a (#1917) • [`9675d3a`](https://github.com/trueforge-org/truecharts/commit/9675d3ab918d736e29e80c94694f2ddd27b09470) • [@TrueCharts Bot] (2026-04-19)
 - feat(deps): update irosthebeggar/mstream v6.2.0 → v6.3.0 (#1881) • [`ce595f3`](https://github.com/trueforge-org/truecharts/commit/ce595f323b24d9968933e5b093bdaa6226687f8a) • [@TrueCharts Bot] (2026-04-18)
 
 ## 6.2.0 • [Train: ]

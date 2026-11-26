@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.10.2 • [Train: ]
 
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to f01a429 (#4975) • [`9f5521d`](https://github.com/trueforge-org/truecharts/commit/9f5521d99bfd5e41f83d7c866b065da1325cb3aa) • [@TrueCharts Bot] (2026-11-26)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 19cb2ce (#4871) • [`bdc199d`](https://github.com/trueforge-org/truecharts/commit/bdc199d5b5177b4821fa79f9fc142afcdbba9336) • [@TrueCharts Bot] (2026-11-21)
 - node and golang containers -&gt; ubuntu • [`ea93691`](https://github.com/trueforge-org/truecharts/commit/ea93691be9d25807ad8f54c7a3d62c6d64147cc6) • [@Kjeld Schouten] (2026-11-18)
 - fix(node-dep): update node.js 24.22.1 → 24.22.2 (#4369) • [`71424d2`](https://github.com/trueforge-org/truecharts/commit/71424d278befc6c91d6b1100d61fc6ff68dabe83) • [@TrueCharts Bot] (2026-10-29)
