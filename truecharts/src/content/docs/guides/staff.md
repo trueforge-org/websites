@@ -14,8 +14,7 @@ Below is a list of personal clusters maintained by our staff members. These can 
 
 | Name            | Clusters |
 |----------------|--------------------------------------------------------------|
-| **Alfi0812**   | [Talos-Cluster](https://github.com/alfi0812/talos), [Test Cluster](https://github.com/alfi0812/test-cluster) |
-| **kqmaverick** | [Cluster](https://github.com/kqmaverick/cluster) |
+| **Alfi0812**   | [Talos-Cluster](https://gitlab.goeppel.dev/alfi0812/talos) |   
 | **PrivatePuffin** | [Cluster](https://github.com/PrivatePuffin/cluster) |
-| **Xstar97TheNoob** | [Cluster](https://github.com/xstar97/cluster) |
+| **Xstar97TheNoob** | [Cluster](https://github.com/xstar97/home-ops) |
 | **Boemeltrein** | [Cluster](https://github.com/Boemeltrein/TalosCluster) |
