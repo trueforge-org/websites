@@ -14,8 +14,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.7.5 • [Train: ]
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to f01a429 (#4975) • [`9f5521d`](https://github.com/trueforge-org/truecharts/commit/9f5521d99bfd5e41f83d7c866b065da1325cb3aa) • [@TrueCharts Bot] (2026-11-26)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 19cb2ce (#4871) • [`bdc199d`](https://github.com/trueforge-org/truecharts/commit/bdc199d5b5177b4821fa79f9fc142afcdbba9336) • [@TrueCharts Bot] (2026-11-21)
 - fix: verify all apps against the Phase A tests and fix breakage (#4870) • [`12b6e60`](https://github.com/trueforge-org/truecharts/commit/12b6e603188cf3af30cddf785edb37de700fa2a1) • [@Kjeld Schouten] (2026-11-21)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 19cb2ce (#4871) • [`bdc199d`](https://github.com/trueforge-org/truecharts/commit/bdc199d5b5177b4821fa79f9fc142afcdbba9336) • [@TrueCharts Bot] (2026-11-21)
 - node and golang containers -&gt; ubuntu • [`ea93691`](https://github.com/trueforge-org/truecharts/commit/ea93691be9d25807ad8f54c7a3d62c6d64147cc6) • [@Kjeld Schouten] (2026-11-18)
 - fix(deps): update mastodon/mastodon v4.7.4 → v4.7.5 (#4493) • [`a5e1cbb`](https://github.com/trueforge-org/truecharts/commit/a5e1cbb44ab84a069ffef279ba3fae1030c23515) • [@TrueCharts Bot] (2026-11-03)
 
@@ -52,8 +52,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat(node-dep): update node.js 24.19.0 → 24.20.0 (#3348) • [`a81c557`](https://github.com/trueforge-org/truecharts/commit/a81c557c62eb1e838d8214a4b99a790a971a2bf0) • [@TrueCharts Bot] (2026-08-27)
 - chore(node-dep): update node.js digest to 9bb5ae1 (#3281) • [`46b37b2`](https://github.com/trueforge-org/truecharts/commit/46b37b2b6f2858ae936fbbed46421a2c871e5397) • [@TrueCharts Bot] (2026-08-21)
-- chore(node-dep): update node.js digest to e4a650b (#3204) • [`57a9a3c`](https://github.com/trueforge-org/truecharts/commit/57a9a3c17b9e2f0866f9a1b91b7790ba4d54fd70) • [@TrueCharts Bot] (2026-08-20)
 - feat(deps): update mastodon/mastodon v4.6.6 → v4.7.0 (#3250) • [`0a3151a`](https://github.com/trueforge-org/truecharts/commit/0a3151a722606311d3dc1342568749180a30679f) • [@TrueCharts Bot] (2026-08-20)
+- chore(node-dep): update node.js digest to e4a650b (#3204) • [`57a9a3c`](https://github.com/trueforge-org/truecharts/commit/57a9a3c17b9e2f0866f9a1b91b7790ba4d54fd70) • [@TrueCharts Bot] (2026-08-20)
 
 ## 4.6.6 • [Train: ]
 
