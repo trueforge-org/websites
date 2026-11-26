@@ -100,8 +100,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.5.9 • [Train: ]
 
-- work on compose rendering placeholders • [`62433a7`](https://github.com/trueforge-org/truecharts/commit/62433a7054d425651f3d1f0c8d7dfbdb5c7b629a) • [@Kjeld Schouten] (2026-05-02)
 - some password fixes • [`68a527b`](https://github.com/trueforge-org/truecharts/commit/68a527b6c7a868d29014720fc8458313be3410e1) • [@Kjeld Schouten] (2026-05-02)
+- work on compose rendering placeholders • [`62433a7`](https://github.com/trueforge-org/truecharts/commit/62433a7054d425651f3d1f0c8d7dfbdb5c7b629a) • [@Kjeld Schouten] (2026-05-02)
 - fix(deps): update netbox-community/netbox v4.5.8 → v4.5.9 (#2184) • [`51b27aa`](https://github.com/trueforge-org/truecharts/commit/51b27aaf42a9d7898917eee124f5facb08f59445) • [@TrueCharts Bot] (2026-04-28)
 
 ## 4.5.8 • [Train: ]
