@@ -36,7 +36,7 @@ services:
       DB_DATABASE: prowlarr
       DB_HOST: postgresql
       DB_LOGSDB: prowlarr-log
-      DB_PASSWORD: 949859da84b237e9eda58b356f9e9a63WORD
+      DB_PASSWORD: e311ef6cee3a30156d3207531a850403WORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: prowlarr
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: prowlarr
-#       POSTGRES_PASSWORD: 949859da84b237e9eda58b356f9e9a63WORD
+#       POSTGRES_PASSWORD: e311ef6cee3a30156d3207531a850403WORD
 #       POSTGRES_USER: prowlarr
 #       TZ: Etc/UTC
 #     group_add:
