@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.3.0 • [Train: stable]
+
+- feat(poznote): update image ghcr.io/timothepoznanski/poznote 6.160.1 → 6.161.0 (#56049) • [`6a59503`](https://github.com/trueforge-org/truecharts/commit/6a59503d0d53ab89906657a7e5a48219fac27c9b) • [@TrueCharts Bot] (2026-11-27)
+
 ## 3.2.0 • [Train: stable]
 
 - feat(poznote): update image ghcr.io/timothepoznanski/poznote 6.159.0 → 6.160.1 (#56045) • [`cfd49d1`](https://github.com/trueforge-org/truecharts/commit/cfd49d1cc834b815d8d451a20f6b82a902c02a72) • [@TrueCharts Bot] (2026-11-27)
@@ -37,8 +41,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.33.0 • [Train: stable]
 
-- Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
 - feat(poznote): update image ghcr.io/timothepoznanski/poznote 6.152.0 → 6.153.0 (#55618) • [`97371be`](https://github.com/trueforge-org/truecharts/commit/97371be4e58d84a0f82d668c744ec5d630bd75cd) • [@TrueCharts Bot] (2026-11-20)
+- Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
 
 ## 2.32.0 • [Train: stable]
 
