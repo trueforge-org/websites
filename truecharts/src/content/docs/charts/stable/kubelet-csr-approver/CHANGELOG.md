@@ -339,8 +339,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.6 • [Train: system]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 2.3.5 • [Train: system]
 
@@ -490,8 +490,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(deps): update ignored by renovate (patch) (#24139) • [`51504b7`](https://github.com/trueforge-org/truecharts/commit/51504b7b0045e75470a34b20fdfe9004bbf3c081) • [@TrueCharts Bot] (2024-07-24)
 - Commit daily changes • [`9c6cf1b`](https://github.com/trueforge-org/truecharts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
 - chore(deps): update ignored by renovate (patch) (#22861) • [`72bf48a`](https://github.com/trueforge-org/truecharts/commit/72bf48a36f965f8362759779ce902b723fa450d1) • [@TrueCharts Bot] (2024-06-28)
-- Commit daily changes • [`139c93d`](https://github.com/trueforge-org/truecharts/commit/139c93ddea0f96bca5e2ef73b1a729151877b491) • [@TrueCharts-Bot] (2024-06-26)
 - chore(kubelet-csr-approver): Write own code for CSR approver (#23799) • [`f9a6f2a`](https://github.com/trueforge-org/truecharts/commit/f9a6f2af60bbc8e87847d6ea779f865de45395af) • [@MaverickD650] (2024-06-26)
+- Commit daily changes • [`139c93d`](https://github.com/trueforge-org/truecharts/commit/139c93ddea0f96bca5e2ef73b1a729151877b491) • [@TrueCharts-Bot] (2024-06-26)
 
 ## 0.0.1 • [Train: system]
 
