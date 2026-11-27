@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 22.1.0 • [Train: incubator]
 
-- feat(helm-deps): update chart common 32.2.1 → 32.8.5 (#55849) • [`35dd7be`](https://github.com/trueforge-org/truecharts/commit/35dd7becc20779cc665d90fd044740faeaf5712f) • [@TrueCharts Bot] (2026-11-24)
 - feat(helm-deps): update chart common 32.2.1 → 32.8.5 (#55850) • [`13a8dd8`](https://github.com/trueforge-org/truecharts/commit/13a8dd8115084afaec436c841d807b0feb8e9414) • [@TrueCharts Bot] (2026-11-24)
+- feat(helm-deps): update chart common 32.2.1 → 32.8.5 (#55849) • [`35dd7be`](https://github.com/trueforge-org/truecharts/commit/35dd7becc20779cc665d90fd044740faeaf5712f) • [@TrueCharts Bot] (2026-11-24)
 
 ## 22.0.2 • [Train: incubator]
 
@@ -28,5 +28,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 21.3.7 • [Train: incubator]
 
-- fix: oopsie in test template chart • [`e983a9e`](https://github.com/trueforge-org/truecharts/commit/e983a9e43bae5e0932f521fbd1b435114602bca5) • [@Kjeld Schouten] (2026-11-19)
 - chore: add test-template chart • [`448ce7b`](https://github.com/trueforge-org/truecharts/commit/448ce7b0676b16597df98c885660728083d8f1b6) • [@Kjeld Schouten] (2026-11-19)
+- fix: oopsie in test template chart • [`e983a9e`](https://github.com/trueforge-org/truecharts/commit/e983a9e43bae5e0932f521fbd1b435114602bca5) • [@Kjeld Schouten] (2026-11-19)
