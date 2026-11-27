@@ -2,7 +2,7 @@
 title: volsync
 ---
 
-![Version: 6.0.0](https://img.shields.io/badge/Version-6.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.0](https://img.shields.io/badge/AppVersion-0.16.0-informational?style=flat-square)
+![Version: 7.0.0](https://img.shields.io/badge/Version-7.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.17.0](https://img.shields.io/badge/AppVersion-0.17.0-informational?style=flat-square)
 
 volsync is a storage backup and synchronisation tool.
 
@@ -16,6 +16,7 @@ volsync is a storage backup and synchronisation tool.
 
 ## Available Documentation
 
+- [**Upgrade to chart 7.0.0**](./upgrade)
 
 
 ---
