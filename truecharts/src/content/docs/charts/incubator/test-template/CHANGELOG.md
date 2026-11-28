@@ -13,14 +13,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 22.1.0 • [Train: incubator]
 
-- feat(helm-deps): update chart common 32.2.1 → 32.8.5 (#55849) • [`35dd7be`](https://github.com/trueforge-org/truecharts/commit/35dd7becc20779cc665d90fd044740faeaf5712f) • [@TrueCharts Bot] (2026-11-24)
 - feat(helm-deps): update chart common 32.2.1 → 32.8.5 (#55850) • [`13a8dd8`](https://github.com/trueforge-org/truecharts/commit/13a8dd8115084afaec436c841d807b0feb8e9414) • [@TrueCharts Bot] (2026-11-24)
+- feat(helm-deps): update chart common 32.2.1 → 32.8.5 (#55849) • [`35dd7be`](https://github.com/trueforge-org/truecharts/commit/35dd7becc20779cc665d90fd044740faeaf5712f) • [@TrueCharts Bot] (2026-11-24)
 
 ## 22.0.2 • [Train: incubator]
 
 - chore(ci): update image oci.trueforge.org/containerforge/whoami digest to 9ed5d0d (#55668) • [`f07e0b4`](https://github.com/trueforge-org/truecharts/commit/f07e0b429b9bf37a06d70191c5edf40c71b38225) • [@TrueCharts Bot] (2026-11-23)
-- Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
 - fix(helm-deps): update chart common 32.2.0 → 32.2.1 (#55607) • [`d6424df`](https://github.com/trueforge-org/truecharts/commit/d6424df87f2418b92cb40c3fafd88067f704be6b) • [@TrueCharts Bot] (2026-11-20)
+- Commit daily changes • [`c496d86`](https://github.com/trueforge-org/truecharts/commit/c496d864aa879f6962ce1c14b9a343c89ef4c4fa) • [@TrueCharts-Bot] (2026-11-20)
 
 ## 22.0.0 • [Train: incubator]
 
