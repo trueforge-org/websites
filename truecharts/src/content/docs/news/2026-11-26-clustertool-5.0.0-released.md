@@ -1,7 +1,7 @@
 ---
 slug: "news/truecharts/clustertool-5.0.0-rollout"
 title: "ClusterTool 5.0.0 is out!"
-authors: [Boemeltrein]
+authors: [boemeltrein]
 date: 2026-11-26
 tags:
   - "2026"
