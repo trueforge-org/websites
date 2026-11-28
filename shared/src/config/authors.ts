@@ -64,7 +64,7 @@ export const authors: Record<string, StarlightBlogAuthor> = {
   },
   boemeltrein: {
     name: "Boemeltrein",
-    title: "TrueCharts Support",
+    title: "TrueCharts Maintainer",
     url: "https://github.com/boemeltrein",
     picture: "https://avatars.githubusercontent.com/u/130394941?v=4",
   },
