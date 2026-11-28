@@ -10,7 +10,7 @@ tags:
 
 # 🚀 ClusterTool 5.0.0 is out!
 
-This is the biggest ClusterTool release yet. We rebuilt large parts of how clusters are generated, bootstrapped and managed. It's simpler, more flexible and no longer tied to GitHub or ingress-nginx.
+This is the biggest ClusterTool release yet. We replaced Talhelper with native Talos configuration and redesigned how clusters are generated, bootstrapped and managed. The release also introduces a single-cluster repository layout, configurable bootstrap and Flux Operator. ClusterTool now supports GitLab and self-hosted Git, and replaces ingress-nginx with Envoy Gateway.
 
 > ⚠️ **This is a breaking release.** There is no automatic migration from 4.x. We recommend bootstrapping a fresh cluster and **backing up all persistent data first**. Please read the breaking changes below before upgrading.
 
