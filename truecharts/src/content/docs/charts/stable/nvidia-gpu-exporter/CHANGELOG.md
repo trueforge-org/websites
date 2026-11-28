@@ -226,8 +226,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.14.17 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 5.14.16 • [Train: stable]
 
@@ -351,8 +351,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.8.0 • [Train: stable]
 
-- chore(helm): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.3.2 → 1.4.0 (#40396) • [`43b0cc4`](https://github.com/trueforge-org/truecharts/commit/43b0cc4fe82f99d491b50b48fdedc0416391384d) • [@TrueCharts Bot] (2025-10-05)
 - Commit daily changes • [`78bf41d`](https://github.com/trueforge-org/truecharts/commit/78bf41d0462bed36561027358c27bc7f303c3462) • [@TrueCharts-Bot] (2025-10-05)
+- chore(helm): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.3.2 → 1.4.0 (#40396) • [`43b0cc4`](https://github.com/trueforge-org/truecharts/commit/43b0cc4fe82f99d491b50b48fdedc0416391384d) • [@TrueCharts Bot] (2025-10-05)
 
 ## 5.7.1 • [Train: stable]
 
