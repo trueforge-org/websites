@@ -62,4 +62,10 @@ export const authors: Record<string, StarlightBlogAuthor> = {
     url: "https://github.com/alfi0812",
     picture: "https://avatars.githubusercontent.com/u/43101280?v=4",
   },
+  boemeltrein: {
+    name: "Boemeltrein",
+    title: "TrueCharts Support",
+    url: "https://github.com/boemeltrein",
+    picture: "https://avatars.githubusercontent.com/u/130394941?v=4",
+  },
 };
