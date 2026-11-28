@@ -2,7 +2,7 @@
 title: ollama
 ---
 
-![Version: 11.0.3](https://img.shields.io/badge/Version-11.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.40.18](https://img.shields.io/badge/AppVersion-0.40.18-informational?style=flat-square)
+![Version: 11.0.5](https://img.shields.io/badge/Version-11.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.40.19](https://img.shields.io/badge/AppVersion-0.40.19-informational?style=flat-square)
 
 Get up and running with large language models locally.
 
